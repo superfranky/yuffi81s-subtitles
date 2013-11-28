@@ -7,15 +7,15 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Export Encoding: Unicode (UTF-8)
-Video Zoom Percent: 1
-Scroll Position: 123
-Active Line: 150
+Video Zoom Percent: 2
+Scroll Position: 56
+Active Line: 61
 PlayResX: 640
 PlayResY: 360
 Audio URI: ..\..\video\Twisted Act 1 Part 2.mp4
 Video File: ..\..\video\Twisted Act 1 Part 2.mp4
 Video Aspect Ratio: c1.77778
-Video Position: 14106
+Video Position: 14320
 Last Style Storage: Default
 YCbCr Matrix: TV.601
 
@@ -30,14 +30,14 @@ Style: Second Slave,Arial,20,16777215,255,0,0,0,0,1,2,2,2,10,10,10,0,1
 
 [Events]
 Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: Marked=0,0:00:04.06,0:00:07.85,Jaffar,,0,0,0,,Alright. It's imperirive that this {\i1}prince{\i0} is ??? a happy one...
+Dialogue: Marked=0,0:00:04.06,0:00:07.85,Jaffar,,0,0,0,,Alright. It's imperative that this {\i1}prince's{\i0} visit is a happy one...
 Dialogue: Marked=0,0:00:07.85,0:00:11.73,Jaffar,,0,0,0,,and who knows? Maybe he and the princess will hit it off.
-Dialogue: Marked=0,0:00:11.73,0:00:13.97,Prince Achmed,,0,0,0,,???
+Dialogue: Marked=0,0:00:11.73,0:00:13.97,Prince Achmed,,0,0,0,,Good luck marrying her off.
 Dialogue: Marked=0,0:00:13.55,0:00:16.98,Jaffar,,0,0,0,,Oh, prince Achmed, your Excellency!
 Dialogue: Marked=0,0:00:16.98,0:00:21.55,Prince Achmed,,0,0,0,,Is this how your kingdom treats it's guests, Jaffar?
 Dialogue: Marked=0,0:00:22.77,0:00:24.45,Prince Achmed,,0,0,0,,Take a look at this!
 Dialogue: Marked=0,0:00:25.95,0:00:30.32,Prince Achmed,,0,0,0,,Tell me! What do you see?
-Dialogue: Marked=0,0:00:30.60,0:00:33.37,Jaffar,,0,0,0,,Your hot boxer-shorts, my liege.
+Dialogue: Marked=0,0:00:30.60,0:00:33.37,Jaffar,,0,0,0,,Your heart boxer-shorts, my liege.
 Dialogue: Marked=0,0:00:34.10,0:00:35.55,Prince Achmed,,0,0,0,,What else?
 Dialogue: Marked=0,0:00:36.45,0:00:39.65,Jaffar,,0,0,0,,Your ass cheeks, my lord.
 Dialogue: Marked=0,0:00:39.82,0:00:41.80,Prince Achmed,,0,0,0,,My ass cheeks...
@@ -48,23 +48,23 @@ Dialogue: Marked=0,0:00:54.02,0:01:00.00,Prince Achmed,,0,0,0,,Blood on my ass c
 Dialogue: Marked=0,0:01:00.90,0:01:03.32,Prince Achmed,,0,0,0,,Tell me, Jaffar:
 Dialogue: Marked=0,0:01:03.32,0:01:06.20,Prince Achmed,,0,0,0,,How the fuck did it get there?!?
 Dialogue: Marked=0,0:01:06.62,0:01:09.07,Jaffar,,0,0,0,,Well, is is because - ah...
-Dialogue: Marked=0,0:01:08.55,0:01:14.35,Prince Achmed,,0,0,0,,It is because your princess just ??? a Bengal tiger upon my ass!
+Dialogue: Marked=0,0:01:08.55,0:01:14.35,Prince Achmed,,0,0,0,,It is because your princess just sicked a Bengal tiger upon my ass!
 Dialogue: Marked=0,0:01:15.37,0:01:18.35,Prince Achmed,,0,0,0,,I am lucky that it is so ??? and small.
 Dialogue: Marked=0,0:01:17.75,0:01:21.82,Jaffar,,0,0,0,,Oh, I am grateful for your tiny ass, my lord.
 Dialogue: Marked=0,0:01:21.60,0:01:25.75,Prince Achmed,,0,0,0,,I can not believe that she thought that she could feed a {\i1}prince{\i0}...
 Dialogue: Marked=0,0:01:25.77,0:01:27.92,Prince Achmed,,0,0,0,,...to a Bengal tiger.
 Dialogue: Marked=0,0:01:27.92,0:01:31.45,Prince Achmed,,0,0,0,,And that there would be no political consequences.
 Dialogue: Marked=0,0:01:31.45,0:01:36.05,Prince Achmed,,0,0,0,,This really is an act of {\i1}war{\i0}, Jaffar!
-Dialogue: Marked=0,0:01:36.05,0:01:39.30,Prince Achmed,,0,0,0,,And she treated it as if it were an throw-away joke.
+Dialogue: Marked=0,0:01:36.05,0:01:39.30,Prince Achmed,,0,0,0,,And she treated it as if it were a throw-away joke.
 Dialogue: Marked=0,0:01:39.30,0:01:45.67,Prince Achmed,,0,0,0,,As if I were some silly side character, here only to illustrate her reluctance to get married.
 Dialogue: Marked=0,0:01:46.92,0:01:52.52,Prince Achmed,,0,0,0,,Well - not only am I the ruler of a sovereign nation, ...
 Dialogue: Marked=0,0:01:53.10,0:01:55.87,Prince Achmed,,0,0,0,,...but I have feelings too.
 Dialogue: Marked=0,0:01:56.12,0:01:58.17,Prince Achmed,,0,0,0,,And people who care about me.
 Dialogue: Marked=0,0:01:57.72,0:02:01.75,Jaffar,,0,0,0,,But you must forgive our princess. She is youthful, but well meaning.
-Dialogue: Marked=0,0:02:02.87,0:02:08.60,Prince Achmed,,0,0,0,,Do not feed me a shit an call it couscous, Jaffar.
+Dialogue: Marked=0,0:02:02.87,0:02:08.60,Prince Achmed,,0,0,0,,Do not feed me a shit and call it couscous, Jaffar.
 Dialogue: Marked=0,0:02:08.60,0:02:15.30,Prince Achmed,,0,0,0,,This is yet another insult, that your kingdom has heaped upon mine!
 Dialogue: Marked=0,0:02:15.75,0:02:19.85,Prince Achmed,,0,0,0,,But you can no longer afford such arrogance.
-Dialogue: Marked=0,0:02:19.95,0:02:25.27,Prince Achmed,,0,0,0,,Consider your kingdom's greatest exports of the last ten years.
+Dialogue: Marked=0,0:02:19.95,0:02:25.27,Prince Achmed,,0,0,0,,Consider your kingdom's greatest exports over the last ten years.
 Dialogue: Marked=0,0:02:25.27,0:02:31.90,Prince Achmed,,0,0,0,,Toys, exotic fish, trash compacting robots and other such incredibles.\N[Toy Story, Finding Nemo, Wall-E, The Incredibles]
 Dialogue: Marked=0,0:02:32.72,0:02:36.57,Prince Achmed,,0,0,0,,All produced not by your kingdom, but by mine.
 Dialogue: Marked=0,0:02:36.57,0:02:39.30,Jaffar,,0,0,0,,Yes, you produce the goods and we distribute them.
@@ -74,7 +74,7 @@ Dialogue: Marked=0,0:02:42.02,0:02:46.05,Prince Achmed,,0,0,0,,Well. perhaps we 
 Dialogue: Marked=0,0:02:46.27,0:02:49.70,Prince Achmed,,0,0,0,,I had considered extending our alliance.
 Dialogue: Marked=0,0:02:49.92,0:02:53.52,Prince Achmed,,0,0,0,,But now, because of your princess...
 Dialogue: Marked=0,0:02:53.52,0:02:55.95,Prince Achmed,,0,0,0,,...that is completely out of the question.
-Dialogue: Marked=0,0:02:55.95,0:03:00.55,Prince Achmed,,0,0,0,,The next time I will return to this so called magic kingdom...
+Dialogue: Marked=0,0:02:55.95,0:03:00.55,Prince Achmed,,0,0,0,,The next time that I will return to this so called magic kingdom...
 Dialogue: Marked=0,0:03:00.55,0:03:04.30,Prince Achmed,,0,0,0,,It will not be with a lanyard, ...
 Dialogue: Marked=0,0:03:04.30,0:03:08.07,Prince Achmed,,0,0,0,,...or a two day park hopping pass.
 Dialogue: Marked=0,0:03:08.07,0:03:12.90,Prince Achmed,,0,0,0,,...but with an army, Jaffar!
@@ -88,10 +88,10 @@ Dialogue: Marked=0,0:03:32.42,0:03:34.90,Jasmin,,0,0,0,,No! {\i1}I{\i0} set them
 Dialogue: Marked=0,0:03:34.90,0:03:37.50,Jaffar,,0,0,0,,But those birds were imported from a foreign land.
 Dialogue: Marked=0,0:03:37.50,0:03:40.92,Jaffar,,0,0,0,,They can't survive here. The hawks will have them within the hour.
 Dialogue: Marked=0,0:03:40.92,0:03:44.60,Jasmin,,0,0,0,,Well, an hour free is better than a life time in a cage.
-Dialogue: Marked=0,0:03:44.60,0:03:49.35,Jasmin,,0,0,0,,Being fed, ??? pampered and cleaned after.
+Dialogue: Marked=0,0:03:44.60,0:03:49.35,Jasmin,,0,0,0,,Being fed and pampered and cleaned up after.
 Dialogue: Marked=0,0:03:49.35,0:03:51.52,Jasmin,,0,0,0,,What kind of a life is that?
 Dialogue: Marked=0,0:03:51.52,0:03:55.55,Jaffar,,0,0,0,,Princess, when are going to learn that your actions have consequences?
-Dialogue: Marked=0,0:03:55.55,0:03:59.92,Jaffar,,0,0,0,,That prince you just ??? the tiger on has threatened our kingdom with war!
+Dialogue: Marked=0,0:03:55.55,0:03:59.92,Jaffar,,0,0,0,,That prince you just sicked a tiger on has threatened our kingdom with war!
 Dialogue: Marked=0,0:03:59.92,0:04:04.27,Jasmin,,0,0,0,,Oh, it's not a big deal. He was such a joke!
 Dialogue: Marked=0,0:04:04.27,0:04:07.65,Jasmin,,0,0,0,,Just like every other swaggering peacock I've met.
 Dialogue: Marked=0,0:04:07.65,0:04:11.75,Jaffar,,0,0,0,,But not all of your suitors have deserved a tiger set upon them.
