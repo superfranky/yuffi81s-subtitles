@@ -8,13 +8,9 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 254
-Active Line: 264
-Video Zoom Percent: 1.75
-Video File: ..\..\video\Twisted Act 1 Part 1.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 22852
-Audio URI: ..\..\video\Twisted Act 1 Part 1.mp4
+Scroll Position: 226
+Active Line: 270
+Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 
 [V4+ Styles]
@@ -29,7 +25,7 @@ Dialogue: 0,0:00:08.27,0:00:11.87,Default,,0,0,0,,that prospered through it's co
 Dialogue: 0,0:00:12.00,0:00:13.87,Default,,0,0,0,,Duty and Devotion
 Dialogue: 0,0:00:14.48,0:00:15.96,Default,,0,0,0,,The two Ds.
 Dialogue: 0,0:00:16.92,0:00:22.60,Default,,0,0,0,,For many years the kingdom stood as a shining beacon for artisans, craftsmen and storytellers
-Dialogue: 0,0:00:22.60,0:00:27.53,Default,,0,0,0,,who all ...[???]... to the land with the dream to uphold the sacred two Ds.
+Dialogue: 0,0:00:22.60,0:00:27.53,Default,,0,0,0,,who all flocked to the land with the dream to uphold the sacred two Ds.
 Dialogue: 0,0:00:27.53,0:00:31.74,Default,,0,0,0,,Through their hard work a glorious golden age came to the kingdom,
 Dialogue: 0,0:00:32.16,0:00:34.75,Default,,0,0,0,,Followed by a second, even greater than the first.
 Dialogue: 0,0:00:36.16,0:00:38.89,Default,,0,0,0,,Then came the dark times.
@@ -70,7 +66,7 @@ Dialogue: 0,0:02:34.30,0:02:36.00,Default,,0,0,0,,Mine too! Mine too! Mine too!
 Dialogue: 0,0:02:36.00,0:02:39.16,Default,,0,0,0,,The answer here \Nis crystal clear:
 Dialogue: 0,0:02:39.43,0:02:42.00,Default,,0,0,0,,Jaffar, that ugly old Visier!
 Dialogue: 0,0:02:42.00,0:02:42.86,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:02:42.86,0:02:46.40,Default,,0,0,0,,He's the reason for our many ...[??]... (wants?)
+Dialogue: 0,0:02:42.86,0:02:46.40,Default,,0,0,0,,He's the reason for our many woes
 Dialogue: 0,0:02:47.63,0:02:53.06,Default,,0,0,0,,Though we're upset\NWe shouldn't fret
 Dialogue: 0,0:02:53.26,0:02:59.10,Default,,0,0,0,,We mustn't let ourselves forget
 Dialogue: 0,0:02:59.10,0:03:04.76,Default,,0,0,0,,the saying ever child raised within the kingdom knows
@@ -88,7 +84,7 @@ Dialogue: 0,0:03:34.83,0:03:39.60,Default,,0,0,0,,The story of a misunderstood w
 Dialogue: 0,0:03:39.80,0:03:43.00,Default,,0,0,0,,But she still gets blamed for all the kingdom's problems.
 Dialogue: 0,0:03:43.00,0:03:46.13,Default,,0,0,0,,Oh, so you think you're better than me just 'cause you can read?
 Dialogue: 0,0:03:46.13,0:03:47.73,Default,,0,0,0,,Well, get out of my bookstore!
-Dialogue: 0,0:03:47.73,0:03:49.66,Default,,0,0,0,,We don't like your kind in here ...[???]...(anyway?)
+Dialogue: 0,0:03:47.73,0:03:49.66,Default,,0,0,0,,We don't like your kind in here anyway!
 Dialogue: 0,0:03:49.66,0:03:50.70,Default,,0,0,0,,What about the book?
 Dialogue: 0,0:03:50.93,0:03:53.63,Default,,0,0,0,,Keep it. And may the rats ejaculate upon you!
 Dialogue: 0,0:03:53.63,0:03:54.83,Default,,0,0,0,,Thank  you!
@@ -111,10 +107,10 @@ Dialogue: 0,0:04:46.90,0:04:48.73,Default,,0,0,0,,you'll get what you desire.
 Dialogue: 0,0:04:48.73,0:04:51.83,Default,,0,0,0,,Dream a little harder, when things are looking dire.
 Dialogue: 0,0:04:51.93,0:04:55.90,Default,,0,0,0,,If you dream a little harder, success is guaranteed!
 Dialogue: 0,0:04:55.90,0:04:59.60,Default,,0,0,0,,If you are sure of your intension,\Nsome magic intervention
-Dialogue: 0,0:04:59.60,0:05:03.40,Default,,0,0,0,,We'll give you the ...[???]...(expect?) you need!
+Dialogue: 0,0:04:59.60,0:05:03.40,Default,,0,0,0,,We'll give you the extract you need!
 Dialogue: 0,0:05:06.00,0:05:07.96,Default,,0,0,0,,Oh! Pardon me, Ma'am!
 Dialogue: 0,0:05:07.96,0:05:11.83,Default,,0,0,0,,Oh, that's alright, just try to keep your fat face out of that motherfucking book.
-Dialogue: 0,0:05:13.10,0:05:19.63,Default,,0,0,0,,I know, that I'm no ...[???]... \NI'm m not so easy on the eyes
+Dialogue: 0,0:05:13.10,0:05:19.63,Default,,0,0,0,,I know, that I'm no prize \NI'm m not so easy on the eyes
 Dialogue: 0,0:05:19.93,0:05:25.96,Default,,0,0,0,,I can't rely on looks to get me by.
 Dialogue: 0,0:05:26.56,0:05:30.10,Default,,0,0,0,,But ugliness permits\Na man to use his wits
 Dialogue: 0,0:05:30.10,0:05:32.90,Default,,0,0,0,,'Cause pretty people never have to try.
@@ -132,17 +128,17 @@ Dialogue: 0,0:06:02.00,0:06:03.86,Default,,0,0,0,,That's unrealistic!
 Dialogue: 0,0:06:03.66,0:06:05.86,Default,,0,0,0,,I want to be a cat!
 Dialogue: 0,0:06:03.53,0:06:06.23,Default,,0,0,0,,Think a little louder!
 Dialogue: 0,0:06:06.20,0:06:07.10,Default,,0,0,0,,-What?\N-Fuck you!
-Dialogue: 0,0:06:07.10,0:06:15.26,Default,,0,0,0,,Whistle while you swallow a spoon full of sugar and your dreams will come true upon a star!\N[okay: reference to: Disney's: 'Mary Poppins' and 'Peter Pan'. Didn't get te first one, but it's surely a reference too...]
+Dialogue: 0,0:06:07.10,0:06:15.26,Default,,0,0,0,,Whistle while you swallow a spoon full of sugar and your dreams will come true upon a star!\N[okay: reference to: Disney's: 'Snow White' 'Mary Poppins' and 'Peter Pan'.]
 Dialogue: 0,0:06:15.26,0:06:17.60,Default,,0,0,0,,Dream hard enough, my friends!
 Dialogue: 0,0:06:17.60,0:06:21.20,Default,,0,0,0,,Jaffar will meet a violent end.
 Dialogue: 0,0:06:21.20,0:06:23.83,Default,,0,0,0,,He could be ...[???]... by a sailing ship.
 Dialogue: 0,0:06:23.83,0:06:25.63,Default,,0,0,0,,Or hanged in tangled jungle vines!
 Dialogue: 0,0:06:25.63,0:06:27.16,Default,,0,0,0,,Or eaten by hyenas!
-Dialogue: 0,0:06:27.16,0:06:29.80,Default,,0,0,0,,Or ...[???]... until his death from a ...[???]...!
-Dialogue: 0,0:06:29.80,0:06:30.40,Default,,0,0,0,,...[???]...!
+Dialogue: 0,0:06:27.16,0:06:29.80,Default,,0,0,0,,Or he'll plummet until his death from a castle!
+Dialogue: 0,0:06:29.80,0:06:30.40,Default,,0,0,0,,A clock!
 Dialogue: 0,0:06:30.40,0:06:31.26,Default,,0,0,0,,Or a cliff!
 Dialogue: 0,0:06:31.83,0:06:38.13,Default,,0,0,0,,And if we dream a little harder...
-Dialogue: 0,0:06:38.13,0:06:43.40,Default,,0,0,0,,Our impatience and ...[???]...
+Dialogue: 0,0:06:38.13,0:06:43.40,Default,,0,0,0,,Our impatience and honor
 Dialogue: 0,0:06:43.40,0:06:54.33,Default,,0,0,0,,Will rid us of that ugly old Jaffar!
 Dialogue: 0,0:06:58.00,0:07:00.90,Default,,0,0,0,,Wonderful! That was wonderful! Thank you!
 Dialogue: 0,0:07:09.93,0:07:13.80,Default,,0,0,0,,Bird, sometimes I feel as if you are my only friend in this world.
@@ -189,7 +185,7 @@ Dialogue: 0,0:09:37.76,0:09:39.66,Default,,0,0,0,,Another suitor for the princes
 Dialogue: 0,0:09:39.66,0:09:44.30,Default,,0,0,0,,No, if only, captain! He's here because the trade agreement between his kingdom and ours has expired
 Dialogue: 0,0:09:44.30,0:09:48.03,Default,,0,0,0,,and I've got to extend the contract or our kingdom is doomed.
 Dialogue: 0,0:09:48.40,0:09:53.16,Default,,0,0,0,,That's why I've pulled out all the stops to make this prince's visit a happy one.
-Dialogue: 0,0:09:53.30,0:09:56.10,Default,,0,0,0,,We've arranged a ...[???]... breakfast with our princess
+Dialogue: 0,0:09:53.30,0:09:56.10,Default,,0,0,0,,We've arranged a character breakfast with our princess
 Dialogue: 0,0:09:56.10,0:09:57.96,Default,,0,0,0,,giving him a two day park hopper pass
 Dialogue: 0,0:09:57.96,0:10:01.06,Default,,0,0,0,,and a lanyard for souvenir pin collecting.
 Dialogue: 0,0:10:01.23,0:10:05.03,Default,,0,0,0,,Everyone must treat this prince with the utmost respect.
@@ -238,7 +234,7 @@ Dialogue: 0,0:12:34.86,0:12:35.96,Default,,0,0,0,,You want some bread?
 Dialogue: 0,0:12:35.96,0:12:37.50,Default,,0,0,0,,We do, sir!
 Dialogue: 0,0:12:38.13,0:12:39.63,Default,,0,0,0,,Fetch, you fucks!
 Dialogue: 0,0:12:40.13,0:12:44.00,Default,,0,0,0,,For real, I'm not that picky\NI'll steal whatever's in sight.
-Dialogue: 0,0:12:44.96,0:12:47.76,Default,,0,0,0,,Don't judge,'cause you don't understand ...[???]...
+Dialogue: 0,0:12:44.96,0:12:47.76,Default,,0,0,0,,Don't judge,'cause you don't understand my plight.
 Dialogue: 0,0:12:47.76,0:12:49.16,Default,,0,0,0,,Hey, my crutch!
 Dialogue: 0,0:12:49.16,0:12:51.43,Default,,0,0,0,,Nah, nah, loser! I steal everything.
 Dialogue: 0,0:12:52.36,0:12:53.43,Default,,0,0,0,,Bread!
@@ -258,7 +254,7 @@ Dialogue: 0,0:13:29.06,0:13:33.20,Default,,0,0,0,,You're the best! I'm gonna tel
 Dialogue: 0,0:13:33.43,0:13:34.46,Default,,0,0,0,,But you owe me one!
 Dialogue: 0,0:13:35.53,0:13:37.80,Default,,0,0,0,,Did you know this barbaric country?
 Dialogue: 0,0:13:38.03,0:13:39.90,Default,,0,0,0,,They'll only give you money if you work.
-Dialogue: 0,0:13:40.46,0:13:47.63,Default,,0,0,0,,Thanks, but no thanks - the man.\NI'll keep steeling all I can\Ninstead of being a ...[???]... yuppi jerk!
+Dialogue: 0,0:13:40.46,0:13:47.63,Default,,0,0,0,,Thanks, but no thanks - the man.\NI'll keep steeling all I can\Ninstead of being a fashist yuppi jerk!
 Dialogue: 0,0:13:49.33,0:13:54.03,Default,,0,0,0,,Hippie! Fucker! Slacker! Sucker!
 Dialogue: 0,0:13:54.03,0:14:02.30,Default,,0,0,0,,Who would seek employments,\Nwhen life offers her enjoyments?
 Dialogue: 0,0:14:02.83,0:14:04.93,Default,,0,0,0,,Anything I get I can get for free
@@ -281,17 +277,16 @@ Dialogue: 0,0:14:47.96,0:14:49.43,Default,,0,0,0,,I want it to be for love!
 Dialogue: 0,0:14:50.46,0:14:51.43,Default,,0,0,0,,Oh, Aladdin!
 Dialogue: 0,0:14:52.16,0:14:53.43,Default,,0,0,0,,I understand.
 Dialogue: 0,0:14:53.93,0:14:54.86,Default,,0,0,0,,I knew you would.
-Dialogue: 0,0:14:55.33,0:14:57.16,Default,,0,0,0,,You're such a special girl, Jesabell.
-Dialogue: 0,0:14:57.90,0:14:59.63,Default,,0,0,0,,Who's Jesabell?!?
+Dialogue: 0,0:14:55.33,0:14:57.16,Default,,0,0,0,,You're such a special girl, Jezebel.
+Dialogue: 0,0:14:57.90,0:14:59.63,Default,,0,0,0,,Who's Jezebel?!?
 Dialogue: 0,0:14:59.63,0:15:01.43,Default,,0,0,0,,Oh-oh! Busted!
 Dialogue: 0,0:15:01.43,0:15:02.43,Default,,0,0,0,,Yoink!
 Dialogue: 0,0:15:02.43,0:15:07.03,Default,,0,0,0,,Asshole! Oh, wow! Douchebag! Hey now!
 Dialogue: 0,0:15:07.03,0:15:10.70,Default,,0,0,0,,Just one question: Why, man?
 Dialogue: 0,0:15:10.70,0:15:15.46,Default,,0,0,0,,'Cause you stole my daughters ...[???]...
-Dialogue: 0,0:15:16.00,0:15:19.83,Default,,0,0,0,,That's completely fair, but in my defense: Dude, your daughter's hot!
+Dialogue: 0,0:15:16.00,0:15:19.83,Default,,0,0,0,,That's completely fair, but in my defence: Dude, your daughter's hot!
 Dialogue: 0,0:15:19.83,0:15:20.60,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:15:21.53,0:15:25.43,Default,,0,0,0,,I feel that it's my duty\Nto steal, 'cause stealing's an art
 Dialogue: 0,0:15:25.43,0:15:30.76,Default,,0,0,0,,I'll steal clothing and shelter, whatever I lack\Ncandy from babies, the shirt off your back!
-Dialogue: 0,0:15:30.76,0:15:35.33,Default,,0,0,0,,Credit identities, thunder and ...[???]...\Nand ...[???]... property, whatever that means.
-Dialogue: 0,0:15:35.33,0:15:46.13,Default,,0,0,0,,And if you'll look closer ...[???]... will steal your heart!
-Dialogue: 0,0:15:46.13,0:15:52.83,Default,,0,0,0,,
+Dialogue: 0,0:15:30.76,0:15:35.33,Default,,0,0,0,,Credit identities, thunder and seams.\Nand intellectual property, whatever that means.
+Dialogue: 0,0:15:35.33,0:15:46.13,Default,,0,0,0,,And if you'll look closer this poor little orphan will steal your heart!
