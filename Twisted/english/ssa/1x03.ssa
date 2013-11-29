@@ -8,11 +8,11 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Audio URI: ..\..\..\Twisted Act 1 Part 3.mp4
-Scroll Position: 158
-Active Line: 161
-Video Zoom Percent: 1.125
-Video File: ..\..\..\Twisted Act 1 Part 3.mp4
+Audio URI: ..\..\video\Twisted Act 1 Part 3.mp4
+Scroll Position: 198
+Active Line: 204
+Video Zoom Percent: 1.75
+Video File: ..\..\video\Twisted Act 1 Part 3.mp4
 Video Aspect Ratio: c1.77778
 Video Position: 14633
 Export Encoding: Unicode (UTF-8)
@@ -59,6 +59,7 @@ Dialogue: Marked=0,0:01:43.69,0:01:44.38,Default,,0,0,0,,Wait.
 Dialogue: Marked=0,0:01:45.90,0:01:47.08,Default,,0,0,0,,It can't be.
 Dialogue: Marked=0,0:01:48.09,0:01:49.12,Default,,0,0,0,,The necklace!
 Dialogue: Marked=0,0:01:50.44,0:01:52.70,Default,,0,0,0,,I haven't seen this in years!
+Comment: Marked=0,0:01:58.00,0:02:00.86,Default,,0,0,0,,Start of song
 Dialogue: Marked=0,0:01:58.00,0:02:00.86,Default,,0,0,0,,Sands of time
 Dialogue: Marked=0,0:02:01.48,0:02:04.40,Default,,0,0,0,,Take me back
 Dialogue: Marked=0,0:02:05.15,0:02:08.27,Default,,0,0,0,,Before it all went wrong
@@ -67,7 +68,8 @@ Dialogue: Marked=0,0:02:11.79,0:02:16.56,Default,,0,0,0,,and tomorrow shone as b
 Dialogue: Marked=0,0:02:18.06,0:02:23.23,Default,,0,0,0,,Teach me to undo what's done
 Dialogue: Marked=0,0:02:23.58,0:02:26.43,Default,,0,0,0,,sands of time
 Dialogue: Marked=0,0:02:27.44,0:02:32.24,Default,,0,0,0,,take me back
-Dialogue: Marked=0,0:02:36.08,0:02:41.40,Default,,0,0,0,,...[???]... And pistachios!
+Comment: Marked=0,0:02:36.08,0:02:41.40,Default,,0,0,0,,End of song
+Dialogue: Marked=0,0:02:36.08,0:02:41.40,Default,,0,0,0,,...[???]... and pistachios!
 Dialogue: Marked=0,0:02:42.32,0:02:43.36,Default,,0,0,0,,Salam, friends!
 Dialogue: Marked=0,0:02:43.36,0:02:45.92,Default,,0,0,0,,And praise Allah for this blessed day!
 Dialogue: Marked=0,0:02:45.66,0:02:47.39,Default,,0,0,0,,Salam, Jaffar!
@@ -80,11 +82,12 @@ Dialogue: Marked=0,0:02:59.50,0:03:00.17,Default,,0,0,0,,I'm sure of it!
 Dialogue: Marked=0,0:03:00.03,0:03:04.28,Default,,0,0,0,,Oh,no, no. ...[???]... I'm sure the higher ups in the palace should doing their very best.
 Dialogue: Marked=0,0:03:04.28,0:03:08.65,Default,,0,0,0,,They just need someone with strong resolve to keep them on that straight and narrow...
 Dialogue: Marked=0,0:03:08.73,0:03:11.26,Default,,0,0,0,,I suppose you're right, Jaffar. But how do you do it?
-Dialogue: Marked=0,0:03:11.42,0:03:14.08,Default,,0,0,0,,How is it that you are so good to  everyone in need?
+Dialogue: Marked=0,0:03:11.42,0:03:14.08,Default,,0,0,0,,How is it that you are so good to everyone in need?
 Dialogue: Marked=0,0:03:14.08,0:03:16.75,Default,,0,0,0,,My secret is simple, really anybody could do it:
 Dialogue: Marked=0,0:03:17.00,0:03:19.34,Default,,0,0,0,,I just follow the golden rule!
 Dialogue: Marked=0,0:03:19.48,0:03:21.60,Default,,0,0,0,,And what rule is that, Jaffar?
 Dialogue: Marked=0,0:03:22.16,0:03:24.73,Default,,0,0,0,,Why, it's as easy as one, two, three, four:
+Comment: Marked=0,0:03:24.73,0:03:26.73,Default,,0,0,0,,Start of song
 Dialogue: Marked=0,0:03:24.73,0:03:26.73,Default,,0,0,0,,Follow the golden rule
 Dialogue: Marked=0,0:03:27.12,0:03:30.11,Default,,0,0,0,,For life's a two way street
 Dialogue: Marked=0,0:03:30.32,0:03:33.23,Default,,0,0,0,,Keep that in mind\Nand you'll be kind
@@ -101,7 +104,7 @@ Dialogue: Marked=0,0:04:01.34,0:04:03.55,Default,,0,0,0,,Follow the golden rule
 Dialogue: Marked=0,0:04:03.71,0:04:06.12,Default,,0,0,0,,that's how I chose to live
 Dialogue: Marked=0,0:04:06.32,0:04:06.76,Default,,0,0,0,,Wow!
 Dialogue: Marked=0,0:04:06.76,0:04:12.01,Default,,0,0,0,,simple reciprocity\Nis always my philosophy
-Dialogue: Marked=0,0:04:12.22,0:04:16.41,Default,,0,0,0,,I get that what I give
+Dialogue: Marked=0,0:04:12.22,0:04:16.41,Default,,0,0,0,,I get back what I give
 Dialogue: Marked=0,0:04:15.84,0:04:16.91,Default,,0,0,0,,Stop, thief!
 Dialogue: Marked=0,0:04:16.88,0:04:18.41,Default,,0,0,0,,But sir, I'm starving!
 Dialogue: Marked=0,0:04:18.41,0:04:21.00,Default,,0,0,0,,Do you know what the penalty is for stealing?
@@ -166,6 +169,7 @@ Dialogue: Marked=0,0:06:23.63,0:06:24.91,Default,,0,0,0,,I get what I give
 Dialogue: Marked=0,0:06:24.59,0:06:25.95,Default,,0,0,0,,Follow the golden-
 Dialogue: Marked=0,0:06:25.95,0:06:27.31,Default,,0,0,0,,Follow the golden-
 Dialogue: Marked=0,0:06:27.31,0:06:32.67,Default,,0,0,0,,Follow the gol-den-
+Comment: Marked=0,0:06:27.31,0:06:32.67,Default,,0,0,0,,End of song
 Dialogue: Marked=0,0:06:33.95,0:06:34.36,Default,,0,0,0,,Oh!
 Dialogue: Marked=0,0:06:34.91,0:06:35.44,Default,,0,0,0,,Oh!
 Dialogue: Marked=0,0:06:35.44,0:06:36.86,Default,,0,0,0,,Excuse me, sir!
@@ -199,11 +203,12 @@ Dialogue: Marked=0,0:08:13.71,0:08:16.97,Default,,0,0,0,,We have our own golden 
 Dialogue: Marked=0,0:08:18.20,0:08:22.96,Default,,0,0,0,,Whoever has the gold makes the rules.
 Dialogue: Marked=0,0:08:22.96,0:08:23.47,Default,,0,0,0,,What?
 Dialogue: Marked=0,0:08:23.47,0:08:25.63,Default,,0,0,0,,I follow the golden rule
+Comment: Marked=0,0:08:23.47,0:08:25.63,Default,,0,0,0,,Start of song
 Dialogue: Marked=0,0:08:26.20,0:08:28.68,Default,,0,0,0,,How can a man resist
 Dialogue: Marked=0,0:08:29.18,0:08:32.27,Default,,0,0,0,,When the gold in his hand\Nlet's him rule the land
 Dialogue: Marked=0,0:08:32.33,0:08:34.28,Default,,0,0,0,,With an iron fist
 Dialogue: Marked=0,0:08:34.97,0:08:37.44,Default,,0,0,0,,I follow the golden rule
-Dialogue: Marked=0,0:08:38.30,0:08:40.89,Default,,0,0,0,,it's ...[???]...
+Dialogue: Marked=0,0:08:38.30,0:08:40.89,Default,,0,0,0,,it's either them or me
 Dialogue: Marked=0,0:08:40.89,0:08:43.50,Default,,0,0,0,,The gold that my neighbor\Nearned for his labor
 Dialogue: Marked=0,0:08:43.50,0:08:47.80,Default,,0,0,0,,is gold I'll never see
 Dialogue: Marked=0,0:08:48.40,0:08:51.55,Default,,0,0,0,,Who has the gold makes all the rules
@@ -223,6 +228,7 @@ Dialogue: Marked=0,0:09:17.69,0:09:20.27,Default,,0,0,0,,and rule!
 Dialogue: Marked=0,0:09:20.33,0:09:23.18,Default,,0,0,0,,and rule!
 Dialogue: Marked=0,0:09:23.18,0:09:28.43,Default,,0,0,0,,and rule!
 Dialogue: Marked=0,0:09:28.43,0:09:30.01,Default,,0,0,0,,And rule!
+Comment: Marked=0,0:09:28.43,0:09:30.01,Default,,0,0,0,,End of song
 Dialogue: Marked=0,0:09:38.36,0:09:39.37,Default,,0,0,0,,So,
 Dialogue: Marked=0,0:09:40.04,0:09:42.28,Default,,0,0,0,,just keep your mouth shut.
 Dialogue: Marked=0,0:09:42.96,0:09:45.29,Default,,0,0,0,,And your palm open.
