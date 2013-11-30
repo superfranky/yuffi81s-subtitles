@@ -8,14 +8,10 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 159
-Active Line: 164
+Scroll Position: 18
+Active Line: 56
 Video Zoom Percent: 1
 Export Encoding: Local
-Audio URI: ..\..\..\..\Twisted Act 1 Part 3.mp4
-Video File: ..\..\..\..\Twisted Act 1 Part 3.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 14633
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -29,8 +25,8 @@ Dialogue: Marked=0,0:00:10.04,0:00:10.84,Default,,0,0,0,,Team?
 Dialogue: Marked=0,0:00:11.86,0:00:13.51,Default,,0,0,0,,Hallo?
 Dialogue: Marked=0,0:00:14.66,0:00:15.51,Default,,0,0,0,,Hey, Jaffar.
 Dialogue: Marked=0,0:00:15.73,0:00:17.84,Default,,0,0,0,,Oh! Kapitän, wo ist mein Team?
-Dialogue: Marked=0,0:00:17.84,0:00:20.04,Default,,0,0,0,,Meine Hilfsvisiere? Meine Denkfabrik?
-Dialogue: Marked=0,0:00:20.04,0:00:22.16,Default,,0,0,0,,Der/Die/das ...[???]... Hingabe an Arbeit und Aufopferung?
+Dialogue: Marked=0,0:00:17.84,0:00:20.04,Default,,0,0,0,,Meine Hilfsvisiere? Meine Denkfabrik...
+Dialogue: Marked=0,0:00:20.04,0:00:22.16,Default,,0,0,0,,...die meine Hingabe an Arbeit und Aufopferung teilt?
 Dialogue: Marked=0,0:00:22.16,0:00:24.38,Default,,0,0,0,,Wird meine ganze zwei A Abteilung vermisst?
 Dialogue: Marked=0,0:00:24.72,0:00:26.59,Default,,0,0,0,,Oh. Du hast nicht davon gehört...
 Dialogue: Marked=0,0:00:26.59,0:00:27.39,Default,,0,0,0,,Was gehört?
@@ -69,7 +65,7 @@ Dialogue: Marked=0,0:02:18.06,0:02:23.23,Default,,0,0,0,,Lehre mich, das ungesch
 Dialogue: Marked=0,0:02:23.58,0:02:26.43,Default,,0,0,0,,Sand der Zeit
 Dialogue: Marked=0,0:02:27.44,0:02:32.24,Default,,0,0,0,,bring mich zurück
 Comment: Marked=0,0:02:36.08,0:02:41.40,Default,,0,0,0,,End of song
-Dialogue: Marked=0,0:02:36.08,0:02:41.40,Default,,0,0,0,,...[???]... und Pistazien!
+Dialogue: Marked=0,0:02:36.08,0:02:41.40,Default,,0,0,0,,Gezuckerte Datteln. Gezuckerte Datteln und Feigen. Gezuckerte Datteln und Pistazien!
 Dialogue: Marked=0,0:02:42.32,0:02:43.36,Default,,0,0,0,,Salam, Freunde!
 Dialogue: Marked=0,0:02:43.36,0:02:45.92,Default,,0,0,0,,Und preiset Allah für diesen gesegneten Tag!
 Dialogue: Marked=0,0:02:45.66,0:02:47.39,Default,,0,0,0,,Salam, Jaffar!
@@ -79,7 +75,7 @@ Dialogue: Marked=0,0:02:51.00,0:02:54.84,Default,,0,0,0,,Der Tag, an dem der Pal
 Dialogue: Marked=0,0:02:55.08,0:02:57.24,Default,,0,0,0,,Hilfsvisier des Sultans.
 Dialogue: Marked=0,0:02:57.44,0:02:59.50,Default,,0,0,0,,Na, du wirst diese krummen Politikern schon gradebiegen!
 Dialogue: Marked=0,0:02:59.50,0:03:00.17,Default,,0,0,0,,Da bin ich sicher!
-Dialogue: Marked=0,0:03:00.03,0:03:04.28,Default,,0,0,0,,Oh, nein, nein. ...[???]... Ich bin sicher, die hohen Tiere im Palast sollten ihr bestes tun.
+Dialogue: Marked=0,0:03:00.03,0:03:04.28,Default,,0,0,0,,Oh, nun mal langsam. ...[???]... Ich bin sicher, die hohen Tiere im Palast sollten ihr bestes tun.
 Dialogue: Marked=0,0:03:04.28,0:03:08.65,Default,,0,0,0,,Sie brauchen nur jemanden mit starker Entschlossenheit um sie auf dem Pfad der Tugend zu halten...
 Dialogue: Marked=0,0:03:08.73,0:03:11.26,Default,,0,0,0,,Ich schätze du hast recht, Jaffar. Aber wie machst du das?
 Dialogue: Marked=0,0:03:11.42,0:03:14.08,Default,,0,0,0,,Wie kommt es, dass du so gut bist zu jedem der es braucht?
