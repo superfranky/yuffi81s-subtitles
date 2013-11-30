@@ -1,0 +1,140 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Audio URI: ..\..\..\Twisted Act 1 Part 5.mp4
+Video Zoom Percent: 0.5
+Scroll Position: 108
+Active Line: 115
+Video File: ..\..\..\Twisted Act 1 Part 5.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 10238
+Export Encoding: Local
+YCbCr Matrix: TV.601
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Arial,20,16777215,255,0,0,0,0,1,2,2,2,10,10,10,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:02.64,0:00:05.72,Default,,0,0,0,,Behold!
+Dialogue: Marked=0,0:00:06.14,0:00:08.89,Default,,0,0,0,,Behold!
+Dialogue: Marked=0,0:00:09.13,0:00:11.96,Default,,0,0,0,,Behold!
+Dialogue: Marked=0,0:00:12.40,0:00:15.92,Default,,0,0,0,,The representative of Allah
+Dialogue: Marked=0,0:00:16.51,0:00:17.37,Default,,0,0,0,,on earth!
+Dialogue: Marked=0,0:00:18.40,0:00:21.24,Default,,0,0,0,,Father of the country!
+Dialogue: Marked=0,0:00:22.09,0:00:25.04,Default,,0,0,0,,Shepherd of the people!
+Dialogue: Marked=0,0:00:25.58,0:00:28.59,Default,,0,0,0,,Sovereign of the land!
+Dialogue: Marked=0,0:00:29.10,0:00:32.83,Default,,0,0,0,,He of the two ladies [Ist that right?]
+Dialogue: Marked=0,0:00:33.32,0:00:35.45,Default,,0,0,0,,Behold!
+Dialogue: Marked=0,0:00:35.68,0:00:38.33,Default,,0,0,0,,The son of Osiris
+Dialogue: Marked=0,0:00:39.10,0:00:41.18,Default,,0,0,0,,and ...[???]...!
+Dialogue: Marked=0,0:00:41.63,0:00:44.57,Default,,0,0,0,,The divine ruler!
+Dialogue: Marked=0,0:00:44.89,0:00:47.45,Default,,0,0,0,,Behold!
+Dialogue: Marked=0,0:00:47.87,0:00:49.45,Default,,0,0,0,,The royal
+Dialogue: Marked=0,0:00:50.08,0:00:51.45,Default,,0,0,0,,sultan!
+Dialogue: Marked=0,0:01:02.89,0:01:05.69,Default,,0,0,0,,The shoes of the savior's of gold ...[???]...!
+Dialogue: Marked=0,0:01:06.24,0:01:08.01,Default,,0,0,0,,I never thought I'd see this day!
+Dialogue: Marked=0,0:01:08.35,0:01:09.76,Default,,0,0,0,,What do you think he'll say to us?
+Dialogue: Marked=0,0:01:10.12,0:01:11.61,Default,,0,0,0,,What wisdom will he impart?
+Dialogue: Marked=0,0:01:11.61,0:01:12.78,Default,,0,0,0,,Silence!
+Dialogue: Marked=0,0:01:17.32,0:01:20.35,Default,,0,0,0,,The sultan shall now speak in his...
+Dialogue: Marked=0,0:01:21.12,0:01:23.42,Default,,0,0,0,,holy voice.
+Dialogue: Marked=0,0:01:26.20,0:01:26.97,Default,,0,0,0,,[caughs]
+Dialogue: Marked=0,0:01:30.32,0:01:31.32,Default,,0,0,0,,Many years ago...\N[stops because the audience is laughing about his meager voice]
+Dialogue: Marked=0,0:01:35.55,0:01:38.73,Default,,0,0,0,,I - took - my - finger
+Dialogue: Marked=0,0:01:41.69,0:01:43.00,Default,,0,0,0,,And I pushed in my penis.
+Dialogue: Marked=0,0:01:59.08,0:02:01.44,Default,,0,0,0,,And it hasn't come out since.
+Dialogue: Marked=0,0:02:11.36,0:02:12.76,Default,,0,0,0,,...[???]...  (I will now hear from the court?)
+Dialogue: Marked=0,0:02:16.56,0:02:21.96,Default,,0,0,0,,A very wise and ...[???]... tale, my lord! 
+Dialogue: Marked=0,0:02:22.25,0:02:26.11,Default,,0,0,0,,We can all learn a lesson from it... I expect...
+Dialogue: Marked=0,0:02:26.91,0:02:29.18,Default,,0,0,0,,Hmmmm, where's my opium?
+Dialogue: Marked=0,0:02:30.72,0:02:33.85,Default,,0,0,0,,I must have wine, sweetmeat and cheeses.
+Dialogue: Marked=0,0:02:33.93,0:02:35.29,Default,,0,0,0,,At once, my lord!
+Dialogue: Marked=0,0:02:39.45,0:02:45.32,Default,,0,0,0,,And now my lowly and unworthy assistant Vizier will
+Dialogue: Marked=0,0:02:45.56,0:02:52.68,Default,,0,0,0,,presents his ...[???]... for your holy consideration.
+Dialogue: Marked=0,0:02:53.66,0:02:55.15,Default,,0,0,0,,Speak now, Jaffar!
+Dialogue: Marked=0,0:02:55.79,0:02:57.48,Default,,0,0,0,,And don't fuck it up!
+Dialogue: Marked=0,0:02:59.05,0:03:00.20,Default,,0,0,0,,Greetings, your highness.
+Dialogue: Marked=0,0:03:00.40,0:03:08.24,Default,,0,0,0,,It is I, Jaffar. I humbly prostrate myself to you and offer up this bill of land reform. It is essential to our way of life!
+Dialogue: Marked=0,0:03:07.96,0:03:09.55,Default,,0,0,0,,Oh! Who are you?
+Dialogue: Marked=0,0:03:09.98,0:03:12.49,Default,,0,0,0,,Oh, me sir? I'm Jaffar as I said...
+Dialogue: Marked=0,0:03:12.19,0:03:14.24,Default,,0,0,0,,Oh, not you, you jabbering ape.
+Dialogue: Marked=0,0:03:15.42,0:03:15.72,Default,,0,0,0,,Her.
+Dialogue: Marked=0,0:03:16.80,0:03:18.35,Default,,0,0,0,,Oh! This is my wife.
+Dialogue: Marked=0,0:03:18.64,0:03:21.34,Default,,0,0,0,,Ah, it is an honor to be in your presence, great sultan!
+Dialogue: Marked=0,0:03:21.34,0:03:21.84,Default,,0,0,0,,Yeah.
+Dialogue: Marked=0,0:03:22.30,0:03:23.40,Default,,0,0,0,,She's my wife now.
+Dialogue: Marked=0,0:03:25.40,0:03:27.15,Default,,0,0,0,,I must have her for my harem.
+Dialogue: Marked=0,0:03:27.15,0:03:27.63,Default,,0,0,0,,What?!?
+Dialogue: Marked=0,0:03:28.19,0:03:30.49,Default,,0,0,0,,She makes my withered loins feel live again.
+Dialogue: Marked=0,0:03:30.60,0:03:33.95,Default,,0,0,0,,Very good, my lord. She will be yours at once.
+Dialogue: Marked=0,0:03:33.44,0:03:35.66,Default,,0,0,0,,No, she's my wife, damnit!
+Dialogue: Marked=0,0:03:36.33,0:03:38.57,Default,,0,0,0,,Do you speak against your sultan?
+Dialogue: Marked=0,0:03:39.08,0:03:40.57,Default,,0,0,0,,Against your king???
+Dialogue: Marked=0,0:03:41.48,0:03:43.10,Default,,0,0,0,,On your knees, boy!
+Dialogue: Marked=0,0:03:43.10,0:03:44.20,Default,,0,0,0,,What? No!
+Dialogue: Marked=0,0:03:44.27,0:03:44.68,Default,,0,0,0,,What...?
+Dialogue: Marked=0,0:03:44.57,0:03:45.07,Default,,0,0,0,,No!
+Dialogue: Marked=0,0:03:45.74,0:03:46.44,Default,,0,0,0,,Jaffar!
+Dialogue: Marked=0,0:03:46.64,0:03:47.13,Default,,0,0,0,,No!!!
+Dialogue: Marked=0,0:03:51.34,0:03:57.40,Default,,0,0,0,,This woman will be bathed and shaved and brought to you harem at once, my lord.
+Dialogue: Marked=0,0:03:58.11,0:03:59.00,Default,,0,0,0,,Shahrazad!
+Dialogue: Marked=0,0:03:59.52,0:04:01.64,Default,,0,0,0,,Noooohoho!
+Dialogue: Marked=0,0:04:03.53,0:04:06.97,Default,,0,0,0,,We can't let this happen! He's stealing you from me, he's a thief!
+Dialogue: Marked=0,0:04:07.20,0:04:08.43,Default,,0,0,0,,I won't let you go!
+Dialogue: Marked=0,0:04:08.48,0:04:09.82,Default,,0,0,0,,But you must, Jaffar!
+Dialogue: Marked=0,0:04:10.84,0:04:14.09,Default,,0,0,0,,The sultan wishes it, and it is our purpose to serve him.
+Dialogue: Marked=0,0:04:14.35,0:04:16.68,Default,,0,0,0,,But may - maybe I have a new purpose now!
+Dialogue: Marked=0,0:04:17.84,0:04:19.61,Default,,0,0,0,,The city needs you.
+Dialogue: Marked=0,0:04:20.04,0:04:22.56,Default,,0,0,0,,You are going to be a great Vizier some day.
+Dialogue: Marked=0,0:04:22.67,0:04:24.30,Default,,0,0,0,,That is what your story is about.
+Dialogue: Marked=0,0:04:24.30,0:04:26.97,Default,,0,0,0,,Oh, I wish I had the power to rewrite this tale!
+Dialogue: Marked=0,0:04:27.15,0:04:28.97,Default,,0,0,0,,Never stop wishing it, Jaffar!
+Dialogue: Marked=0,0:04:30.17,0:04:30.64,Default,,0,0,0,,Here!
+Dialogue: Marked=0,0:04:31.15,0:04:32.00,Default,,0,0,0,,Take this!
+Dialogue: Marked=0,0:04:32.04,0:04:32.76,Default,,0,0,0,,A pendant?
+Dialogue: Marked=0,0:04:33.04,0:04:34.28,Default,,0,0,0,,You remember the two lovers?
+Dialogue: Marked=0,0:04:34.28,0:04:35.84,Default,,0,0,0,,The key to the tiger head cave?
+Dialogue: Marked=0,0:04:36.19,0:04:38.17,Default,,0,0,0,,We will be reunited one day!
+Dialogue: Marked=0,0:04:38.17,0:04:40.94,Default,,0,0,0,,And unlock wonders beyond your wildest dreams!
+Dialogue: Marked=0,0:04:54.56,0:04:56.51,Default,,0,0,0,,First I lost her to the sultan...
+Dialogue: Marked=0,0:04:59.15,0:05:00.73,Default,,0,0,0,,... then I lost her to heaven.
+Dialogue: Marked=0,0:05:02.27,0:05:03.45,Default,,0,0,0,,I thought that if I just...
+Dialogue: Marked=0,0:05:04.22,0:05:07.13,Default,,0,0,0,,...did my ...[???]... I could get her back.
+Dialogue: Marked=0,0:05:08.57,0:05:11.07,Default,,0,0,0,,Now I AM royal Vizier.
+Dialogue: Marked=0,0:05:12.44,0:05:15.77,Default,,0,0,0,,And powerless to save her OR our city.
+Dialogue: Marked=0,0:05:21.08,0:05:21.60,Default,,0,0,0,,Unless...
+Dialogue: Marked=0,0:05:23.88,0:05:24.89,Default,,0,0,0,,The cave!
+Dialogue: Marked=0,0:05:25.76,0:05:26.46,Default,,0,0,0,,The lamp!
+Dialogue: Marked=0,0:05:26.94,0:05:28.76,Default,,0,0,0,,Of the wish granting djinn!
+Comment: Marked=0,0:05:30.36,0:05:32.28,Default,,0,0,0,,Start of Song
+Dialogue: Marked=0,0:05:30.70,0:05:33.55,Default,,0,0,0,,If I believed in wishes
+Dialogue: Marked=0,0:05:34.89,0:05:37.55,Default,,0,0,0,,as silly as it seems
+Dialogue: Marked=0,0:05:38.99,0:05:41.29,Default,,0,0,0,,I'd find that hidden cave
+Dialogue: Marked=0,0:05:41.29,0:05:43.29,Default,,0,0,0,,turn back the sands of time
+Dialogue: Marked=0,0:05:43.47,0:05:46.09,Default,,0,0,0,,And save you
+Dialogue: Marked=0,0:05:46.99,0:05:51.50,Default,,0,0,0,,If I believed in dreams
+Dialogue: Marked=0,0:05:52.08,0:05:54.25,Default,,0,0,0,,If I believed in magic
+Dialogue: Marked=0,0:05:56.14,0:05:58.32,Default,,0,0,0,,If I believed in good
+Dialogue: Marked=0,0:06:00.32,0:06:04.68,Default,,0,0,0,,I'd be the best Vizier\NI'd make our troubles disappear
+Dialogue: Marked=0,0:06:04.92,0:06:10.76,Default,,0,0,0,,If I believed, I could
+Dialogue: Marked=0,0:06:11.13,0:06:14.83,Default,,0,0,0,,But wishes are dreams\Nand dreams are pretend
+Dialogue: Marked=0,0:06:15.08,0:06:20.57,Default,,0,0,0,,So science and reason\Nwin out in the end
+Dialogue: Marked=0,0:06:21.44,0:06:25.10,Default,,0,0,0,,Science says you're dead and gone forever
+Dialogue: Marked=0,0:06:25.24,0:06:28.91,Default,,0,0,0,,reason says I'm talking to the air
+Dialogue: Marked=0,0:06:29.32,0:06:33.23,Default,,0,0,0,,But something in my heart\Nsome secret hidden part
+Dialogue: Marked=0,0:06:33.23,0:06:37.40,Default,,0,0,0,,illogically insisted you are there
+Dialogue: Marked=0,0:06:37.77,0:06:40.49,Default,,0,0,0,,somewhere
+Dialogue: Marked=0,0:06:40.64,0:06:44.19,Default,,0,0,0,,If I believed in wishes
+Dialogue: Marked=0,0:06:44.75,0:06:48.72,Default,,0,0,0,,If I can find the key
+Dialogue: Marked=0,0:06:49.21,0:06:51.16,Default,,0,0,0,,perhaps it's not to late
+Dialogue: Marked=0,0:06:51.42,0:06:54.17,Default,,0,0,0,,to change the course of fate
+Dialogue: Marked=0,0:06:54.94,0:06:59.10,Default,,0,0,0,,'Cause after all I must be pretty great
+Dialogue: Marked=0,0:07:01.71,0:07:06.99,Default,,0,0,0,,If you believed in me
+Dialogue: Marked=0,0:07:15.69,0:07:20.08,Default,,0,0,0,,
