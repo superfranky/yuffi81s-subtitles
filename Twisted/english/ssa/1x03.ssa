@@ -8,13 +8,9 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Audio URI: ..\..\video\Twisted Act 1 Part 3.mp4
-Scroll Position: 198
-Active Line: 204
-Video Zoom Percent: 1.75
-Video File: ..\..\video\Twisted Act 1 Part 3.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 14633
+Scroll Position: 109
+Active Line: 132
+Video Zoom Percent: 1
 Export Encoding: Unicode (UTF-8)
 YCbCr Matrix: TV.601
 
@@ -36,7 +32,7 @@ Dialogue: Marked=0,0:00:24.72,0:00:26.59,Default,,0,0,0,,Oh. You haven't heard..
 Dialogue: Marked=0,0:00:26.59,0:00:27.39,Default,,0,0,0,,Heard what?
 Dialogue: Marked=0,0:00:27.76,0:00:28.91,Default,,0,0,0,,Bad news, Jaffar.
 Dialogue: Marked=0,0:00:29.13,0:00:30.91,Default,,0,0,0,,The order's already been carried out.
-Dialogue: Marked=0,0:00:32.41,0:00:36.99,Default,,0,0,0,,By royal decree of the sultan and his executive brench: The entire two d department...
+Dialogue: Marked=0,0:00:32.41,0:00:36.99,Default,,0,0,0,,By royal decree of the sultan and his executive branch: The entire two d department...
 Dialogue: Marked=0,0:00:38.72,0:00:40.22,Default,,0,0,0,,... is to be disbanded!
 Dialogue: Marked=0,0:00:41.00,0:00:44.76,Default,,0,0,0,,All 150 of it's members are to be sacked!
 Dialogue: Marked=0,0:00:44.88,0:00:45.52,Default,,0,0,0,,Hmhm.
@@ -79,8 +75,8 @@ Dialogue: Marked=0,0:02:51.00,0:02:54.84,Default,,0,0,0,,The day the palace fina
 Dialogue: Marked=0,0:02:55.08,0:02:57.24,Default,,0,0,0,,Assistant Vizier to the sultan.
 Dialogue: Marked=0,0:02:57.44,0:02:59.50,Default,,0,0,0,,Well, you'll straighten out those crocked politicians!
 Dialogue: Marked=0,0:02:59.50,0:03:00.17,Default,,0,0,0,,I'm sure of it!
-Dialogue: Marked=0,0:03:00.03,0:03:04.28,Default,,0,0,0,,Oh,no, no. ...[???]... I'm sure the higher ups in the palace should doing their very best.
-Dialogue: Marked=0,0:03:04.28,0:03:08.65,Default,,0,0,0,,They just need someone with strong resolve to keep them on that straight and narrow...
+Dialogue: Marked=0,0:03:00.03,0:03:04.28,Default,,0,0,0,,Oh, no, no. ...[???]... I'm sure the higher ups in the palace should doing their very best.
+Dialogue: Marked=0,0:03:04.28,0:03:08.65,Default,,0,0,0,,They just need someone with strong resolve to keep them on the straight and narrow...
 Dialogue: Marked=0,0:03:08.73,0:03:11.26,Default,,0,0,0,,I suppose you're right, Jaffar. But how do you do it?
 Dialogue: Marked=0,0:03:11.42,0:03:14.08,Default,,0,0,0,,How is it that you are so good to everyone in need?
 Dialogue: Marked=0,0:03:14.08,0:03:16.75,Default,,0,0,0,,My secret is simple, really anybody could do it:
@@ -101,7 +97,7 @@ Dialogue: Marked=0,0:03:52.80,0:03:54.64,Default,,0,0,0,,Ask this question first
 Dialogue: Marked=0,0:03:54.64,0:03:57.80,Default,,0,0,0,,How would you wish that he'd treat you
 Dialogue: Marked=0,0:03:58.08,0:04:00.11,Default,,0,0,0,,If your fortunes were reversed?
 Dialogue: Marked=0,0:04:01.34,0:04:03.55,Default,,0,0,0,,Follow the golden rule
-Dialogue: Marked=0,0:04:03.71,0:04:06.12,Default,,0,0,0,,that's how I chose to live
+Dialogue: Marked=0,0:04:03.71,0:04:06.12,Default,,0,0,0,,that's how I choose to live
 Dialogue: Marked=0,0:04:06.32,0:04:06.76,Default,,0,0,0,,Wow!
 Dialogue: Marked=0,0:04:06.76,0:04:12.01,Default,,0,0,0,,simple reciprocity\Nis always my philosophy
 Dialogue: Marked=0,0:04:12.22,0:04:16.41,Default,,0,0,0,,I get back what I give
@@ -155,7 +151,7 @@ Dialogue: Marked=0,0:05:51.50,0:05:53.05,Default,,0,0,0,,Good luck, Jaffar!
 Dialogue: Marked=0,0:05:53.28,0:05:57.23,Default,,0,0,0,,And re-mem-ber:
 Dialogue: Marked=0,0:05:57.23,0:05:58.91,Default,,0,0,0,,Follow the golden rule
 Dialogue: Marked=0,0:05:58.80,0:06:00.30,Default,,0,0,0,,Follow the golden rule
-Dialogue: Marked=0,0:05:59.71,0:06:02.30,Default,,0,0,0,,That's how we chose to live
+Dialogue: Marked=0,0:05:59.71,0:06:02.30,Default,,0,0,0,,That's how we choose to live
 Dialogue: Marked=0,0:06:01.63,0:06:02.68,Default,,0,0,0,,It's very easy
 Dialogue: Marked=0,0:06:02.68,0:06:07.87,Default,,0,0,0,,Simple reciprocity\Nis always our philosophy
 Dialogue: Marked=0,0:06:07.87,0:06:11.79,Default,,0,0,0,,I get back what I give
@@ -202,8 +198,8 @@ Dialogue: Marked=0,0:08:10.88,0:08:12.88,Default,,0,0,0,,[laughs]
 Dialogue: Marked=0,0:08:13.71,0:08:16.97,Default,,0,0,0,,We have our own golden rule here.
 Dialogue: Marked=0,0:08:18.20,0:08:22.96,Default,,0,0,0,,Whoever has the gold makes the rules.
 Dialogue: Marked=0,0:08:22.96,0:08:23.47,Default,,0,0,0,,What?
-Dialogue: Marked=0,0:08:23.47,0:08:25.63,Default,,0,0,0,,I follow the golden rule
 Comment: Marked=0,0:08:23.47,0:08:25.63,Default,,0,0,0,,Start of song
+Dialogue: Marked=0,0:08:23.47,0:08:25.63,Default,,0,0,0,,I follow the golden rule
 Dialogue: Marked=0,0:08:26.20,0:08:28.68,Default,,0,0,0,,How can a man resist
 Dialogue: Marked=0,0:08:29.18,0:08:32.27,Default,,0,0,0,,When the gold in his hand\Nlet's him rule the land
 Dialogue: Marked=0,0:08:32.33,0:08:34.28,Default,,0,0,0,,With an iron fist
