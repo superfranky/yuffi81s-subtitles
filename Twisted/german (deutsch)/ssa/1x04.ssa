@@ -4,13 +4,13 @@
 PlayResX: 640
 PlayResY: 360
 Audio URI: ..\..\..\..\Twisted Act 1 Part 4.mp4
-Scroll Position: 151
-Active Line: 157
-Video Zoom Percent: 0.5
+Scroll Position: 67
+Active Line: 72
+Video Zoom Percent: 1.5
 Video File: ..\..\..\..\Twisted Act 1 Part 4.mp4
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.77778
-Video Position: 12966
+Video Position: 13317
 Last Style Storage: Default
 Export Encoding: Local
 ScriptType: v4.00
@@ -66,7 +66,7 @@ Dialogue: Marked=0,0:01:51.62,0:01:54.15,Jaffar,,0,0,0,,Nun, das hätten wir. Ha
 Dialogue: Marked=0,0:01:54.15,0:01:57.50,Jaffar,,0,0,0,,Hoffen wir, das die Wunden - Wundbrände entwickeln [???Wieso sollte man das hoffen???]
 Dialogue: Marked=0,0:01:58.17,0:02:01.25,Shahrazad,,0,0,0,,Bei Allah! Seid Ihr ein Zauberer?
 Dialogue: Marked=0,0:02:01.25,0:02:04.77,Jaffar,,0,0,0,,Oh nein! Nein! Zauberei ist das Werk von Dummköpfen und Träumern.
-Dialogue: Marked=0,0:02:04.77,0:02:09.20,Jaffar,,0,0,0,,Ich bin ein Mann der Wissenschaft. I(ch glaube nur an das, was ich anfassen und fühlen kann.
+Dialogue: Marked=0,0:02:04.77,0:02:09.20,Jaffar,,0,0,0,,Ich bin ein Mann der Wissenschaft. Ich glaube nur an das, was ich anfassen und fühlen kann.
 Dialogue: Marked=0,0:02:09.20,0:02:13.07,Jaffar,,0,0,0,,Diese Höhle, von der du sprichst: Ich kann dir versichern, dass sie nicht existiert.
 Dialogue: Marked=0,0:02:14.12,0:02:19.12,Jaffar,,0,0,0,,Ich würde das wissen, denn - ich bin als Geograph in die Lehre gegangen.
 Dialogue: Marked=0,0:02:20.42,0:02:22.52,Shahrazad,,0,0,0,,Oh Ihr habt sie nur nie gesehen.
@@ -74,7 +74,7 @@ Dialogue: Marked=0,0:02:22.52,0:02:27.17,Shahrazad,,0,0,0,,Denn die Höhle bleib
 Dialogue: Marked=0,0:02:28.05,0:02:30.52,Shahrazad,,0,0,0,,Hier, seht!
 Dialogue: Marked=0,0:02:30.62,0:02:32.40,Jaffar,,0,0,0,,Ein schöner Anhänger.
 Dialogue: Marked=0,0:02:32.40,0:02:34.87,Jaffar,,0,0,0,,Ein goldener Skarabäus, wenn ich mich nicht irre.
-Dialogue: Marked=0,0:02:34.87,0:02:37.87,Shahrazad,,0,0,0,,Halb ein Skarabäus - halb ein Schlüssel.
+Dialogue: Marked=0,0:02:34.87,0:02:37.87,Shahrazad,,0,0,0,,Halb ein Skarabäus - halb der Schlüssel.
 Dialogue: Marked=0,0:02:38.62,0:02:41.17,Shahrazad,,0,0,0,,Man sagt, dass die Höhle von zwei Liebenden versiegelt wurde...
 Dialogue: Marked=0,0:02:41.17,0:02:44.32,Shahrazad,,0,0,0,,...welche dann in einen goldenen Skarabäus verwandelt wurden.
 Dialogue: Marked=0,0:02:44.82,0:02:48.07,Shahrazad,,0,0,0,,Die Höhle wird sich nur dann wieder öffnen, wenn die zwei Hälften eins werden.
@@ -98,7 +98,7 @@ Dialogue: Marked=0,0:03:45.35,0:03:48.02,Shahrazad,,0,0,0,,Und so attraktiv wie 
 Dialogue: Marked=0,0:03:49.10,0:03:53.82,Shahrazad,,0,0,0,,Er ist zugleich vertraut und unerkennbar
 Dialogue: Marked=0,0:03:54.25,0:03:58.62,Shahrazad,,0,0,0,,für das verängstigte Mädchen, das er unterwegs trifft
 Dialogue: Marked=0,0:03:59.12,0:04:04.85,Shahrazad,,0,0,0,,Und zur Überraschung des Mädchens - Bittet sie irgend etwas in seinen Augen
-Dialogue: Marked=0,0:04:04.85,0:04:11.30,Shahrazad,,0,0,0,,Bihn zu kennen und inspiriert sie zu sagen:
+Dialogue: Marked=0,0:04:04.85,0:04:11.30,Shahrazad,,0,0,0,,ihn zu kennen und inspiriert sie zu sagen:
 Dialogue: Marked=0,0:04:11.30,0:04:14.02,Shahrazad,,0,0,0,,Ich möchte deine Geschichte kennen
 Dialogue: Marked=0,0:04:14.52,0:04:17.32,Shahrazad,,0,0,0,,Ich möchte deine Vergangenheit kennen
 Dialogue: Marked=0,0:04:17.32,0:04:21.72,Shahrazad,,0,0,0,,Also erzähle mir langsam von Anfang an
