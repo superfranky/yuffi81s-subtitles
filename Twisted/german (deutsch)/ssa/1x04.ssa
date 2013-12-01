@@ -3,14 +3,10 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Audio URI: ..\..\..\..\Twisted Act 1 Part 4.mp4
-Scroll Position: 67
-Active Line: 72
-Video Zoom Percent: 1.5
-Video File: ..\..\..\..\Twisted Act 1 Part 4.mp4
+Scroll Position: 113
+Active Line: 123
+Video Zoom Percent: 1
 YCbCr Matrix: TV.601
-Video Aspect Ratio: c1.77778
-Video Position: 13317
 Last Style Storage: Default
 Export Encoding: Local
 ScriptType: v4.00
@@ -34,7 +30,7 @@ Dialogue: Marked=0,0:00:13.67,0:00:15.77,Shahrazad,,0,0,0,,Weil sie mein Gesicht
 Dialogue: Marked=0,0:00:16.27,0:00:17.85,Jaffar,,0,0,0,,Aber das ist barbarisch!
 Dialogue: Marked=0,0:00:17.85,0:00:19.62,Shahrazad,,0,0,0,,Hey, das ist zuhause.
 Dialogue: Marked=0,0:00:20.25,0:00:23.47,Jaffar,,0,0,0,,Nun, Sorgt euch nicht, Fräulein. Ich bin ein gelehrter Heiler.
-Dialogue: Marked=0,0:00:23.47,0:00:26.72,Jaffar,,0,0,0,,Ich werde das Ohr vielleicht nicht retten können, aber ich kann die Blutung ...[???]...
+Dialogue: Marked=0,0:00:23.47,0:00:26.72,Jaffar,,0,0,0,,Ich werde das Ohr vielleicht nicht retten können, aber ich kann die Blutung stillen.
 Dialogue: Marked=0,0:00:26.72,0:00:28.72,Jaffar,,0,0,0,,Ähm, es würde helfen, wenn wir dich weiterreden lassen.
 Dialogue: Marked=0,0:00:28.72,0:00:30.72,Jaffar,,0,0,0,,Du könntest damit anfangen, mir deinen Namen zu sagen.
 Dialogue: Marked=0,0:00:31.20,0:00:33.10,Shahrazad,,0,0,0,,Mein Name ist Scheherazade.
@@ -53,7 +49,7 @@ Dialogue: Marked=0,0:01:09.62,0:01:12.30,Jaffar,,0,0,0,,Geschichten? Was für Ge
 Dialogue: Marked=0,0:01:12.30,0:01:14.47,Shahrazad,,0,0,0,,Oh, von allem, was Ihr euch vorstellen könnt.
 Dialogue: Marked=0,0:01:14.47,0:01:18.50,Shahrazad,,0,0,0,,Sagt mir, habt ihr jemals die Geschichte von der Tigerkopfhöhle gehört?
 Dialogue: Marked=0,0:01:18.50,0:01:21.10,Shahrazad,,0,0,0,,Angefüllt mit Wundern die Eure wildesten Träume übertreffen.
-Dialogue: Marked=0,0:01:21.10,0:01:25.50,Shahrazad,,0,0,0,,Ein verbotener Schatz. Ein Vorleger bessen von der Seele eines ...[???]... Diebes?
+Dialogue: Marked=0,0:01:21.10,0:01:25.50,Shahrazad,,0,0,0,,Ein verbotener Schatz. Ein Vorleger bessen von der Seele eines lüsternen Diebes?
 Dialogue: Marked=0,0:01:26.12,0:01:28.70,Shahrazad,,0,0,0,,Und vielleicht der größte Schatz von allen:
 Dialogue: Marked=0,0:01:29.45,0:01:31.60,Shahrazad,,0,0,0,,Eine gewöhnliche Öllampe!
 Dialogue: Marked=0,0:01:36.35,0:01:38.90,Jaffar,,0,0,0,,Was?!?
