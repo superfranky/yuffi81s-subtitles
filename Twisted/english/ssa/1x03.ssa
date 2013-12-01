@@ -8,10 +8,14 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 109
-Active Line: 132
+Scroll Position: 33
+Active Line: 55
 Video Zoom Percent: 1
 Export Encoding: Unicode (UTF-8)
+Audio URI: ..\..\video\Twisted Act 1 Part 3.mp4
+Video File: ..\..\video\Twisted Act 1 Part 3.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 4374
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -25,8 +29,8 @@ Dialogue: Marked=0,0:00:10.04,0:00:10.84,Default,,0,0,0,,Team?
 Dialogue: Marked=0,0:00:11.86,0:00:13.51,Default,,0,0,0,,Hello?
 Dialogue: Marked=0,0:00:14.66,0:00:15.51,Default,,0,0,0,,Hey, Jaffar.
 Dialogue: Marked=0,0:00:15.73,0:00:17.84,Default,,0,0,0,,Oh! Captain, where is my team?
-Dialogue: Marked=0,0:00:17.84,0:00:20.04,Default,,0,0,0,,My assistant Viziers? My think tank?
-Dialogue: Marked=0,0:00:20.04,0:00:22.16,Default,,0,0,0,,The ...[???]... commitment to Duty and Devotion?
+Dialogue: Marked=0,0:00:17.84,0:00:20.04,Default,,0,0,0,,My assistant Viziers? My think tank...
+Dialogue: Marked=0,0:00:20.04,0:00:22.16,Default,,0,0,0,,...that share my commitment to Duty and Devotion?
 Dialogue: Marked=0,0:00:22.16,0:00:24.38,Default,,0,0,0,,Has my whole two D department gone missing?
 Dialogue: Marked=0,0:00:24.72,0:00:26.59,Default,,0,0,0,,Oh. You haven't heard...
 Dialogue: Marked=0,0:00:26.59,0:00:27.39,Default,,0,0,0,,Heard what?
@@ -65,7 +69,7 @@ Dialogue: Marked=0,0:02:18.06,0:02:23.23,Default,,0,0,0,,Teach me to undo what's
 Dialogue: Marked=0,0:02:23.58,0:02:26.43,Default,,0,0,0,,sands of time
 Dialogue: Marked=0,0:02:27.44,0:02:32.24,Default,,0,0,0,,take me back
 Comment: Marked=0,0:02:36.08,0:02:41.40,Default,,0,0,0,,End of song
-Dialogue: Marked=0,0:02:36.08,0:02:41.40,Default,,0,0,0,,...[???]... and pistachios!
+Dialogue: Marked=0,0:02:36.08,0:02:41.40,Default,,0,0,0,,Sugar dates, sugar dates and figs! Sugar dates and pistachios!
 Dialogue: Marked=0,0:02:42.32,0:02:43.36,Default,,0,0,0,,Salam, friends!
 Dialogue: Marked=0,0:02:43.36,0:02:45.92,Default,,0,0,0,,And praise Allah for this blessed day!
 Dialogue: Marked=0,0:02:45.66,0:02:47.39,Default,,0,0,0,,Salam, Jaffar!
@@ -75,7 +79,7 @@ Dialogue: Marked=0,0:02:51.00,0:02:54.84,Default,,0,0,0,,The day the palace fina
 Dialogue: Marked=0,0:02:55.08,0:02:57.24,Default,,0,0,0,,Assistant Vizier to the sultan.
 Dialogue: Marked=0,0:02:57.44,0:02:59.50,Default,,0,0,0,,Well, you'll straighten out those crocked politicians!
 Dialogue: Marked=0,0:02:59.50,0:03:00.17,Default,,0,0,0,,I'm sure of it!
-Dialogue: Marked=0,0:03:00.03,0:03:04.28,Default,,0,0,0,,Oh, no, no. ...[???]... I'm sure the higher ups in the palace should doing their very best.
+Dialogue: Marked=0,0:03:00.03,0:03:04.28,Default,,0,0,0,,Oh, now, now, ...[???]... I'm sure the higher ups in the palace should doing their very best.
 Dialogue: Marked=0,0:03:04.28,0:03:08.65,Default,,0,0,0,,They just need someone with strong resolve to keep them on the straight and narrow...
 Dialogue: Marked=0,0:03:08.73,0:03:11.26,Default,,0,0,0,,I suppose you're right, Jaffar. But how do you do it?
 Dialogue: Marked=0,0:03:11.42,0:03:14.08,Default,,0,0,0,,How is it that you are so good to everyone in need?

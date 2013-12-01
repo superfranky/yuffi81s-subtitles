@@ -3,8 +3,8 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 105
-Active Line: 143
+Scroll Position: 110
+Active Line: 124
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Last Style Storage: Default
@@ -27,9 +27,9 @@ Dialogue: Marked=0,0:00:08.30,0:00:10.85,Jaffar,,0,0,0,,Oh my dear girl. What's 
 Dialogue: Marked=0,0:00:10.85,0:00:12.85,Shahrazad,,0,0,0,,Somebody cut off my ear.
 Dialogue: Marked=0,0:00:13.67,0:00:15.77,Shahrazad,,0,0,0,,Because they didn't like my face.
 Dialogue: Marked=0,0:00:16.27,0:00:17.85,Jaffar,,0,0,0,,But that's barbaric!
-Dialogue: Marked=0,0:00:17.85,0:00:19.62,Shahrazad,,0,0,0,,Hey, it's home.
+Dialogue: Marked=0,0:00:17.85,0:00:19.62,Shahrazad,,0,0,0,,Hey, it's home.\N[Arabian Nights]
 Dialogue: Marked=0,0:00:20.25,0:00:23.47,Jaffar,,0,0,0,,Well, worry not, miss. I am a studied healer.
-Dialogue: Marked=0,0:00:23.47,0:00:26.72,Jaffar,,0,0,0,,I may not be able to save the ear, but I can ??? the bleeding.
+Dialogue: Marked=0,0:00:23.47,0:00:26.72,Jaffar,,0,0,0,,I may not be able to save the ear, but I can stay the bleeding.
 Dialogue: Marked=0,0:00:26.72,0:00:28.72,Jaffar,,0,0,0,,Ahm, it would help if we kept you talking.
 Dialogue: Marked=0,0:00:28.72,0:00:30.72,Jaffar,,0,0,0,,You could start by telling me your name.
 Dialogue: Marked=0,0:00:31.20,0:00:33.10,Shahrazad,,0,0,0,,My name is Shahrazad.
@@ -48,7 +48,7 @@ Dialogue: Marked=0,0:01:09.62,0:01:12.30,Jaffar,,0,0,0,,Stories? What kind of st
 Dialogue: Marked=0,0:01:12.30,0:01:14.47,Shahrazad,,0,0,0,,Oh, of anything you can image.
 Dialogue: Marked=0,0:01:14.47,0:01:18.50,Shahrazad,,0,0,0,,Tell me, have you ever heard the tale of the tiger head cave?
 Dialogue: Marked=0,0:01:18.50,0:01:21.10,Shahrazad,,0,0,0,,Filled with wonders beyond your wildest dreams.
-Dialogue: Marked=0,0:01:21.10,0:01:25.50,Shahrazad,,0,0,0,,A forbidden treasure. A rug possessed with the soul of a ??? thief?
+Dialogue: Marked=0,0:01:21.10,0:01:25.50,Shahrazad,,0,0,0,,A forbidden treasure. A rug possessed with the soul of a lecherous thief?
 Dialogue: Marked=0,0:01:26.12,0:01:28.70,Shahrazad,,0,0,0,,And perhaps the greatest treasure of them all:
 Dialogue: Marked=0,0:01:29.45,0:01:31.60,Shahrazad,,0,0,0,,A common oil lamp!
 Dialogue: Marked=0,0:01:36.35,0:01:38.90,Jaffar,,0,0,0,,What?!?
@@ -144,7 +144,7 @@ Dialogue: Marked=0,0:07:10.12,0:07:14.55,Jaffar,,0,0,0,,The common man is starvi
 Dialogue: Marked=0,0:07:14.55,0:07:16.95,Jaffar,,0,0,0,,My land reform bill will never pass.
 Dialogue: Marked=0,0:07:16.95,0:07:18.35,Shahrazad,,0,0,0,,They refused you again?
 Dialogue: Marked=0,0:07:18.35,0:07:22.72,Jaffar,,0,0,0,,I work with the most selfish, corrupt, incompetent old men...
-Dialogue: Marked=0,0:07:22.97,0:07:26.10,Jaffar,,0,0,0,,???  donkey's shit.
+Dialogue: Marked=0,0:07:22.97,0:07:26.10,Jaffar,,0,0,0,,...their mouths aren't fit to hold a donkey's shit.
 Dialogue: Marked=0,0:07:26.85,0:07:30.70,Jaffar,,0,0,0,,If I could just speak with the sultan! If for a minute I could have his ear!
 Dialogue: Marked=0,0:07:30.70,0:07:32.70,Shahrazad,,0,0,0,,As that nobleman took my ear?
 Dialogue: Marked=0,0:07:33.52,0:07:34.97,Jaffar,,0,0,0,,Shahrazad, you jest.
