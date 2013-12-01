@@ -3,15 +3,15 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 137
-Active Line: 153
-Video Zoom Percent: 1.5
+Scroll Position: 162
+Active Line: 167
+Video Zoom Percent: 1.75
 YCbCr Matrix: TV.601
 Last Style Storage: Default
 Audio URI: ..\..\video\Twisted Act 2 Part 2.mp4
 Video File: ..\..\video\Twisted Act 2 Part 2.mp4
 Video Aspect Ratio: c1.77778
-Video Position: 12014
+Video Position: 11775
 ScriptType: v4.00
 
 [V4 Styles]
@@ -29,7 +29,7 @@ Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: Marked=0,0:00:03.95,0:00:05.25,Jaffar,,0,0,0,,Knock, knock.
 Dialogue: Marked=0,0:00:07.50,0:00:11.62,Jasmin,,0,0,0,,Oh, you. Aren't you busy?
 Dialogue: Marked=0,0:00:12.02,0:00:14.02,Jasmin,,0,0,0,,Ruining my live?
-Dialogue: Marked=0,0:00:14.70,0:00:19.05,Jaffar,,0,0,0,,Well, I know just you weren't in dinner, but I saw you try to poison my wine.
+Dialogue: Marked=0,0:00:14.70,0:00:19.05,Jaffar,,0,0,0,,Well, I noticed you weren't at dinner, but I saw you try to poison my wine.
 Dialogue: Marked=0,0:00:19.30,0:00:23.42,Jaffar,,0,0,0,,Usually when you do that, it means you want to talk. What's up? Are you mad at me?
 Dialogue: Marked=0,0:00:26.02,0:00:28.10,Jaffar,,0,0,0,,Alright.
 Dialogue: Marked=0,0:00:28.10,0:00:31.32,Jaffar,,0,0,0,, I've got to go find the antidote.
@@ -47,7 +47,7 @@ Dialogue: Marked=0,0:00:58.32,0:01:00.02,Jasmin,,0,0,0,,Allll-
 Dialogue: Marked=0,0:01:00.02,0:01:01.12,Jaffar,,0,0,0,,Aladdin?
 Dialogue: Marked=0,0:01:01.12,0:01:03.12,Jasmin,,0,0,0,,Yes! Aladdin!
 Dialogue: Marked=0,0:01:03.40,0:01:06.40,Jasmin,,0,0,0,,The name that will forever be burned into my soul.
-Dialogue: Marked=0,0:01:07.37,0:01:12.82,Jaffar,,0,0,0,,Well, fist of all: I would hardly call him a boy. He was well into his thirties.
+Dialogue: Marked=0,0:01:07.37,0:01:12.82,Jaffar,,0,0,0,,Well, first of all: I would hardly call him a boy. He was well into his thirties.
 Dialogue: Marked=0,0:01:13.00,0:01:15.10,Jasmin,,0,0,0,,He was perfect.
 Dialogue: Marked=0,0:01:15.10,0:01:20.52,Jasmin,,0,0,0,,Like - if you cobbled together all the best features from all the best guys...
 Dialogue: Marked=0,0:01:20.52,0:01:23.90,Jasmin,,0,0,0,,....and then gave him a tragic back story.
@@ -123,7 +123,7 @@ Dialogue: Marked=0,0:04:26.50,0:04:27.70,Cpt. Royal Guard,,0,0,0,,Not this time.
 Dialogue: Marked=0,0:04:27.70,0:04:29.62,Jaffar,,0,0,0,,Oh, thank heavens. What is it then?
 Dialogue: Marked=0,0:04:29.62,0:04:31.27,Cpt. Royal Guard,,0,0,0,,Horrible news!
 Dialogue: Marked=0,0:04:31.65,0:04:36.00,Cpt. Royal Guard,,0,0,0,,Some fool atop an elephant is leading a parade throughout the marketplace.
-Dialogue: Marked=0,0:04:36.00,0:04:39.37,Jaffar,,0,0,0,,A parade! With no permits! Nor clearing of the streets.
+Dialogue: Marked=0,0:04:36.00,0:04:39.37,Jaffar,,0,0,0,,A parade! With no permits! No clearing of the streets.
 Dialogue: Marked=0,0:04:39.37,0:04:40.72,Jaffar,,0,0,0,,What of the apple carts?
 Dialogue: Marked=0,0:04:40.72,0:04:42.05,Cpt. Royal Guard,,0,0,0,, They're all turned over!
 Dialogue: Marked=0,0:04:42.05,0:04:43.02,Jaffar,,0,0,0,,No!
@@ -189,10 +189,10 @@ Dialogue: Marked=0,0:07:40.85,0:07:42.82,Aladdin,,0,0,0,,Geez, how many rules do
 Dialogue: Marked=0,0:07:43.37,0:07:45.07,Aladdin,,0,0,0,,Funny bastard!
 Dialogue: Marked=0,0:07:46.62,0:07:50.77,Aladdin,,0,0,0,,Alright. Guess I'm gonna have to do this the old fashioned way.
 Dialogue: Marked=0,0:07:51.65,0:07:55.22,Aladdin,,0,0,0,,Hey! Aladdin here! How are you guys doing tonight?
-Dialogue: Marked=0,0:07:57.25,0:08:00.10,Aladdin,,0,0,0,,Cool, cool, cool. No shut up for a second! I ??? to get serious.
+Dialogue: Marked=0,0:07:57.25,0:08:00.10,Aladdin,,0,0,0,,Cool, cool, cool. No shut up for a second! I wanna get serious.
 Dialogue: Marked=0,0:08:01.07,0:08:04.12,Aladdin,,0,0,0,,You guys know there's a way to get people to think about sex.
 Dialogue: Marked=0,0:08:04.20,0:08:06.55,Aladdin,,0,0,0,,Not even talking about sex.
-Dialogue: Marked=0,0:08:07.20,0:08:10.57,Aladdin,,0,0,0,,You just gotta do it - ???.
+Dialogue: Marked=0,0:08:07.20,0:08:10.57,Aladdin,,0,0,0,,You just gotta do it - subliminal.
 Dialogue: Marked=0,0:08:11.10,0:08:12.57,Aladdin,,0,0,0,,Watch and learn!
 Dialogue: Marked=0,0:08:14.17,0:08:15.92,Aladdin,,0,0,0,,Hey, babe.
 Dialogue: Marked=0,0:08:15.92,0:08:18.22,Aladdin,,0,0,0,,Such a beautiful night. Take off your clothes!
@@ -228,7 +228,7 @@ Dialogue: Marked=0,0:09:59.00,0:10:02.62,Aladdin,,0,0,0,,Shining, sparkling, met
 Dialogue: Marked=0,0:10:02.62,0:10:05.52,Aladdin,,0,0,0,,And a little bit phallic
 Dialogue: Marked=0,0:10:05.52,0:10:08.92,Aladdin,,0,0,0,,Take a look and you'll agree
 Dialogue: Marked=0,0:10:09.47,0:10:12.65,Aladdin,,0,0,0,,See those leaves on the ground
-Dialogue: Marked=0,0:10:13.12,0:10:16.27,Aladdin,,0,0,0,,Spelling something explicit 
+Dialogue: Marked=0,0:10:13.12,0:10:16.27,Aladdin,,0,0,0,,Spelling something explicit
 Dialogue: Marked=0,0:10:15.62,0:10:17.20,Jasmin,,0,0,0,,(SFX?) [youtu.be/edtwq4P8jUM]
 Dialogue: Marked=0,0:10:16.67,0:10:19.32,Aladdin,,0,0,0,,Don't you blink or you'll miss it
 Dialogue: Marked=0,0:10:19.32,0:10:22.50,Aladdin,,0,0,0,,Gently asking you and me
@@ -278,7 +278,7 @@ Dialogue: Marked=0,0:12:15.90,0:12:19.10,Jasmin,,0,0,0,,Let's make this last
 Dialogue: Marked=0,0:12:20.12,0:12:22.25,Aladdin,,0,0,0,,At least your top
 Dialogue: Marked=0,0:12:22.25,0:12:23.82,Jasmin,,0,0,0,,Aladdin stop
 Dialogue: Marked=0,0:12:23.82,0:12:29.62,Aladdin,,0,0,0,,Listen babe, I mean I know you're scared. I mean I am too.
-Dialogue: Marked=0,0:12:29.62,0:12:31.62,Aladdin,,0,0,0,,I've never done this before. 
+Dialogue: Marked=0,0:12:29.62,0:12:31.62,Aladdin,,0,0,0,,I've never done this before.
 Dialogue: Marked=0,0:12:33.20,0:12:39.07,Jasmin,,0,0,0,,Well, until we're married, can't we just sit out here and look up at the stars?
 Dialogue: Marked=0,0:12:41.85,0:12:43.27,Aladdin,,0,0,0,,Okay.
 Dialogue: Marked=0,0:12:44.40,0:12:45.55,Aladdin,,0,0,0,,Okay.
