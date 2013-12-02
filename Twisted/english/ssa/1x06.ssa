@@ -4,13 +4,13 @@
 PlayResX: 640
 PlayResY: 360
 Audio URI: ..\..\video\Twisted Act 1 Part 6.mp4
-Scroll Position: 130
-Active Line: 138
-Video Zoom Percent: 1.875
+Scroll Position: 111
+Active Line: 125
+Video Zoom Percent: 0.875
 Video File: ..\..\video\Twisted Act 1 Part 6.mp4
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.77778
-Video Position: 13420
+Video Position: 11147
 Last Style Storage: Default
 ScriptType: v4.00
 
@@ -39,7 +39,7 @@ Dialogue: Marked=0,0:00:31.35,0:00:33.02,Jaffar,,0,0,0,,You poor naive girl!
 Dialogue: Marked=0,0:00:33.02,0:00:37.50,Jaffar,,0,0,0,,I only hope you haven't fallen to prey to some  - sex crazed ruffian.
 Dialogue: Marked=0,0:00:38.95,0:00:40.55,Alladin,,0,0,0,,Right this way, babe.
 Dialogue: Marked=0,0:00:42.50,0:00:46.70,Jasmin,,0,0,0,,I want to thank you again for saving me back at the marketplace.
-Dialogue: Marked=0,0:00:46.97,0:00:51.32,Jasmin,,0,0,0,,I can't believe that man wanted to ??? me just for taking some of his apples.
+Dialogue: Marked=0,0:00:46.97,0:00:51.32,Jasmin,,0,0,0,,I can't believe that man wanted to reprimand me just for taking some of his apples.
 Dialogue: Marked=0,0:00:51.55,0:00:54.62,Alladin,,0,0,0,,Yeah. Those merchants are real dicks about that kind of stuff.
 Dialogue: Marked=0,0:00:55.10,0:00:58.10,Alladin,,0,0,0,,It's like: Is he really gonna eat all those apples? \N[Apple.mov]
 Dialogue: Marked=0,0:00:58.95,0:01:01.50,Alladin,,0,0,0,,And all the once he doesn't eat he's trying to sell.
@@ -66,7 +66,7 @@ Dialogue: Marked=0,0:02:08.37,0:02:10.52,Jasmin,,0,0,0,,And you know what the re
 Dialogue: Marked=0,0:02:10.52,0:02:14.40,Jasmin,,0,0,0,,The people in power are doing absolutely nothing to change that!
 Dialogue: Marked=0,0:02:14.65,0:02:16.77,Jasmin,,0,0,0,,Change scares old people.
 Dialogue: Marked=0,0:02:16.77,0:02:18.07,Alladin,,0,0,0,,Yeah!
-Dialogue: Marked=0,0:02:18.52,0:02:20.85,Alladin,,0,0,0,,??? just don't get it, you know.
+Dialogue: Marked=0,0:02:18.52,0:02:20.85,Alladin,,0,0,0,,Grown ups just don't get it, you know.
 Dialogue: Marked=0,0:02:21.10,0:02:23.45,Alladin,,0,0,0,,It's like: Your sixteen...
 Dialogue: Marked=0,0:02:23.97,0:02:25.30,Alladin,,0,0,0,,And I'm...
 Dialogue: Marked=0,0:02:28.85,0:02:32.17,Alladin,,0,0,0,,Yeah, wow...
@@ -161,7 +161,7 @@ Dialogue: Marked=0,0:08:10.10,0:08:11.72,Cpt. Royal Guard,,0,0,0,,I can not.
 Dialogue: Marked=0,0:08:11.72,0:08:15.05,Cpt. Royal Guard,,0,0,0,,This man must face trial for his crimes.
 Dialogue: Marked=0,0:08:15.05,0:08:17.95,Jasmin,,0,0,0,,But that is not fair!
 Dialogue: Marked=0,0:08:19.60,0:08:22.30,Jasmin,,0,0,0,,He's a victim of circumstance.
-Dialogue: Marked=0,0:08:23.22,0:08:27.82,Cpt. Royal Guard,,0,0,0,,Victim?!? Tell that to ??? twin brother Abdullah.
+Dialogue: Marked=0,0:08:23.22,0:08:27.82,Cpt. Royal Guard,,0,0,0,,Victim?!? Tell that to Bafaul's twin brother Abdullah.
 Dialogue: Marked=0,0:08:28.50,0:08:30.32,Cpt. Royal Guard,,0,0,0,,He was the victim.
 Dialogue: Marked=0,0:08:30.32,0:08:36.07,Jasmin,,0,0,0,,Well, unlike Aladdin, he probably had a family who loved him.
 Dialogue: Marked=0,0:08:36.32,0:08:37.00,Cpt. Royal Guard,,0,0,0,,Yes.

@@ -9,9 +9,13 @@ Collisions: Normal
 PlayResX: 640
 PlayResY: 360
 Video Zoom Percent: 1
-Scroll Position: 0
-Active Line: 12
+Scroll Position: 64
+Active Line: 90
 Export Encoding: Local
+Audio URI: ..\..\video\Twisted Act 1 Part 5.mp4
+Video File: ..\..\video\Twisted Act 1 Part 5.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 7839
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -36,19 +40,19 @@ Dialogue: Marked=0,0:00:41.63,0:00:44.57,Default,,0,0,0,,The divine ruler!
 Dialogue: Marked=0,0:00:44.89,0:00:47.45,Default,,0,0,0,,Behold!
 Dialogue: Marked=0,0:00:47.87,0:00:49.45,Default,,0,0,0,,The royal
 Dialogue: Marked=0,0:00:50.08,0:00:51.45,Default,,0,0,0,,sultan!
-Dialogue: Marked=0,0:01:02.89,0:01:05.69,Default,,0,0,0,,The shoes of the savior's of gold ...[???]...!
+Dialogue: Marked=0,0:01:02.89,0:01:05.69,Default,,0,0,0,,Shahrazad, they say he has a golden tongue!
 Dialogue: Marked=0,0:01:06.24,0:01:08.01,Default,,0,0,0,,I never thought I'd see this day!
 Dialogue: Marked=0,0:01:08.35,0:01:09.76,Default,,0,0,0,,What do you think he'll say to us?
 Dialogue: Marked=0,0:01:10.12,0:01:11.61,Default,,0,0,0,,What wisdom will he impart?
 Dialogue: Marked=0,0:01:11.61,0:01:12.78,Default,,0,0,0,,Silence!
 Dialogue: Marked=0,0:01:17.32,0:01:20.35,Default,,0,0,0,,The sultan shall now speak in his...
 Dialogue: Marked=0,0:01:21.12,0:01:23.42,Default,,0,0,0,,holy voice.
-Dialogue: Marked=0,0:01:26.20,0:01:26.97,Default,,0,0,0,,[caughs]
+Dialogue: Marked=0,0:01:26.20,0:01:26.97,Default,,0,0,0,,[coughs]
 Dialogue: Marked=0,0:01:30.32,0:01:33.07,Default,,0,0,0,,Many years ago...\N[stops because the audience is laughing about his meager voice]
 Dialogue: Marked=0,0:01:35.55,0:01:38.73,Default,,0,0,0,,I - took - my - finger
 Dialogue: Marked=0,0:01:41.69,0:01:43.00,Default,,0,0,0,,And I pushed in my penis.
 Dialogue: Marked=0,0:01:59.08,0:02:01.44,Default,,0,0,0,,And it hasn't come out since.
-Dialogue: Marked=0,0:02:11.36,0:02:12.76,Default,,0,0,0,,...[???]...  (I will now hear from the court?)
+Dialogue: Marked=0,0:02:11.36,0:02:12.76,Default,,0,0,0,,I will now hear from the court.
 Dialogue: Marked=0,0:02:16.56,0:02:21.96,Default,,0,0,0,,A very wise and enthralling tale, my lord!
 Dialogue: Marked=0,0:02:22.25,0:02:26.11,Default,,0,0,0,,We can all learn a lesson from it... I expect...
 Dialogue: Marked=0,0:02:26.91,0:02:29.18,Default,,0,0,0,,Hmmmm, where's my opium?
@@ -74,7 +78,7 @@ Dialogue: Marked=0,0:03:28.19,0:03:30.49,Default,,0,0,0,,She makes my withered l
 Dialogue: Marked=0,0:03:30.60,0:03:33.95,Default,,0,0,0,,Very good, my lord. She will be yours at once.
 Dialogue: Marked=0,0:03:33.44,0:03:35.66,Default,,0,0,0,,No, she's my wife, damnit!
 Dialogue: Marked=0,0:03:36.33,0:03:38.57,Default,,0,0,0,,Do you speak against your sultan?
-Dialogue: Marked=0,0:03:39.08,0:03:40.57,Default,,0,0,0,,Against your king???
+Dialogue: Marked=0,0:03:39.08,0:03:40.57,Default,,0,0,0,,Against your king?
 Dialogue: Marked=0,0:03:41.48,0:03:43.10,Default,,0,0,0,,On your knees, boy!
 Dialogue: Marked=0,0:03:43.10,0:03:44.20,Default,,0,0,0,,What? No!
 Dialogue: Marked=0,0:03:44.27,0:03:44.68,Default,,0,0,0,,What...?

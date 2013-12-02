@@ -9,8 +9,8 @@ Collisions: Normal
 PlayResX: 640
 PlayResY: 360
 Video Zoom Percent: 1
-Scroll Position: 0
-Active Line: 12
+Scroll Position: 24
+Active Line: 37
 Export Encoding: Local
 YCbCr Matrix: TV.601
 
@@ -36,7 +36,7 @@ Dialogue: Marked=0,0:00:41.63,0:00:44.57,Default,,0,0,0,,Der göttliche Herrsche
 Dialogue: Marked=0,0:00:44.89,0:00:47.45,Default,,0,0,0,,Sehet!!
 Dialogue: Marked=0,0:00:47.87,0:00:49.45,Default,,0,0,0,,Den königlichen
 Dialogue: Marked=0,0:00:50.08,0:00:51.45,Default,,0,0,0,,Sultan!
-Dialogue: Marked=0,0:01:02.89,0:01:05.69,Default,,0,0,0,,Die Schuhe des Retters sind aus Gold und ...[???]...!
+Dialogue: Marked=0,0:01:02.89,0:01:05.69,Default,,0,0,0,,Scheherazade, man sagt er habe eine Zunge aus Gold!
 Dialogue: Marked=0,0:01:06.24,0:01:08.01,Default,,0,0,0,,Ich dachte nicht, dass ich diesen Tag erleben würde!
 Dialogue: Marked=0,0:01:08.35,0:01:09.76,Default,,0,0,0,,Was denkst du, was er zu uns sagen wird?
 Dialogue: Marked=0,0:01:10.12,0:01:11.61,Default,,0,0,0,,Welche Weisheit wird er uns mitteilen?
@@ -48,11 +48,11 @@ Dialogue: Marked=0,0:01:30.32,0:01:33.07,Default,,0,0,0,,Vor vielen Jahren...\N[
 Dialogue: Marked=0,0:01:35.55,0:01:38.73,Default,,0,0,0,,nahm - ich - meinen - Finger
 Dialogue: Marked=0,0:01:41.69,0:01:43.00,Default,,0,0,0,,Und ich drückte meinen Penis nach innen.
 Dialogue: Marked=0,0:01:59.08,0:02:01.44,Default,,0,0,0,,Und er ist seitdem nicht mehr rausgekommen.
-Dialogue: Marked=0,0:02:11.36,0:02:12.76,Default,,0,0,0,,...[???]...
+Dialogue: Marked=0,0:02:11.36,0:02:12.76,Default,,0,0,0,,Ich werde nun diese Versammlung anhören.
 Dialogue: Marked=0,0:02:16.56,0:02:21.96,Default,,0,0,0,,Eine sehr weise und spannende Geschichte, mein Herr!
 Dialogue: Marked=0,0:02:22.25,0:02:26.11,Default,,0,0,0,,Wir können alle etwas daraus lernen... nehme ich an...
 Dialogue: Marked=0,0:02:26.91,0:02:29.18,Default,,0,0,0,,Hmmmm, wo ist mein Opium?
-Dialogue: Marked=0,0:02:30.72,0:02:33.85,Default,,0,0,0,,I brauche unbedingt Wein, Zuckerwerk und Käse.
+Dialogue: Marked=0,0:02:30.72,0:02:33.85,Default,,0,0,0,,Ich brauche unbedingt Wein, Zuckerwerk und Käse.
 Dialogue: Marked=0,0:02:33.93,0:02:35.29,Default,,0,0,0,,Sofort, mein Herr!
 Dialogue: Marked=0,0:02:39.45,0:02:45.32,Default,,0,0,0,,Und nun wird mein niedriger und unwerter Hilfsvisier
 Dialogue: Marked=0,0:02:45.56,0:02:52.68,Default,,0,0,0,,das eine oder andere Anliegen zu Eurer heilige Erwägung vorbringen.
@@ -74,7 +74,7 @@ Dialogue: Marked=0,0:03:28.19,0:03:30.49,Default,,0,0,0,,Sie läßt meine verwel
 Dialogue: Marked=0,0:03:30.60,0:03:33.95,Default,,0,0,0,,Sehr gut, mein Herr. Sie wird sofort Euer sein.
 Dialogue: Marked=0,0:03:33.44,0:03:35.66,Default,,0,0,0,,Nein, sie ist meine Frau, verdammt!
 Dialogue: Marked=0,0:03:36.33,0:03:38.57,Default,,0,0,0,,Sprichst du gegen deinen Sultan?
-Dialogue: Marked=0,0:03:39.08,0:03:40.57,Default,,0,0,0,,Gegen deinen König???
+Dialogue: Marked=0,0:03:39.08,0:03:40.57,Default,,0,0,0,,Gegen deinen König?
 Dialogue: Marked=0,0:03:41.48,0:03:43.10,Default,,0,0,0,,Auf deine Knie, Junge!
 Dialogue: Marked=0,0:03:43.10,0:03:44.20,Default,,0,0,0,,Was? Nein!
 Dialogue: Marked=0,0:03:44.27,0:03:44.68,Default,,0,0,0,,Was...?

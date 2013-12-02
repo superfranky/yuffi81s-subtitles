@@ -3,15 +3,15 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 145
-Active Line: 156
-Video Zoom Percent: 1.75
+Scroll Position: 126
+Active Line: 153
+Video Zoom Percent: 0.875
 YCbCr Matrix: TV.601
 Last Style Storage: Default
 Audio URI: ..\..\video\Twisted Act 1 Part 7.mp4
 Video File: ..\..\video\Twisted Act 1 Part 7.mp4
 Video Aspect Ratio: c1.77778
-Video Position: 13119
+Video Position: 12751
 ScriptType: v4.00
 
 [V4 Styles]
@@ -33,14 +33,14 @@ Dialogue: Marked=0,0:00:16.67,0:00:20.77,Blind,,0,0,0,,I had to slit a few throa
 Dialogue: Marked=0,0:00:20.77,0:00:24.10,Jaffar,,0,0,0,,Oh yes. Yes! The other half of the golden scarab.
 Dialogue: Marked=0,0:00:24.10,0:00:27.35,Jaffar,,0,0,0,,Now I can finally find the entrance to the tiger head cave!
 Dialogue: Marked=0,0:00:27.35,0:00:29.70,Jaffar,,0,0,0,,Wait, wait! What? You've slit people's throats?
-Dialogue: Marked=0,0:00:29.70,0:00:32.02,Jaffar,,0,0,0,,I didn't tell you to kill anyone. This is aweful!
+Dialogue: Marked=0,0:00:29.70,0:00:32.02,Jaffar,,0,0,0,,I didn't tell you to kill anyone. This is awful!
 Dialogue: Marked=0,0:00:32.07,0:00:35.40,Blind,,0,0,0,,Ha, ha! Jaffar, no. That is just an expression.
 Dialogue: Marked=0,0:00:35.40,0:00:36.05,Jaffar,,0,0,0,,What?!?
 Dialogue: Marked=0,0:00:36.05,0:00:40.30,Blind,,0,0,0,,Yeah. Means I got that killer deal at the marketplace.
 Dialogue: Marked=0,0:00:40.30,0:00:42.45,Blind,,0,0,0,,Slit a killer deal.
 Dialogue: Marked=0,0:00:42.45,0:00:44.77,Jaffar,,0,0,0,,Oh, duh. So you bought it of a merchant then?
 Dialogue: Marked=0,0:00:44.77,0:00:46.77,Blind,,0,0,0,,Yeah! Yeah.
-Dialogue: Marked=0,0:00:49.07,0:00:51.52,Blind,,0,0,0,,A real ??? businessman too.
+Dialogue: Marked=0,0:00:49.07,0:00:51.52,Blind,,0,0,0,,A real shrewd businessman too.
 Dialogue: Marked=0,0:00:52.07,0:00:53.52,Blind,,0,0,0,,But I was not intimidated.
 Dialogue: Marked=0,0:00:53.80,0:00:57.07,Blind,,0,0,0,,No. I walked right into his shop.
 Dialogue: Marked=0,0:00:57.95,0:01:00.42,Blind,,0,0,0,,And I fucked his puppy.
@@ -63,8 +63,8 @@ Dialogue: Marked=0,0:01:54.22,0:01:57.37,Jaffar,,0,0,0,,He chopped your dick off
 Dialogue: Marked=0,0:01:57.37,0:01:59.02,Jaffar,,0,0,0,,That is a good o-
 Dialogue: Marked=0,0:01:59.02,0:02:00.10,Blind,,0,0,0,,What the fuck are you laughing at?
 Dialogue: Marked=0,0:02:00.35,0:02:01.72,Blind,,0,0,0,,You think that's funny, Jaffar?
-Dialogue: Marked=0,0:02:01.72,0:02:05.15,Blind,,0,0,0,,Maybe you'll like to have a look ???.
-Dialogue: Marked=0,0:02:05.65,0:02:06.70,Jaffar,,0,0,0,,Ugh!
+Dialogue: Marked=0,0:02:01.72,0:02:05.15,Blind,,0,0,0,,Maybe you'll like to have a look look, {\b1}at what he did yesterday!!!{\b0}
+Dialogue: Marked=0,0:02:05.65,0:02:06.70,Jaffar,,0,0,0,,{\b1}Ahhhh!{\b0} Ugh!
 Dialogue: Marked=0,0:02:06.70,0:02:07.80,Blind,,0,0,0,,Asshole!
 Dialogue: Marked=0,0:02:17.00,0:02:19.60,Jaffar,,0,0,0,,We've got a kingdom to save and a lamp to find.
 Dialogue: Marked=0,0:02:19.60,0:02:22.20,Jaffar,,0,0,0,,The tiger head cave is said to be a treacherous place.
@@ -75,11 +75,11 @@ Dialogue: Marked=0,0:02:30.97,0:02:35.90,Aladdin,,0,0,0,,You busted me out of ja
 Dialogue: Marked=0,0:02:35.90,0:02:38.87,Aladdin,,0,0,0,,And the only thing you want is a crummy old lamp?
 Dialogue: Marked=0,0:02:38.87,0:02:43.37,Jaffar,,0,0,0,,Precisely. The rest of the treasure is yours. But the lamp is mine.
 Dialogue: Marked=0,0:02:43.87,0:02:46.55,Aladdin,,0,0,0,,I love you, man!
-Dialogue: Marked=0,0:02:46.65,0:02:50.30,Aladdin,,0,0,0,,??? so much gold I could swim through it.
+Dialogue: Marked=0,0:02:46.65,0:02:50.30,Aladdin,,0,0,0,,'Cause I would have so much gold, I could swim through it.
 Dialogue: Marked=0,0:02:50.30,0:02:51.92,Aladdin,,0,0,0,,Like a pool.
 Dialogue: Marked=0,0:02:53.62,0:02:55.67,Aladdin,,0,0,0,,Think people could really do that?
 Dialogue: Marked=0,0:02:56.27,0:02:57.42,Jaffar,,0,0,0,,No.
-Dialogue: Marked=0,0:02:58.10,0:03:02.52,Jaffar,,0,0,0,,But once you have all that ???, you can finally leave your live of crime behind.
+Dialogue: Marked=0,0:02:58.10,0:03:02.52,Jaffar,,0,0,0,,But once you have all that money, you can finally leave your live of crime behind.
 Dialogue: Marked=0,0:03:02.52,0:03:05.92,Jaffar,,0,0,0,,Run away and never return.
 Dialogue: Marked=0,0:03:06.15,0:03:09.92,Aladdin,,0,0,0,,I'm totally gonna do that. I just gotta do this one thing first.
 Dialogue: Marked=0,0:03:09.92,0:03:11.92,Jaffar,,0,0,0,,Oh, what thing would that be?
@@ -87,7 +87,7 @@ Dialogue: Marked=0,0:03:12.35,0:03:15.32,Aladdin,,0,0,0,,Well, this thing...
 Dialogue: Marked=0,0:03:16.50,0:03:18.10,Aladdin,,0,0,0,,Is a girl.
 Dialogue: Marked=0,0:03:18.72,0:03:19.47,Jaffar,,0,0,0,,What?!?
 Dialogue: Marked=0,0:03:19.47,0:03:23.45,Aladdin,,0,0,0,,Yeah! She's got these eyes, the chest...
-Dialogue: Marked=0,0:03:24.27,0:03:27.05,Aladdin,,0,0,0,,And her butt, wow! And her ???, oh!
+Dialogue: Marked=0,0:03:24.27,0:03:27.05,Aladdin,,0,0,0,,And her butt, wow! And her totties, oh!
 Dialogue: Marked=0,0:03:27.65,0:03:29.72,Aladdin,,0,0,0,,She's just...
 Dialogue: Marked=0,0:03:29.72,0:03:32.92,Aladdin,,0,0,0,,She's just so - so -
 Dialogue: Marked=0,0:03:32.92,0:03:34.00,Jaffar,,0,0,0,,Beautiful?
@@ -96,7 +96,7 @@ Dialogue: Marked=0,0:03:37.00,0:03:38.40,Aladdin,,0,0,0,,But she's the princess.
 Dialogue: Marked=0,0:03:39.12,0:03:43.15,Aladdin,,0,0,0,,To even stand a chance, I'd have to have enough money to like...
 Dialogue: Marked=0,0:03:43.15,0:03:47.42,Aladdin,,0,0,0,,...hire an army of assassins to kill the royal Vizier and all the palace guards.
 Dialogue: Marked=0,0:03:47.62,0:03:49.32,Aladdin,,0,0,0,,Then I can sneak inn and you know...
-Dialogue: Marked=0,0:03:49.32,0:03:50.42,Aladdin,,0,0,0,,??? her.
+Dialogue: Marked=0,0:03:49.32,0:03:50.42,Aladdin,,0,0,0,,Porkher.
 Dialogue: Marked=0,0:03:51.02,0:03:55.70,Aladdin,,0,0,0,,'Cause dude, once I get my mind set on a chick - I just can't move on!
 Dialogue: Marked=0,0:03:55.70,0:03:57.70,Aladdin,,0,0,0,,Until I get this nut out.
 Dialogue: Marked=0,0:03:59.00,0:04:02.92,Jaffar,,0,0,0,,Well, first you must escape the tiger head cave with your live...
@@ -160,7 +160,7 @@ Dialogue: Marked=0,0:07:50.82,0:07:53.55,Jasmin,,0,0,0,,I want everything
 Dialogue: Marked=0,0:07:52.27,0:07:54.15,Aladdin,,0,0,0,,I'll steal everything
 Dialogue: Marked=0,0:07:54.15,0:07:59.22,Aladdin,,0,0,0,,Tonight
 Comment: Marked=0,0:07:54.15,0:07:59.22,Aladdin,,0,0,0,,End of song
-Dialogue: Marked=0,0:08:08.12,0:08:10.77,Aladdin,,0,0,0,,Woah!
+Dialogue: Marked=0,0:08:08.12,0:08:10.77,Aladdin,,0,0,0,,Woo hoo!
 Dialogue: Marked=0,0:08:10.32,0:08:11.60,Jaffar,,0,0,0,,Oh, what happened?
 Dialogue: Marked=0,0:08:11.60,0:08:15.07,Aladdin,,0,0,0,,Dude, I was swimming through this pile of gold in there, right?
 Dialogue: Marked=0,0:08:15.07,0:08:16.77,Aladdin,,0,0,0,,When it all turned into lava.
@@ -175,10 +175,10 @@ Dialogue: Marked=0,0:08:29.65,0:08:31.00,Jaffar,,0,0,0,,Precisely, that's the on
 Dialogue: Marked=0,0:08:31.00,0:08:35.05,Aladdin,,0,0,0,,No this couldn't be it. 'Cause this lamp has a magic djinn inside.
 Dialogue: Marked=0,0:08:35.05,0:08:37.75,Aladdin,,0,0,0,,He came out for a bit. He's really funny.
 Dialogue: Marked=0,0:08:38.12,0:08:43.77,Jaffar,,0,0,0,,Oh I'm sorry. I know about the djinn. I'm sorry that I deceived you. I just needed it to save the kingdom.
-Dialogue: Marked=0,0:08:43.77,0:08:45.20,Aladdin,,0,0,0,,??? you lied, dude.
+Dialogue: Marked=0,0:08:43.77,0:08:45.20,Aladdin,,0,0,0,,Well you lied, dude.
 Dialogue: Marked=0,0:08:45.20,0:08:48.07,Aladdin,,0,0,0,,All that other treasure was just lava in disguise.
 Dialogue: Marked=0,0:08:48.07,0:08:49.45,Aladdin,,0,0,0,,So I'm stealing this thing.
-Dialogue: Marked=0,0:08:49.45,0:08:51.45,Aladdin,,0,0,0,,Aladdin One. Old fart zip-o.
+Dialogue: Marked=0,0:08:49.45,0:08:51.45,Aladdin,,0,0,0,,Aladdin: One. Old fart: Zip-o.
 Dialogue: Marked=0,0:08:51.80,0:08:52.77,Aladdin,,0,0,0,,See ya!
 Dialogue: Marked=0,0:08:52.75,0:08:53.40,Jaffar,,0,0,0,,No!
 Dialogue: Marked=0,0:08:54.85,0:08:57.35,Jaffar,,0,0,0,,Noooo!
