@@ -9,8 +9,8 @@ Collisions: Normal
 PlayResX: 640
 PlayResY: 360
 Video Zoom Percent: 1
-Scroll Position: 69
-Active Line: 77
+Scroll Position: 0
+Active Line: 12
 Export Encoding: Local
 YCbCr Matrix: TV.601
 
@@ -31,7 +31,7 @@ Dialogue: Marked=0,0:00:25.58,0:00:28.59,Default,,0,0,0,,Sovereign of the land!
 Dialogue: Marked=0,0:00:29.10,0:00:32.83,Default,,0,0,0,,He of the two ladies.
 Dialogue: Marked=0,0:00:33.32,0:00:35.45,Default,,0,0,0,,Behold!
 Dialogue: Marked=0,0:00:35.68,0:00:38.33,Default,,0,0,0,,The son of Osiris
-Dialogue: Marked=0,0:00:39.10,0:00:41.18,Default,,0,0,0,,and ...[???]...!
+Dialogue: Marked=0,0:00:39.10,0:00:41.18,Default,,0,0,0,,Imperator!
 Dialogue: Marked=0,0:00:41.63,0:00:44.57,Default,,0,0,0,,The divine ruler!
 Dialogue: Marked=0,0:00:44.89,0:00:47.45,Default,,0,0,0,,Behold!
 Dialogue: Marked=0,0:00:47.87,0:00:49.45,Default,,0,0,0,,The royal

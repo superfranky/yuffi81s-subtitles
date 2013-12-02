@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 Export Encoding: Unicode (UTF-8)
 Video Zoom Percent: 1
-Scroll Position: 128
-Active Line: 139
+Scroll Position: 42
+Active Line: 70
 PlayResX: 640
 PlayResY: 360
 Last Style Storage: Default
@@ -95,7 +95,7 @@ Dialogue: Marked=0,0:04:11.75,0:04:15.27,Jaffar,,0,0,0,,What about that first pr
 Dialogue: Marked=0,0:04:15.55,0:04:19.77,Jasmin,,0,0,0,,I heard he once made out with a girl, while she was blacked out.
 Dialogue: Marked=0,0:04:19.92,0:04:21.57,Jasmin,,0,0,0,,That's not charming!
 Dialogue: Marked=0,0:04:21.57,0:04:23.40,Jasmin,,0,0,0,,That's kind of rapy.
-Dialogue: Marked=0,0:04:24.25,0:04:29.47,Jaffar,,0,0,0,,Well, what about prince Eric, the sea ??? floutist?
+Dialogue: Marked=0,0:04:24.25,0:04:29.47,Jaffar,,0,0,0,,Well, what about prince Eric, the sea-fairing floutist?
 Dialogue: Marked=0,0:04:29.47,0:04:31.37,Jasmin,,0,0,0,,He fucked a fish!
 Dialogue: Marked=0,0:04:32.62,0:04:34.35,Jaffar,,0,0,0,,He did not fuck a fish!
 Dialogue: Marked=0,0:04:34.35,0:04:36.17,Jasmin,,0,0,0,,He wanted to fuck a fish!

@@ -9,8 +9,8 @@ Collisions: Normal
 PlayResX: 640
 PlayResY: 360
 Video Zoom Percent: 1
-Scroll Position: 82
-Active Line: 115
+Scroll Position: 0
+Active Line: 12
 Export Encoding: Local
 YCbCr Matrix: TV.601
 
@@ -31,7 +31,7 @@ Dialogue: Marked=0,0:00:25.58,0:00:28.59,Default,,0,0,0,,Herrscher des Landes!
 Dialogue: Marked=0,0:00:29.10,0:00:32.83,Default,,0,0,0,,Er der zwei Frauen.
 Dialogue: Marked=0,0:00:33.32,0:00:35.45,Default,,0,0,0,,Sehet!!
 Dialogue: Marked=0,0:00:35.68,0:00:38.33,Default,,0,0,0,,Den Sohn des Osiris
-Dialogue: Marked=0,0:00:39.10,0:00:41.18,Default,,0,0,0,,und ...[???]...!
+Dialogue: Marked=0,0:00:39.10,0:00:41.18,Default,,0,0,0,,Imperator!
 Dialogue: Marked=0,0:00:41.63,0:00:44.57,Default,,0,0,0,,Der göttliche Herrscher!
 Dialogue: Marked=0,0:00:44.89,0:00:47.45,Default,,0,0,0,,Sehet!!
 Dialogue: Marked=0,0:00:47.87,0:00:49.45,Default,,0,0,0,,Den königlichen
@@ -48,7 +48,7 @@ Dialogue: Marked=0,0:01:30.32,0:01:33.07,Default,,0,0,0,,Vor vielen Jahren...\N[
 Dialogue: Marked=0,0:01:35.55,0:01:38.73,Default,,0,0,0,,nahm - ich - meinen - Finger
 Dialogue: Marked=0,0:01:41.69,0:01:43.00,Default,,0,0,0,,Und ich drückte meinen Penis nach innen.
 Dialogue: Marked=0,0:01:59.08,0:02:01.44,Default,,0,0,0,,Und er ist seitdem nicht mehr rausgekommen.
-Dialogue: Marked=0,0:02:11.36,0:02:12.76,Default,,0,0,0,,...[???]... 
+Dialogue: Marked=0,0:02:11.36,0:02:12.76,Default,,0,0,0,,...[???]...
 Dialogue: Marked=0,0:02:16.56,0:02:21.96,Default,,0,0,0,,Eine sehr weise und spannende Geschichte, mein Herr!
 Dialogue: Marked=0,0:02:22.25,0:02:26.11,Default,,0,0,0,,Wir können alle etwas daraus lernen... nehme ich an...
 Dialogue: Marked=0,0:02:26.91,0:02:29.18,Default,,0,0,0,,Hmmmm, wo ist mein Opium?

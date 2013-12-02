@@ -9,13 +9,9 @@ Collisions: Normal
 PlayResX: 640
 PlayResY: 360
 Scroll Position: 33
-Active Line: 55
+Active Line: 56
 Video Zoom Percent: 1
 Export Encoding: Unicode (UTF-8)
-Audio URI: ..\..\video\Twisted Act 1 Part 3.mp4
-Video File: ..\..\video\Twisted Act 1 Part 3.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 4374
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -79,7 +75,7 @@ Dialogue: Marked=0,0:02:51.00,0:02:54.84,Default,,0,0,0,,The day the palace fina
 Dialogue: Marked=0,0:02:55.08,0:02:57.24,Default,,0,0,0,,Assistant Vizier to the sultan.
 Dialogue: Marked=0,0:02:57.44,0:02:59.50,Default,,0,0,0,,Well, you'll straighten out those crocked politicians!
 Dialogue: Marked=0,0:02:59.50,0:03:00.17,Default,,0,0,0,,I'm sure of it!
-Dialogue: Marked=0,0:03:00.03,0:03:04.28,Default,,0,0,0,,Oh, now, now, ...[???]... I'm sure the higher ups in the palace should doing their very best.
+Dialogue: Marked=0,0:03:00.03,0:03:04.28,Default,,0,0,0,,Oh, now, now, people. I'm sure the higher ups in the palace should doing their very best.
 Dialogue: Marked=0,0:03:04.28,0:03:08.65,Default,,0,0,0,,They just need someone with strong resolve to keep them on the straight and narrow...
 Dialogue: Marked=0,0:03:08.73,0:03:11.26,Default,,0,0,0,,I suppose you're right, Jaffar. But how do you do it?
 Dialogue: Marked=0,0:03:11.42,0:03:14.08,Default,,0,0,0,,How is it that you are so good to everyone in need?
