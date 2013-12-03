@@ -3,15 +3,15 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 126
-Active Line: 153
-Video Zoom Percent: 0.875
+Scroll Position: 141
+Active Line: 152
+Video Zoom Percent: 1.75
 YCbCr Matrix: TV.601
 Last Style Storage: Default
 Audio URI: ..\..\video\Twisted Act 1 Part 7.mp4
 Video File: ..\..\video\Twisted Act 1 Part 7.mp4
 Video Aspect Ratio: c1.77778
-Video Position: 12751
+Video Position: 13005
 ScriptType: v4.00
 
 [V4 Styles]
@@ -47,23 +47,23 @@ Dialogue: Marked=0,0:00:57.95,0:01:00.42,Blind,,0,0,0,,And I fucked his puppy.
 Dialogue: Marked=0,0:01:01.85,0:01:02.82,Jaffar,,0,0,0,,What?!?
 Dialogue: Marked=0,0:01:03.20,0:01:07.07,Blind,,0,0,0,,*laughing*
 Dialogue: Marked=0,0:01:07.07,0:01:10.72,Blind,,0,0,0,,Jaffar, that is another common expression.
-Dialogue: Marked=0,0:01:11.40,0:01:15.95,Blind,,0,0,0,,Uhg. That means that I put that merchant in his place.
+Dialogue: Marked=0,0:01:11.40,0:01:15.95,Blind,,0,0,0,,Yeah. It means that I put that merchant in his place.
 Dialogue: Marked=0,0:01:15.95,0:01:19.05,Blind,,0,0,0,,As if he were a defenseless little puppy.
 Dialogue: Marked=0,0:01:19.05,0:01:20.40,Jaffar,,0,0,0,,Oh!
 Dialogue: Marked=0,0:01:21.40,0:01:25.07,Jaffar,,0,0,0,,Colorful expressions in the marketplace these days.
 Dialogue: Marked=0,0:01:25.07,0:01:28.65,Blind,,0,0,0,,Jaffar, you need to learn to relax.
-Dialogue: Marked=0,0:01:28.92,0:01:31.97,Blind,,0,0,0,,Not take everything to serious, huh?
+Dialogue: Marked=0,0:01:28.92,0:01:31.97,Blind,,0,0,0,,Not take everything so serious man, huh?
 Dialogue: Marked=0,0:01:31.37,0:01:35.45,Jaffar,,0,0,0,,Well, I beg your pardon. You've done an excellent Job. Here's your payment.
 Dialogue: Marked=0,0:01:35.60,0:01:37.20,Blind,,0,0,0,,Ah, thank you.
 Dialogue: Marked=0,0:01:37.20,0:01:39.20,Blind,,0,0,0,,It went great.
-Dialogue: Marked=0,0:01:39.60,0:01:42.97,Blind,,0,0,0,,Until that merchant realize how bad I screwed him on the price.
-Dialogue: Marked=0,0:01:43.87,0:01:47.15,Blind,,0,0,0,,Man, did he ever chopped my dick off.
+Dialogue: Marked=0,0:01:39.60,0:01:42.97,Blind,,0,0,0,,Until that merchant realized how bad I screwed him on the price.
+Dialogue: Marked=0,0:01:43.87,0:01:47.15,Blind,,0,0,0,,Man, did he ever chop my dick off.
 Dialogue: Marked=0,0:01:50.80,0:01:54.22,Jaffar,,0,0,0,,*laughing*
 Dialogue: Marked=0,0:01:54.22,0:01:57.37,Jaffar,,0,0,0,,He chopped your dick off! *laughing*
 Dialogue: Marked=0,0:01:57.37,0:01:59.02,Jaffar,,0,0,0,,That is a good o-
 Dialogue: Marked=0,0:01:59.02,0:02:00.10,Blind,,0,0,0,,What the fuck are you laughing at?
 Dialogue: Marked=0,0:02:00.35,0:02:01.72,Blind,,0,0,0,,You think that's funny, Jaffar?
-Dialogue: Marked=0,0:02:01.72,0:02:05.15,Blind,,0,0,0,,Maybe you'll like to have a look look, {\b1}at what he did yesterday!!!{\b0}
+Dialogue: Marked=0,0:02:01.72,0:02:05.15,Blind,,0,0,0,,Maybe you'll like to have a look, {\b1}at what he did yesterday!!!{\b0}
 Dialogue: Marked=0,0:02:05.65,0:02:06.70,Jaffar,,0,0,0,,{\b1}Ahhhh!{\b0} Ugh!
 Dialogue: Marked=0,0:02:06.70,0:02:07.80,Blind,,0,0,0,,Asshole!
 Dialogue: Marked=0,0:02:17.00,0:02:19.60,Jaffar,,0,0,0,,We've got a kingdom to save and a lamp to find.
@@ -99,7 +99,7 @@ Dialogue: Marked=0,0:03:47.62,0:03:49.32,Aladdin,,0,0,0,,Then I can sneak inn an
 Dialogue: Marked=0,0:03:49.32,0:03:50.42,Aladdin,,0,0,0,,Porkher.
 Dialogue: Marked=0,0:03:51.02,0:03:55.70,Aladdin,,0,0,0,,'Cause dude, once I get my mind set on a chick - I just can't move on!
 Dialogue: Marked=0,0:03:55.70,0:03:57.70,Aladdin,,0,0,0,,Until I get this nut out.
-Dialogue: Marked=0,0:03:59.00,0:04:02.92,Jaffar,,0,0,0,,Well, first you must escape the tiger head cave with your live...
+Dialogue: Marked=0,0:03:59.00,0:04:02.92,Jaffar,,0,0,0,,Well, first you must escape the tiger head cave with your life...
 Dialogue: Marked=0,0:04:02.92,0:04:05.20,Jaffar,,0,0,0,,...{\b1}then you can get your nut out.{\b0}
 Dialogue: Marked=0,0:04:06.42,0:04:10.02,Jaffar,,0,0,0,,Your eternal nut out.
 Dialogue: Marked=0,0:04:10.15,0:04:12.52,Aladdin,,0,0,0,,Nice. So where's this place anyway?
@@ -138,7 +138,7 @@ Dialogue: Marked=0,0:06:13.87,0:06:17.22,Jaffar,,0,0,0,,And one day the genie wi
 Dialogue: Marked=0,0:06:17.22,0:06:20.52,Jaffar,,0,0,0,,Jaffar you're a man of such virtue
 Dialogue: Marked=0,0:06:20.65,0:06:26.62,Jaffar,,0,0,0,,I hate to see how your loneliness and your memories hurt you
 Dialogue: Marked=0,0:06:27.17,0:06:29.87,Jaffar,,0,0,0,,Shouldn't a man who's so noble
-Dialogue: Marked=0,0:06:30.25,0:06:33.55,Jaffar,,0,0,0,,And who's influence so global
+Dialogue: Marked=0,0:06:30.25,0:06:33.55,Jaffar,,0,0,0,,And who's influence is so global
 Dialogue: Marked=0,0:06:33.72,0:06:37.47,Jaffar,,0,0,0,,Have someone by his side
 Dialogue: Marked=0,0:06:38.92,0:06:40.90,Jaffar,,0,0,0,,I know what you're wishin'
 Dialogue: Marked=0,0:06:40.90,0:06:42.75,Jaffar,,0,0,0,,So with your permission
@@ -147,7 +147,7 @@ Dialogue: Marked=0,0:07:09.22,0:07:13.32,Jaffar,,0,0,0,,And with my wife beside 
 Dialogue: Marked=0,0:07:13.32,0:07:16.45,Jaffar,,0,0,0,,My failures will be absolved
 Dialogue: Marked=0,0:07:16.62,0:07:20.02,Jaffar,,0,0,0,,The world will be a paradise
 Dialogue: Marked=0,0:07:20.02,0:07:22.97,Jaffar,,0,0,0,,With all it's problems solved
-Dialogue: Marked=0,0:07:22.97,0:07:26.65,Jaffar,,0,0,0,,We'll retire off to some far place
+Dialogue: Marked=0,0:07:22.97,0:07:26.65,Jaffar,,0,0,0,,We'll retire to some far off place
 Dialogue: Marked=0,0:07:26.65,0:07:30.35,Jaffar,,0,0,0,,And share an itty-bitty living space
 Dialogue: Marked=0,0:07:30.35,0:07:35.50,Jaffar,,0,0,0,,A humble yet cozy abode
 Dialogue: Marked=0,0:07:35.50,0:07:40.70,Jaffar,,0,0,0,,Where we can write our own happy ending
