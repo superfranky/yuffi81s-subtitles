@@ -3,15 +3,11 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 141
-Active Line: 152
-Video Zoom Percent: 1.75
+Scroll Position: 40
+Active Line: 70
+Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Last Style Storage: Default
-Audio URI: ..\..\video\Twisted Act 1 Part 7.mp4
-Video File: ..\..\video\Twisted Act 1 Part 7.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 13005
 ScriptType: v4.00
 
 [V4 Styles]
@@ -68,7 +64,7 @@ Dialogue: Marked=0,0:02:05.65,0:02:06.70,Jaffar,,0,0,0,,{\b1}Ahhhh!{\b0} Ugh!
 Dialogue: Marked=0,0:02:06.70,0:02:07.80,Blind,,0,0,0,,Asshole!
 Dialogue: Marked=0,0:02:17.00,0:02:19.60,Jaffar,,0,0,0,,We've got a kingdom to save and a lamp to find.
 Dialogue: Marked=0,0:02:19.60,0:02:22.20,Jaffar,,0,0,0,,The tiger head cave is said to be a treacherous place.
-Dialogue: Marked=0,0:02:22.20,0:02:26.50,Jaffar,,0,0,0,,But no matter. I know just the able bodied soul I can risk.
+Dialogue: Marked=0,0:02:22.20,0:02:26.50,Jaffar,,0,0,0,,But no matter. I know just the able-bodied soul I can risk.
 Dialogue: Marked=0,0:02:26.50,0:02:28.50,Jaffar,,0,0,0,,In good conscience.
 Dialogue: Marked=0,0:02:28.85,0:02:30.50,Aladdin,,0,0,0,,So let me get this straight.
 Dialogue: Marked=0,0:02:30.97,0:02:35.90,Aladdin,,0,0,0,,You busted me out of jail so I could go to a cave filled with mountains of gold.
@@ -95,7 +91,7 @@ Dialogue: Marked=0,0:03:34.00,0:03:36.00,Aladdin,,0,0,0,,Fuckable!
 Dialogue: Marked=0,0:03:37.00,0:03:38.40,Aladdin,,0,0,0,,But she's the princess.
 Dialogue: Marked=0,0:03:39.12,0:03:43.15,Aladdin,,0,0,0,,To even stand a chance, I'd have to have enough money to like...
 Dialogue: Marked=0,0:03:43.15,0:03:47.42,Aladdin,,0,0,0,,...hire an army of assassins to kill the royal Vizier and all the palace guards.
-Dialogue: Marked=0,0:03:47.62,0:03:49.32,Aladdin,,0,0,0,,Then I can sneak inn and you know...
+Dialogue: Marked=0,0:03:47.62,0:03:49.32,Aladdin,,0,0,0,,Then I can sneak in and you know...
 Dialogue: Marked=0,0:03:49.32,0:03:50.42,Aladdin,,0,0,0,,Porkher.
 Dialogue: Marked=0,0:03:51.02,0:03:55.70,Aladdin,,0,0,0,,'Cause dude, once I get my mind set on a chick - I just can't move on!
 Dialogue: Marked=0,0:03:55.70,0:03:57.70,Aladdin,,0,0,0,,Until I get this nut out.
