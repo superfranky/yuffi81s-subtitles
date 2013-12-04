@@ -3,15 +3,15 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 122
-Active Line: 123
-Video Zoom Percent: 1.75
+Scroll Position: 105
+Active Line: 109
+Video Zoom Percent: 2
 YCbCr Matrix: TV.601
 Last Style Storage: Default
-Audio URI: ..\..\..\Twisted Act 1 Part 7.mp4
-Video File: ..\..\..\Twisted Act 1 Part 7.mp4
+Audio URI: ..\..\video\Twisted Act 1 Part 7.mp4
+Video File: ..\..\video\Twisted Act 1 Part 7.mp4
 Video Aspect Ratio: c1.77778
-Video Position: 13062
+Video Position: 12930
 Export Encoding: Local
 ScriptType: v4.00
 
@@ -122,7 +122,7 @@ Dialogue: Marked=0,0:05:06.00,0:05:09.55,Aladdin,,0,0,0,,Ich kann es nicht erwar
 Dialogue: Marked=0,0:05:09.55,0:05:12.02,Aladdin,,0,0,0,,denn ich habe gehört man sagt
 Dialogue: Marked=0,0:05:12.02,0:05:16.85,Aladdin,,0,0,0,,dass Stehlen soviel einfacher ist, wenn man schon tonnenweise Gold hat
 Dialogue: Marked=0,0:05:16.85,0:05:19.30,Aladdin,,0,0,0,,aber ich habe mein Auge geworfen
-Dialogue: Marked=0,0:05:19.30,0:05:22.05,Aladdin,,0,0,0,,auf das , was Geld nicht kaufen kann
+Dialogue: Marked=0,0:05:19.30,0:05:22.05,Aladdin,,0,0,0,,auf das, was Geld nicht kaufen kann
 Dialogue: Marked=0,0:05:22.32,0:05:27.25,Aladdin,,0,0,0,,Denn diese Prinzessin ist ooh spitze
 Dialogue: Marked=0,0:05:27.25,0:05:30.87,Aladdin,,0,0,0,,ich werde derjenige sein, der
 Dialogue: Marked=0,0:05:30.87,0:05:33.80,Aladdin,,0,0,0,,ihre Höhle der Wunder plündert
@@ -134,9 +134,9 @@ Dialogue: Marked=0,0:05:47.65,0:05:50.07,Jasmin,,0,0,0,,wenn du keinen Kopf hast
 Dialogue: Marked=0,0:05:50.07,0:05:54.95,Jasmin,,0,0,0,,ich wünschte, dass du wegfliegen könntest
 Dialogue: Marked=0,0:05:54.95,0:05:57.80,Jasmin,,0,0,0,,irgendwie entkommen und aufsteigen
 Dialogue: Marked=0,0:05:57.80,0:06:06.22,Jasmin,,0,0,0,,und mich zu einer Welt bringen, wo wir alles haben werden und mehr
-Dialogue: Marked=0,0:06:07.97,0:06:11.75,Jaffar,,0,0,0,,Oh hier ist er! Der Eingang zur Tigerkopfhöhle. Hinein mit dir!
-Dialogue: Marked=0,0:06:13.87,0:06:17.22,Jaffar,,0,0,0,,Und eines Tagess wird der Dschinn zu mir sagen
-Dialogue: Marked=0,0:06:17.22,0:06:20.52,Jaffar,,0,0,0,,Jaffar du bist ein so tugendhafter Mann
+Dialogue: Marked=0,0:06:07.97,0:06:11.75,Jaffar,,0,0,0,,Oh, hier ist er! Der Eingang zur Tigerkopfhöhle. Hinein mit dir!
+Dialogue: Marked=0,0:06:13.87,0:06:17.22,Jaffar,,0,0,0,,Und eines Tages wird der Dschinn zu mir sagen
+Dialogue: Marked=0,0:06:17.22,0:06:20.52,Jaffar,,0,0,0,,Jaffar, du bist ein so tugendhafter Mann
 Dialogue: Marked=0,0:06:20.65,0:06:26.62,Jaffar,,0,0,0,,ich hasse es zu sehen, wie deine Einsamkeit und deine Erinnerungen dich schmerzen
 Dialogue: Marked=0,0:06:27.17,0:06:29.87,Jaffar,,0,0,0,,sollte nicht ein Mann, der so edel ist
 Dialogue: Marked=0,0:06:30.25,0:06:33.55,Jaffar,,0,0,0,,und dessen Einfluss so global ist
