@@ -8,14 +8,10 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 256
-Active Line: 269
-Video Zoom Percent: 1.625
+Scroll Position: 81
+Active Line: 102
+Video Zoom Percent: 1
 Export Encoding: Local
-Audio URI: ..\..\video\Twisted Act 1 Part 1.mp4
-Video File: ..\..\video\Twisted Act 1 Part 1.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 22851
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -126,7 +122,7 @@ Dialogue: Marked=0,0:05:41.16,0:05:45.03,Default,,0,0,0,,Was ich Planung nenne, 
 Dialogue: Marked=0,0:05:45.23,0:05:50.10,Default,,0,0,0,,Was ich Einbildung nenne, nennen sie träumen.
 Dialogue: Marked=0,0:05:50.10,0:05:55.93,Default,,0,0,0,,Warum bin ich der einzige, der die Dinge so sieht, wie sie sind?
 Dialogue: Marked=0,0:05:56.60,0:05:59.06,Default,,0,0,0,,Wünsch es dir etwas mehr!
-Dialogue: Marked=0,0:05:57.26,0:05:58.83,Default,,0,0,0,,Ich brauche Erfolg!
+Dialogue: Marked=0,0:05:57.26,0:05:58.83,Default,,0,0,0,,Ich brauche Eier!
 Dialogue: Marked=0,0:05:58.83,0:06:00.43,Default,,0,0,0,,Warum kaufst du dir nicht welchen?
 Dialogue: Marked=0,0:06:00.73,0:06:03.10,Default,,0,0,0,,Ich will fliegen!
 Dialogue: Marked=0,0:06:02.00,0:06:03.86,Default,,0,0,0,,Das ist unrealistisch!

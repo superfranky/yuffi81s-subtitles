@@ -8,13 +8,13 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Audio URI: ..\..\..\..\Twisted Act 2 Part 5.mp4
-Scroll Position: 105
-Active Line: 107
-Video Zoom Percent: 1.625
-Video File: ..\..\..\..\Twisted Act 2 Part 5.mp4
+Audio URI: ..\..\video\Twisted Act 2 Part 5.mp4
+Scroll Position: 176
+Active Line: 182
+Video Zoom Percent: 1.875
+Video File: ..\..\video\Twisted Act 2 Part 5.mp4
 Video Aspect Ratio: c1.77778
-Video Position: 21082
+Video Position: 21066
 Export Encoding: Local
 YCbCr Matrix: TV.601
 
@@ -103,7 +103,7 @@ Comment: Marked=0,0:05:33.10,0:05:40.06,Default,,0,0,0,,End of song
 Dialogue: Marked=0,0:05:47.12,0:05:49.98,Default,,0,0,0,,Princess! Princess, there you are!
 Dialogue: Marked=0,0:05:49.98,0:05:51.02,Default,,0,0,0,,Uh! What is it?
 Dialogue: Marked=0,0:05:51.02,0:05:56.17,Default,,0,0,0,,It's your father! We went in to give him his daily pleasurings, and we found him - dead!
-Dialogue: Marked=0,0:05:56.17,0:06:02.27,Default,,0,0,0,,In his cold dead hand we found this declaration. Apparently his last act of sultan ...[???]...
+Dialogue: Marked=0,0:05:56.17,0:06:02.27,Default,,0,0,0,,In his cold dead hand we found this declaration. Apparently his last act of sultan was signing it.
 Dialogue: Marked=0,0:06:02.88,0:06:08.86,Default,,0,0,0,,From this moment forth the princess shall be the majority stockholder and so ruler of the kingdom.
 Dialogue: Marked=0,0:06:08.94,0:06:10.48,Default,,0,0,0,,Princess, it's a miracle!
 Dialogue: Marked=0,0:06:10.62,0:06:11.16,Default,,0,0,0,,What?
@@ -170,12 +170,12 @@ Dialogue: Marked=0,0:09:43.28,0:09:44.48,Default,,0,0,0,,So I've come back.
 Dialogue: Marked=0,0:09:45.53,0:09:47.32,Default,,0,0,0,,To stay with you in the lamp.
 Dialogue: Marked=0,0:09:49.00,0:09:50.54,Default,,0,0,0,,Doesn't this make you happy?
 Dialogue: Marked=0,0:09:50.81,0:09:54.17,Default,,0,0,0,,Yes, of course! But doesn't that mean, you're trapped here forever?
-Dialogue: Marked=0,0:09:54.51,0:09:57.36,Default,,0,0,0,,I alway said 1001 nights wasn't enough.
+Dialogue: Marked=0,0:09:54.51,0:09:57.36,Default,,0,0,0,,I always said 1001 nights wasn't enough.
 Dialogue: Marked=0,0:09:58.38,0:10:00.83,Default,,0,0,0,,Oh, then the princess! She really did it!
 Dialogue: Marked=0,0:10:01.02,0:10:01.84,Default,,0,0,0,,Her other wished...
 Dialogue: Marked=0,0:10:01.84,0:10:03.13,Default,,0,0,0,,...came true as well!
 Dialogue: Marked=0,0:10:03.44,0:10:07.87,Default,,0,0,0,,By making everyone a princess she ensured that they were all treated with respect and compassion.
-Dialogue: Marked=0,0:10:09.08,0:10:11.20,Default,,0,0,0,,They all did then to others as they were done ...[???]... too.
+Dialogue: Marked=0,0:10:09.08,0:10:11.20,Default,,0,0,0,,They all did then to others as they were done onto.
 Dialogue: Marked=0,0:10:11.20,0:10:13.00,Default,,0,0,0,,She followed the golden rule!
 Dialogue: Marked=0,0:10:13.00,0:10:15.96,Default,,0,0,0,,And lead her people into the third golden age.
 Dialogue: Marked=0,0:10:15.96,0:10:18.76,Default,,0,0,0,,But Shahrazade, how do you know these things?
