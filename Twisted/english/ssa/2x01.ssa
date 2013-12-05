@@ -8,13 +8,9 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Audio URI: ..\..\video\Twisted Act 2 Part 1.mp4
-Scroll Position: 107
-Active Line: 112
-Video Zoom Percent: 1.75
-Video File: ..\..\video\Twisted Act 2 Part 1.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 10280
+Scroll Position: 6
+Active Line: 25
+Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
 
@@ -48,7 +44,7 @@ Dialogue: Marked=0,0:01:09.92,0:01:13.18,Default,,0,0,0,,That's right, CLAWMARKS
 Dialogue: Marked=0,0:01:13.18,0:01:14.89,Default,,0,0,0,,Aaaah!
 Dialogue: Marked=0,0:01:14.68,0:01:17.61,Default,,0,0,0,,And how do you suppose they got there?
 Dialogue: Marked=0,0:01:17.98,0:01:20.25,Default,,0,0,0,,You received the manhood of a badger.
-Dialogue: Marked=0,0:01:20.25,0:01:22.86,Default,,0,0,0,,Oh... ah,you smiled at a crocodile.
+Dialogue: Marked=0,0:01:20.25,0:01:22.86,Default,,0,0,0,,Oh... ah, you smiled at a crocodile.
 Dialogue: Marked=0,0:01:24.17,0:01:26.38,Default,,0,0,0,,Those are stretch marks, they happen.
 Dialogue: Marked=0,0:01:29.13,0:01:31.26,Default,,0,0,0,,It was a tiger!
 Dialogue: Marked=0,0:01:31.42,0:01:33.37,Default,,0,0,0,,Oh! I see...
