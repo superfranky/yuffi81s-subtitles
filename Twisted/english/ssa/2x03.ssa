@@ -8,12 +8,12 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 233
-Active Line: 246
+Scroll Position: 195
+Active Line: 205
 Video Zoom Percent: 1.625
 Video File: ..\..\video\Twisted Act 2 Part 3.mp4
 Video Aspect Ratio: c1.77778
-Video Position: 18494
+Video Position: 13992
 Audio URI: ..\..\video\Twisted Act 2 Part 3.mp4
 Export Encoding: Local
 YCbCr Matrix: TV.601
@@ -46,7 +46,7 @@ Dialogue: Marked=0,0:00:49.56,0:00:50.30,Default,,0,0,0,,Like always.
 Dialogue: Marked=0,0:00:51.80,0:00:55.68,Default,,0,0,0,,And like always I've had to rectify your incompetence!
 Dialogue: Marked=0,0:00:55.68,0:00:57.05,Default,,0,0,0,,What? How?
 Dialogue: Marked=0,0:00:57.05,0:00:59.72,Default,,0,0,0,,Yes, the princess has finally chosen a suiter.
-Dialogue: Marked=0,0:01:00.11,0:01:02.35,Default,,0,0,0,,A prince whom she shall wait ...[???]...
+Dialogue: Marked=0,0:01:00.11,0:01:02.35,Default,,0,0,0,,A prince whom she shall wed upon the morrow.
 Dialogue: Marked=0,0:01:02.60,0:01:05.66,Default,,0,0,0,,Ah, he will call upon his armies and they will defeat prince Achmed.
 Dialogue: Marked=0,0:01:05.66,0:01:07.87,Default,,0,0,0,,Well, who is this man, this hero?
 Dialogue: Marked=0,0:01:07.87,0:01:10.19,Default,,0,0,0,,My, the greatest prince in all the world!
@@ -80,8 +80,8 @@ Dialogue: Marked=0,0:02:14.17,0:02:14.86,Default,,0,0,0,,Bullshit!
 Dialogue: Marked=0,0:02:16.35,0:02:19.08,Default,,0,0,0,,Why would I pretend to be a prince? Just to get layed? That's not me!
 Dialogue: Marked=0,0:02:19.08,0:02:22.86,Default,,0,0,0,,Boy, do the first good deed of your life and hand over the lamp!
 Dialogue: Marked=0,0:02:23.00,0:02:26.08,Default,,0,0,0,,You have selfishly squandered it's magic for long enough!
-Dialogue: Marked=0,0:02:26.08,0:02:28.08,Default,,0,0,0,,Wow, wow, wow!
-Dialogue: Marked=0,0:02:29.29,0:02:30.65,Default,,0,0,0,,Why are you pecking on me, Jaffar?
+Dialogue: Marked=0,0:02:26.08,0:02:28.08,Default,,0,0,0,,Woah, woah, woah!
+Dialogue: Marked=0,0:02:29.29,0:02:30.65,Default,,0,0,0,,Why are you picking on me, Jaffar?
 Dialogue: Marked=0,0:02:32.22,0:02:33.87,Default,,0,0,0,,You're afraid I'll reveal your little secret?
 Dialogue: Marked=0,0:02:33.96,0:02:35.40,Default,,0,0,0,,What secret?
 Dialogue: Marked=0,0:02:35.40,0:02:36.35,Default,,0,0,0,,Does anybody else here...
@@ -106,7 +106,7 @@ Dialogue: Marked=0,0:03:07.16,0:03:09.16,Default,,0,0,0,,See, you fucking know t
 Dialogue: Marked=0,0:03:10.24,0:03:14.09,Default,,0,0,0,,You are flying by the seat of your pants, boy! No one here believes you!
 Dialogue: Marked=0,0:03:14.22,0:03:14.56,Default,,0,0,0,,Yes...
 Dialogue: Marked=0,0:03:15.77,0:03:17.16,Default,,0,0,0,,I can't believe it.
-Dialogue: Marked=0,0:03:18.28,0:03:22.78,Default,,0,0,0,,I have had a sorcerer in my mids this entire time!
+Dialogue: Marked=0,0:03:18.28,0:03:22.78,Default,,0,0,0,,I have had a sorcerer in my midst this entire time!
 Dialogue: Marked=0,0:03:22.97,0:03:24.99,Default,,0,0,0,,Guards! Capture that sorcerer!
 Dialogue: Marked=0,0:03:24.72,0:03:26.12,Default,,0,0,0,,What?!? No!
 Dialogue: Marked=0,0:03:26.12,0:03:28.12,Default,,0,0,0,,This is your own fault, Jaffar!
@@ -115,18 +115,18 @@ Dialogue: Marked=0,0:03:31.52,0:03:38.41,Default,,0,0,0,,You're idiots! You're a
 Dialogue: Marked=0,0:03:38.54,0:03:41.90,Default,,0,0,0,,How I ever served you for all these years I'll never understand!
 Dialogue: Marked=0,0:03:41.90,0:03:45.44,Default,,0,0,0,,I would have expected this from all of you bozos, but princess:
 Dialogue: Marked=0,0:03:45.68,0:03:48.60,Default,,0,0,0,,I am very disappointed in you!
-Dialogue: Marked=0,0:03:48.60,0:03:52.14,Default,,0,0,0,,Alright, I've heard enough, seize that ...[???]... betrayer, off with his head!\N[Could be Reference to: Disney's Alice in wonderland]
+Dialogue: Marked=0,0:03:48.60,0:03:52.14,Default,,0,0,0,,Alright, I've heard enough, seize that vile betrayer, off with his head!\N[Could be Reference to: Disney's Alice in wonderland]
 Dialogue: Marked=0,0:03:51.88,0:03:53.53,Default,,0,0,0,,No. I don't want to get my head chopped off!
 Dialogue: Marked=0,0:03:53.68,0:03:58.24,Default,,0,0,0,,So I'm going to combine this bottle of potassium chlorate and this bottle of sodium bicarbonate...
 Dialogue: Marked=0,0:03:58.35,0:04:02.48,Default,,0,0,0,,... to create a large cloud of smoke, which I'll use as a cover to make my escape.
 Dialogue: Marked=0,0:04:02.64,0:04:08.30,Default,,0,0,0,,It will look as if something magical has happened, but it's simply a chemical reaction. Not sorcery.
 Dialogue: Marked=0,0:04:09.02,0:04:10.03,Default,,0,0,0,,Chemistry!
 Dialogue: Marked=0,0:04:11.77,0:04:12.46,Default,,0,0,0,,And poof!
-Dialogue: Marked=0,0:04:12.46,0:04:19.15,Default,,0,0,0,,[Excitement and caughing]
+Dialogue: Marked=0,0:04:12.46,0:04:19.15,Default,,0,0,0,,[Excitement and coughing]
 Dialogue: Marked=0,0:04:19.15,0:04:19.69,Default,,0,0,0,,Wow!
-Dialogue: Marked=0,0:04:21.05,0:04:22.80,Default,,0,0,0,,I thought this was bullshit, you guys.
-Dialogue: Marked=0,0:04:23.21,0:04:24.83,Default,,0,0,0,,But he actually was a sorcerer!
-Dialogue: Marked=0,0:04:25.74,0:04:27.84,Default,,0,0,0,,...[???]... sorcerer!
+Dialogue: Marked=0,0:04:21.05,0:04:22.80,Default,,0,0,0,,I thought I was just bullshitting you guys, ...
+Dialogue: Marked=0,0:04:23.21,0:04:24.83,Default,,0,0,0,,...but he actually was a sorcerer!
+Dialogue: Marked=0,0:04:25.74,0:04:27.84,Default,,0,0,0,,{\b1}Oh, I was in the same room as a sorcerer!{\b0}
 Dialogue: Marked=0,0:04:28.00,0:04:29.02,Default,,0,0,0,,Captain!
 Dialogue: Marked=0,0:04:29.34,0:04:30.76,Default,,0,0,0,,Find that sorcerer!
 Dialogue: Marked=0,0:04:31.20,0:04:32.59,Default,,0,0,0,,Oh, I can handle this!
@@ -164,7 +164,7 @@ Dialogue: Marked=0,0:06:20.88,0:06:23.64,Default,,0,0,0,,I used to be the ruler 
 Dialogue: Marked=0,0:06:23.80,0:06:26.88,Default,,0,0,0,,I was benevolent and always kept my word
 Dialogue: Marked=0,0:06:27.36,0:06:30.75,Default,,0,0,0,,but my brother held the antiquated notion
 Dialogue: Marked=0,0:06:31.07,0:06:34.57,Default,,0,0,0,,that women should be seen and never heard
-Dialogue: Marked=0,0:06:34.86,0:06:41.10,Default,,0,0,0,,So he dethroned me\Nthen disowned me\Nand on top of that ...[???]...(re-zoned?) me
+Dialogue: Marked=0,0:06:34.86,0:06:41.10,Default,,0,0,0,,So he dethroned me\Nthen disowned me\Nand on top of that re-zoned me
 Dialogue: Marked=0,0:06:41.10,0:06:44.01,Default,,0,0,0,,to the outskirts of the kingdom in a cave
 Dialogue: Marked=0,0:06:44.36,0:06:48.54,Default,,0,0,0,,took my scepter and my crown\Nthough I tried to take him down
 Dialogue: Marked=0,0:06:48.65,0:06:53.61,Default,,0,0,0,,The truth and I now share a watery grave
@@ -228,7 +228,7 @@ Dialogue: Marked=0,0:09:37.52,0:09:38.65,Default,,0,0,0,,To live in harmony!
 Dialogue: Marked=0,0:09:38.57,0:09:39.37,Default,,0,0,0,,For once!
 Dialogue: Marked=0,0:09:39.37,0:09:41.50,Default,,0,0,0,,I never knew my father!
 Dialogue: Marked=0,0:09:41.69,0:09:42.67,Default,,0,0,0,,I only wished
-Dialogue: Marked=0,0:09:42.67,0:09:43.58,Default,,0,0,0,,...[???]...
+Dialogue: Marked=0,0:09:42.67,0:09:43.58,Default,,0,0,0,,[???]
 Dialogue: Marked=0,0:09:43.58,0:09:53.02,Default,,0,0,0,,I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished,
 Dialogue: Marked=0,0:09:53.02,0:09:57.15,Default,,0,0,0,,I only wished to have a coat made out of puppies!
 Dialogue: Marked=0,0:09:58.24,0:09:59.15,Default,,0,0,0,,Ugh!
