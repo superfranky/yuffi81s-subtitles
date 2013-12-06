@@ -3,15 +3,11 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 162
-Active Line: 167
-Video Zoom Percent: 1.75
+Scroll Position: 226
+Active Line: 257
+Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Last Style Storage: Default
-Audio URI: ..\..\video\Twisted Act 2 Part 2.mp4
-Video File: ..\..\video\Twisted Act 2 Part 2.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 11775
 ScriptType: v4.00
 
 [V4 Styles]
@@ -36,7 +32,7 @@ Dialogue: Marked=0,0:00:28.10,0:00:31.32,Jaffar,,0,0,0,, I've got to go find the
 Dialogue: Marked=0,0:00:32.45,0:00:33.80,Jasmin,,0,0,0,,Where are you going?
 Dialogue: Marked=0,0:00:33.80,0:00:36.12,Jaffar,,0,0,0,,There she is. So what's wrong?
 Dialogue: Marked=0,0:00:36.75,0:00:39.57,Jasmin,,0,0,0,,Everything!
-Dialogue: Marked=0,0:00:39.75,0:00:43.82,Jasmin,,0,0,0,,You ripped out my heard and smashed it into a million pieces.
+Dialogue: Marked=0,0:00:39.75,0:00:43.82,Jasmin,,0,0,0,,You ripped out my heart and smashed it into a million pieces.
 Dialogue: Marked=0,0:00:43.95,0:00:46.70,Jasmin,,0,0,0,,And don't act like you don't know what I'm talking about!
 Dialogue: Marked=0,0:00:46.70,0:00:48.20,Jaffar,,0,0,0,,Aaaaaah?
 Dialogue: Marked=0,0:00:48.27,0:00:52.20,Jasmin,,0,0,0,,You know. That innocent boy from the marketplace!
@@ -111,13 +107,13 @@ Dialogue: Marked=0,0:03:50.65,0:03:53.40,Jaffar,,0,0,0,,Be wary of young boys wh
 Dialogue: Marked=0,0:03:53.40,0:03:55.92,Jaffar,,0,0,0,,A song is often a prelude...
 Dialogue: Marked=0,0:03:55.92,0:03:57.65,Jaffar,,0,0,0,,...to a dick!
 Dialogue: Marked=0,0:03:59.32,0:04:02.40,Jaffar,,0,0,0,,A song is a dick in sheep's clothing.
-Dialogue: Marked=0,0:04:04.05,0:04:06.85,Jaffar,,0,0,0,,And I you are ever in doubt, just remember this song:
+Dialogue: Marked=0,0:04:04.05,0:04:06.85,Jaffar,,0,0,0,,And if you are ever in doubt, just remember this song:
 Comment: Marked=0,0:04:07.10,0:04:10.60,Jaffar,,0,0,0,,Start of 'song'
 Dialogue: Marked=0,0:04:07.10,0:04:10.60,Jaffar,,0,0,0,,A song is a dick in sheep's clothing
 Dialogue: Marked=0,0:04:10.60,0:04:13.20,Jaffar,,0,0,0,,A song means a dick is on the way
 Comment: Marked=0,0:04:10.60,0:04:13.20,Jaffar,,0,0,0,,End of song - Man, that was the shortest song I've ever seen.
 Dialogue: Marked=0,0:04:13.20,0:04:14.55,Cpt. Royal Guard,,0,0,0,,Jaffar!
-Dialogue: Marked=0,0:04:19.35,0:04:23.72,Jaffar,,0,0,0,,What is is, Captain? Can't you see I'm trying to import a live lesson?!?
+Dialogue: Marked=0,0:04:19.35,0:04:23.72,Jaffar,,0,0,0,,What is it, Captain? Can't you see I'm trying to import a life lesson?!?
 Dialogue: Marked=0,0:04:23.72,0:04:26.50,Jaffar,,0,0,0,,I feel like you only come to see me when there's bad news.
 Dialogue: Marked=0,0:04:26.50,0:04:27.70,Cpt. Royal Guard,,0,0,0,,Not this time.
 Dialogue: Marked=0,0:04:27.70,0:04:29.62,Jaffar,,0,0,0,,Oh, thank heavens. What is it then?
@@ -149,7 +145,7 @@ Dialogue: Marked=0,0:05:39.77,0:05:42.30,Jasmin,,0,0,0,,Aladdin!
 Dialogue: Marked=0,0:05:42.67,0:05:44.62,Aladdin,,0,0,0,,How the fuck you know it's me?!?
 Dialogue: Marked=0,0:05:44.62,0:05:47.65,Jasmin,,0,0,0,,Because it is you. You're just wearing different clothes.
 Dialogue: Marked=0,0:05:59.42,0:06:01.77,Aladdin,,0,0,0,,Well, pretty and smart!
-Dialogue: Marked=0,0:06:02.12,0:06:04.12,Aladdin,,0,0,0,,You're the whole sha-bang, babe!
+Dialogue: Marked=0,0:06:02.12,0:06:04.12,Aladdin,,0,0,0,,You're the whole shabang, babe!
 Dialogue: Marked=0,0:06:04.12,0:06:07.17,Jasmin,,0,0,0,,But how did you escape being executed?
 Dialogue: Marked=0,0:06:07.17,0:06:09.32,Aladdin,,0,0,0,,Ah, I escaped 'cause -
 Dialogue: Marked=0,0:06:09.32,0:06:11.32,Aladdin,,0,0,0,,I'm a prince.
@@ -185,11 +181,11 @@ Dialogue: Marked=0,0:07:31.25,0:07:33.52,Aladdin,,0,0,0,,I don't want her to lov
 Dialogue: Marked=0,0:07:33.80,0:07:36.22,Aladdin,,0,0,0,,I just want her to fuck me.
 Dialogue: Marked=0,0:07:36.55,0:07:38.22,Aladdin,,0,0,0,,Can I wish for that?
 Dialogue: Marked=0,0:07:39.20,0:07:40.47,Aladdin,,0,0,0,,{\b1}No?!?{\b0}
-Dialogue: Marked=0,0:07:40.85,0:07:42.82,Aladdin,,0,0,0,,Geez, how many rules do you got, dude?
+Dialogue: Marked=0,0:07:40.85,0:07:42.82,Aladdin,,0,0,0,,Geez, how many rules've you got, dude?
 Dialogue: Marked=0,0:07:43.37,0:07:45.07,Aladdin,,0,0,0,,Funny bastard!
 Dialogue: Marked=0,0:07:46.62,0:07:50.77,Aladdin,,0,0,0,,Alright. Guess I'm gonna have to do this the old fashioned way.
 Dialogue: Marked=0,0:07:51.65,0:07:55.22,Aladdin,,0,0,0,,Hey! Aladdin here! How are you guys doing tonight?
-Dialogue: Marked=0,0:07:57.25,0:08:00.10,Aladdin,,0,0,0,,Cool, cool, cool. No shut up for a second! I wanna get serious.
+Dialogue: Marked=0,0:07:57.25,0:08:00.10,Aladdin,,0,0,0,,Cool, cool, cool. Now shut up for a second! I wanna get serious.
 Dialogue: Marked=0,0:08:01.07,0:08:04.12,Aladdin,,0,0,0,,You guys know there's a way to get people to think about sex.
 Dialogue: Marked=0,0:08:04.20,0:08:06.55,Aladdin,,0,0,0,,Not even talking about sex.
 Dialogue: Marked=0,0:08:07.20,0:08:10.57,Aladdin,,0,0,0,,You just gotta do it - subliminal.
@@ -282,7 +278,7 @@ Dialogue: Marked=0,0:12:29.62,0:12:31.62,Aladdin,,0,0,0,,I've never done this be
 Dialogue: Marked=0,0:12:33.20,0:12:39.07,Jasmin,,0,0,0,,Well, until we're married, can't we just sit out here and look up at the stars?
 Dialogue: Marked=0,0:12:41.85,0:12:43.27,Aladdin,,0,0,0,,Okay.
 Dialogue: Marked=0,0:12:44.40,0:12:45.55,Aladdin,,0,0,0,,Okay.
-Dialogue: Marked=0,0:12:48.60,0:12:51.65,Aladdin,,0,0,0,,I respect you, you know.
+Dialogue: Marked=0,0:12:48.60,0:12:51.65,Aladdin,,0,0,0,,Hey: I respect you, you know.
 Dialogue: Marked=0,0:12:55.52,0:13:01.50,Aladdin,,0,0,0,,Take off your clothes
 Comment: Marked=0,0:12:55.52,0:13:01.50,Aladdin,,0,0,0,,End of song
 Dialogue: Marked=0,0:13:01.50,0:13:03.50,Aladdin,,0,0,0,,
