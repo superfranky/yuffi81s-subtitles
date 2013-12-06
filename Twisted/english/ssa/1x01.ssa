@@ -8,14 +8,14 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 243
-Active Line: 259
+Scroll Position: 111
+Active Line: 113
 Video Zoom Percent: 1
 Export Encoding: Unicode (UTF-8)
-Audio URI: ..\..\video\Twisted Act 1 Part 1.mp4
-Video File: ..\..\video\Twisted Act 1 Part 1.mp4
+Audio URI: ..\..\..\..\Twisted Act 1 Part 1.mp4
+Video File: ..\..\..\..\Twisted Act 1 Part 1.mp4
 Video Aspect Ratio: c1.77778
-Video Position: 21529
+Video Position: 9203
 Last Style Storage: Default
 YCbCr Matrix: TV.601
 
@@ -155,7 +155,7 @@ Dialogue: Marked=0,0:06:06.20,0:06:07.10,Default,,0,0,0,,-What?\N-Fuck you!
 Dialogue: Marked=0,0:06:07.10,0:06:15.26,Town People,,0,0,0,,Whistle while you swallow a spoon full of sugar and your dreams will come true upon a star!\N[okay: reference to: Disney's: 'Snow White' 'Mary Poppins' and 'Peter Pan'.]
 Dialogue: Marked=0,0:06:15.26,0:06:17.60,Town People,,0,0,0,,Dream hard enough, my friends!
 Dialogue: Marked=0,0:06:17.60,0:06:21.20,Town People,,0,0,0,,Jaffar will meet a violent end.
-Dialogue: Marked=0,0:06:21.20,0:06:23.83,Town People,,0,0,0,,He could be ...[???]... by a sailing ship.
+Dialogue: Marked=0,0:06:21.20,0:06:23.83,Town People,,0,0,0,,He could be skewed by a sailing ship.
 Dialogue: Marked=0,0:06:23.83,0:06:25.63,Town People,,0,0,0,,Or hanged in tangled jungle vines!
 Dialogue: Marked=0,0:06:25.63,0:06:27.16,Town People,,0,0,0,,Or eaten by hyenas!
 Dialogue: Marked=0,0:06:27.16,0:06:29.80,Town People,,0,0,0,,Or he'll plummet until his death from a castle!
