@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 45
-Active Line: 63
+Scroll Position: 177
+Active Line: 207
 Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
@@ -226,7 +226,7 @@ Dialogue: Marked=0,0:09:39.37,0:09:41.50,Default,,0,0,0,,I never knew my father!
 Dialogue: Marked=0,0:09:41.69,0:09:42.67,Default,,0,0,0,,I only wished
 Dialogue: Marked=0,0:09:42.67,0:09:43.58,Default,,0,0,0,,[???]
 Dialogue: Marked=0,0:09:43.58,0:09:53.02,Default,,0,0,0,,I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished,
-Dialogue: Marked=0,0:09:53.02,0:09:57.15,Default,,0,0,0,,I only wished to have a coat made out of puppies!
+Dialogue: Marked=0,0:09:53.02,0:09:57.15,Default,,0,0,0,,I only wished to have a coat made out of puppies!\N[Reference to: Disney's 101 Dalmatians (Cruella De Vil)]
 Dialogue: Marked=0,0:09:58.24,0:09:59.15,Default,,0,0,0,,Ugh!
 Dialogue: Marked=0,0:09:59.28,0:10:00.30,Default,,0,0,0,,Just leave!\N[Talking over each other (tried to pick a few out)]
 Dialogue: Marked=0,0:10:00.04,0:10:01.47,Default,,0,0,0,,Why would you do that?
