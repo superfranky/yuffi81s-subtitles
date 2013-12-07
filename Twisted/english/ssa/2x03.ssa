@@ -8,13 +8,9 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 195
-Active Line: 205
-Video Zoom Percent: 1.625
-Video File: ..\..\video\Twisted Act 2 Part 3.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 13992
-Audio URI: ..\..\video\Twisted Act 2 Part 3.mp4
+Scroll Position: 45
+Active Line: 63
+Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
 
@@ -86,7 +82,7 @@ Dialogue: Marked=0,0:02:32.22,0:02:33.87,Default,,0,0,0,,You're afraid I'll reve
 Dialogue: Marked=0,0:02:33.96,0:02:35.40,Default,,0,0,0,,What secret?
 Dialogue: Marked=0,0:02:35.40,0:02:36.35,Default,,0,0,0,,Does anybody else here...
 Dialogue: Marked=0,0:02:36.97,0:02:38.89,Default,,0,0,0,,... ever wonder how this guy just...
-Dialogue: Marked=0,0:02:39.23,0:02:43.00,Default,,0,0,0,,... opens his yapper an can talk anybody into anything he wants?
+Dialogue: Marked=0,0:02:39.23,0:02:43.00,Default,,0,0,0,,... opens his yapper and can talk anybody into anything he wants?
 Dialogue: Marked=0,0:02:43.79,0:02:44.57,Default,,0,0,0,,What's he using?
 Dialogue: Marked=0,0:02:44.76,0:02:46.25,Default,,0,0,0,,Logic! Reason!
 Dialogue: Marked=0,0:02:46.25,0:02:48.94,Default,,0,0,0,,See, I was kind of thinking...
