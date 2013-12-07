@@ -8,10 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 214
-Active Line: 227
-Video Zoom Percent: 1
-Export Encoding: Local
+Scroll Position: 177
+Active Line: 207Export Encoding: Local
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -82,7 +80,7 @@ Dialogue: Marked=0,0:02:32.22,0:02:33.87,Default,,0,0,0,,You're afraid I'll reve
 Dialogue: Marked=0,0:02:33.96,0:02:35.40,Default,,0,0,0,,What secret?
 Dialogue: Marked=0,0:02:35.40,0:02:36.35,Default,,0,0,0,,Does anybody else here...
 Dialogue: Marked=0,0:02:36.97,0:02:38.89,Default,,0,0,0,,... ever wonder how this guy just...
-Dialogue: Marked=0,0:02:39.23,0:02:43.00,Default,,0,0,0,,... opens his yapper an can talk anybody into anything he wants?
+Dialogue: Marked=0,0:02:39.23,0:02:43.00,Default,,0,0,0,,... opens his yapper and can talk anybody into anything he wants?
 Dialogue: Marked=0,0:02:43.79,0:02:44.57,Default,,0,0,0,,What's he using?
 Dialogue: Marked=0,0:02:44.76,0:02:46.25,Default,,0,0,0,,Logic! Reason!
 Dialogue: Marked=0,0:02:46.25,0:02:48.94,Default,,0,0,0,,See, I was kind of thinking...
@@ -226,7 +224,8 @@ Dialogue: Marked=0,0:09:39.37,0:09:41.50,Default,,0,0,0,,I never knew my father!
 Dialogue: Marked=0,0:09:41.69,0:09:42.67,Default,,0,0,0,,I only wished
 Dialogue: Marked=0,0:09:42.67,0:09:43.58,Default,,0,0,0,,[???]
 Dialogue: Marked=0,0:09:43.58,0:09:53.02,Default,,0,0,0,,I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished,
-Dialogue: Marked=0,0:09:53.02,0:09:57.15,Default,,0,0,0,,I only wished to have a coat made out of puppies!
+
+Dialogue: Marked=0,0:09:53.02,0:09:57.15,Default,,0,0,0,,I only wished to have a coat made out of puppies!\N[Reference to: Disney's 101 Dalmatians (Cruella De Vil)]
 Dialogue: Marked=0,0:09:58.24,0:09:59.15,Default,,0,0,0,,Ugh!
 Dialogue: Marked=0,0:09:59.28,0:10:00.30,Default,,0,0,0,,Just leave!\N[Talking over each other (tried to pick a few out)]
 Dialogue: Marked=0,0:10:00.04,0:10:01.47,Default,,0,0,0,,Why would you do that?
@@ -246,6 +245,7 @@ Dialogue: Marked=0,0:11:06.17,0:11:12.73,Default,,0,0,0,,Why protect my reputati
 Dialogue: Marked=0,0:11:14.73,0:11:17.66,Default,,0,0,0,,How will they tell my story?
 Dialogue: Marked=0,0:11:18.51,0:11:21.36,Default,,0,0,0,,How will they tell my tale?
 Dialogue: Marked=0,0:11:21.88,0:11:27.20,Default,,0,0,0,,Will anybody even care?
+
 Dialogue: Marked=0,0:11:28.76,0:11:31.90,Default,,0,0,0,,The question then is whether it is nobler in the mind
 Dialogue: Marked=0,0:11:31.92,0:11:34.04,Default,,0,0,0,,to be well liked, but ineffectual
 Dialogue: Marked=0,0:11:34.04,0:11:36.43,Default,,0,0,0,,or moral but maligned
