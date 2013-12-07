@@ -8,13 +8,9 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 195
-Active Line: 205
-Video Zoom Percent: 1.625
-Video File: ..\..\video\Twisted Act 2 Part 3.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 13992
-Audio URI: ..\..\video\Twisted Act 2 Part 3.mp4
+Scroll Position: 214
+Active Line: 227
+Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
 
@@ -250,7 +246,7 @@ Dialogue: Marked=0,0:11:06.17,0:11:12.73,Default,,0,0,0,,Why protect my reputati
 Dialogue: Marked=0,0:11:14.73,0:11:17.66,Default,,0,0,0,,How will they tell my story?
 Dialogue: Marked=0,0:11:18.51,0:11:21.36,Default,,0,0,0,,How will they tell my tale?
 Dialogue: Marked=0,0:11:21.88,0:11:27.20,Default,,0,0,0,,Will anybody even care?
-Dialogue: Marked=0,0:11:28.76,0:11:31.90,Default,,0,0,0,,The question then is whether it is nobler in the mind:
+Dialogue: Marked=0,0:11:28.76,0:11:31.90,Default,,0,0,0,,The question then is whether it is nobler in the mind
 Dialogue: Marked=0,0:11:31.92,0:11:34.04,Default,,0,0,0,,to be well liked, but ineffectual
 Dialogue: Marked=0,0:11:34.04,0:11:36.43,Default,,0,0,0,,or moral but maligned
 Dialogue: Marked=0,0:11:37.82,0:11:40.67,Default,,0,0,0,,I'll never be a hero
