@@ -8,14 +8,14 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 211
-Active Line: 234
+Scroll Position: 202
+Active Line: 217
 Video Zoom Percent: 1
 Export Encoding: Local
 Audio URI: ..\..\video\Twisted Act 2 Part 4.mp4
 Video File: ..\..\video\Twisted Act 2 Part 4.mp4
 Video Aspect Ratio: c1.77778
-Video Position: 17243
+Video Position: 16178
 Last Style Storage: Default
 YCbCr Matrix: TV.601
 
@@ -248,7 +248,7 @@ Dialogue: Marked=0,0:10:54.62,0:10:56.97,Jaffar,,0,0,0,,I love her, like a daugh
 Dialogue: Marked=0,0:10:56.97,0:11:00.77,Jaffar,,0,0,0,,Surely even you have felt this kind of love before.
 Dialogue: Marked=0,0:11:01.32,0:11:03.42,Aladdin,,0,0,0,,Oh yeah. Ha ha.
 Dialogue: Marked=0,0:11:07.70,0:11:10.15,Aladdin,,0,0,0,,I loved my parents.
-Dialogue: Marked=0,0:11:12.00,0:11:14.72,Aladdin,,0,0,0,,But they didn't stop me from doing what needed to be done.
+Dialogue: Marked=0,0:11:12.00,0:11:14.72,Aladdin,,0,0,0,,But that didn't stop me from doing what needed to be done.
 Dialogue: Marked=0,0:11:14.72,0:11:16.30,Aladdin,,0,0,0,,Wait, what?
 Dialogue: Marked=0,0:11:17.95,0:11:19.05,Aladdin,,0,0,0,,Yeah, dude.
 Dialogue: Marked=0,0:11:19.90,0:11:21.05,Aladdin,,0,0,0,,Remember me?
