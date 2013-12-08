@@ -3,8 +3,8 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 22
-Active Line: 43
+Scroll Position: 0
+Active Line: 12
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Last Style Storage: Default
@@ -32,7 +32,7 @@ Dialogue: Marked=0,0:00:23.37,0:00:27.17,Jaffar,,0,0,0,,Well, don't just stand t
 Dialogue: Marked=0,0:00:27.45,0:00:29.60,Jaffar,,0,0,0,,I have an errand I must attend to.
 Dialogue: Marked=0,0:00:29.92,0:00:31.35,Jaffar,,0,0,0,,Oh princess!
 Dialogue: Marked=0,0:00:31.35,0:00:33.02,Jaffar,,0,0,0,,You poor naive girl!
-Dialogue: Marked=0,0:00:33.02,0:00:37.50,Jaffar,,0,0,0,,I only hope you haven't fallen to prey to some  - sex crazed ruffian.
+Dialogue: Marked=0,0:00:33.02,0:00:37.50,Jaffar,,0,0,0,,I only hope you haven't fallen prey to some  - sex crazed ruffian.
 Dialogue: Marked=0,0:00:38.95,0:00:40.55,Alladin,,0,0,0,,Right this way, babe.
 Dialogue: Marked=0,0:00:42.50,0:00:46.70,Jasmin,,0,0,0,,I want to thank you again for saving me back at the marketplace.
 Dialogue: Marked=0,0:00:46.97,0:00:51.32,Jasmin,,0,0,0,,I can't believe that man wanted to reprimand me just for taking some of his apples.
