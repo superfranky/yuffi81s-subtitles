@@ -3,8 +3,8 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 226
-Active Line: 257
+Scroll Position: 0
+Active Line: 2
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Last Style Storage: Default
@@ -24,7 +24,7 @@ Style: Blind,Arial,20,16777215,255,0,0,0,0,1,2,2,2,10,10,10,0,1
 Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: Marked=0,0:00:03.95,0:00:05.25,Jaffar,,0,0,0,,Knock, knock.
 Dialogue: Marked=0,0:00:07.50,0:00:11.62,Jasmin,,0,0,0,,Oh, you. Aren't you busy?
-Dialogue: Marked=0,0:00:12.02,0:00:14.02,Jasmin,,0,0,0,,Ruining my live?
+Dialogue: Marked=0,0:00:12.02,0:00:14.02,Jasmin,,0,0,0,,Ruining my life?
 Dialogue: Marked=0,0:00:14.70,0:00:19.05,Jaffar,,0,0,0,,Well, I noticed you weren't at dinner, but I saw you try to poison my wine.
 Dialogue: Marked=0,0:00:19.30,0:00:23.42,Jaffar,,0,0,0,,Usually when you do that, it means you want to talk. What's up? Are you mad at me?
 Dialogue: Marked=0,0:00:26.02,0:00:28.10,Jaffar,,0,0,0,,Alright.
