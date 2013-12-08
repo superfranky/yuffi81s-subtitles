@@ -8,14 +8,14 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 271
-Active Line: 289
+Scroll Position: 211
+Active Line: 234
 Video Zoom Percent: 1
 Export Encoding: Local
 Audio URI: ..\..\video\Twisted Act 2 Part 4.mp4
 Video File: ..\..\video\Twisted Act 2 Part 4.mp4
 Video Aspect Ratio: c1.77778
-Video Position: 20452
+Video Position: 17243
 Last Style Storage: Default
 YCbCr Matrix: TV.601
 
@@ -32,7 +32,7 @@ Style: Djinn,Arial,20,16777215,255,0,0,0,0,1,2,2,2,10,10,10,0,1
 
 [Events]
 Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: Marked=0,0:00:04.65,0:00:07.92,Prince Achmed,,0,0,0,,Citizens of a magic kingdom:
+Dialogue: Marked=0,0:00:04.65,0:00:07.92,Prince Achmed,,0,0,0,,Citizens of the magic kingdom:
 Dialogue: Marked=0,0:00:08.27,0:00:11.85,Prince Achmed,,0,0,0,,Your armies have abandoned you.
 Dialogue: Marked=0,0:00:11.97,0:00:14.87,Prince Achmed,,0,0,0,,Your ruling class is corrupt.
 Dialogue: Marked=0,0:00:14.87,0:00:19.52,Prince Achmed,,0,0,0,,And we have come to put an end to your tyrannical rule.
@@ -72,7 +72,7 @@ Dialogue: Marked=0,0:02:20.87,0:02:22.40,Jasmin,,0,0,0,,Yeah, Aladdin!
 Dialogue: Marked=0,0:02:23.17,0:02:25.02,Jasmin,,0,0,0,,Damn it! Where is he?
 Dialogue: Marked=0,0:02:25.02,0:02:30.87,Prince Achmed,,0,0,0,,[Laughing]
 Dialogue: Marked=0,0:02:30.87,0:02:34.37,Prince Achmed,,0,0,0,,It appears that your prince has cold feet.
-Dialogue: Marked=0,0:02:34.57,0:02:37.65,Prince Achmed,,0,0,0,,No step aside, princess! It's not you I'm after.
+Dialogue: Marked=0,0:02:34.57,0:02:37.65,Prince Achmed,,0,0,0,,Now step aside, princess! It's not you I'm after.
 Dialogue: Marked=0,0:02:37.72,0:02:39.97,Prince Achmed,,0,0,0,,I come for the head of the sultan.
 Dialogue: Marked=0,0:02:39.97,0:02:42.17,Jaffar,,0,0,0,,Then you come for my head, Achmed!
 Dialogue: Marked=0,0:02:42.17,0:02:42.95,Jasmin,,0,0,0,,Jaffar?
@@ -97,13 +97,13 @@ Dialogue: Marked=0,0:03:38.40,0:03:41.57,Djinn,,0,0,0,,That's the thing, John. W
 Dialogue: Marked=0,0:03:41.70,0:03:43.70,Djinn,,0,0,0,,...the pirates don't eat the tourists.
 Dialogue: Marked=0,0:03:45.92,0:03:47.85,Jaffar,,0,0,0,,So, I use my -
 Dialogue: Marked=0,0:03:48.10,0:03:50.35,Jaffar,,0,0,0,,My first wish to become the sultan.
-Dialogue: Marked=0,0:03:50.37,0:03:52.65,Djinn,,0,0,0,,Or wish I had a million dollars. Hot dog!
+Dialogue: Marked=0,0:03:50.37,0:03:52.65,Djinn,,0,0,0,,I wish I had a million dollars. Hot dog!\N[It's a wonderful life]
 Dialogue: Marked=0,0:03:52.65,0:03:55.52,Jaffar,,0,0,0,,Okay. Calm the fuck down!
 Dialogue: Marked=0,0:03:56.05,0:03:58.72,Jaffar,,0,0,0,,Now, I must use your power again, djinn!
 Dialogue: Marked=0,0:03:58.72,0:04:00.92,Djinn,,0,0,0,,Of all the gin joins in all the towns in all the world, ...
-Dialogue: Marked=0,0:04:00.92,0:04:02.92,Djinn,,0,0,0,,...she walks in to mine\N[Casablanca]
+Dialogue: Marked=0,0:04:00.92,0:04:02.92,Djinn,,0,0,0,,...she walks into mine\N[Casablanca]
 Dialogue: Marked=0,0:04:03.35,0:04:04.92,Jaffar,,0,0,0,,Who?
-Dialogue: Marked=0,0:04:04.92,0:04:06.47,Djinn,,0,0,0,,Rosebud!
+Dialogue: Marked=0,0:04:04.92,0:04:06.47,Djinn,,0,0,0,,Rosebud!\N[Citizen Kane]
 Dialogue: Marked=0,0:04:09.02,0:04:11.65,Prince Achmed,,0,0,0,,Jaffar, what's going on here?
 Dialogue: Marked=0,0:04:11.65,0:04:15.82,Prince Achmed,,0,0,0,,Who is this very funny blue man, standing next to you?
 Dialogue: Marked=0,0:04:16.02,0:04:18.02,Jaffar,,0,0,0,,This is my djinn, Johnny!
@@ -137,7 +137,7 @@ Dialogue: Marked=0,0:05:33.55,0:05:34.45,Djinn,,0,0,0,,Hey!
 Dialogue: Marked=0,0:05:35.25,0:05:37.25,Djinn,,0,0,0,,Don't look at me like I'm freaking Frankenstein!\N[Austin Powers]
 Dialogue: Marked=0,0:05:38.97,0:05:40.50,Djinn,,0,0,0,,Give your father a hug!
 Dialogue: Marked=0,0:05:41.85,0:05:45.90,Djinn,,0,0,0,,Come, Scott! Come on, Scott!
-Dialogue: Marked=0,0:05:51.47,0:05:55.02,Djinn,,0,0,0,,Get your stinking paws off me you damn dirty ape!\N[Planet of the apes]
+Dialogue: Marked=0,0:05:51.47,0:05:55.02,Djinn,,0,0,0,,Get your stinking paws off me you damn dirty ape!\N[Planet of the apes 1968]
 Dialogue: Marked=0,0:05:55.07,0:05:58.07,Jaffar,,0,0,0,,Hey Turbo Man! My future is about this long right now!
 Dialogue: Marked=0,0:05:58.07,0:06:00.82,Jaffar,,0,0,0,,Are you referencing something? Are you trying to make me laugh like...
 Dialogue: Marked=0,0:06:00.82,0:06:03.57,Jaffar,,0,0,0,,...like some kind of work of fiction that I'm unaware of?
@@ -218,7 +218,7 @@ Dialogue: Marked=0,0:09:33.95,0:09:37.97,Jasmin,,0,0,0,,You got that, Aladdin? W
 Dialogue: Marked=0,0:09:38.30,0:09:39.85,Aladdin,,0,0,0,,We're just having our first fight.
 Dialogue: Marked=0,0:09:39.85,0:09:41.65,Aladdin,,0,0,0,,Maybe after some make-up sex -
 Dialogue: Marked=0,0:09:41.65,0:09:42.37,Jasmin,,0,0,0,,No!
-Dialogue: Marked=0,0:09:42.37,0:09:43.90,Aladdin,,0,0,0,,You know, what?
+Dialogue: Marked=0,0:09:42.37,0:09:43.90,Aladdin,,0,0,0,,You know what?
 Dialogue: Marked=0,0:09:44.22,0:09:46.55,Aladdin,,0,0,0,,I thought you were mature for your age.
 Dialogue: Marked=0,0:09:46.87,0:09:50.35,Aladdin,,0,0,0,,But you're just like all the other sixteen year old princesses I've dated.
 Dialogue: Marked=0,0:09:51.80,0:09:53.75,Aladdin,,0,0,0,,Except you're forgetting one thing.
@@ -234,7 +234,7 @@ Dialogue: Marked=0,0:10:12.50,0:10:14.90,Jaffar,,0,0,0,,No! I won't let you take
 Dialogue: Marked=0,0:10:15.35,0:10:19.15,Jaffar,,0,0,0,,You have no idea how much that girl means to me. I love her!
 Dialogue: Marked=0,0:10:20.22,0:10:22.02,Aladdin,,0,0,0,,Oh, you love her?
 Dialogue: Marked=0,0:10:22.02,0:10:24.90,Aladdin,,0,0,0,,Dude, she's like half your age. You're a total pedo!
-Dialogue: Marked=0,0:10:25.20,0:10:28.75,Jaffar,,0,0,0,,No! No that kind of love, you shit for brains!
+Dialogue: Marked=0,0:10:25.20,0:10:28.75,Jaffar,,0,0,0,,No! Not that kind of love, you shit for brains!
 Dialogue: Marked=0,0:10:28.75,0:10:30.62,Jaffar,,0,0,0,,You don't understand!
 Dialogue: Marked=0,0:10:30.62,0:10:33.77,Jaffar,,0,0,0,,My wife was with child when she was taken by the sultan.
 Dialogue: Marked=0,0:10:33.77,0:10:35.77,Jaffar,,0,0,0,,She died in childbirth.
@@ -265,7 +265,7 @@ Dialogue: Marked=0,0:11:47.87,0:11:49.30,Aladdin,,0,0,0,,If I'm you...
 Dialogue: Marked=0,0:11:50.87,0:11:52.80,Aladdin,,0,0,0,,Then that means...
 Dialogue: Marked=0,0:11:53.17,0:11:55.22,Aladdin,,0,0,0,,I killed my parents?
 Dialogue: Marked=0,0:11:56.20,0:11:57.65,Aladdin,,0,0,0,,But I didn't want them to die!
-Dialogue: Marked=0,0:11:57.65,0:11:59.15,Aladdin,,0,0,0,,You are you kidding?
+Dialogue: Marked=0,0:11:57.65,0:11:59.15,Aladdin,,0,0,0,,Who are you kidding?
 Dialogue: Marked=0,0:11:59.15,0:12:02.25,Aladdin,,0,0,0,,You wished for it every god damn day of your life.
 Dialogue: Marked=0,0:12:02.47,0:12:04.15,Aladdin,,0,0,0,,They were gonna kick you out of the house!
 Dialogue: Marked=0,0:12:04.15,0:12:05.22,Aladdin,,0,0,0,,They were, weren't they?
