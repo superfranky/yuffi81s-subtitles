@@ -9,13 +9,9 @@ Collisions: Normal
 PlayResX: 640
 PlayResY: 360
 Video Zoom Percent: 1
-Scroll Position: 64
-Active Line: 90
+Scroll Position: 72
+Active Line: 112
 Export Encoding: Local
-Audio URI: ..\..\video\Twisted Act 1 Part 5.mp4
-Video File: ..\..\video\Twisted Act 1 Part 5.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 7839
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -135,7 +131,7 @@ Dialogue: Marked=0,0:06:33.23,0:06:37.40,Default,,0,0,0,,illogically insisted yo
 Dialogue: Marked=0,0:06:37.77,0:06:40.49,Default,,0,0,0,,somewhere
 Dialogue: Marked=0,0:06:40.64,0:06:44.19,Default,,0,0,0,,If I believed in wishes
 Dialogue: Marked=0,0:06:44.75,0:06:48.72,Default,,0,0,0,,If I can find the key
-Dialogue: Marked=0,0:06:49.21,0:06:51.16,Default,,0,0,0,,perhaps it's not to late
+Dialogue: Marked=0,0:06:49.21,0:06:51.16,Default,,0,0,0,,perhaps it's not too late
 Dialogue: Marked=0,0:06:51.42,0:06:54.17,Default,,0,0,0,,to change the course of fate
 Dialogue: Marked=0,0:06:54.94,0:06:59.10,Default,,0,0,0,,'Cause after all I must be pretty great
 Dialogue: Marked=0,0:07:01.71,0:07:06.99,Default,,0,0,0,,If you believed in me
