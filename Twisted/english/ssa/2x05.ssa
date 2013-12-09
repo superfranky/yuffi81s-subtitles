@@ -8,13 +8,9 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Audio URI: ..\..\video\Twisted Act 2 Part 5.mp4
-Scroll Position: 176
-Active Line: 182
-Video Zoom Percent: 1.875
-Video File: ..\..\video\Twisted Act 2 Part 5.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 21066
+Scroll Position: 139
+Active Line: 169
+Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
 
@@ -51,7 +47,7 @@ Dialogue: Marked=0,0:01:05.85,0:01:09.44,Default,,0,0,0,,And then they'll make s
 Dialogue: Marked=0,0:01:11.00,0:01:11.76,Default,,0,0,0,,It's a bit like...
 Dialogue: Marked=0,0:01:12.12,0:01:14.27,Default,,0,0,0,,...a carousel of progress.
 Dialogue: Marked=0,0:01:15.61,0:01:20.32,Default,,0,0,0,,Always spinning towards a great, big, beautiful tomorrow.
-Dialogue: Marked=0,0:01:21.12,0:01:23.26,Default,,0,0,0,,And tomorrow is just a dream away.
+Dialogue: Marked=0,0:01:21.12,0:01:23.26,Default,,0,0,0,,And tomorrow is just a dream away.\N[reference to: They might be giants]
 Dialogue: Marked=0,0:01:25.16,0:01:27.04,Default,,0,0,0,,But what if tomorrow never comes?
 Dialogue: Marked=0,0:01:27.04,0:01:29.64,Default,,0,0,0,,No. Tomorrow always comes.
 Dialogue: Marked=0,0:01:30.03,0:01:32.08,Default,,0,0,0,,Even if it comes without us.
@@ -157,7 +153,7 @@ Dialogue: Marked=0,0:08:45.80,0:08:53.61,Default,,0,0,0,,[laughing]
 Dialogue: Marked=0,0:08:56.04,0:08:57.60,Default,,0,0,0,,Wait, what happened to Jaffar?
 Dialogue: Marked=0,0:09:02.46,0:09:04.80,Default,,0,0,0,,So this is the life of a djinn.
 Dialogue: Marked=0,0:09:07.76,0:09:10.65,Default,,0,0,0,,Phenomenal cosmic powers -
-Dialogue: Marked=0,0:09:12.52,0:09:15.31,Default,,0,0,0,,shitty shitty livingspace!\N[slightly altered reference to: Diney's 'Aladdin'(Gini) ;-)]
+Dialogue: Marked=0,0:09:12.52,0:09:15.31,Default,,0,0,0,,shitty shitty livingspace!\N[slightly altered reference to: Disney's 'Aladdin'(Gini) ;-)]
 Dialogue: Marked=0,0:09:19.77,0:09:23.31,Default,,0,0,0,,So ends the untold story of a royal vizier.
 Dialogue: Marked=0,0:09:24.25,0:09:25.02,Default,,0,0,0,,Funny.
 Dialogue: Marked=0,0:09:26.64,0:09:28.46,Default,,0,0,0,,That's not the ending I recall.
@@ -172,7 +168,7 @@ Dialogue: Marked=0,0:09:49.00,0:09:50.54,Default,,0,0,0,,Doesn't this make you h
 Dialogue: Marked=0,0:09:50.81,0:09:54.17,Default,,0,0,0,,Yes, of course! But doesn't that mean, you're trapped here forever?
 Dialogue: Marked=0,0:09:54.51,0:09:57.36,Default,,0,0,0,,I always said 1001 nights wasn't enough.
 Dialogue: Marked=0,0:09:58.38,0:10:00.83,Default,,0,0,0,,Oh, then the princess! She really did it!
-Dialogue: Marked=0,0:10:01.02,0:10:01.84,Default,,0,0,0,,Her other wished...
+Dialogue: Marked=0,0:10:01.02,0:10:01.84,Default,,0,0,0,,Her other wishes...
 Dialogue: Marked=0,0:10:01.84,0:10:03.13,Default,,0,0,0,,...came true as well!
 Dialogue: Marked=0,0:10:03.44,0:10:07.87,Default,,0,0,0,,By making everyone a princess she ensured that they were all treated with respect and compassion.
 Dialogue: Marked=0,0:10:09.08,0:10:11.20,Default,,0,0,0,,They all did then to others as they were done onto.
@@ -182,7 +178,7 @@ Dialogue: Marked=0,0:10:15.96,0:10:18.76,Default,,0,0,0,,But Shahrazade, how do 
 Dialogue: Marked=0,0:10:18.89,0:10:22.00,Default,,0,0,0,,In the lamp we exist outside of time and space.
 Dialogue: Marked=0,0:10:22.00,0:10:25.50,Default,,0,0,0,,It's how the djinn was able to watch all those funny movies he quoted.
 Dialogue: Marked=0,0:10:27.28,0:10:30.62,Default,,0,0,0,,We can see anything, anytime - anywhere.
-Dialogue: Marked=0,0:10:30.62,0:10:33.50,Default,,0,0,0,,Oh, than let's see what happened to that thief Aladdin!
+Dialogue: Marked=0,0:10:30.62,0:10:33.50,Default,,0,0,0,,Oh, then let's see what happened to that thief Aladdin!
 Dialogue: Marked=0,0:10:33.58,0:10:36.46,Default,,0,0,0,,Aaaaaah!
 Dialogue: Marked=0,0:10:36.46,0:10:39.64,Default,,0,0,0,,Salam and good evening my dear friends!\N[Reference to: Disney's 'Aladdin' (start of the movie)]
 Dialogue: Marked=0,0:10:40.54,0:10:42.22,Default,,0,0,0,,Please, come closer.
@@ -192,7 +188,7 @@ Dialogue: Marked=0,0:10:47.63,0:10:48.70,Default,,0,0,0,,Yes, look at this!
 Dialogue: Marked=0,0:10:48.96,0:10:50.92,Default,,0,0,0,,Comibination ...[???]... coffeemaker!
 Dialogue: Marked=0,0:10:50.92,0:10:52.40,Default,,0,0,0,,Also makes chilly and flies!
 Dialogue: Marked=0,0:10:52.67,0:10:56.03,Default,,0,0,0,,Will not break, will not... It broke.
-Dialogue: Marked=0,0:10:56.27,0:10:59.61,Default,,0,0,0,,He's hawking second hand goods,  he's a loser!
+Dialogue: Marked=0,0:10:56.27,0:10:59.61,Default,,0,0,0,,He's hawking second hand goods, he's a loser!
 Dialogue: Marked=0,0:10:59.61,0:11:01.16,Default,,0,0,0,,This is no ordinary lamp!
 Dialogue: Marked=0,0:11:01.23,0:11:05.08,Default,,0,0,0,,It once changed the course of a young man's life.
 Dialogue: Marked=0,0:11:05.08,0:11:09.40,Default,,0,0,0,,A young man, who was not what he seemed.
