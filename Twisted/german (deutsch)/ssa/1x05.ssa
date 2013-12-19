@@ -10,7 +10,7 @@ PlayResX: 640
 PlayResY: 360
 Video Zoom Percent: 1
 Scroll Position: 63
-Active Line: 87
+Active Line: 78
 Export Encoding: Local
 YCbCr Matrix: TV.601
 
@@ -98,7 +98,7 @@ Dialogue: Marked=0,0:04:30.17,0:04:30.64,Default,,0,0,0,,Hier!
 Dialogue: Marked=0,0:04:31.15,0:04:32.00,Default,,0,0,0,,Nimm das!
 Dialogue: Marked=0,0:04:32.04,0:04:32.76,Default,,0,0,0,,Der Anhänger?
 Dialogue: Marked=0,0:04:33.04,0:04:34.28,Default,,0,0,0,,Du erinnerst dich an die zwei Liebenden?
-Dialogue: Marked=0,0:04:34.28,0:04:35.84,Default,,0,0,0,,Die Tigerkopfhöhle?
+Dialogue: Marked=0,0:04:34.28,0:04:35.84,Default,,0,0,0,,Der Schlüssel zur Tigerkopfhöhle?
 Dialogue: Marked=0,0:04:36.19,0:04:38.17,Default,,0,0,0,,Wir werden eine Tages wieder vereint sein!
 Dialogue: Marked=0,0:04:38.17,0:04:40.94,Default,,0,0,0,,Und Wunder erschließen jenseits deiner wildesten Träume!
 Dialogue: Marked=0,0:04:54.56,0:04:56.51,Default,,0,0,0,,Erst verlor ich sie an den Sultan...
