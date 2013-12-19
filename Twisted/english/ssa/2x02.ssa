@@ -3,8 +3,8 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 159
-Active Line: 167
+Scroll Position: 57
+Active Line: 59
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Last Style Storage: Default
@@ -81,7 +81,7 @@ Dialogue: Marked=0,0:02:28.90,0:02:30.57,Jaffar,,0,0,0,,Or more simply:
 Dialogue: Marked=0,0:02:30.57,0:02:35.37,Jaffar,,0,0,0,,How would you fix the social-economic inequality?
 Dialogue: Marked=0,0:02:35.37,0:02:39.40,Jasmin,,0,0,0,,Oh, oh! Oh! I've been thinking about this a lot lately!
 Dialogue: Marked=0,0:02:39.40,0:02:41.20,Jasmin,,0,0,0,,And ah - *clears her throat*
-Dialogue: Marked=0,0:02:41.20,0:02:46.75,Jasmin,,0,0,0,,And how - how privileged I am and how - because I am the princes...
+Dialogue: Marked=0,0:02:41.20,0:02:46.75,Jasmin,,0,0,0,,And how - how privileged I am and how - because I am the princess...
 Dialogue: Marked=0,0:02:46.75,0:02:49.82,Jasmin,,0,0,0,,...everyone has to be nice to me and give me things.
 Dialogue: Marked=0,0:02:49.82,0:02:54.17,Jasmin,,0,0,0,,So I think it would solve all of the kingdom's problems...
 Dialogue: Marked=0,0:02:54.17,0:02:59.65,Jasmin,,0,0,0,,...if we just made everyone a princess.
