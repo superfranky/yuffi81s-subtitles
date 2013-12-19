@@ -3,8 +3,8 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 57
-Active Line: 59
+Scroll Position: 169
+Active Line: 179
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Last Style Storage: Default
@@ -201,7 +201,7 @@ Dialogue: Marked=0,0:08:39.80,0:08:42.07,Aladdin,,0,0,0,,...with a tiny head on 
 Dialogue: Marked=0,0:08:42.65,0:08:44.07,Aladdin,,0,0,0,,What does that remind you of?
 Dialogue: Marked=0,0:08:44.32,0:08:45.85,Jasmin,,0,0,0,,A Giraffe.
 Dialogue: Marked=0,0:08:46.82,0:08:47.85,Aladdin,,0,0,0,,Really?
-Dialogue: Marked=0,0:08:48.07,0:08:49.00,Aladdin,,0,0,0,,You know what I see?
+Dialogue: Marked=0,0:08:48.07,0:08:49.00,Aladdin,,0,0,0,,It's not what I see.
 Dialogue: Marked=0,0:08:49.00,0:08:49.72,Jasmin,,0,0,0,,No.
 Dialogue: Marked=0,0:08:49.72,0:08:51.72,Aladdin,,0,0,0,,Maybe you can (take of your clothes).
 Dialogue: Marked=0,0:08:52.55,0:08:54.67,Aladdin,,0,0,0,,Get a good look at it from down here.
