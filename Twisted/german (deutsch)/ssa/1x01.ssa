@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 213
-Active Line: 224
+Scroll Position: 63
+Active Line: 91
 Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
@@ -110,7 +110,7 @@ Dialogue: Marked=0,0:04:51.93,0:04:55.90,Default,,0,0,0,,Wenn man etwas fester t
 Dialogue: Marked=0,0:04:55.90,0:04:59.60,Default,,0,0,0,,Wenn man seiner Absicht sicher ist\NWird einem irgendein magischer Eingriff
 Dialogue: Marked=0,0:04:59.60,0:05:03.40,Default,,0,0,0,,den Auszug geben, den man braucht!
 Dialogue: Marked=0,0:05:06.00,0:05:07.96,Default,,0,0,0,,Oh! Verzeihen Sie mir, Madam!
-Dialogue: Marked=0,0:05:07.96,0:05:11.83,Default,,0,0,0,,Oh, ist schon okay, versuchen sie einfach ihr fettes Gesicht aus diesem gottverdammten Buch rauszuhalten.[Referenz zu: Walt Disneys 'Die Schöne und das Biest' (Belle)]
+Dialogue: Marked=0,0:05:07.96,0:05:11.83,Default,,0,0,0,,Oh, ist schon okay, versuchen sie einfach ihr fettes Gesicht aus diesem gottverdammten Buch rauszuhalten.\N[Referenz zu: Walt Disneys 'Die Schöne und das Biest' (Belle)]
 Dialogue: Marked=0,0:05:13.10,0:05:19.63,Default,,0,0,0,,Ich weiß, dass ich kein Hauptgewinn bin\Nich bin für die Augen nicht so leicht zu ertragen
 Dialogue: Marked=0,0:05:19.93,0:05:25.96,Default,,0,0,0,,Ich kann mich nicht auf das Aussehen verlassen, um mich durchzubringen.
 Dialogue: Marked=0,0:05:26.56,0:05:30.10,Default,,0,0,0,,Aber Hässlichkeit erlaubt\Neinem Mann seinen Verstand zu gebrauchen
