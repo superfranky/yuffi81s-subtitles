@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 Export Encoding: Unicode (UTF-8)
 Video Zoom Percent: 1
-Scroll Position: 42
-Active Line: 70
+Scroll Position: 45
+Active Line: 57
 PlayResX: 640
 PlayResY: 360
 Last Style Storage: Default
@@ -83,7 +83,7 @@ Dialogue: Marked=0,0:03:29.05,0:03:32.42,Jaffar,,0,0,0,,Oh no! No, the Indian sw
 Dialogue: Marked=0,0:03:32.42,0:03:34.90,Jasmin,,0,0,0,,No! {\i1}I{\i0} set them free.
 Dialogue: Marked=0,0:03:34.90,0:03:37.50,Jaffar,,0,0,0,,But those birds were imported from a foreign land.
 Dialogue: Marked=0,0:03:37.50,0:03:40.92,Jaffar,,0,0,0,,They can't survive here. The hawks will have them within the hour.
-Dialogue: Marked=0,0:03:40.92,0:03:44.60,Jasmin,,0,0,0,,Well, an hour free is better than a life time in a cage.
+Dialogue: Marked=0,0:03:40.92,0:03:44.60,Jasmin,,0,0,0,,Well, an hour free is better than a lifetime in a cage.
 Dialogue: Marked=0,0:03:44.60,0:03:49.35,Jasmin,,0,0,0,,Being fed and pampered and cleaned up after.
 Dialogue: Marked=0,0:03:49.35,0:03:51.52,Jasmin,,0,0,0,,What kind of a life is that?
 Dialogue: Marked=0,0:03:51.52,0:03:55.55,Jaffar,,0,0,0,,Princess, when are you going to learn that your actions have consequences?
@@ -92,10 +92,10 @@ Dialogue: Marked=0,0:03:59.92,0:04:04.27,Jasmin,,0,0,0,,Oh, it's not a big deal.
 Dialogue: Marked=0,0:04:04.27,0:04:07.65,Jasmin,,0,0,0,,Just like every other swaggering peacock I've met.
 Dialogue: Marked=0,0:04:07.65,0:04:11.75,Jaffar,,0,0,0,,But not all of your suitors have deserved a tiger set upon them.
 Dialogue: Marked=0,0:04:11.75,0:04:15.27,Jaffar,,0,0,0,,What about that first prince? He was a charming fellow.
-Dialogue: Marked=0,0:04:15.55,0:04:19.77,Jasmin,,0,0,0,,I heard he once made out with a girl, while she was blacked out.
+Dialogue: Marked=0,0:04:15.55,0:04:19.77,Jasmin,,0,0,0,,I heard he once made out with a girl, while she was blacked out.\N[Reference to: Disney's 'Snowwhite']
 Dialogue: Marked=0,0:04:19.92,0:04:21.57,Jasmin,,0,0,0,,That's not charming!
 Dialogue: Marked=0,0:04:21.57,0:04:23.40,Jasmin,,0,0,0,,That's kind of rapy.
-Dialogue: Marked=0,0:04:24.25,0:04:29.47,Jaffar,,0,0,0,,Well, what about prince Eric, the sea-fairing floutist?
+Dialogue: Marked=0,0:04:24.25,0:04:29.47,Jaffar,,0,0,0,,Well, what about prince Eric, the sea-fairing floutist?\N[Reference to: Disney's 'little mermaid']
 Dialogue: Marked=0,0:04:29.47,0:04:31.37,Jasmin,,0,0,0,,He fucked a fish!
 Dialogue: Marked=0,0:04:32.62,0:04:34.35,Jaffar,,0,0,0,,He did not fuck a fish!
 Dialogue: Marked=0,0:04:34.35,0:04:36.17,Jasmin,,0,0,0,,He wanted to fuck a fish!

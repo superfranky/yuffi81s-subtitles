@@ -8,7 +8,7 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 Export Encoding: Local
 Video Zoom Percent: 1
-Scroll Position: 50
+Scroll Position: 45
 Active Line: 70
 PlayResX: 640
 PlayResY: 360
@@ -46,7 +46,7 @@ Dialogue: Marked=0,0:01:03.32,0:01:06.20,Prince Achmed,,0,0,0,,Wie zum Teufel is
 Dialogue: Marked=0,0:01:06.62,0:01:09.07,Jaffar,,0,0,0,,Nun, ist es weil - äh...
 Dialogue: Marked=0,0:01:08.55,0:01:14.35,Prince Achmed,,0,0,0,,Es ist so, weil eure Prinzessin gerade einen bengalischen Tiger auf meinen Arsch gehetzt hat!
 Dialogue: Marked=0,0:01:15.37,0:01:18.35,Prince Achmed,,0,0,0,,Ich habe Glück, dass er so hübsch und klein ist.
-Dialogue: Marked=0,0:01:17.75,0:01:21.82,Jaffar,,0,0,0,,Oh, ich bin dankbar für euren kleinen Arsch, mein Herrscher.
+Dialogue: Marked=0,0:01:17.75,0:01:21.82,Jaffar,,0,0,0,,Oh, ich bin dankbar für Euren kleinen Arsch, mein Herrscher.
 Dialogue: Marked=0,0:01:21.60,0:01:25.75,Prince Achmed,,0,0,0,,Ich kann nicht glauben, dass sie dachte, sie könnte einen {\i1}Prinzen{\i0}...
 Dialogue: Marked=0,0:01:25.77,0:01:27.92,Prince Achmed,,0,0,0,,...an einen Bengalischen Tiger verfüttern.
 Dialogue: Marked=0,0:01:27.92,0:01:31.45,Prince Achmed,,0,0,0,,Und dass das keine politischen Konsequenzen haben würde.
@@ -87,15 +87,15 @@ Dialogue: Marked=0,0:03:40.92,0:03:44.60,Jasmin,,0,0,0,,Nun, eine Stunde frei is
 Dialogue: Marked=0,0:03:44.60,0:03:49.35,Jasmin,,0,0,0,,Gefüttert und verhätschelt werden und hinter einem wird saubergemacht.
 Dialogue: Marked=0,0:03:49.35,0:03:51.52,Jasmin,,0,0,0,,Was ist das für ein Leben?
 Dialogue: Marked=0,0:03:51.52,0:03:55.55,Jaffar,,0,0,0,,Prinzessin, wann werdet Ihr lernen, dass Eure Handlungen Konsequenzen haben?
-Dialogue: Marked=0,0:03:55.55,0:03:59.92,Jaffar,,0,0,0,,Dieser Prinz auf den Ihr gerade einen Tiger losgelassen habt, that unserem Königreich mit Krieg gedroht!
+Dialogue: Marked=0,0:03:55.55,0:03:59.92,Jaffar,,0,0,0,,Dieser Prinz auf den Ihr gerade einen Tiger losgelassen habt, hat unserem Königreich mit Krieg gedroht!
 Dialogue: Marked=0,0:03:59.92,0:04:04.27,Jasmin,,0,0,0,,Oh, das ist keine große Sache. Er war so ein Witz!
 Dialogue: Marked=0,0:04:04.27,0:04:07.65,Jasmin,,0,0,0,,Genau wie jeder andere prahlerische eitle Gockel, den ich getroffen habe.
 Dialogue: Marked=0,0:04:07.65,0:04:11.75,Jaffar,,0,0,0,,Aber nicht all Eure Freier haben es verdient, dass man einen Tiger auf sie loslässt.
 Dialogue: Marked=0,0:04:11.75,0:04:15.27,Jaffar,,0,0,0,,Was ist mit diesem ersten Prinzen? Er war ein charmanter Kerl.
-Dialogue: Marked=0,0:04:15.55,0:04:19.77,Jasmin,,0,0,0,,Ich hörte, er hat mal ein Mädchen geknutscht, wärend sie ohnmächtig war.
+Dialogue: Marked=0,0:04:15.55,0:04:19.77,Jasmin,,0,0,0,,Ich hörte, er hat mal ein Mädchen geknutscht, wärend sie ohnmächtig war.\N[Referenz zu: Disneys 'Schneewittchen']
 Dialogue: Marked=0,0:04:19.92,0:04:21.57,Jasmin,,0,0,0,,Das ist nicht charmant!
 Dialogue: Marked=0,0:04:21.57,0:04:23.40,Jasmin,,0,0,0,,Das ist eine Art Vergewaltigung.
-Dialogue: Marked=0,0:04:24.25,0:04:29.47,Jaffar,,0,0,0,,Nun, was ist mit Prinz Eric, der see fahrende Flötenspieler?
+Dialogue: Marked=0,0:04:24.25,0:04:29.47,Jaffar,,0,0,0,,Nun, was ist mit Prinz Eric, der see fahrende Flötenspieler?\N[Referenz zu Disneys 'Arielle, die  kleine Meerjungfrau']
 Dialogue: Marked=0,0:04:29.47,0:04:31.37,Jasmin,,0,0,0,,Er hat einen Fisch gefickt!
 Dialogue: Marked=0,0:04:32.62,0:04:34.35,Jaffar,,0,0,0,,Er hat keinen Fisch gefickt!
 Dialogue: Marked=0,0:04:34.35,0:04:36.17,Jasmin,,0,0,0,,Er wollte einen Fisch ficken!
