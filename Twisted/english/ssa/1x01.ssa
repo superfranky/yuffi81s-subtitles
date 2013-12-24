@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 1280
 PlayResY: 720
-Scroll Position: 82
-Active Line: 91
+Scroll Position: 145
+Active Line: 167
 Video Zoom Percent: 1
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
@@ -206,7 +206,7 @@ Dialogue: Marked=0,0:09:39.66,0:09:44.30,Jaffar,,0,0,0,,No, if only, captain! He
 Dialogue: Marked=0,0:09:44.30,0:09:48.03,Jaffar,,0,0,0,,and I've got to extend the contract or our kingdom is doomed.
 Dialogue: Marked=0,0:09:48.40,0:09:53.16,Jaffar,,0,0,0,,That's why I've pulled out all the stops to make this prince's visit a happy one.
 Dialogue: Marked=0,0:09:53.30,0:09:56.10,Jaffar,,0,0,0,,We've arranged a character breakfast with our princess
-Dialogue: Marked=0,0:09:56.10,0:09:57.96,Jaffar,,0,0,0,,giving him a two day park hopper pass
+Dialogue: Marked=0,0:09:56.10,0:09:57.96,Jaffar,,0,0,0,,given him a two day park hopper pass
 Dialogue: Marked=0,0:09:57.96,0:10:01.06,Jaffar,,0,0,0,,and a lanyard for souvenir pin collecting.
 Dialogue: Marked=0,0:10:01.23,0:10:05.03,Jaffar,,0,0,0,,Everyone must treat this prince with the utmost respect.
 Dialogue: Marked=0,0:10:05.03,0:10:09.70,Captain Royal Guard,,0,0,0,,Ha! I saw that very prince riding by on his horse earlier.
