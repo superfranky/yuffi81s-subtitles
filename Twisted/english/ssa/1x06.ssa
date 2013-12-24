@@ -3,8 +3,8 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 0
-Active Line: 12
+Scroll Position: 9
+Active Line: 37
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Last Style Storage: Default
@@ -58,7 +58,7 @@ Dialogue: Marked=0,0:01:52.60,0:01:54.25,Alladin,,0,0,0,,Unbelievable!
 Dialogue: Marked=0,0:01:58.40,0:02:00.72,Jasmin,,0,0,0,,This is so unfair!
 Dialogue: Marked=0,0:02:00.95,0:02:05.00,Jasmin,,0,0,0,,Poor people need slaves just as much as rich people do.
 Dialogue: Marked=0,0:02:05.47,0:02:07.42,Jasmin,,0,0,0,,Maybe even a little bit more.
-Dialogue: Marked=0,0:02:08.37,0:02:10.52,Jasmin,,0,0,0,,And you know what the real sad part is?
+Dialogue: Marked=0,0:02:08.37,0:02:10.52,Jasmin,,0,0,0,,And you know what the really sad part is?
 Dialogue: Marked=0,0:02:10.52,0:02:14.40,Jasmin,,0,0,0,,The people in power are doing absolutely nothing to change that!
 Dialogue: Marked=0,0:02:14.65,0:02:16.77,Jasmin,,0,0,0,,Change scares old people.
 Dialogue: Marked=0,0:02:16.77,0:02:18.07,Alladin,,0,0,0,,Yeah!
