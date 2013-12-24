@@ -8,15 +8,11 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 1280
 PlayResY: 720
-Scroll Position: 16
-Active Line: 17
-Video Zoom Percent: 0.875
+Scroll Position: 82
+Active Line: 91
+Video Zoom Percent: 1
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio URI: ..\..\..\..\Twisted Act 1 Part 1-e5mkyhYMaQ8.mp4
-Video File: ..\..\..\..\Twisted Act 1 Part 1-e5mkyhYMaQ8.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 1701
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -134,7 +130,7 @@ Dialogue: Marked=0,0:04:55.90,0:04:59.60,Town People,,0,0,0,,If you are sure of 
 Dialogue: Marked=0,0:04:59.60,0:05:03.40,Town People,,0,0,0,,Will give you the extract you need!
 Dialogue: Marked=0,0:05:06.00,0:05:07.96,Jaffar,,0,0,0,,Oh! Pardon me, Ma'am!
 Dialogue: Marked=0,0:05:07.96,0:05:11.83,Town People,,0,0,0,,Oh, that's alright, just try to keep your fat face out of that motherfucking book.\N[Reference to: Disney's 'Beauty and the beast' (Belle)]
-Dialogue: Marked=0,0:05:13.10,0:05:19.63,Jaffar,,0,0,0,,I know, that I'm no prize \NI'm m not so easy on the eyes
+Dialogue: Marked=0,0:05:13.10,0:05:19.63,Jaffar,,0,0,0,,I know, that I'm no prize \NI'm not so easy on the eyes
 Dialogue: Marked=0,0:05:19.93,0:05:25.96,Jaffar,,0,0,0,,I can't rely on looks to get me by.
 Dialogue: Marked=0,0:05:26.56,0:05:30.10,Jaffar,,0,0,0,,But ugliness permits\Na man to use his wits
 Dialogue: Marked=0,0:05:30.10,0:05:32.90,Jaffar,,0,0,0,,'Cause pretty people never have to try.
