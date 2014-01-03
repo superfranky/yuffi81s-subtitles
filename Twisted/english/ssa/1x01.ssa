@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 1280
 PlayResY: 720
-Scroll Position: 145
-Active Line: 160
+Scroll Position: 157
+Active Line: 175
 Video Zoom Percent: 1
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
@@ -214,7 +214,7 @@ Dialogue: Marked=0,0:10:09.50,0:10:10.16,Jaffar,,0,0,0,,No!
 Dialogue: Marked=0,0:10:10.33,0:10:14.16,Captain Royal Guard,,0,0,0,,He was being accosted by the same thief we just spoke of.
 Dialogue: Marked=0,0:10:14.16,0:10:14.63,Jaffar,,0,0,0,,What!
 Dialogue: Marked=0,0:10:14.96,0:10:21.33,Captain Royal Guard,,0,0,0,,The street rat threw a whip in his face! He told him that he'd never seen a horse with two rear ends.
-Dialogue: Marked=0,0:10:22.03,0:10:28.53,Captain Royal Guard,,0,0,0,,Now, I'm not sure if the thief meat that the prince had a big horsey ass or a horse ass for a face.
+Dialogue: Marked=0,0:10:22.03,0:10:28.53,Captain Royal Guard,,0,0,0,,Now, I'm not sure if the thief meant that the prince had a big horsey ass or a horse ass for a face.
 Dialogue: Marked=0,0:10:29.63,0:10:33.66,Captain Royal Guard,,0,0,0,,Either way, everyone laughed and the prince was furious.
 Dialogue: Marked=0,0:10:33.66,0:10:38.43,Jaffar,,0,0,0,,Oh. I better go back to the palace and make sure his breakfast with the princess goes well...
 Dialogue: Marked=0,0:10:38.56,0:10:42.13,Captain Royal Guard,,0,0,0,,But Jaffar, isn't she known to sick tigers on visiting princes?

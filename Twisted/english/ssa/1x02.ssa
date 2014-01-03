@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 Export Encoding: Unicode (UTF-8)
 Video Zoom Percent: 1
-Scroll Position: 45
-Active Line: 57
+Scroll Position: 96
+Active Line: 119
 PlayResX: 640
 PlayResY: 360
 Last Style Storage: Default
@@ -144,7 +144,7 @@ Dialogue: Marked=0,0:07:01.32,0:07:05.97,Jasmin,,0,0,0,,It's not enough
 Dialogue: Marked=0,0:07:05.97,0:07:09.70,Jasmin,,0,0,0,,I want a life of adventure
 Dialogue: Marked=0,0:07:09.70,0:07:13.75,Jasmin,,0,0,0,,With no orders I have to obey
 Dialogue: Marked=0,0:07:13.75,0:07:18.25,Jasmin,,0,0,0,,And dangers galore, 'long as I can be sure
-Dialogue: Marked=0,0:07:18.25,0:07:23.50,Jasmin,,0,0,0,,That I'm save and secure at the end of the day
+Dialogue: Marked=0,0:07:18.25,0:07:23.50,Jasmin,,0,0,0,,That I'm safe and secure at the end of the day
 Dialogue: Marked=0,0:07:23.50,0:07:27.82,Jasmin,,0,0,0,,I've got to escape from this palace
 Dialogue: Marked=0,0:07:27.82,0:07:30.97,Jasmin,,0,0,0,,For a life where I'll truly be free
 Dialogue: Marked=0,0:07:30.97,0:07:35.15,Jasmin,,0,0,0,,I'll go live somewhere new, just as big with a view
