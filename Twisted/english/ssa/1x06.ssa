@@ -4,7 +4,7 @@
 PlayResX: 640
 PlayResY: 360
 Scroll Position: 9
-Active Line: 37
+Active Line: 21
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Last Style Storage: Default
@@ -41,7 +41,7 @@ Dialogue: Marked=0,0:00:55.10,0:00:58.10,Alladin,,0,0,0,,It's like: Is he really
 Dialogue: Marked=0,0:00:58.95,0:01:01.50,Alladin,,0,0,0,,And all the once he doesn't eat he's trying to sell.
 Dialogue: Marked=0,0:01:01.92,0:01:04.40,Alladin,,0,0,0,,For money! So greedy!
 Dialogue: Marked=0,0:01:05.07,0:01:08.12,Jasmin,,0,0,0,,But you're so generous!
-Dialogue: Marked=0,0:01:08.12,0:01:14.80,Jasmin,,0,0,0,,Sticking your neck out for a girl you just met, while expacting absolutely nothing in return.
+Dialogue: Marked=0,0:01:08.12,0:01:14.80,Jasmin,,0,0,0,,Sticking your neck out for a girl you just met, while expecting absolutely nothing in return.
 Dialogue: Marked=0,0:01:16.27,0:01:19.17,Jasmin,,0,0,0,,And then insisting that I stay with you tonight.
 Dialogue: Marked=0,0:01:20.17,0:01:21.32,Alladin,,0,0,0,,No prob.
 Dialogue: Marked=0,0:01:22.37,0:01:24.27,Alladin,,0,0,0,,I do it all the time.
