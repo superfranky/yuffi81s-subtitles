@@ -3,8 +3,8 @@
 ; http://www.aegisub.org/
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 170
-Active Line: 179
+Scroll Position: 225
+Active Line: 226
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Last Style Storage: Default
@@ -67,7 +67,7 @@ Dialogue: Marked=0,0:01:54.05,0:01:56.75,Jaffar,,0,0,0,,Nein! Nein, ein 'l', zwe
 Dialogue: Marked=0,0:01:56.75,0:01:57.57,Jaffar,,0,0,0,,Hm hm.
 Dialogue: Marked=0,0:01:57.57,0:01:58.85,Jasmin,,0,0,0,,Oh, das sieht seltsam aus.
 Dialogue: Marked=0,0:01:58.85,0:02:00.57,Jaffar,,0,0,0,,Ja, es ist seltsam.
-Dialogue: Marked=0,0:02:01.15,0:02:03.97,Jaffar,,0,0,0,,Aber Prinzessin, Euer ganzes Leben lang war ich Euer Visier.
+Dialogue: Marked=0,0:02:01.15,0:02:03.97,Jaffar,,0,0,0,,Aber Prinzessin, Euer ganzes Leben lang war ich Euer Wesir.
 Dialogue: Marked=0,0:02:03.97,0:02:07.22,Jaffar,,0,0,0,,Euer Lehrer. Glaubt es, oder nicht: Ich sorge mich um Euch.
 Dialogue: Marked=0,0:02:07.22,0:02:10.20,Jaffar,,0,0,0,,Ihr werdet eines Tages über dieses Königreich herrschen müssen.
 Dialogue: Marked=0,0:02:10.20,0:02:12.60,Jaffar,,0,0,0,,Und ich versuche mein Bestes, Euch darauf vorzubereiten.
@@ -82,7 +82,7 @@ Dialogue: Marked=0,0:02:28.90,0:02:30.57,Jaffar,,0,0,0,,Oder noch einfacher:
 Dialogue: Marked=0,0:02:30.57,0:02:35.37,Jaffar,,0,0,0,,Wie würdet Ihr die sozial-ökonomische Unausgeglichenheit beheben?
 Dialogue: Marked=0,0:02:35.37,0:02:39.40,Jasmin,,0,0,0,,Oh, oh! Oh! Darüber habe ich in letzter Zeit viel nachgedacht!
 Dialogue: Marked=0,0:02:39.40,0:02:41.20,Jasmin,,0,0,0,,Und äh - *räuspert sich*
-Dialogue: Marked=0,0:02:41.20,0:02:46.75,Jasmin,,0,0,0,,UInd wie - wie pivillegiert ich bin und wie - weil ich eine Prinzessin bin...
+Dialogue: Marked=0,0:02:41.20,0:02:46.75,Jasmin,,0,0,0,,UInd wie - wie pivilegiert ich bin und wie - weil ich eine Prinzessin bin...
 Dialogue: Marked=0,0:02:46.75,0:02:49.82,Jasmin,,0,0,0,,...jeder nett zu mir sein und mir Sachen geben muß.
 Dialogue: Marked=0,0:02:49.82,0:02:54.17,Jasmin,,0,0,0,,Also denke ich, es würde alle Probleme des Königreiches lösen...
 Dialogue: Marked=0,0:02:54.17,0:02:59.65,Jasmin,,0,0,0,,...wenn wir einfach aus jedem eine Prinzessin machten.
@@ -125,7 +125,7 @@ Dialogue: Marked=0,0:04:39.37,0:04:40.72,Jaffar,,0,0,0,,Was ist mit den Apfelkar
 Dialogue: Marked=0,0:04:40.72,0:04:42.05,Cpt. Royal Guard,,0,0,0,,Sie sind alle umgeworfen!
 Dialogue: Marked=0,0:04:42.05,0:04:43.02,Jaffar,,0,0,0,,Nein!
 Dialogue: Marked=0,0:04:43.02,0:04:47.35,Cpt. Royal Guard,,0,0,0,,Und es wird schlimmer. Der Verrückte wirft Goldstücke in die hungernde Menge...
-Dialogue: Marked=0,0:04:47.35,0:04:49.77,Cpt. Royal Guard,,0,0,0,,...und sie trampeln aufeinander herum, um an es heranzukommen.
+Dialogue: Marked=0,0:04:47.35,0:04:49.77,Cpt. Royal Guard,,0,0,0,,...und sie trampeln aufeinander herum, um an sie heranzukommen.
 Dialogue: Marked=0,0:04:50.10,0:04:53.52,Cpt. Royal Guard,,0,0,0,,Ich zählte 13 Tote, bevor die Pfauen sie erreichten.
 Dialogue: Marked=0,0:04:55.25,0:04:57.17,Jaffar,,0,0,0,,Oh Scheiße!
 Dialogue: Marked=0,0:04:58.10,0:05:00.62,Cpt. Royal Guard,,0,0,0,,Das ist alles deine Schuld, Jaffar!
@@ -151,7 +151,7 @@ Dialogue: Marked=0,0:06:04.12,0:06:07.17,Jasmin,,0,0,0,,Aber wie bist du davor e
 Dialogue: Marked=0,0:06:07.17,0:06:09.32,Aladdin,,0,0,0,,Äh, ich bin entkommen, weil -
 Dialogue: Marked=0,0:06:09.32,0:06:11.32,Aladdin,,0,0,0,,ich ein Prinz bin.
 Dialogue: Marked=0,0:06:11.97,0:06:13.32,Jasmin,,0,0,0,,Du bist ein Prinz?!?
-Dialogue: Marked=0,0:06:13.32,0:06:17.05,Jasmin,,0,0,0,,Aber ich dachte du bist ein armer Waisenjunge.
+Dialogue: Marked=0,0:06:13.32,0:06:17.05,Jasmin,,0,0,0,,Aber ich dachte du wärst ein armer Waisenjunge.
 Dialogue: Marked=0,0:06:17.35,0:06:19.27,Jasmin,,0,0,0,,Oh es fällt mir schwer das zu glauben.
 Dialogue: Marked=0,0:06:19.27,0:06:21.52,Aladdin,,0,0,0,,Nein! Nein! Ich bin ein Prinz!
 Dialogue: Marked=0,0:06:21.52,0:06:23.52,Aladdin,,0,0,0,,Alles, was ich dir in der anderen Nacht erzählt habe, war eine Lüge.
@@ -159,11 +159,11 @@ Dialogue: Marked=0,0:06:23.52,0:06:24.92,Aladdin,,0,0,0,,Vertraust du mir nicht?
 Dialogue: Marked=0,0:06:25.25,0:06:26.92,Jasmin,,0,0,0,,Also...
 Dialogue: Marked=0,0:06:26.92,0:06:30.45,Jasmin,,0,0,0,,Du bist keine tragische Figur, die gegen den weißen Mann rebelliert?
 Dialogue: Marked=0,0:06:30.45,0:06:31.87,Aladdin,,0,0,0,,Babe, ich bin der Mann!
-Dialogue: Marked=0,0:06:33.17,0:06:36.37,Jasmin,,0,0,0,,Und du hast all das Zeug gestolen, weil...?
+Dialogue: Marked=0,0:06:33.17,0:06:36.37,Jasmin,,0,0,0,,Und du hast all das Zeug gestohlen, einfach weil...?
 Dialogue: Marked=0,0:06:36.37,0:06:38.22,Aladdin,,0,0,0,,Genau!
 Dialogue: Marked=0,0:06:38.97,0:06:40.72,Jasmin,,0,0,0,,Iiih!
 Dialogue: Marked=0,0:06:40.72,0:06:43.87,Jasmin,,0,0,0,,Oh nein! Okay, ähm...
-Dialogue: Marked=0,0:06:44.52,0:06:49.40,Jasmin,,0,0,0,,Jetzt habe ich irgendwie das Gefühl, als wäre alles, was an dir für mich vorher anziehend war...
+Dialogue: Marked=0,0:06:44.52,0:06:49.40,Jasmin,,0,0,0,,Jetzt habe ich irgendwie das Gefühl, als wenn alles, was an dir für mich vorher anziehend war...
 Dialogue: Marked=0,0:06:49.40,0:06:51.77,Jasmin,,0,0,0,,...nicht mehr wirklich da ist.
 Dialogue: Marked=0,0:06:56.05,0:06:58.50,Jasmin,,0,0,0,,Neeein! Nein.
 Dialogue: Marked=0,0:06:58.50,0:07:00.82,Jasmin,,0,0,0,,Ich bin nur nicht entscheidungsfreudig.
@@ -222,10 +222,10 @@ Dialogue: Marked=0,0:09:44.82,0:09:48.52,Jasmin,,0,0,0,,Ich meine, es ist nicht 
 Comment: Marked=0,0:09:55.62,0:09:59.00,Jasmin,,0,0,0,,Start of song
 Dialogue: Marked=0,0:09:55.62,0:09:59.00,Aladdin,,0,0,0,,Sieh diesen Palast aus Gold
 Dialogue: Marked=0,0:09:59.00,0:10:02.62,Aladdin,,0,0,0,,Lechtend, Funken sprühend, metallisch
-Dialogue: Marked=0,0:10:02.62,0:10:05.52,Aladdin,,0,0,0,,Und ein klein bisschen Phallus artig
+Dialogue: Marked=0,0:10:02.62,0:10:05.52,Aladdin,,0,0,0,,Und ein klein bisschen Phallus artig\N[Referenz zu: Disneys 'Arielle - Die kleine Meerjungfrau']
 Dialogue: Marked=0,0:10:05.52,0:10:08.92,Aladdin,,0,0,0,,Sieh hin und du wirst zustimmen
 Dialogue: Marked=0,0:10:09.47,0:10:12.65,Aladdin,,0,0,0,,Sieh diese Blätter auf dem Boden
-Dialogue: Marked=0,0:10:13.12,0:10:16.27,Aladdin,,0,0,0,,die etwas eindeutiges buchstabieren
+Dialogue: Marked=0,0:10:13.12,0:10:16.27,Aladdin,,0,0,0,,die etwas eindeutiges buchstabieren\N[Referenz zu: Disneys 'Der König der Löwen']
 Dialogue: Marked=0,0:10:15.62,0:10:17.20,Jasmin,,0,0,0,,(SFX?) [youtu.be/edtwq4P8jUM]
 Dialogue: Marked=0,0:10:16.67,0:10:19.32,Aladdin,,0,0,0,,Zwinkere nicht, sonst wirst du es verpassen
 Dialogue: Marked=0,0:10:19.32,0:10:22.50,Aladdin,,0,0,0,,wie es dich und mich freundlich fragt
@@ -242,13 +242,13 @@ Dialogue: Marked=0,0:10:49.50,0:10:55.87,Jasmin,,0,0,0,,bin ich versucht mich au
 Dialogue: Marked=0,0:10:53.60,0:10:57.00,Aladdin,,0,0,0,,Ich will mich mit dir ausziehen
 Dialogue: Marked=0,0:10:57.00,0:11:00.07,Jasmin,,0,0,0,,Ich fühle mich frei wie ein Vogel
 Dialogue: Marked=0,0:11:00.42,0:11:03.82,Jasmin,,0,0,0,,Ohne Käfig und Besitzer
-Dialogue: Marked=0,0:11:03.85,0:11:06.65,Aladdin,,0,0,0,,Schau, dieser Priester hat einen Ständer
+Dialogue: Marked=0,0:11:03.85,0:11:06.65,Aladdin,,0,0,0,,Schau, dieser Priester hat einen Ständer\N[Referenz zu: Disneys ' Arielle - Die kleinen Meerjungfrau']
 Dialogue: Marked=0,0:11:07.00,0:11:10.07,Jasmin,,0,0,0,,Nein, ich denke, das sind nur seine Knie
 Dialogue: Marked=0,0:11:10.07,0:11:13.32,Aladdin,,0,0,0,,Komm, zieh dich aus
 Dialogue: Marked=0,0:11:11.62,0:11:14.17,Jasmin,,0,0,0,,Was für eine perfekte Romanze
 Dialogue: Marked=0,0:11:14.17,0:11:17.40,Aladdin,,0,0,0,,Das Universum sagt dir
 Dialogue: Marked=0,0:11:15.05,0:11:17.50,Jasmin,,0,0,0,,Ich kann es nicht erwarten, bis wir verheiratet sind
-Dialogue: Marked=0,0:11:17.50,0:11:19.67,Aladdin,,0,0,0,,Jedes Zeichen ist hier srogfältig platziert
+Dialogue: Marked=0,0:11:17.50,0:11:19.67,Aladdin,,0,0,0,,Jedes Zeichen ist hier sorgfältig platziert
 Dialogue: Marked=0,0:11:19.67,0:11:21.47,Aladdin,,0,0,0,,mit liebevoller Vorsicht
 Dialogue: Marked=0,0:11:21.47,0:11:24.17,Aladdin,,0,0,0,,Nimm die kosmische Herausforderung an
 Dialogue: Marked=0,0:11:24.17,0:11:28.82,Aladdin,,0,0,0,,und zieh dich aus. Prinzessin zieh deine Hose aus!
