@@ -8,12 +8,16 @@ ScriptType: v4.00
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
-PlayResX: 640
-PlayResY: 360
-Scroll Position: 0
-Active Line: 141
-Video Zoom Percent: 1
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 36
+Active Line: 49
+Video Zoom Percent: 0.5
 Export Encoding: Local
+Video File: ..\..\..\..\Twisted Act 2 Part 1-MDMFTR_6k-4.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 10434
+Audio URI: ..\..\..\..\Twisted Act 2 Part 1-MDMFTR_6k-4.mp4
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -70,13 +74,13 @@ Dialogue: Marked=0,0:02:28.81,0:02:32.60,Default,,0,0,0,,...ziemlich schönen, s
 Dialogue: Marked=0,0:02:33.39,0:02:35.02,Default,,0,0,0,,[weint]
 Dialogue: Marked=0,0:02:39.77,0:02:42.09,Default,,0,0,0,,...es wird niemals geschehen.
 Dialogue: Marked=0,0:02:43.20,0:02:44.41,Default,,0,0,0,,Ein Mädchen wie sie...
-Dialogue: Marked=0,0:02:45.26,0:02:46.41,Default,,0,0,0,,...und ein Typ wie ich..
+Dialogue: Marked=0,0:02:45.26,0:02:46.41,Default,,0,0,0,,...und ein Typ wie ich.
 Dialogue: Marked=0,0:02:48.06,0:02:51.44,Default,,0,0,0,,Ich bin nicht schön vom Gesicht her.
 Dialogue: Marked=0,0:02:51.44,0:02:51.98,Default,,0,0,0,,Nein!
 Dialogue: Marked=0,0:02:52.25,0:02:53.04,Default,,0,0,0,,Ruhe!
 Dialogue: Marked=0,0:02:55.63,0:03:00.67,Default,,0,0,0,,Ich habe diese seltsam hochstehende Nase und diesen unmöglichen Schnurrbart.
 Dialogue: Marked=0,0:03:02.57,0:03:04.22,Default,,0,0,0,,Ich sollte ihn einfach abrasieren.
-Dialogue: Marked=0,0:03:04.40,0:03:05.72,Default,,0,0,0,,Wagen Sie es ja nicht!
+Dialogue: Marked=0,0:03:04.40,0:03:05.72,Default,,0,0,0,,Wagt es ja nicht!
 Dialogue: Marked=0,0:03:05.72,0:03:07.72,Default,,0,0,0,,Wir lieben Euch genauso wie Ihr seid!
 Dialogue: Marked=0,0:03:07.98,0:03:09.55,Default,,0,0,0,,Egal, was passiert.
 Dialogue: Marked=0,0:03:09.55,0:03:12.09,Default,,0,0,0,,Ihr werdet für mich immer ein Prinz sein.
@@ -121,14 +125,14 @@ Dialogue: Marked=0,0:04:43.29,0:04:47.13,Default,,0,0,0,,Ihr könnt 60 Konkubine
 Dialogue: Marked=0,0:04:47.13,0:04:47.72,Default,,0,0,0,,Ja!
 Dialogue: Marked=0,0:04:47.48,0:04:50.52,Default,,0,0,0,,aber keiner erinnert sich an Achmed
 Dialogue: Marked=0,0:04:51.04,0:04:54.99,Default,,0,0,0,,Zuhause war ich ein Held\NDamen zitterten, wenn ich sprach
-Dialogue: Marked=0,0:04:55.20,0:04:58.94,Default,,0,0,0,,Aber hier behandeln die Frauen mich\Nwie einen schlechten Witz
-Dialogue: Marked=0,0:04:59.63,0:05:03.21,Default,,0,0,0,,Werfen ihn weg
+Dialogue: Marked=0,0:04:55.20,0:04:58.94,Default,,0,0,0,,Aber hier behandelt die Frau mich\Nwie einen schlechten Witz
+Dialogue: Marked=0,0:04:59.63,0:05:03.21,Default,,0,0,0,,Sie wirft ihn weg
 Dialogue: Marked=0,0:05:02.54,0:05:06.33,Default,,0,0,0,,Ich bin ein Gott auf Erden, aber verflucht
-Dialogue: Marked=0,0:05:06.33,0:05:08.80,Default,,0,0,0,,selbst eingeborene Göttliche Wesen
+Dialogue: Marked=0,0:05:06.33,0:05:08.80,Default,,0,0,0,,selbst eingeborene göttliche Wesen
 Dialogue: Marked=0,0:05:09.15,0:05:14.19,Default,,0,0,0,,fühlen sich hin und wieder etwas unsicher
 Dialogue: Marked=0,0:05:14.27,0:05:17.07,Default,,0,0,0,,Alles was ich will, ist etwas Zuneigung
 Dialogue: Marked=0,0:05:13.08,0:05:14.48,Default,,0,0,0,,Unsicher
-Dialogue: Marked=0,0:05:17.26,0:05:21.32,Default,,0,0,0,,Diese Zurückweisung ist fast zu viel, um es zu ertragen
+Dialogue: Marked=0,0:05:17.26,0:05:21.32,Default,,0,0,0,,Diese Zurückweisung ist fast zu viel zu ertragen
 Dialogue: Marked=0,0:05:20.32,0:05:23.44,Default,,0,0,0,,Zu ertragen, seht, was er alles ertragen muß
 Dialogue: Marked=0,0:05:23.44,0:05:25.15,Default,,0,0,0,,Bin ich keine schöne Sache?
 Dialogue: Marked=0,0:05:25.52,0:05:27.45,Default,,0,0,0,,wollt ihr nicht ein Stück hiervon?
@@ -154,8 +158,8 @@ Dialogue: Marked=0,0:06:33.53,0:06:38.17,Default,,0,0,0,,sie werden sich nie wie
 Dialogue: Marked=0,0:06:38.59,0:06:40.17,Default,,0,0,0,,Er hat einen Tiger gefickt
 Dialogue: Marked=0,0:06:39.92,0:06:41.63,Default,,0,0,0,,Ich habe KEINEN Tiger gefickt!
 Dialogue: Marked=0,0:06:41.63,0:06:43.29,Default,,0,0,0,,Das... das habe ich NICHT, es war...
-Dialogue: Marked=0,0:06:43.29,0:06:47.55,Default,,0,0,0,,Sie werden sich an Achmed erinnern
-Dialogue: Marked=0,0:06:47.55,0:06:51.64,Default,,0,0,0,,Sie werden sich an Achmed erinnern
+Dialogue: Marked=0,0:06:43.29,0:06:47.32,Default,,0,0,0,,Sie werden sich an Achmed erinnern
+Dialogue: Marked=0,0:06:47.55,0:06:51.44,Default,,0,0,0,,Sie werden sich an Achmed erinnern
 Dialogue: Marked=0,0:06:51.64,0:06:57.79,Default,,0,0,0,,Sie werden sich an Achmed erinnern
 Dialogue: Marked=0,0:06:57.79,0:07:05.80,Default,,0,0,0,,Sie werden sich an mich erinnern!
 Dialogue: Marked=0,0:06:59.44,0:07:02.48,Default,,0,0,0,,Tigerficker, Tigerficker, Achmed ist ein Tigerficker

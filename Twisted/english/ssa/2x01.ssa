@@ -6,12 +6,16 @@ ScriptType: v4.00
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
-PlayResX: 640
-PlayResY: 360
-Scroll Position: 6
-Active Line: 25
-Video Zoom Percent: 1
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 0
+Active Line: 135
+Video Zoom Percent: 0.5
 Export Encoding: Local
+Audio URI: ..\..\..\..\Twisted Act 2 Part 1-MDMFTR_6k-4.mp4
+Video File: ..\..\..\..\Twisted Act 2 Part 1-MDMFTR_6k-4.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 10017
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -112,14 +116,14 @@ Dialogue: Marked=0,0:04:28.28,0:04:30.78,Default,,0,0,0,,But I've been ignored f
 Dialogue: Marked=0,0:04:31.07,0:04:33.16,Default,,0,0,0,,We're going to war!
 Comment: Marked=0,0:04:33.66,0:04:37.85,Default,,0,0,0,,Start of Song
 Dialogue: Marked=0,0:04:33.66,0:04:37.08,Default,,0,0,0,,caked in mud or drenched in blood
-Dialogue: Marked=0,0:04:37.08,0:04:39.36,Default,,0,0,0,,your smell is fresh as a flower
+Dialogue: Marked=0,0:04:37.08,0:04:39.36,Default,,0,0,0,,you smell as fresh as a flower
 Dialogue: Marked=0,0:04:39.36,0:04:39.93,Default,,0,0,0,,Yes
 Dialogue: Marked=0,0:04:39.63,0:04:42.64,Default,,0,0,0,,but no one remembers Achmed
 Dialogue: Marked=0,0:04:43.29,0:04:47.13,Default,,0,0,0,,You can pleasure 60 concubines in only an hour
 Dialogue: Marked=0,0:04:47.13,0:04:47.72,Default,,0,0,0,,Yes!
 Dialogue: Marked=0,0:04:47.48,0:04:50.52,Default,,0,0,0,,but no one remembers Achmed
 Dialogue: Marked=0,0:04:51.04,0:04:54.99,Default,,0,0,0,,Back home I was a hero\Nladies trembled when I spoke
-Dialogue: Marked=0,0:04:55.20,0:04:58.94,Default,,0,0,0,,But here the women treat me\Nlike a throw away joke
+Dialogue: Marked=0,0:04:55.20,0:04:58.94,Default,,0,0,0,,But here the woman treats me\Nlike a throw away joke
 Dialogue: Marked=0,0:04:59.63,0:05:03.21,Default,,0,0,0,,Throw him away
 Dialogue: Marked=0,0:05:02.54,0:05:06.33,Default,,0,0,0,,I'm a god on earth, but darnit
 Dialogue: Marked=0,0:05:06.33,0:05:08.80,Default,,0,0,0,,even deities incarnate
@@ -141,8 +145,8 @@ Dialogue: Marked=0,0:05:55.45,0:06:01.36,Default,,0,0,0,,that once I kill all he
 Dialogue: Marked=0,0:05:58.44,0:06:01.64,Default,,0,0,0,,Yes, she will, yes, she absolutely will
 Dialogue: Marked=0,0:06:01.76,0:06:05.28,Default,,0,0,0,,Then laugh, that's just fine,\Nbut the last laugh will be mine
 Dialogue: Marked=0,0:06:05.28,0:06:08.67,Default,,0,0,0,,'Cause they can't laugh, when they're all dead
-Dialogue: Marked=0,0:06:08.67,0:06:12.44,Default,,0,0,0,,I'll make them all regret\Nthe day they choose to forget
-Dialogue: Marked=0,0:06:12.44,0:06:14.44,Default,,0,0,0,,What's that name,everyone?
+Dialogue: Marked=0,0:06:08.67,0:06:12.44,Default,,0,0,0,,I'll make them all regret\Nthe day they chose to forget
+Dialogue: Marked=0,0:06:12.44,0:06:14.44,Default,,0,0,0,,What's that name, everyone?
 Dialogue: Marked=0,0:06:14.44,0:06:15.72,Default,,0,0,0,,Tiger fucker!
 Dialogue: Marked=0,0:06:15.72,0:06:16.60,Default,,0,0,0,,No!!!
 Dialogue: Marked=0,0:06:27.42,0:06:29.80,Default,,0,0,0,,Like I said: What's that name?
@@ -152,8 +156,8 @@ Dialogue: Marked=0,0:06:33.53,0:06:38.17,Default,,0,0,0,,never more will they mo
 Dialogue: Marked=0,0:06:38.59,0:06:40.17,Default,,0,0,0,,he fucked a tiger
 Dialogue: Marked=0,0:06:39.92,0:06:41.63,Default,,0,0,0,,I did NOT fuck a tiger!
 Dialogue: Marked=0,0:06:41.63,0:06:43.29,Default,,0,0,0,,I... I did NOT, it was...
-Dialogue: Marked=0,0:06:43.29,0:06:47.55,Default,,0,0,0,,They'll remember Achmed
-Dialogue: Marked=0,0:06:47.55,0:06:51.64,Default,,0,0,0,,They'll remember Achmed
+Dialogue: Marked=0,0:06:43.29,0:06:47.36,Default,,0,0,0,,They'll remember Achmed
+Dialogue: Marked=0,0:06:47.55,0:06:51.45,Default,,0,0,0,,They'll remember Achmed
 Dialogue: Marked=0,0:06:51.64,0:06:57.79,Default,,0,0,0,,They'll remember Achmed
 Dialogue: Marked=0,0:06:57.79,0:07:05.80,Default,,0,0,0,,They'll remember me!
 Dialogue: Marked=0,0:06:59.44,0:07:02.48,Default,,0,0,0,,Tiger fucker, tiger fucker, Achmed is a tiger fucker
