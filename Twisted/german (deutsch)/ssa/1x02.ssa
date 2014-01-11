@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 Export Encoding: Local
 Video Zoom Percent: 1
-Scroll Position: 45
-Active Line: 70
+Scroll Position: 93
+Active Line: 114
 PlayResX: 640
 PlayResY: 360
 Last Style Storage: Default
@@ -139,7 +139,7 @@ Dialogue: Marked=0,0:06:39.37,0:06:46.57,Jasmin,,0,0,0,,Seht euch mein Leben von
 Dialogue: Marked=0,0:06:47.12,0:06:54.57,Jasmin,,0,0,0,,Ihr denkt euch vielleicht, sie hat alles schon
 Dialogue: Marked=0,0:06:54.87,0:06:56.90,Jasmin,,0,0,0,,Nun, es ist wahr
 Dialogue: Marked=0,0:06:57.32,0:06:58.90,Jasmin,,0,0,0,,Denn das habe ich
-Dialogue: Marked=0,0:06:58.90,0:07:01.32,Jasmin,,0,0,0,,Was soll der ganze Scheiß, was
+Dialogue: Marked=0,0:06:58.90,0:07:01.32,Jasmin,,0,0,0,,Zum Teufel, na und?
 Dialogue: Marked=0,0:07:01.32,0:07:05.97,Jasmin,,0,0,0,,Es ist nicht genug
 Dialogue: Marked=0,0:07:05.97,0:07:09.70,Jasmin,,0,0,0,,Ich will ein Leben voller Abenteuer
 Dialogue: Marked=0,0:07:09.70,0:07:13.75,Jasmin,,0,0,0,,Ohne Anweisungen, denen ich gehorchen muß
