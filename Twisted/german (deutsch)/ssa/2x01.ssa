@@ -10,13 +10,13 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 1280
 PlayResY: 720
-Scroll Position: 36
-Active Line: 49
+Scroll Position: 108
+Active Line: 120
 Video Zoom Percent: 0.5
 Export Encoding: Local
 Video File: ..\..\..\..\Twisted Act 2 Part 1-MDMFTR_6k-4.mp4
 Video Aspect Ratio: c1.77778
-Video Position: 10434
+Video Position: 8758
 Audio URI: ..\..\..\..\Twisted Act 2 Part 1-MDMFTR_6k-4.mp4
 YCbCr Matrix: TV.601
 
@@ -122,7 +122,7 @@ Dialogue: Marked=0,0:04:37.08,0:04:39.36,Default,,0,0,0,,riecht Ihr frisch wie e
 Dialogue: Marked=0,0:04:39.36,0:04:39.93,Default,,0,0,0,,Ja
 Dialogue: Marked=0,0:04:39.63,0:04:42.64,Default,,0,0,0,,aber keiner erinnert sich an Achmed
 Dialogue: Marked=0,0:04:43.29,0:04:47.13,Default,,0,0,0,,Ihr könnt 60 Konkubinen in nur einer Stunde beglücken
-Dialogue: Marked=0,0:04:47.13,0:04:47.72,Default,,0,0,0,,Ja!
+Dialogue: Marked=0,0:04:47.13,0:04:47.72,Default,,0,0,0,,Weniger!
 Dialogue: Marked=0,0:04:47.48,0:04:50.52,Default,,0,0,0,,aber keiner erinnert sich an Achmed
 Dialogue: Marked=0,0:04:51.04,0:04:54.99,Default,,0,0,0,,Zuhause war ich ein Held\NDamen zitterten, wenn ich sprach
 Dialogue: Marked=0,0:04:55.20,0:04:58.94,Default,,0,0,0,,Aber hier behandelt die Frau mich\Nwie einen schlechten Witz
@@ -145,7 +145,7 @@ Dialogue: Marked=0,0:05:51.68,0:05:53.64,Default,,0,0,0,,Sie mag mich noch nicht
 Dialogue: Marked=0,0:05:53.64,0:05:55.45,Default,,0,0,0,,aber ich möchte wetten
 Dialogue: Marked=0,0:05:55.45,0:06:01.36,Default,,0,0,0,,sobald ich all ihre Leute töte, wird sie es tun
 Dialogue: Marked=0,0:05:58.44,0:06:01.64,Default,,0,0,0,,Ja, sie wird, ja, sie wird es absolut
-Dialogue: Marked=0,0:06:01.76,0:06:05.28,Default,,0,0,0,,dann lacht nur, das ist schon okay,\Naber ich werde den letzten Lacher haben
+Dialogue: Marked=0,0:06:01.76,0:06:05.28,Default,,0,0,0,,Lasst sie nur lachen, das ist schon okay,\Naber ich werde den letzten Lacher haben
 Dialogue: Marked=0,0:06:05.28,0:06:08.67,Default,,0,0,0,,denn sie können nicht lachen, wenn sie alle tot sind
 Dialogue: Marked=0,0:06:08.67,0:06:12.44,Default,,0,0,0,,Ich werde sie alle den Tag bereuen lassen\Nan dem sie beschlossen haben, ihn zu vergessen, den
 Dialogue: Marked=0,0:06:12.44,0:06:14.44,Default,,0,0,0,,Wie ist der Name, Leute?
