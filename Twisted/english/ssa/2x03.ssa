@@ -6,10 +6,15 @@ ScriptType: v4.00
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
-PlayResX: 640
+PlayResX: 480
 PlayResY: 360
-Scroll Position: 177
-Active Line: 207Export Encoding: Local
+Scroll Position: 230
+Active Line: 209
+Video Zoom Percent: 0.5
+Audio URI: ..\..\..\..\Twisted Act 2 Part 3-ut6SRvVS7Og.mp4
+Video File: ..\..\..\..\Twisted Act 2 Part 3-ut6SRvVS7Og.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 14387
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -27,7 +32,7 @@ Dialogue: Marked=0,0:00:10.92,0:00:11.68,Default,,0,0,0,,Inny.
 Dialogue: Marked=0,0:00:11.68,0:00:13.50,Default,,0,0,0,,Oh! Mine too.
 Dialogue: Marked=0,0:00:13.50,0:00:16.96,Default,,0,0,0,,Sultan! My lord! My liege!
 Dialogue: Marked=0,0:00:17.24,0:00:20.60,Default,,0,0,0,,Jaffar can't you see I'm in a mind blowing conversation with this furry man?
-Dialogue: Marked=0,0:00:22.04,0:00:22.56,Default,,0,0,0,,What is is?
+Dialogue: Marked=0,0:00:22.04,0:00:22.56,Default,,0,0,0,,What is it?
 Dialogue: Marked=0,0:00:22.56,0:00:29.16,Default,,0,0,0,,I was just in the marketplace, clearing up after an unauthorized parade, when I saw him: Prince Achmed is back!
 Dialogue: Marked=0,0:00:29.53,0:00:29.82,Default,,0,0,0,,Who?
 Dialogue: Marked=0,0:00:29.82,0:00:34.01,Default,,0,0,0,,I prayed that he was just a one-off joke, not to be taken seriously, but...
@@ -109,10 +114,10 @@ Dialogue: Marked=0,0:03:31.52,0:03:38.41,Default,,0,0,0,,You're idiots! You're a
 Dialogue: Marked=0,0:03:38.54,0:03:41.90,Default,,0,0,0,,How I ever served you for all these years I'll never understand!
 Dialogue: Marked=0,0:03:41.90,0:03:45.44,Default,,0,0,0,,I would have expected this from all of you bozos, but princess:
 Dialogue: Marked=0,0:03:45.68,0:03:48.60,Default,,0,0,0,,I am very disappointed in you!
-Dialogue: Marked=0,0:03:48.60,0:03:52.14,Default,,0,0,0,,Alright, I've heard enough, seize that vile betrayer, off with his head!\N[Could be Reference to: Disney's Alice in wonderland]
+Dialogue: Marked=0,0:03:48.60,0:03:52.14,Default,,0,0,0,,Alright, I've heard enough, seize that vile betrayer, off with his head!\N[Could be Reference to: Disney's 'Alice in wonderland']
 Dialogue: Marked=0,0:03:51.88,0:03:53.53,Default,,0,0,0,,No. I don't want to get my head chopped off!
-Dialogue: Marked=0,0:03:53.68,0:03:58.24,Default,,0,0,0,,So I'm going to combine this bottle of potassium chlorate and this bottle of sodium bicarbonate...
-Dialogue: Marked=0,0:03:58.35,0:04:02.48,Default,,0,0,0,,... to create a large cloud of smoke, which I'll use as a cover to make my escape.
+Dialogue: Marked=0,0:03:53.68,0:03:58.24,Default,,0,0,0,,So I'm going to combine this bottle of potassium chlorate and this bottle of sodium bicarbonate.
+Dialogue: Marked=0,0:03:58.35,0:04:02.48,Default,,0,0,0,,It'll create a large cloud of smoke, which I'll use as a cover to make my escape.
 Dialogue: Marked=0,0:04:02.64,0:04:08.30,Default,,0,0,0,,It will look as if something magical has happened, but it's simply a chemical reaction. Not sorcery.
 Dialogue: Marked=0,0:04:09.02,0:04:10.03,Default,,0,0,0,,Chemistry!
 Dialogue: Marked=0,0:04:11.77,0:04:12.46,Default,,0,0,0,,And poof!
@@ -140,12 +145,12 @@ Dialogue: Marked=0,0:05:20.06,0:05:24.06,Default,,0,0,0,,How does the golden rul
 Dialogue: Marked=0,0:05:24.91,0:05:28.28,Default,,0,0,0,,As a citizen, I think, I would be grateful for the aid
 Dialogue: Marked=0,0:05:28.28,0:05:31.48,Default,,0,0,0,,but if I were the sultan I should hate to be betrayed
 Dialogue: Marked=0,0:05:31.48,0:05:34.33,Default,,0,0,0,,whichever road I take I'll be incurring someone's wrath
-Dialogue: Marked=0,0:05:34.44,0:05:37.34,Default,,0,0,0,,Til now I've always traveled on the straight and narrow path
+Dialogue: Marked=0,0:05:34.44,0:05:37.34,Default,,0,0,0,,Till now I've always traveled on the straight and narrow path
 Dialogue: Marked=0,0:05:37.40,0:05:41.71,Default,,0,0,0,,temptation may have beckoned, but I always have resisted
 Dialogue: Marked=0,0:05:41.79,0:05:47.95,Default,,0,0,0,,But which way do I turn when the road's become so...
 Comment: Marked=0,0:05:41.79,0:05:47.95,Default,,0,0,0,,End of Song
 Dialogue: Marked=0,0:05:49.61,0:05:50.46,Default,,0,0,0,,so...
-Dialogue: Marked=0,0:05:51.34,0:05:53.34,Default,,0,0,0,,...twisted?\N[reference to: Disney's The little mermaid (Ursula)]
+Dialogue: Marked=0,0:05:51.34,0:05:53.34,Default,,0,0,0,,...twisted?\N[reference to: Disney's 'The little mermaid' (Ursula)]
 Dialogue: Marked=0,0:05:59.00,0:06:00.24,Default,,0,0,0,,Who are you?
 Dialogue: Marked=0,0:06:00.73,0:06:04.11,Default,,0,0,0,,A fellow traveler down the twisted path.
 Dialogue: Marked=0,0:06:04.11,0:06:05.69,Default,,0,0,0,,Oh,no! I know you!
@@ -162,7 +167,7 @@ Dialogue: Marked=0,0:06:34.86,0:06:41.10,Default,,0,0,0,,So he dethroned me\Nthe
 Dialogue: Marked=0,0:06:41.10,0:06:44.01,Default,,0,0,0,,to the outskirts of the kingdom in a cave
 Dialogue: Marked=0,0:06:44.36,0:06:48.54,Default,,0,0,0,,took my scepter and my crown\Nthough I tried to take him down
 Dialogue: Marked=0,0:06:48.65,0:06:53.61,Default,,0,0,0,,The truth and I now share a watery grave
-Dialogue: Marked=0,0:06:53.61,0:06:55.20,Default,,0,0,0,,[crys]
+Dialogue: Marked=0,0:06:53.61,0:06:55.20,Default,,0,0,0,,[cries]
 Dialogue: Marked=0,0:06:55.45,0:06:59.77,Default,,0,0,0,,The story lingers on\Nbut the version that is drawn
 Dialogue: Marked=0,0:06:59.77,0:07:02.89,Default,,0,0,0,,is twisted
 Comment: Marked=0,0:06:59.77,0:07:02.89,Default,,0,0,0,,End of song
@@ -180,7 +185,7 @@ Dialogue: Marked=0,0:07:45.13,0:07:50.35,Default,,0,0,0,,the pride came before m
 Dialogue: Marked=0,0:07:50.35,0:07:52.88,Default,,0,0,0,,well, twisted
 Comment: Marked=0,0:07:50.35,0:07:52.88,Default,,0,0,0,,End of song
 Dialogue: Marked=0,0:07:53.13,0:07:55.29,Default,,0,0,0,,They weren't ready for my ideas.
-Dialogue: Marked=0,0:07:54.59,0:07:57.74,Default,,0,0,0,,No. They couldn't hate you because of your ideas.
+Dialogue: Marked=0,0:07:54.59,0:07:57.74,Default,,0,0,0,,No. They didn't hate you because of your ideas.
 Dialogue: Marked=0,0:07:57.74,0:08:01.66,Default,,0,0,0,,They hated you because of that evil looking scar on your face.
 Dialogue: Marked=0,0:08:01.90,0:08:04.03,Default,,0,0,0,,Fortune favors the beautiful.
 Dialogue: Marked=0,0:08:04.03,0:08:05.72,Default,,0,0,0,,Au contraire!\N[french: on the contrary]
@@ -212,7 +217,7 @@ Dialogue: Marked=0,0:09:13.02,0:09:15.15,Default,,0,0,0,,I only wished for equal
 Dialogue: Marked=0,0:09:15.15,0:09:16.88,Default,,0,0,0,,I only wished to save her!
 Dialogue: Marked=0,0:09:16.88,0:09:19.60,Default,,0,0,0,,I only wished to be invited to the party\N[Reference to: Disney's 'sleeping beauty' (Maleficent)]
 Dialogue: Marked=0,0:09:19.80,0:09:22.49,Default,,0,0,0,,I only wished to improve relations between the races!
-Dialogue: Marked=0,0:09:22.75,0:09:26.14,Default,,0,0,0,,I only wished to teach the boy responsibility!\N[Reference to: Disney's 'Peter Pan' eg. (Captain Hook)]
+Dialogue: Marked=0,0:09:22.75,0:09:26.14,Default,,0,0,0,,I only wished to teach the boy responsibility!\N[Reference to: Disney's 'Peter Pan' (Captain Hook)]
 Dialogue: Marked=0,0:09:26.32,0:09:29.84,Default,,0,0,0,,I only wished to give the people a voice!
 Dialogue: Marked=0,0:09:29.55,0:09:31.52,Default,,0,0,0,,So he wouldn't end up like me!
 Dialogue: Marked=0,0:09:31.13,0:09:32.94,Default,,0,0,0,,I only wished to love her!
@@ -224,10 +229,9 @@ Dialogue: Marked=0,0:09:39.37,0:09:41.50,Default,,0,0,0,,I never knew my father!
 Dialogue: Marked=0,0:09:41.69,0:09:42.67,Default,,0,0,0,,I only wished
 Dialogue: Marked=0,0:09:42.67,0:09:43.58,Default,,0,0,0,,[???]
 Dialogue: Marked=0,0:09:43.58,0:09:53.02,Default,,0,0,0,,I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished, I only wished,
-
 Dialogue: Marked=0,0:09:53.02,0:09:57.15,Default,,0,0,0,,I only wished to have a coat made out of puppies!\N[Reference to: Disney's 101 Dalmatians (Cruella De Vil)]
 Dialogue: Marked=0,0:09:58.24,0:09:59.15,Default,,0,0,0,,Ugh!
-Dialogue: Marked=0,0:09:59.28,0:10:00.30,Default,,0,0,0,,Just leave!\N[Talking over each other (tried to pick a few out)]
+Dialogue: Marked=0,0:09:59.28,0:10:00.30,Default,,0,0,0,,Just leave!\N[Talking across each other (tried to pick a few out)]
 Dialogue: Marked=0,0:10:00.04,0:10:01.47,Default,,0,0,0,,Why would you do that?
 Dialogue: Marked=0,0:10:01.74,0:10:03.77,Default,,0,0,0,,That's insane! It's insane!
 Dialogue: Marked=0,0:10:04.40,0:10:05.39,Default,,0,0,0,,They're babies!
@@ -245,7 +249,6 @@ Dialogue: Marked=0,0:11:06.17,0:11:12.73,Default,,0,0,0,,Why protect my reputati
 Dialogue: Marked=0,0:11:14.73,0:11:17.66,Default,,0,0,0,,How will they tell my story?
 Dialogue: Marked=0,0:11:18.51,0:11:21.36,Default,,0,0,0,,How will they tell my tale?
 Dialogue: Marked=0,0:11:21.88,0:11:27.20,Default,,0,0,0,,Will anybody even care?
-
 Dialogue: Marked=0,0:11:28.76,0:11:31.90,Default,,0,0,0,,The question then is whether it is nobler in the mind
 Dialogue: Marked=0,0:11:31.92,0:11:34.04,Default,,0,0,0,,to be well liked, but ineffectual
 Dialogue: Marked=0,0:11:34.04,0:11:36.43,Default,,0,0,0,,or moral but maligned
