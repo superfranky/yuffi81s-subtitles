@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 139
-Active Line: 169
+Scroll Position: 75
+Active Line: 98
 Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
@@ -84,7 +84,7 @@ Dialogue: Marked=0,0:04:31.95,0:04:36.41,Default,,0,0,0,,the power in me
 Dialogue: Marked=0,0:04:38.35,0:04:42.68,Default,,0,0,0,,the power in me
 Comment: Marked=0,0:04:38.35,0:04:42.68,Default,,0,0,0,,End of song
 Dialogue: Marked=0,0:04:43.53,0:04:46.57,Default,,0,0,0,,Now, princess: What do you wish of me?
-Dialogue: Marked=0,0:04:48.76,0:04:53.05,Default,,0,0,0,,I  wish there was a way to end the war with Pixar peacefully.
+Dialogue: Marked=0,0:04:48.76,0:04:53.05,Default,,0,0,0,,I  wish there was a way to end the war with Pik-zahr peacefully.
 Dialogue: Marked=0,0:04:54.17,0:04:59.58,Default,,0,0,0,,And I wish the kingdom had a sultan, who would make it the happiest place on earth again.
 Dialogue: Marked=0,0:05:02.83,0:05:03.84,Default,,0,0,0,,What else?
 Comment: Marked=0,0:05:06.33,0:05:14.49,Default,,0,0,0,,Start of song
@@ -112,12 +112,12 @@ Dialogue: Marked=0,0:06:28.88,0:06:30.19,Default,,0,0,0,,Wanna bet?
 Dialogue: Marked=0,0:06:30.19,0:06:30.80,Default,,0,0,0,,No.
 Dialogue: Marked=0,0:06:31.23,0:06:32.19,Default,,0,0,0,,I want to buy.
 Dialogue: Marked=0,0:06:32.86,0:06:34.81,Default,,0,0,0,,For my first act as sultan...
-Dialogue: Marked=0,0:06:35.04,0:06:39.95,Default,,0,0,0,,...I'm going to purchase the entirety of Pixar in the name of the magic kingdom!
+Dialogue: Marked=0,0:06:35.04,0:06:39.95,Default,,0,0,0,,...I'm going to purchase the entirety of Pik-zahr in the name of the magic kingdom!
 Dialogue: Marked=0,0:06:46.38,0:06:50.20,Default,,0,0,0,,Are you being ridiculous with me right now, princess?
-Dialogue: Marked=0,0:06:50.62,0:06:52.81,Default,,0,0,0,,Buy Pixar?
+Dialogue: Marked=0,0:06:50.62,0:06:52.81,Default,,0,0,0,,Buy Pik-zahr?
 Dialogue: Marked=0,0:06:53.21,0:06:55.96,Default,,0,0,0,,We are proud and noble people.
 Dialogue: Marked=0,0:06:56.20,0:06:59.37,Default,,0,0,0,,Very protective of our name and brand.
-Dialogue: Marked=0,0:06:59.68,0:07:04.41,Default,,0,0,0,,I could never sell Pixar for any amount of money.
+Dialogue: Marked=0,0:06:59.68,0:07:04.41,Default,,0,0,0,,I could never sell Pik-zahr for any amount of money.
 Dialogue: Marked=0,0:07:04.48,0:07:06.84,Default,,0,0,0,,Captain, how much was Ali Baba's treasure?
 Dialogue: Marked=0,0:07:06.84,0:07:09.02,Default,,0,0,0,,It was more money than I'd ever seen.
 Dialogue: Marked=0,0:07:09.55,0:07:11.23,Default,,0,0,0,,But I was able to count it.

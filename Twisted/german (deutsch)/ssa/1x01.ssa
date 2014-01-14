@@ -9,7 +9,7 @@ Collisions: Normal
 PlayResX: 640
 PlayResY: 360
 Scroll Position: 138
-Active Line: 160
+Active Line: 161
 Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
@@ -180,8 +180,8 @@ Dialogue: Marked=0,0:09:08.83,0:09:10.43,Default,,0,0,0,,Das ist alles deine Sch
 Dialogue: Marked=0,0:09:10.43,0:09:14.03,Default,,0,0,0,,Meine Schuld?!? Wieso ist das meine Schuld und nicht die des Diebs?
 Dialogue: Marked=0,0:09:14.03,0:09:20.70,Default,,0,0,0,,Es würde keine Diebe geben, hättest du die sozialökonomische Ungleichheit behoben, wie du es versprochen hast!
 Dialogue: Marked=0,0:09:24.53,0:09:28.80,Default,,0,0,0,,Warum bemühst du dich überhaupt noch, uns einfache Leute zu besuchen, du AristoCat? [Referenz zu: Disneys 'AristoCats']
-Dialogue: Marked=0,0:09:29.00,0:09:33.63,Default,,0,0,0,,Da kommt heute ein sehr wichtiger Prinz in die Stadt von einem unserer Vasallenstaaten. 
-Dialogue: Marked=0,0:09:33.63,0:09:37.50,Default,,0,0,0,,Das Land Pixar. Ich bin gekommen, um ihn persönlich willkommen zu heißen. \N[Muß hier eine Referenz gemacht werden? Pixar vs. Disney]
+Dialogue: Marked=0,0:09:29.00,0:09:33.63,Default,,0,0,0,,Da kommt heute ein sehr wichtiger Prinz in die Stadt von einem unserer Vasallenstaaten.
+Dialogue: Marked=0,0:09:33.63,0:09:37.50,Default,,0,0,0,,Das Land Pik-zahr. Ich bin gekommen, um ihn persönlich willkommen zu heißen. \N[Muß hier eine Referenz gemacht werden? Pixar vs. Disney]
 Dialogue: Marked=0,0:09:37.76,0:09:39.66,Default,,0,0,0,,Ein weiterer Freier für die Prinzessin?
 Dialogue: Marked=0,0:09:39.66,0:09:44.30,Default,,0,0,0,,Nein, schön wärs, Kapitän! Er ist hier, weil das Handelsabkommen zwischen seinem Land und unserem abgelaufen ist
 Dialogue: Marked=0,0:09:44.30,0:09:48.03,Default,,0,0,0,,und ich muß den Vertrag verlängern oder unser Land ist zum Untergang verdammt.

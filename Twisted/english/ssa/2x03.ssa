@@ -8,13 +8,9 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 480
 PlayResY: 360
-Scroll Position: 230
-Active Line: 209
-Video Zoom Percent: 0.5
-Audio URI: ..\..\..\..\Twisted Act 2 Part 3-ut6SRvVS7Og.mp4
-Video File: ..\..\..\..\Twisted Act 2 Part 3-ut6SRvVS7Og.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 14387
+Scroll Position: 0
+Active Line: 14
+Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -36,7 +32,7 @@ Dialogue: Marked=0,0:00:22.04,0:00:22.56,Default,,0,0,0,,What is it?
 Dialogue: Marked=0,0:00:22.56,0:00:29.16,Default,,0,0,0,,I was just in the marketplace, clearing up after an unauthorized parade, when I saw him: Prince Achmed is back!
 Dialogue: Marked=0,0:00:29.53,0:00:29.82,Default,,0,0,0,,Who?
 Dialogue: Marked=0,0:00:29.82,0:00:34.01,Default,,0,0,0,,I prayed that he was just a one-off joke, not to be taken seriously, but...
-Dialogue: Marked=0,0:00:34.14,0:00:40.19,Default,,0,0,0,,...he's brought the entire army of Pixar with him and they'll break through our walls! Our kingdom is doomed!
+Dialogue: Marked=0,0:00:34.14,0:00:40.19,Default,,0,0,0,,...he's brought the entire army of Pik-zahr with him and they'll break through our walls! Our kingdom is doomed!
 Dialogue: Marked=0,0:00:40.72,0:00:41.52,Default,,0,0,0,,And I...
 Dialogue: Marked=0,0:00:42.64,0:00:43.88,Default,,0,0,0,,...have failed you!
 Dialogue: Marked=0,0:00:44.62,0:00:45.02,Default,,0,0,0,,Yes.

@@ -9,7 +9,7 @@ Collisions: Normal
 PlayResX: 1280
 PlayResY: 720
 Scroll Position: 157
-Active Line: 175
+Active Line: 161
 Video Zoom Percent: 1
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
@@ -200,7 +200,7 @@ Dialogue: Marked=0,0:09:10.43,0:09:14.03,Jaffar,,0,0,0,,My fault?!? How is this 
 Dialogue: Marked=0,0:09:14.03,0:09:20.70,Captain Royal Guard,,0,0,0,,There wouldn't be any thieves if you fixed the social economic inequality like you promised!
 Dialogue: Marked=0,0:09:24.53,0:09:28.80,Captain Royal Guard,,0,0,0,,Why do you even bother visiting us commonals any more, you AristoCat?\N[reference to: Disney's 'AristoCats']
 Dialogue: Marked=0,0:09:29.00,0:09:33.63,Jaffar,,0,0,0,,There's a very important prince coming into town today from one of our vassal kingdoms.
-Dialogue: Marked=0,0:09:33.63,0:09:37.50,Jaffar,,0,0,0,,The land of Pixar. I've come to welcome him personally.\N[Is there a reference needed? Pixar vs. Disney]
+Dialogue: Marked=0,0:09:33.63,0:09:37.50,Jaffar,,0,0,0,,The land of Pik-zahr. I've come to welcome him personally.\N[Is there a reference needed? Pixar vs. Disney]
 Dialogue: Marked=0,0:09:37.76,0:09:39.66,Captain Royal Guard,,0,0,0,,Another suitor for the princess?
 Dialogue: Marked=0,0:09:39.66,0:09:44.30,Jaffar,,0,0,0,,No, if only, captain! He's here because the trade agreement between his kingdom and ours has expired
 Dialogue: Marked=0,0:09:44.30,0:09:48.03,Jaffar,,0,0,0,,and I've got to extend the contract or our kingdom is doomed.
