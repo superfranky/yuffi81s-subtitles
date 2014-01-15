@@ -8,15 +8,11 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 300
-Scroll Position: 253
-Active Line: 270
-Video Zoom Percent: 0.5
+Scroll Position: 225
+Active Line: 251
+Video Zoom Percent: 1
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio URI: ..\..\..\..\Twisted Act 1 Part 1-e5mkyhYMaQ8.mp4
-Video File: ..\..\..\..\Twisted Act 1 Part 1-e5mkyhYMaQ8.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 22426
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -294,7 +290,7 @@ Dialogue: Marked=0,0:14:22.33,0:14:23.43,Aladdin,,0,0,0,,Huh, I'm in trouble!
 Dialogue: Marked=0,0:14:25.26,0:14:29.86,Town People,,0,0,0,,After this night we spent together, my belly grows big with child.
 Dialogue: Marked=0,0:14:30.06,0:14:36.60,Town People,,0,0,0,,And my father says that you must marry me, or I'll bring dishonor to my entire family!
 Dialogue: Marked=0,0:14:36.90,0:14:38.23,Aladdin,,0,0,0,,Wow, wow, wow, wow, wow, wow!
-Dialogue: Marked=0,0:14:39.00,0:14:43.26,Aladdin,,0,0,0,,I can't give up all my dreams and settle down, just because your dad's being a dick.
+Dialogue: Marked=0,0:14:39.00,0:14:43.26,Aladdin,,0,0,0,,I can't give up on my dreams and settle down, just because your dad's being a dick.
 Dialogue: Marked=0,0:14:44.60,0:14:45.03,Town People,,0,0,0,,Oh...
 Dialogue: Marked=0,0:14:45.03,0:14:47.03,Aladdin,,0,0,0,,Besides: If I do marry,
 Dialogue: Marked=0,0:14:47.96,0:14:49.43,Aladdin,,0,0,0,,I want it to be for love!
