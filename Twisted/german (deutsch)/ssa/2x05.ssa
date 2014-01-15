@@ -9,7 +9,7 @@ Collisions: Normal
 PlayResX: 640
 PlayResY: 360
 Scroll Position: 152
-Active Line: 184
+Active Line: 183
 Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
@@ -202,7 +202,7 @@ Dialogue: Marked=0,0:11:35.23,0:11:41.90,Default,,0,0,0,,Endlich haben wir eine 
 Dialogue: Marked=0,0:11:41.90,0:11:51.58,Default,,0,0,0,,Laß dies eine Geschichte ohne Ende sein
 Dialogue: Marked=0,0:11:51.80,0:12:01.23,Default,,0,0,0,,A-a-ah!
 Dialogue: Marked=0,0:12:02.19,0:12:13.87,Default,,0,0,0,,Wo wir unser eigenes glückliches Ende schreiben können...
-Dialogue: Marked=0,0:12:25.96,0:12:26.94,Default,,0,0,0,,Du hast hingesehen\N[Referenz zu: Disneys 'Aladdin' (Ende des Films)]
+Dialogue: Marked=0,0:12:25.96,0:12:26.94,Default,,0,0,0,,Und Tschüß\N[Referenz zu: Disneys 'Aladdin' (Ende des Films)]
 Dialogue: Marked=0,0:12:37.13,0:12:39.00,Default,,0,0,0,,Ich kenne tausend Geschichten...
 Dialogue: Marked=0,0:14:31.16,0:14:34.84,Default,,0,0,0,,[Danke für die Show, Team StarKid\NDanke für das Ansehen der Untertitel, ihr alle - xoxox]
 Dialogue: Marked=0,0:14:34.84,0:14:36.84,Default,,0,0,0,,
