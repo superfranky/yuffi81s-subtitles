@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 75
-Active Line: 98
+Scroll Position: 152
+Active Line: 184
 Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
@@ -32,7 +32,7 @@ Dialogue: Marked=0,0:00:25.80,0:00:27.82,Default,,0,0,0,,Warum hast du dir das g
 Dialogue: Marked=0,0:00:27.82,0:00:29.12,Default,,0,0,0,,Oh, versteht Ihr nicht?
 Dialogue: Marked=0,0:00:29.29,0:00:33.68,Default,,0,0,0,,Aladdin hatte in einem Punkt recht: Meine Wünsche waren schwach.
 Dialogue: Marked=0,0:00:34.01,0:00:35.28,Default,,0,0,0,,Aber Ihr...
-Dialogue: Marked=0,0:00:35.69,0:00:37.44,Default,,0,0,0,,... Eure Jugend und Eure Leidensachaft...
+Dialogue: Marked=0,0:00:35.69,0:00:37.44,Default,,0,0,0,,... Eure Jugend und Eure Leidenschaft...
 Dialogue: Marked=0,0:00:38.48,0:00:39.52,Default,,0,0,0,,... und, ja,...
 Dialogue: Marked=0,0:00:39.90,0:00:41.23,Default,,0,0,0,,...Eure Naivität...
 Dialogue: Marked=0,0:00:42.09,0:00:43.85,Default,,0,0,0,,Diese geben Euch Macht.
@@ -40,7 +40,7 @@ Dialogue: Marked=0,0:00:46.19,0:00:50.04,Default,,0,0,0,,Als ich in Eurem Alter 
 Dialogue: Marked=0,0:00:50.51,0:00:51.32,Default,,0,0,0,,Und mehr!
 Dialogue: Marked=0,0:00:52.33,0:00:53.21,Default,,0,0,0,,Aber ich habe es nicht.
 Dialogue: Marked=0,0:00:54.25,0:00:55.66,Default,,0,0,0,,Vielleicht tut das niemand.
-Dialogue: Marked=0,0:00:56.09,0:00:58.03,Default,,0,0,0,,Aber Ihr müßt denken iIr werdet es
+Dialogue: Marked=0,0:00:56.09,0:00:58.03,Default,,0,0,0,,Aber Ihr müßt denken Ihr werdet es
 Dialogue: Marked=0,0:00:58.14,0:01:02.16,Default,,0,0,0,,oder Ihr werdet nicht die Kraft haben es zu versuchen, und vielleicht werdet Ihr keine großen Veränderungen herbeiführen...
 Dialogue: Marked=0,0:01:02.16,0:01:05.85,Default,,0,0,0,,...aber ein paar kleine, die den Weg bahnen für die nächste Generation.
 Dialogue: Marked=0,0:01:05.85,0:01:09.44,Default,,0,0,0,,Und dann führen die kleine Veränderungen herbei und hinterlassen sie für die nächste und die nächste.
@@ -154,7 +154,7 @@ Dialogue: Marked=0,0:08:56.04,0:08:57.60,Default,,0,0,0,,Moment, was ist mit Jaf
 Dialogue: Marked=0,0:09:02.46,0:09:04.80,Default,,0,0,0,,Das ist also das Leben eines Dschinns.
 Dialogue: Marked=0,0:09:07.76,0:09:10.65,Default,,0,0,0,,Phänomenale kosmische Kräfte -
 Dialogue: Marked=0,0:09:12.52,0:09:15.31,Default,,0,0,0,,beschissen kleiner Lebensraum!\N[leicht veränderte Referenz zu: Disneys 'Aladdin'(Gini) ;-)]
-Dialogue: Marked=0,0:09:19.77,0:09:23.31,Default,,0,0,0,,So endet die unerzählte Geschichte eines königlichen Visiers.
+Dialogue: Marked=0,0:09:19.77,0:09:23.31,Default,,0,0,0,,So endet die unerzählte Geschichte eines königlichen Wesirs.
 Dialogue: Marked=0,0:09:24.25,0:09:25.02,Default,,0,0,0,,Komisch.
 Dialogue: Marked=0,0:09:26.64,0:09:28.46,Default,,0,0,0,,Das ist nicht das Ende, an das ich mich erinnere.
 Dialogue: Marked=0,0:09:28.68,0:09:29.23,Default,,0,0,0,,Was...?
@@ -167,7 +167,7 @@ Dialogue: Marked=0,0:09:45.53,0:09:47.32,Default,,0,0,0,,Um mit dir in der Lampe
 Dialogue: Marked=0,0:09:49.00,0:09:50.54,Default,,0,0,0,,Freut dich das nicht?
 Dialogue: Marked=0,0:09:50.81,0:09:54.17,Default,,0,0,0,,Doch, natürlich! Aber bedeutet das nicht, du bist hier für immer gefangen?
 Dialogue: Marked=0,0:09:54.51,0:09:57.36,Default,,0,0,0,,Ich habe immer gesagt 1001 Nacht sind nicht genug.
-Dialogue: Marked=0,0:09:58.38,0:10:00.83,Default,,0,0,0,,Oh, die Prinzessin dann! Sie hat es wirklich geschafft!
+Dialogue: Marked=0,0:09:58.38,0:10:00.83,Default,,0,0,0,,Oh, also die Prinzessin! Sie hat es wirklich geschafft!
 Dialogue: Marked=0,0:10:01.02,0:10:01.84,Default,,0,0,0,,Ihre andere Wünsche...
 Dialogue: Marked=0,0:10:01.84,0:10:03.13,Default,,0,0,0,,...sind auch wahr geworden!
 Dialogue: Marked=0,0:10:03.44,0:10:07.87,Default,,0,0,0,,Dadurch, dass sie aus jedem eine Prinzessin gemacht hat, hat sie sichergestellt, dass sie alle mit Respekt und Mitgefühl behandelt wurden.
@@ -176,8 +176,8 @@ Dialogue: Marked=0,0:10:11.20,0:10:13.00,Default,,0,0,0,,Sie folgte der goldenen
 Dialogue: Marked=0,0:10:13.00,0:10:15.96,Default,,0,0,0,,Und führte ihre Leute ins dritte goldene Zeitalter.
 Dialogue: Marked=0,0:10:15.96,0:10:18.76,Default,,0,0,0,,Aber Scheherazade, woher weißt du das alles?
 Dialogue: Marked=0,0:10:18.89,0:10:22.00,Default,,0,0,0,,In der Lampe existieren wir außerhalb von Zeit und Raum.
-Dialogue: Marked=0,0:10:22.00,0:10:25.50,Default,,0,0,0,,So war es dem Dschinn möglich all die lustigen/merkwürdigen Filme zu sehen, die er zitiert hat.
-Dialogue: Marked=0,0:10:27.28,0:10:30.62,Default,,0,0,0,,Wir konnen alles sehen, jederzeit - überall.
+Dialogue: Marked=0,0:10:22.00,0:10:25.50,Default,,0,0,0,,So war es dem Dschinn möglich all die komischen Filme zu sehen, die er zitiert hat.
+Dialogue: Marked=0,0:10:27.28,0:10:30.62,Default,,0,0,0,,Wir können alles sehen, jederzeit - überall.
 Dialogue: Marked=0,0:10:30.62,0:10:33.50,Default,,0,0,0,,Oh, dann lass uns sehen, was mit diesem Dieb Aladdin geschehen ist!
 Dialogue: Marked=0,0:10:33.58,0:10:36.46,Default,,0,0,0,,Aaaaaah!
 Dialogue: Marked=0,0:10:36.46,0:10:39.64,Default,,0,0,0,,Salam und guten Abend meine lieben Freunde!\N[Referenz zu: Disneys 'Aladdin' (Anfang des Films)]
@@ -185,8 +185,8 @@ Dialogue: Marked=0,0:10:40.54,0:10:42.22,Default,,0,0,0,,Bitte kommt näher.
 Dialogue: Marked=0,0:10:42.22,0:10:44.22,Default,,0,0,0,,Oh, ein bisschen zu nah!
 Dialogue: Marked=0,0:10:44.22,0:10:46.99,Default,,0,0,0,,Ist das Aladdin? Er ist alt und fett!
 Dialogue: Marked=0,0:10:47.63,0:10:48.70,Default,,0,0,0,,Ja, seht euch das an!
-Dialogue: Marked=0,0:10:48.96,0:10:50.92,Default,,0,0,0,,Komibination ...[???]... Kaffeekocher!
-Dialogue: Marked=0,0:10:50.92,0:10:52.40,Default,,0,0,0,,Macht auch Chilly und fliegt!
+Dialogue: Marked=0,0:10:48.96,0:10:50.92,Default,,0,0,0,,Komibination ...[???]... und Kaffeekocher!
+Dialogue: Marked=0,0:10:50.92,0:10:52.40,Default,,0,0,0,,Macht auch Chilly und Pommes!
 Dialogue: Marked=0,0:10:52.67,0:10:56.03,Default,,0,0,0,,Geht nicht kaputt, wird nicht... Es ist kaputt gegangen.
 Dialogue: Marked=0,0:10:56.27,0:10:59.61,Default,,0,0,0,,Er verhökert second hand Güter, er ist ein Loser!
 Dialogue: Marked=0,0:10:59.61,0:11:01.16,Default,,0,0,0,,Das ist keine gewöhnliche Lampe!
@@ -202,7 +202,7 @@ Dialogue: Marked=0,0:11:35.23,0:11:41.90,Default,,0,0,0,,Endlich haben wir eine 
 Dialogue: Marked=0,0:11:41.90,0:11:51.58,Default,,0,0,0,,Laß dies eine Geschichte ohne Ende sein
 Dialogue: Marked=0,0:11:51.80,0:12:01.23,Default,,0,0,0,,A-a-ah!
 Dialogue: Marked=0,0:12:02.19,0:12:13.87,Default,,0,0,0,,Wo wir unser eigenes glückliches Ende schreiben können...
-Dialogue: Marked=0,0:12:25.96,0:12:26.94,Default,,0,0,0,,Du hast hingesehen\N[nicht sicher hier...Referenz zu:Nas?]
+Dialogue: Marked=0,0:12:25.96,0:12:26.94,Default,,0,0,0,,Du hast hingesehen\N[Referenz zu: Disneys 'Aladdin' (Ende des Films)]
 Dialogue: Marked=0,0:12:37.13,0:12:39.00,Default,,0,0,0,,Ich kenne tausend Geschichten...
 Dialogue: Marked=0,0:14:31.16,0:14:34.84,Default,,0,0,0,,[Danke für die Show, Team StarKid\NDanke für das Ansehen der Untertitel, ihr alle - xoxox]
 Dialogue: Marked=0,0:14:34.84,0:14:36.84,Default,,0,0,0,,

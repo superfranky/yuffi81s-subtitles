@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 259
-Active Line: 280
+Scroll Position: 268
+Active Line: 294
 Video Zoom Percent: 1
 Export Encoding: Local
 Last Style Storage: Default
@@ -55,7 +55,7 @@ Dialogue: Marked=0,0:01:25.25,0:01:30.67,Prince Achmed,,0,0,0,,Was ich meinte wa
 Dialogue: Marked=0,0:01:30.90,0:01:32.92,Jasmin,,0,0,0,,Es tut mir so leid, Achmed.
 Dialogue: Marked=0,0:01:33.15,0:01:37.30,Jasmin,,0,0,0,,Ihr werdet dieses Königreich nicht so bald hart zerstören.
 Dialogue: Marked=0,0:01:37.30,0:01:39.30,Prince Achmed,,0,0,0,,Was?
-Dialogue: Marked=0,0:01:39.30,0:01:43.37,Jasmin,,0,0,0,,Wir haben eine großen und mächtigen Prinzen, der uns beschützt!
+Dialogue: Marked=0,0:01:39.30,0:01:43.37,Jasmin,,0,0,0,,Wir haben einen großen und mächtigen Prinzen, der uns beschützt!
 Dialogue: Marked=0,0:01:43.37,0:01:46.27,Jasmin,,0,0,0,,Einen mit einer Armee weit größer als Eure.
 Dialogue: Marked=0,0:01:46.27,0:01:47.57,Prince Achmed,,0,0,0,,Unmöglich.
 Dialogue: Marked=0,0:01:48.27,0:01:53.55,Jasmin,,0,0,0,,Man sagt, dass er der wilden Horde gegenüber getreten ist.
@@ -77,7 +77,7 @@ Dialogue: Marked=0,0:02:43.87,0:02:45.65,Achmed's Army,,0,0,0,,Jaffar!
 Dialogue: Marked=0,0:02:48.37,0:02:51.15,Prince Achmed,,0,0,0,,Was bedeutet das? Du bist nicht der Sultan.
 Dialogue: Marked=0,0:02:51.15,0:02:52.22,Jaffar,,0,0,0,,Doch, das bin ich.
 Dialogue: Marked=0,0:02:52.22,0:02:54.32,Jaffar,,0,0,0,,Mir wurde Macht geschenkt, Achmed.
-Dialogue: Marked=0,0:02:54.32,0:02:58.17,Jaffar,,0,0,0,,Und bald werde ich die Macht haben, Eure schwache Armee zu vernichten.
+Dialogue: Marked=0,0:02:54.32,0:02:58.17,Jaffar,,0,0,0,,Und bald werde ich die Macht haben, deine schwache Armee zu vernichten.
 Dialogue: Marked=0,0:02:58.17,0:02:58.95,Prince Achmed,,0,0,0,,Unmöglich.
 Dialogue: Marked=0,0:02:58.95,0:03:03.67,Jaffar,,0,0,0,,Komm hervor, mein Dschinn! Du altes mächtiges und schreckliches Wesen.
 Dialogue: Marked=0,0:03:03.67,0:03:07.90,Jaffar,,0,0,0,,Du, der du sogar den Sternen und dem Mond befehlen kannst.
@@ -190,8 +190,8 @@ Dialogue: Marked=0,0:08:22.82,0:08:27.60,Jaffar,,0,0,0,,...dich wie ein Arschloc
 Dialogue: Marked=0,0:08:28.47,0:08:31.22,Djinn,,0,0,0,,Mrs. Robinson, Sie versuchen mich zu verführen.\N[Die Reifeprüfung]
 Dialogue: Marked=0,0:08:34.10,0:08:36.20,Jaffar,,0,0,0,,Okay. Okay.
 Dialogue: Marked=0,0:08:36.55,0:08:41.60,Jaffar,,0,0,0,,Bewege nur den Palast auf die Spitze dieser verfluchten Klippe...
-Dialogue: Marked=0,0:08:41.60,0:08:43.60,Jaffar,,0,0,0,,...{\b1}Dort drüben!{\b0}
-Dialogue: Marked=0,0:08:43.85,0:08:45.50,Jaffar,,0,0,0,,Alrighty  then!\N[Ace Ventura]
+Dialogue: Marked=0,0:08:41.60,0:08:43.60,Jaffar,,0,0,0,,...{\b1}dort drüben!{\b0}
+Dialogue: Marked=0,0:08:43.85,0:08:45.50,Jaffar,,0,0,0,,Alrighty then!\N[Ace Ventura]
 Dialogue: Marked=0,0:08:48.42,0:08:50.57,Aladdin,,0,0,0,,Komm schon, Babe! Du bist so ein Plagegeist!
 Dialogue: Marked=0,0:08:50.57,0:08:53.07,Aladdin,,0,0,0,,Du machst meine Nüsse so traurig(blau) wie die Nüsse von meinem Genie.\N[blau= engl.: blue=traurig]
 Dialogue: Marked=0,0:08:53.07,0:08:54.40,Jasmin,,0,0,0,,Ich bin kein Plagegeist!
@@ -217,7 +217,7 @@ Dialogue: Marked=0,0:09:41.65,0:09:42.37,Jasmin,,0,0,0,,Nein!
 Dialogue: Marked=0,0:09:42.37,0:09:43.90,Aladdin,,0,0,0,,Weißt du was?
 Dialogue: Marked=0,0:09:44.22,0:09:46.55,Aladdin,,0,0,0,,Ich dachte, du wärst erwachsen für dein Alter.
 Dialogue: Marked=0,0:09:46.87,0:09:50.35,Aladdin,,0,0,0,,Aber du bist genauso, wie all die anderen 16jährigen Prinzessinnen, mit denen ich ausgegangen bin.
-Dialogue: Marked=0,0:09:51.80,0:09:53.75,Aladdin,,0,0,0,,Außer, das du eines vergisst.
+Dialogue: Marked=0,0:09:51.80,0:09:53.75,Aladdin,,0,0,0,,Außer, dass du eines vergisst.
 Dialogue: Marked=0,0:09:54.62,0:09:56.02,Aladdin,,0,0,0,,Ich bin ein Dieb!
 Dialogue: Marked=0,0:09:56.45,0:09:58.02,Aladdin,,0,0,0,,Ich nehme mir, was ich will!
 Dialogue: Marked=0,0:09:58.02,0:10:01.35,Aladdin,,0,0,0,,Zurück, Oldie! Ein Schritt und das kleine Mädchen muß dran glauben!
@@ -229,7 +229,7 @@ Dialogue: Marked=0,0:10:09.87,0:10:12.50,Aladdin,,0,0,0,,Und klein Prinzessin ko
 Dialogue: Marked=0,0:10:12.50,0:10:14.90,Jaffar,,0,0,0,,Nein! Ich werde dich sie nicht mitnehmen lassen!
 Dialogue: Marked=0,0:10:15.35,0:10:19.15,Jaffar,,0,0,0,,Du hast keine Ahnung, wieviel mir dieses Mädchen bedeutet. Ich liebe sie!
 Dialogue: Marked=0,0:10:20.22,0:10:22.02,Aladdin,,0,0,0,,Oh, du liebst sie?
-Dialogue: Marked=0,0:10:22.02,0:10:24.90,Aladdin,,0,0,0,,Kumpel, sie ist etwa halb so alt wie du. Du bist ein totaler Pädo!
+Dialogue: Marked=0,0:10:22.02,0:10:24.90,Aladdin,,0,0,0,,Kumpel, sie ist etwa halb so alt wie du. Du bist ein totaler Pädo!\N[Gleichfalls, Aladdin...]
 Dialogue: Marked=0,0:10:25.20,0:10:28.75,Jaffar,,0,0,0,,Nein! Nicht diese Art von Liebe, du Hirni!
 Dialogue: Marked=0,0:10:28.75,0:10:30.62,Jaffar,,0,0,0,,Du verstehst es nicht!
 Dialogue: Marked=0,0:10:30.62,0:10:33.77,Jaffar,,0,0,0,,Meine Frau trug ein Kind, als sie vom Sultan genommen wurde.
@@ -244,7 +244,7 @@ Dialogue: Marked=0,0:10:54.62,0:10:56.97,Jaffar,,0,0,0,,Ich liebe sie, wie eine 
 Dialogue: Marked=0,0:10:56.97,0:11:00.77,Jaffar,,0,0,0,,Sicher hast sogar du  schon diese Art von Liebe gespürt.
 Dialogue: Marked=0,0:11:01.32,0:11:03.42,Aladdin,,0,0,0,,Oh ja. Ha ha.
 Dialogue: Marked=0,0:11:07.70,0:11:10.15,Aladdin,,0,0,0,,Ich liebte meine Eltern.
-Dialogue: Marked=0,0:11:12.00,0:11:14.72,Aladdin,,0,0,0,,Aber sie haben mich nicht davon abgehalten zu tun, was getan werden musste.
+Dialogue: Marked=0,0:11:12.00,0:11:14.72,Aladdin,,0,0,0,,Aber das hat mich nicht davon abgehalten zu tun, was getan werden musste.
 Dialogue: Marked=0,0:11:14.72,0:11:16.30,Aladdin,,0,0,0,,Moment, was?
 Dialogue: Marked=0,0:11:17.95,0:11:19.05,Aladdin,,0,0,0,,Ja, Kumpel.
 Dialogue: Marked=0,0:11:19.90,0:11:21.05,Aladdin,,0,0,0,,Erinnerst du dich an mich?
@@ -268,7 +268,7 @@ Dialogue: Marked=0,0:12:04.15,0:12:05.22,Aladdin,,0,0,0,,Das wollten sie, oder?
 Dialogue: Marked=0,0:12:05.22,0:12:06.47,Aladdin,,0,0,0,,Dich dazu bringen einen Job zu kriegen.
 Dialogue: Marked=0,0:12:06.47,0:12:07.90,Aladdin,,0,0,0,,So etwas will ich nicht!
 Dialogue: Marked=0,0:12:07.90,0:12:09.90,Aladdin,,0,0,0,,Darum...
-Dialogue: Marked=0,0:12:10.27,0:12:11.90,Aladdin,,0,0,0,,Mussten sie sterben.
+Dialogue: Marked=0,0:12:10.27,0:12:11.90,Aladdin,,0,0,0,,...mussten sie sterben.
 Dialogue: Marked=0,0:12:13.35,0:12:14.87,Aladdin,,0,0,0,,Wow.
 Dialogue: Marked=0,0:12:15.05,0:12:16.40,Aladdin,,0,0,0,,Ich schätze du hast recht.
 Dialogue: Marked=0,0:12:16.90,0:12:18.57,Aladdin,,0,0,0,,Ich schätze ich sollte dir danken.
@@ -321,7 +321,7 @@ Dialogue: Marked=0,0:14:13.00,0:14:15.57,Jaffar,,0,0,0,,Ich wünsche mir, der al
 Dialogue: Marked=0,0:14:16.47,0:14:18.87,Djinn,,0,0,0,,Heute ist Murmeltiertag!\N[Referenz zu: Und täglich grüßt das Murmeltier]
 Dialogue: Marked=0,0:14:18.87,0:14:21.02,Aladdin,,0,0,0,,Was zum? Oh, nein nein!
 Dialogue: Marked=0,0:14:21.07,0:14:22.50,Aladdin,,0,0,0,,Der Dschinn kann nicht frei sein!
-Dialogue: Marked=0,0:14:22.50,0:14:24.20,Aladdin,,0,0,0,,Ich kriege einen letzten Wunsch!
+Dialogue: Marked=0,0:14:22.50,0:14:24.20,Aladdin,,0,0,0,,Ich habe meinen letzten Wunsch nicht gekriegt!
 Dialogue: Marked=0,0:14:24.20,0:14:26.00,Aladdin,,0,0,0,,Oh, komm schon. Funktioniere, du dumme Lampe!
 Dialogue: Marked=0,0:14:26.00,0:14:28.42,Aladdin,,0,0,0,,Ah, das ist nicht fair!
 Dialogue: Marked=0,0:14:28.42,0:14:33.25,Aladdin,,0,0,0,,Das Leben sollte fair sein!

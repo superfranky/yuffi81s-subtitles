@@ -6,12 +6,16 @@ ScriptType: v4.00
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
-PlayResX: 640
-PlayResY: 360
-Scroll Position: 75
-Active Line: 98
-Video Zoom Percent: 1
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 168
+Active Line: 184
+Video Zoom Percent: 0.5
 Export Encoding: Local
+Video File: ..\..\..\..\Twisted Act 2 Part 5-VVDWHjHHtTs.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 20887
+Audio URI: ..\..\..\..\Twisted Act 2 Part 5-VVDWHjHHtTs.mp4
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -171,7 +175,7 @@ Dialogue: Marked=0,0:09:58.38,0:10:00.83,Default,,0,0,0,,Oh, then the princess! 
 Dialogue: Marked=0,0:10:01.02,0:10:01.84,Default,,0,0,0,,Her other wishes...
 Dialogue: Marked=0,0:10:01.84,0:10:03.13,Default,,0,0,0,,...came true as well!
 Dialogue: Marked=0,0:10:03.44,0:10:07.87,Default,,0,0,0,,By making everyone a princess she ensured that they were all treated with respect and compassion.
-Dialogue: Marked=0,0:10:09.08,0:10:11.20,Default,,0,0,0,,They all did then to others as they were done onto.
+Dialogue: Marked=0,0:10:09.08,0:10:11.20,Default,,0,0,0,,They all did onto others as they were done onto.
 Dialogue: Marked=0,0:10:11.20,0:10:13.00,Default,,0,0,0,,She followed the golden rule!
 Dialogue: Marked=0,0:10:13.00,0:10:15.96,Default,,0,0,0,,And lead her people into the third golden age.
 Dialogue: Marked=0,0:10:15.96,0:10:18.76,Default,,0,0,0,,But Shahrazade, how do you know these things?
@@ -185,8 +189,8 @@ Dialogue: Marked=0,0:10:40.54,0:10:42.22,Default,,0,0,0,,Please, come closer.
 Dialogue: Marked=0,0:10:42.22,0:10:44.22,Default,,0,0,0,,Oh, a little too close!
 Dialogue: Marked=0,0:10:44.22,0:10:46.99,Default,,0,0,0,,Is that Aladdin? He's old and fat!
 Dialogue: Marked=0,0:10:47.63,0:10:48.70,Default,,0,0,0,,Yes, look at this!
-Dialogue: Marked=0,0:10:48.96,0:10:50.92,Default,,0,0,0,,Comibination ...[???]... coffeemaker!
-Dialogue: Marked=0,0:10:50.92,0:10:52.40,Default,,0,0,0,,Also makes chilly and flies!
+Dialogue: Marked=0,0:10:48.96,0:10:50.92,Default,,0,0,0,,Comibination ...[???]... and coffeemaker!
+Dialogue: Marked=0,0:10:50.92,0:10:52.40,Default,,0,0,0,,Also makes chilly and fries!
 Dialogue: Marked=0,0:10:52.67,0:10:56.03,Default,,0,0,0,,Will not break, will not... It broke.
 Dialogue: Marked=0,0:10:56.27,0:10:59.61,Default,,0,0,0,,He's hawking second hand goods, he's a loser!
 Dialogue: Marked=0,0:10:59.61,0:11:01.16,Default,,0,0,0,,This is no ordinary lamp!
@@ -202,7 +206,7 @@ Dialogue: Marked=0,0:11:35.23,0:11:41.90,Default,,0,0,0,,At last we have a story
 Dialogue: Marked=0,0:11:41.90,0:11:51.58,Default,,0,0,0,,Let this be a story with no end
 Dialogue: Marked=0,0:11:51.80,0:12:01.23,Default,,0,0,0,,A-a-ah!
 Dialogue: Marked=0,0:12:02.19,0:12:13.87,Default,,0,0,0,,Where we can write our own happy ending...
-Dialogue: Marked=0,0:12:25.96,0:12:26.94,Default,,0,0,0,,Made you look\N[not sure here...Reference to:Nas?]
+Dialogue: Marked=0,0:12:25.96,0:12:26.94,Default,,0,0,0,,Made you look\N[Reference to: the end of Disney's 'Aladdin']
 Dialogue: Marked=0,0:12:37.13,0:12:39.00,Default,,0,0,0,,I know a thousand tales...
 Dialogue: Marked=0,0:14:31.16,0:14:34.84,Default,,0,0,0,,[Thanks for the show, Team StarKid\NThanks for watching the subtitles, everyone - xoxox]
 Dialogue: Marked=0,0:14:34.84,0:14:36.84,Default,,0,0,0,,
