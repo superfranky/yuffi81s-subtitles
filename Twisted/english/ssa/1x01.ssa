@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 300
-Scroll Position: 225
-Active Line: 251
+Scroll Position: 161
+Active Line: 160
 Video Zoom Percent: 1
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
@@ -89,7 +89,7 @@ Dialogue: Marked=0,0:02:42.00,0:02:42.86,Town People,,0,0,0,,Yeah!
 Dialogue: Marked=0,0:02:42.86,0:02:46.40,Town People,,0,0,0,,He's the reason for our many woes
 Dialogue: Marked=0,0:02:47.63,0:02:53.06,Town People,,0,0,0,,Though we're upset\NWe shouldn't fret
 Dialogue: Marked=0,0:02:53.26,0:02:59.10,Town People,,0,0,0,,We mustn't let ourselves forget
-Dialogue: Marked=0,0:02:59.10,0:03:04.76,Town People,,0,0,0,,the saying ever child raised within the kingdom knows
+Dialogue: Marked=0,0:02:59.10,0:03:04.76,Town People,,0,0,0,,the saying every child raised within the kingdom knows
 Dialogue: Marked=0,0:03:05.36,0:03:08.23,Town People,,0,0,0,,You've got to dream a little harder.
 Dialogue: Marked=0,0:03:08.30,0:03:11.90,Town People,,0,0,0,,When life won't go your way, simply dream a little harder
 Dialogue: Marked=0,0:03:12.06,0:03:15.43,Town People,,0,0,0,,Trust me when I say, that when you dream a little harder
@@ -148,7 +148,7 @@ Dialogue: Marked=0,0:06:02.00,0:06:03.86,Jaffar,,0,0,0,,That's unrealistic!
 Dialogue: Marked=0,0:06:03.66,0:06:05.86,Town People,,0,0,0,,I want to be a cat!
 Dialogue: Marked=0,0:06:03.53,0:06:06.23,Town People,,0,0,0,,Think a little louder!
 Dialogue: Marked=0,0:06:06.20,0:06:07.10,Default,,0,0,0,,-What?\N-Fuck you!
-Dialogue: Marked=0,0:06:07.10,0:06:15.26,Town People,,0,0,0,,Whistle while you swallow a spoon full of sugar and your dreams will come true upon a star!\N[okay: reference to: Disney's: 'Snow White' 'Mary Poppins' and 'Peter Pan'.]
+Dialogue: Marked=0,0:06:07.10,0:06:15.26,Town People,,0,0,0,,Whistle while you swallow a spoon full of sugar and your dreams will come true upon a star!\N[okay: reference to: Disney's 'Snow White' 'Mary Poppins' and 'Peter Pan'.]
 Dialogue: Marked=0,0:06:15.26,0:06:17.60,Town People,,0,0,0,,Dream hard enough, my friends!
 Dialogue: Marked=0,0:06:17.60,0:06:21.20,Town People,,0,0,0,,Jaffar will meet a violent end.
 Dialogue: Marked=0,0:06:21.20,0:06:23.83,Town People,,0,0,0,,He could be skewered by a sailing ship.
@@ -198,7 +198,7 @@ Dialogue: Marked=0,0:08:58.93,0:08:59.50,Guards,,0,0,0,,...Allah!
 Dialogue: Marked=0,0:09:08.83,0:09:10.43,Captain Royal Guard,,0,0,0,,This is all your fault, Jaffar!
 Dialogue: Marked=0,0:09:10.43,0:09:14.03,Jaffar,,0,0,0,,My fault?!? How is this my fault and not that thief's?
 Dialogue: Marked=0,0:09:14.03,0:09:20.70,Captain Royal Guard,,0,0,0,,There wouldn't be any thieves if you fixed the socio economic inequality like you promised!
-Dialogue: Marked=0,0:09:24.53,0:09:28.80,Captain Royal Guard,,0,0,0,,Why do you even bother visiting us commonals any more, you AristoCat?\N[reference to: Disney's 'AristoCats']
+Dialogue: Marked=0,0:09:24.53,0:09:28.80,Captain Royal Guard,,0,0,0,,Why do you even bother visiting us commoners any more, you AristoCat?\N[reference to: Disney's 'AristoCats']
 Dialogue: Marked=0,0:09:29.00,0:09:33.63,Jaffar,,0,0,0,,There's a very important prince coming into town today from one of our vassal kingdoms.
 Dialogue: Marked=0,0:09:33.63,0:09:37.50,Jaffar,,0,0,0,,The land of Pik-zahr. I've come to welcome him personally.\N[Is there a reference needed? Pixar vs. Disney]
 Dialogue: Marked=0,0:09:37.76,0:09:39.66,Captain Royal Guard,,0,0,0,,Another suitor for the princess?
