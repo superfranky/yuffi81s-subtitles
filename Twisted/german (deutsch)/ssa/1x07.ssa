@@ -3,16 +3,12 @@
 ; http://www.aegisub.org/
 PlayResX: 1280
 PlayResY: 720
-Scroll Position: 138
-Active Line: 150
-Video Zoom Percent: 0.5
+Scroll Position: 51
+Active Line: 55
+Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Last Style Storage: Default
 Export Encoding: Local
-Audio URI: ..\..\..\..\Twisted Act 1 Part 7-8Z-NVuQIBLg.mp4
-Video File: ..\..\..\..\Twisted Act 1 Part 7-8Z-NVuQIBLg.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 12593
 ScriptType: v4.00
 
 [V4 Styles]
@@ -81,7 +77,7 @@ Dialogue: Marked=0,0:02:50.30,0:02:51.92,Aladdin,,0,0,0,,Wie ein Pool.
 Dialogue: Marked=0,0:02:53.62,0:02:55.67,Aladdin,,0,0,0,,Denkst du, Leute könnten das wirklich tun?
 Dialogue: Marked=0,0:02:56.27,0:02:57.42,Jaffar,,0,0,0,,Nein.
 Dialogue: Marked=0,0:02:58.10,0:03:02.52,Jaffar,,0,0,0,,Aber wenn du erst all das Geld hast, kannst du endlich dein kriminelles Leben hinter dir lassen.
-Dialogue: Marked=0,0:03:02.52,0:03:05.92,Jaffar,,0,0,0,,Fortlaufen und niemals zurückkehren.
+Dialogue: Marked=0,0:03:02.52,0:03:05.92,Jaffar,,0,0,0,,Lauf weit weg und komm niemals zurück. \N[Referenz zu: Disneys 'König der Löwen']
 Dialogue: Marked=0,0:03:06.15,0:03:09.92,Aladdin,,0,0,0,,Das werde ich auf jeden Fall machen. Ich muß nur erst diese eine Sache erledigen.
 Dialogue: Marked=0,0:03:09.92,0:03:11.92,Jaffar,,0,0,0,,Oh, welche Sache wäre das?
 Dialogue: Marked=0,0:03:12.35,0:03:15.32,Aladdin,,0,0,0,,Nun, diese Sache...

@@ -3,15 +3,11 @@
 ; http://www.aegisub.org/
 PlayResX: 1280
 PlayResY: 720
-Scroll Position: 139
-Active Line: 126
-Video Zoom Percent: 0.5
+Scroll Position: 46
+Active Line: 55
+Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Last Style Storage: Default
-Audio URI: ..\..\..\..\Twisted Act 1 Part 7-8Z-NVuQIBLg.mp4
-Video File: ..\..\..\..\Twisted Act 1 Part 7-8Z-NVuQIBLg.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 11086
 ScriptType: v4.00
 
 [V4 Styles]
@@ -80,7 +76,7 @@ Dialogue: Marked=0,0:02:50.30,0:02:51.92,Aladdin,,0,0,0,,Like a pool.
 Dialogue: Marked=0,0:02:53.62,0:02:55.67,Aladdin,,0,0,0,,Think people could really do that?
 Dialogue: Marked=0,0:02:56.27,0:02:57.42,Jaffar,,0,0,0,,No.
 Dialogue: Marked=0,0:02:58.10,0:03:02.52,Jaffar,,0,0,0,,But once you have all that money, you can finally leave your life of crime behind.
-Dialogue: Marked=0,0:03:02.52,0:03:05.92,Jaffar,,0,0,0,,Run away and never return.
+Dialogue: Marked=0,0:03:02.52,0:03:05.92,Jaffar,,0,0,0,,Run away and never return.\N[reference to: Disney's 'Lion king']
 Dialogue: Marked=0,0:03:06.15,0:03:09.92,Aladdin,,0,0,0,,I'm totally gonna do that. I just gotta do this one thing first.
 Dialogue: Marked=0,0:03:09.92,0:03:11.92,Jaffar,,0,0,0,,Oh, what thing would that be?
 Dialogue: Marked=0,0:03:12.35,0:03:15.32,Aladdin,,0,0,0,,Well, this thing...
