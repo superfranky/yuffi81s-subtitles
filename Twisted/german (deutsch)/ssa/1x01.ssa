@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 138
-Active Line: 161
+Scroll Position: 165
+Active Line: 179
 Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
@@ -198,7 +198,7 @@ Dialogue: Marked=0,0:10:14.96,0:10:21.33,Default,,0,0,0,,Die kleine Ratte hat ei
 Dialogue: Marked=0,0:10:22.03,0:10:28.53,Default,,0,0,0,,Nun, ich bin nicht sicher, ob der Dieb meinte, der Prinz hätte einen dicken pferdemäßigen Arsch oder einen Pferdearsch als Gesicht.
 Dialogue: Marked=0,0:10:29.63,0:10:33.66,Default,,0,0,0,,Wie auch immer, jedermann lachte und der Prinz war wütend.
 Dialogue: Marked=0,0:10:33.66,0:10:38.43,Default,,0,0,0,,Oh. Ich gehe wohl besser zurück in den Palast und stelle sicher, dass sein Frühstück mit der Prinzessin gut läuft...
-Dialogue: Marked=0,0:10:38.56,0:10:42.13,Default,,0,0,0,,Aber Jaffar, ist sie nicht dafür bekannt, Tieger auf Prinzen zu hetzen, die zu Besuch kommen?
+Dialogue: Marked=0,0:10:38.56,0:10:42.13,Default,,0,0,0,,Aber Jaffar, ist sie nicht dafür bekannt, Tiger auf Prinzen zu hetzen, die zu Besuch kommen?
 Dialogue: Marked=0,0:10:42.13,0:10:43.53,Default,,0,0,0,,Oh, Scheiße...!
 Dialogue: Marked=0,0:10:44.53,0:10:45.53,Default,,0,0,0,,Du hast recht!
 Dialogue: Marked=0,0:10:45.90,0:10:48.76,Default,,0,0,0,,Ich hoffe wirklich, dass du das hier nicht vermasselt hast, Jaffar...
