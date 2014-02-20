@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 Export Encoding: Unicode (UTF-8)
 Video Zoom Percent: 1
-Scroll Position: 96
-Active Line: 114
+Scroll Position: 117
+Active Line: 141
 PlayResX: 640
 PlayResY: 360
 Last Style Storage: Default
@@ -166,7 +166,7 @@ Dialogue: Marked=0,0:08:39.07,0:08:42.30,Jasmin,,0,0,0,,I mean please, is that s
 Dialogue: Marked=0,0:08:42.70,0:08:47.67,Jasmin,,0,0,0,,But decisions are hard when I'm being bombarded
 Dialogue: Marked=0,0:08:47.67,0:08:51.75,Jasmin,,0,0,0,,Why can't somebody help with this arduous task
 Dialogue: Marked=0,0:08:51.82,0:08:59.15,Jasmin,,0,0,0,,The life of a princess is broad with complication
-Dialogue: Marked=0,0:08:59.15,0:09:07.12,Jasmin,,0,0,0,,It's enough to make me wish I were lonely and poor
+Dialogue: Marked=0,0:08:59.15,0:09:07.12,Jasmin,,0,0,0,,It's enough to make me wish I were lowly and poor
 Dialogue: Marked=0,0:09:08.02,0:09:13.47,Jasmin,,0,0,0,,But like - with money
 Dialogue: Marked=0,0:09:14.27,0:09:17.70,Jasmin,,0,0,0,,What I wouldn't give
 Dialogue: Marked=0,0:09:17.70,0:09:23.45,Jasmin,,0,0,0,,To live in a new situation
