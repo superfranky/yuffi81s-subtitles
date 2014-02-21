@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 179
-Active Line: 170
+Scroll Position: 51
+Active Line: 59
 Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
@@ -78,7 +78,7 @@ Dialogue: Marked=0,0:02:59.50,0:03:00.17,Default,,0,0,0,,Da bin ich sicher!
 Dialogue: Marked=0,0:03:00.03,0:03:04.28,Default,,0,0,0,,Oh, nun mal langsam, Leute. Ich bin sicher, die hohen Tiere im Palast sollten ihr bestes tun.
 Dialogue: Marked=0,0:03:04.28,0:03:08.65,Default,,0,0,0,,Sie brauchen nur jemanden mit starker Entschlossenheit um sie auf dem Pfad der Tugend zu halten...
 Dialogue: Marked=0,0:03:08.73,0:03:11.26,Default,,0,0,0,,Ich schätze du hast recht, Jaffar. Aber wie machst du das?
-Dialogue: Marked=0,0:03:11.42,0:03:14.08,Default,,0,0,0,,Wie kommt es, dass du so gut bist zu jedem der es braucht?
+Dialogue: Marked=0,0:03:11.42,0:03:14.08,Default,,0,0,0,,Wie kommt es, dass du so gut bist zu jedem den du triffst?
 Dialogue: Marked=0,0:03:14.08,0:03:16.75,Default,,0,0,0,,Mein Geheimnis ist einfach, das könnte wirklich jeder:
 Dialogue: Marked=0,0:03:17.00,0:03:19.34,Default,,0,0,0,,Ich befolge einfach die goldene Regel!
 Dialogue: Marked=0,0:03:19.48,0:03:21.60,Default,,0,0,0,,Und was ist das für eine Regel, Jaffar?
