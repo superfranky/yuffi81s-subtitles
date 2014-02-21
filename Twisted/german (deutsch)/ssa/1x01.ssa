@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 165
-Active Line: 179
+Scroll Position: 184
+Active Line: 217
 Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
@@ -237,7 +237,7 @@ Dialogue: Marked=0,0:12:38.13,0:12:39.63,Default,,0,0,0,,Holt es, ihr Scheißer!
 Dialogue: Marked=0,0:12:40.13,0:12:44.00,Default,,0,0,0,,Wirklich, ich bin nicht so wählerisch\NIch werde stehlen, was immer mir unter die Augen kommt.
 Dialogue: Marked=0,0:12:44.96,0:12:47.76,Default,,0,0,0,,Verurteilt mich nicht, denn ihr versteht meine Misere nicht.
 Dialogue: Marked=0,0:12:47.76,0:12:49.16,Default,,0,0,0,,Hey, meine Krücke!
-Dialogue: Marked=0,0:12:49.16,0:12:51.43,Default,,0,0,0,,Nah, nah, du Loser! Ich stehle alles.
+Dialogue: Marked=0,0:12:49.16,0:12:51.43,Default,,0,0,0,,Jetzt ist's meine, Loser! Ich stehle alles.
 Dialogue: Marked=0,0:12:52.36,0:12:53.43,Default,,0,0,0,,Brot!
 Dialogue: Marked=0,0:12:53.43,0:12:54.76,Default,,0,0,0,,Brot zu verkaufen!
 Dialogue: Marked=0,0:12:54.76,0:12:57.53,Default,,0,0,0,,Sehr günstiger Preis in diesen harten Zeiten!

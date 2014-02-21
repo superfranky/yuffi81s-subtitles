@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 300
-Scroll Position: 161
-Active Line: 160
+Scroll Position: 197
+Active Line: 209
 Video Zoom Percent: 1
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
@@ -247,8 +247,8 @@ Dialogue: Marked=0,0:12:13.00,0:12:14.96,Aladdin,,0,0,0,,I'm screwed, or so it s
 Dialogue: Marked=0,0:12:15.26,0:12:18.46,Aladdin,,0,0,0,,That's why I came up with this brilliant scheme:
 Dialogue: Marked=0,0:12:18.60,0:12:20.10,Aladdin,,0,0,0,,Just steal everything!
 Dialogue: Marked=0,0:12:20.50,0:12:22.10,Aladdin,,0,0,0,,Alright, monkey, let's feast!
-Dialogue: Marked=0,0:12:24.93,0:12:27.13,Aladdin,,0,0,0,,Ugh! Raisin!
-Dialogue: Marked=0,0:12:28.03,0:12:28.86,Aladdin,,0,0,0,,I hate raisin.
+Dialogue: Marked=0,0:12:24.93,0:12:27.13,Aladdin,,0,0,0,,Ugh! Raisins!
+Dialogue: Marked=0,0:12:28.03,0:12:28.86,Aladdin,,0,0,0,,I hate raisins.
 Dialogue: Marked=0,0:12:30.56,0:12:34.76,Aladdin,,0,0,0,,Hoah! Hey, little orphan kids! 're you guys hungry?
 Dialogue: Marked=0,0:12:34.86,0:12:35.96,Aladdin,,0,0,0,,You want some bread?
 Dialogue: Marked=0,0:12:35.96,0:12:37.50,Extra,,0,0,0,,We do, sir!
@@ -256,7 +256,7 @@ Dialogue: Marked=0,0:12:38.13,0:12:39.63,Aladdin,,0,0,0,,Fetch, you fucks!
 Dialogue: Marked=0,0:12:40.13,0:12:44.00,Aladdin,,0,0,0,,For real, I'm not that picky\NI'll steal whatever's in sight.
 Dialogue: Marked=0,0:12:44.96,0:12:47.76,Aladdin,,0,0,0,,Don't judge,'cause you don't understand my plight.
 Dialogue: Marked=0,0:12:47.76,0:12:49.16,Extra,,0,0,0,,Hey, my crutch!
-Dialogue: Marked=0,0:12:49.16,0:12:51.43,Jaffar,,0,0,0,,Nah, nah, loser! I steal everything.
+Dialogue: Marked=0,0:12:49.16,0:12:51.43,Jaffar,,0,0,0,,Mine now, loser! I steal everything.
 Dialogue: Marked=0,0:12:52.36,0:12:53.43,Town People,,0,0,0,,Bread!
 Dialogue: Marked=0,0:12:53.43,0:12:54.76,Town People,,0,0,0,,Bread for sale!
 Dialogue: Marked=0,0:12:54.76,0:12:57.53,Town People,,0,0,0,,Very reasonably price for these hard times!
