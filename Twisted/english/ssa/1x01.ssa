@@ -8,15 +8,11 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 300
-Scroll Position: 9
-Active Line: 24
-Video Zoom Percent: 0.25
+Scroll Position: 3
+Active Line: 46
+Video Zoom Percent: 1
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio URI: ..\..\video\hd\Twisted Act 1 Part 1-e5mkyhYMaQ8.mp4
-Video File: ..\..\video\hd\Twisted Act 1 Part 1-e5mkyhYMaQ8.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 2697
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -88,7 +84,7 @@ Dialogue: Marked=0,0:02:32.70,0:02:33.46,Town People,,0,0,0,,{\k25}Mine {\k51}to
 Dialogue: Marked=0,0:02:33.53,0:02:34.20,Town People,,0,0,0,,{\k24}Mine {\k43}too!
 Dialogue: Marked=0,0:02:34.30,0:02:36.00,Town People,,0,0,0,,{\k29}Mine {\k29}too! {\k21}Mine {\k28}too! {\k26}Mine {\k36}too!
 Dialogue: Marked=0,0:02:36.00,0:02:39.16,Town People,,0,0,0,,{\k23}The {\k47}an{\k33}swer {\k47}here\N {\k40}is {\k48}crys{\k24}tal {\k54}clear:
-Dialogue: Marked=0,0:02:39.43,0:02:42.00,Town People,,0,0,0,,{\k22}Ja{\k65}ffar, {\k19}that {\k16}ug{\k24}ly {\k24}old {\k23}Vi{\k64}sier!
+Dialogue: Marked=0,0:02:39.43,0:02:42.00,Town People,,0,0,0,,{\k22}Ja{\k65}ffar, {\k19}that {\k16}ug{\k24}ly {\k24}old {\k23}Vi{\k64}zier!
 Dialogue: Marked=0,0:02:42.00,0:02:42.86,Town People,,0,0,0,,Yeah!
 Dialogue: Marked=0,0:02:42.86,0:02:46.40,Town People,,0,0,0,,{\k38}He's {\k20}the {\k18}rea{\k24}son {\k20}for {\k23}our {\k24}ma{\k17}ny {\k170}woes
 Dialogue: Marked=0,0:02:47.63,0:02:53.06,Town People,,0,0,0,,{\k59}Though {\k32}we'{\k32}re {\k19}up{\k88}set\N{\k33}{\k32}We {\k107}should{\k23}n't {\k118}fret
