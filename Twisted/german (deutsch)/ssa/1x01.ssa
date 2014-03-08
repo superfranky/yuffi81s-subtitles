@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Scroll Position: 104
-Active Line: 116
+Scroll Position: 237
+Active Line: 270
 Video Zoom Percent: 1
 Export Encoding: Local
 YCbCr Matrix: TV.601
@@ -255,14 +255,14 @@ Dialogue: Marked=0,0:13:29.06,0:13:33.20,Default,,0,0,0,,Du bist der beste! Ich 
 Dialogue: Marked=0,0:13:33.43,0:13:34.46,Default,,0,0,0,,Aber du schuldest mir was dafür!
 Dialogue: Marked=0,0:13:35.53,0:13:37.80,Default,,0,0,0,,Wußtet ihr schon von diesem barbarischen Land?
 Dialogue: Marked=0,0:13:38.03,0:13:39.90,Default,,0,0,0,,Sie geben dir nur Geld, wenn du arbeitest.
-Dialogue: Marked=0,0:13:40.46,0:13:47.63,Default,,0,0,0,,Danke, aber nein Danke - der Herr.\NIch werde weiterhin stehlen, was ich kann\Nanstatt ein fescher arbeitsamer Trottel zu sein!
+Dialogue: Marked=0,0:13:40.46,0:13:47.63,Default,,0,0,0,,Danke, aber nein Danke - der Herr.\NIch werde weiterhin stehlen, was ich kann\Nanstatt ein faschistischer arbeitsamer Trottel zu sein!
 Dialogue: Marked=0,0:13:49.33,0:13:54.03,Default,,0,0,0,,Hippie! Arschloch! Faulpelz! Trottel!
 Dialogue: Marked=0,0:13:54.03,0:14:02.30,Default,,0,0,0,,Wer würde Arbeit suchen\Nwenn das Leben ihre Annehmlichkeiten anbietet?
 Dialogue: Marked=0,0:14:02.83,0:14:04.93,Default,,0,0,0,,Alles was ich kriege, kann ich umsonst kriegen
 Dialogue: Marked=0,0:14:05.03,0:14:06.76,Default,,0,0,0,,Nebenbei, die Ökonomie ist beschissen
 Dialogue: Marked=0,0:14:06.76,0:14:09.20,Default,,0,0,0,,Also mache ich schnell um einen Ausweg zu finden.
 Dialogue: Marked=0,0:14:09.20,0:14:11.20,Default,,0,0,0,,werde verfolgt von einem mörderischen Mob
-Dialogue: Marked=0,0:14:12.00,0:14:14.40,Default,,0,0,0,,Hey man, er kriegt trotzdem den Job
+Dialogue: Marked=0,0:14:12.00,0:14:14.40,Default,,0,0,0,,Hey man, immer noch besser, als einen Job zu kriegen.
 Dialogue: Marked=0,0:14:14.60,0:14:15.93,Default,,0,0,0,,Hab ich recht?
 Dialogue: Marked=0,0:14:16.66,0:14:20.00,Default,,0,0,0,,Oh, da sind wir heute aber mal früh in Schwierigkeiten, oder, Aladdin?
 Dialogue: Marked=0,0:14:20.00,0:14:21.40,Default,,0,0,0,,Wir sind nur in Schwierigkeiten, wenn wir uns fangen lassen.
@@ -289,5 +289,5 @@ Dialogue: Marked=0,0:15:16.00,0:15:19.83,Default,,0,0,0,,Das ist total fair, abe
 Dialogue: Marked=0,0:15:19.83,0:15:20.60,Default,,0,0,0,,Ja!
 Dialogue: Marked=0,0:15:21.53,0:15:25.43,Default,,0,0,0,,Ich empfinde es als meine Pflicht\Nzu stehlen, denn Stehlen ist eine Kunst
 Dialogue: Marked=0,0:15:25.43,0:15:30.76,Default,,0,0,0,,Ich werde Kleidung und Unterschlupf stehlen, was immer mir fehlt\NLutscher von Babys, dein letztes Hemd!
-Dialogue: Marked=0,0:15:30.76,0:15:35.33,Default,,0,0,0,,Kreditkartennummern, Donner und Nähte.\Nund geistiges Eigentum, was auch immer das heißt.
+Dialogue: Marked=0,0:15:30.76,0:15:35.33,Default,,0,0,0,,Kreditkartennummern, Donner und Szenen.\NUnd geistiges Eigentum, was auch immer das heißt.
 Dialogue: Marked=0,0:15:35.33,0:15:46.13,Default,,0,0,0,,Und wenn ihr näher hinseht, wird dieses arme kleine Waisenkind euer Herz stehlen!
