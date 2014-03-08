@@ -8,15 +8,15 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 300
-Scroll Position: 174
-Active Line: 270
+Scroll Position: 9
+Active Line: 24
 Video Zoom Percent: 0.25
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
 Audio URI: ..\..\video\hd\Twisted Act 1 Part 1-e5mkyhYMaQ8.mp4
 Video File: ..\..\video\hd\Twisted Act 1 Part 1-e5mkyhYMaQ8.mp4
 Video Aspect Ratio: c1.77778
-Video Position: 22426
+Video Position: 2697
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -67,7 +67,7 @@ Dialogue: Marked=0,0:01:36.50,0:01:38.96,Jaffar,,0,0,0,,{\k29}no {\k22}mat{\k18}
 Dialogue: Marked=0,0:01:39.23,0:01:42.43,Jaffar,,0,0,0,,{\k25}But {\k44}today {\k31}could {\k18}be {\k16}the {\k186}day
 Dialogue: Marked=0,0:01:42.73,0:01:45.26,Jaffar,,0,0,0,,{\k12}{\k20}I {\k52}fin{\k27}ally {\k18}make {\k21}a {\k23}dif{\k12}fe{\k68}rence!
 Dialogue: Marked=0,0:01:46.40,0:01:52.13,Jaffar,,0,0,0,,{\k49}And {\k51}all {\k19}the {\k26}grate{\k20}ful {\k21}ci{\k56}tizens {\k28}will {\k73}say {\k79}to {\k151}me...
-Dialogue: Marked=0,0:01:52.46,0:01:53.03,Town People,,0,0,0,,{\k26}Fuck {\k29}you! {\k2}\N[reference to: Walt Disney's Beauty and the Beast(bonjour)]
+Dialogue: Marked=0,0:01:52.46,0:01:53.03,Town People,,0,0,0,,{\k26}Fuck {\k29}you!\N {\k2}[reference to: Walt Disney's Beauty and the Beast(bonjour)]
 Dialogue: Marked=0,0:01:53.26,0:01:54.00,Town People,,0,0,0,,{\k32}Fuck {\k42}you!
 Dialogue: Marked=0,0:01:54.16,0:01:55.60,Town People,,0,0,0,,{\k25}Fuck {\k25}you! {\k25}Fuck {\k25}you! {\k18}Fuck {\k27}you!
 Dialogue: Marked=0,0:01:56.16,0:01:57.00,Town People,,0,0,0,,{\k25}Fuck {\k20}you, {\k13}Ja{\k26}ffar.
@@ -87,18 +87,18 @@ Dialogue: Marked=0,0:02:29.36,0:02:32.70,Town People,,0,0,0,,{\k56}Why {\k19}did
 Dialogue: Marked=0,0:02:32.70,0:02:33.46,Town People,,0,0,0,,{\k25}Mine {\k51}too!
 Dialogue: Marked=0,0:02:33.53,0:02:34.20,Town People,,0,0,0,,{\k24}Mine {\k43}too!
 Dialogue: Marked=0,0:02:34.30,0:02:36.00,Town People,,0,0,0,,{\k29}Mine {\k29}too! {\k21}Mine {\k28}too! {\k26}Mine {\k36}too!
-Dialogue: Marked=0,0:02:36.00,0:02:39.16,Town People,,0,0,0,,{\k23}The {\k47}an{\k33}swer {\k47}here {\k40}\Nis {\k48}crys{\k24}tal {\k54}clear:
+Dialogue: Marked=0,0:02:36.00,0:02:39.16,Town People,,0,0,0,,{\k23}The {\k47}an{\k33}swer {\k47}here\N {\k40}is {\k48}crys{\k24}tal {\k54}clear:
 Dialogue: Marked=0,0:02:39.43,0:02:42.00,Town People,,0,0,0,,{\k22}Ja{\k65}ffar, {\k19}that {\k16}ug{\k24}ly {\k24}old {\k23}Vi{\k64}sier!
 Dialogue: Marked=0,0:02:42.00,0:02:42.86,Town People,,0,0,0,,Yeah!
 Dialogue: Marked=0,0:02:42.86,0:02:46.40,Town People,,0,0,0,,{\k38}He's {\k20}the {\k18}rea{\k24}son {\k20}for {\k23}our {\k24}ma{\k17}ny {\k170}woes
-Dialogue: Marked=0,0:02:47.63,0:02:53.06,Town People,,0,0,0,,{\k59}Though {\k32}we'{\k32}re {\k19}up{\k88}set{\k33}\N{\k32}We {\k107}should{\k23}n't {\k118}fret
+Dialogue: Marked=0,0:02:47.63,0:02:53.06,Town People,,0,0,0,,{\k59}Though {\k32}we'{\k32}re {\k19}up{\k88}set\N{\k33}{\k32}We {\k107}should{\k23}n't {\k118}fret
 Dialogue: Marked=0,0:02:53.26,0:02:59.10,Town People,,0,0,0,,{\k41}We {\k50}must{\k33}n't {\k71}let {\k39}our{\k39}sel{\k52}ves {\k57}for{\k202}get
 Dialogue: Marked=0,0:02:59.10,0:03:04.76,Town People,,0,0,0,,{\k22}the {\k50}say{\k29}ing {\k18}ev{\k24}ery {\k73}child {\k27}{\k41}raised {\k16}with{\k45}in {\k23}the {\k20}king{\k40}dom {\k138}knows
 Dialogue: Marked=0,0:03:05.36,0:03:08.23,Town People,,0,0,0,,{\k29}You'{\k15}ve {\k44}got {\k37}to {\k49}dream {\k20}a {\k16}lit{\k21}tle {\k34}har{\k22}der.
 Dialogue: Marked=0,0:03:08.30,0:03:11.90,Town People,,0,0,0,,{\k28}When {\k27}life {\k18}won't {\k19}go {\k26}your {\k36}way, {\k30}simp{\k22}ly {\k37}dream {\k14}a {\k14}lit{\k25}tle {\k24}har{\k40}der
 Dialogue: Marked=0,0:03:12.06,0:03:15.43,Town People,,0,0,0,,{\k34}Trust {\k20}me {\k18}when {\k15}I {\k32}say, {\k22}that {\k17}when {\k27}you {\k35}dream {\k13}a {\k17}lit{\k23}tle {\k21}har{\k43}der
 Dialogue: Marked=0,0:03:15.43,0:03:17.56,Town People,,0,0,0,,{\k15}you're {\k31}sure {\k20}to {\k47}muddle {\k100}through
-Dialogue: Marked=0,0:03:17.56,0:03:21.60,Town People,,0,0,0,,{\k27}'Cause {\k18}if {\k24}you're {\k24}good {\k21}and {\k19}you're {\k13}at{\k30}trac{\k22}tive{\k26}\N{\k24}no {\k20}need {\k18}to {\k22}be {\k20}pro{\k29}ac{\k47}tive
+Dialogue: Marked=0,0:03:17.56,0:03:21.60,Town People,,0,0,0,,{\k27}'Cause {\k18}if {\k24}you're {\k24}good {\k21}and {\k19}you're {\k13}at{\k30}trac{\k22}tive\N{\k26}{\k24}no {\k20}need {\k18}to {\k22}be {\k20}pro{\k29}ac{\k47}tive
 Dialogue: Marked=0,0:03:21.60,0:03:24.23,Town People,,0,0,0,,{\k34}Good {\k23}things {\k21}will {\k21}just {\k23}ha{\k44}ppen {\k23}to {\k74}you!
 Dialogue: Marked=0,0:03:24.70,0:03:26.96,Jaffar,,0,0,0,,I've come to return the book I borrowed.
 Dialogue: Marked=0,0:03:26.96,0:03:28.70,Town People,,0,0,0,,Oh, Jaffar.
@@ -120,7 +120,7 @@ Dialogue: Marked=0,0:04:11.40,0:04:18.20,Town People,,0,0,0,,[talking across eac
 Dialogue: Marked=0,0:04:18.20,0:04:19.23,Town People,,0,0,0,,Jaffar?
 Dialogue: Marked=0,0:04:19.56,0:04:20.46,Town People,,0,0,0,,{\k30}Ja{\k60}ffar!
 Dialogue: Marked=0,0:04:20.46,0:04:22.96,Town People,,0,0,0,,{\k35}Jaf{\k67}far! {\k20}Jaf{\k128}far!
-Dialogue: Marked=0,0:04:23.10,0:04:26.50,Town People,,0,0,0,,{\k29}No {\k65}man {\k26}who's {\k41}just{\k21}\N{\k15}could {\k64}e{\k15}ver {\k65}trust
+Dialogue: Marked=0,0:04:23.10,0:04:26.50,Town People,,0,0,0,,{\k29}No {\k65}man {\k26}who's {\k41}just\N{\k21}{\k15}could {\k64}e{\k15}ver {\k65}trust
 Dialogue: Marked=0,0:04:26.50,0:04:29.53,Town People,,0,0,0,,{\k33}a {\k61}face {\k31}that {\k11}trig{\k25}gers {\k24}such {\k22}dis{\k96}gust!
 Dialogue: Marked=0,0:04:29.76,0:04:32.66,Town People,,0,0,0,,{\k47}His {\k22}twis{\k21}ted {\k15}feat{\k31}ures {\k20}give {\k9}me {\k31}such {\k10}a {\k84}chill.
 Dialogue: Marked=0,0:04:33.16,0:04:36.73,Town People,,0,0,0,,{\k50}So {\k42}let {\k33}us {\k56}pray\N{\k33}that {\k36}one {\k46}fine {\k61}day
@@ -134,7 +134,7 @@ Dialogue: Marked=0,0:04:55.90,0:04:59.60,Town People,,0,0,0,,{\k19}If {\k14}you 
 Dialogue: Marked=0,0:04:59.60,0:05:03.40,Town People,,0,0,0,,{\k34}Will {\k28}give {\k29}you {\k22}the {\k32}edge {\k32}that {\k22}you {\k181}need!
 Dialogue: Marked=0,0:05:06.00,0:05:07.96,Jaffar,,0,0,0,,Oh! Pardon me, Ma'am!
 Dialogue: Marked=0,0:05:07.96,0:05:11.83,Town People,,0,0,0,,Oh, that's alright, just try to keep your fat face out of that motherfucking book.\N[Reference to: Disney's 'Beauty and the beast' (Belle)]
-Dialogue: Marked=0,0:05:13.10,0:05:19.63,Jaffar,,0,0,0,,{\k23}I {\k72}know, {\k26}that {\k40}I'm {\k32}no {\k106}prize {\k21}\NI'm {\k13}not {\k28}so {\k42}ea{\k49}sy {\k61}on {\k27}the {\k113}eyes
+Dialogue: Marked=0,0:05:13.10,0:05:19.63,Jaffar,,0,0,0,,{\k23}I {\k72}know, {\k26}that {\k40}I'm {\k32}no {\k106}prize\N{\k21}I'm {\k13}not {\k28}so {\k42}ea{\k49}sy {\k61}on {\k27}the {\k113}eyes
 Dialogue: Marked=0,0:05:19.93,0:05:25.96,Jaffar,,0,0,0,,{\k17}I {\k71}can't {\k59}rely {\k40}on {\k64}looks {\k22}to {\k40}get {\k45}me {\k245}by.
 Dialogue: Marked=0,0:05:26.56,0:05:30.10,Jaffar,,0,0,0,,{\k33}But {\k17}ug{\k21}li{\k37}ness {\k14}per{\k43}mits\N{\k16}{\k21}a {\k30}man {\k18}to {\k18}use {\k21}his {\k66}wits
 Dialogue: Marked=0,0:05:30.10,0:05:32.90,Jaffar,,0,0,0,,{\k22}'Cause {\k22}pret{\k16}ty {\k24}peo{\k16}ple {\k27}ne{\k17}ver {\k28}have {\k20}to {\k88}try.
@@ -151,8 +151,8 @@ Dialogue: Marked=0,0:06:00.73,0:06:03.10,Town People,,0,0,0,,{\k27}I {\k63}want 
 Dialogue: Marked=0,0:06:02.00,0:06:03.86,Jaffar,,0,0,0,,{\k31}That's {\k26}un{\k17}rea{\k42}lis{\k70}tic!
 Dialogue: Marked=0,0:06:04.20,0:06:05.86,Town People,,0,0,0,,{\k24}I {\k26}want {\k14}to {\k19}be {\k21}a {\k62}cat!
 Dialogue: Marked=0,0:06:03.53,0:06:06.23,Town People,,0,0,0,,{\k43}Think {\k12}a {\k16}lit{\k21}tle {\k27}lou{\k152}der!
-Dialogue: Marked=0,0:06:06.20,0:06:07.10,Default,,0,0,0,,{\k27}-What?{\k13}\N-Fuck {\k50}you!
-Dialogue: Marked=0,0:06:07.10,0:06:15.26,Town People,,0,0,0,,{\k0}{\k18}Whis{\k21}tle {\k14}while {\k15}you {\k39}swal{\k39}low {\k21}a {\k22}spoon {\k31}full {\k29}of {\k29}su{\k23}gar {\k18}and {\k19}your {\k48}dreams {\k21}will {\k18}come {\k17}true {\k27}up{\k23}on {\k13}a {\k312}star!{\k0}\N[okay: reference to: Disney's 'Snow White' 'Mary Poppins' and 'Peter Pan'.]
+Dialogue: Marked=0,0:06:06.20,0:06:07.10,Default,,0,0,0,,{\k27}-What?\N{\k13}-Fuck {\k50}you!
+Dialogue: Marked=0,0:06:07.10,0:06:15.26,Town People,,0,0,0,,{\k0}{\k18}Whis{\k21}tle {\k14}while {\k15}you {\k39}swal{\k39}low {\k21}a {\k22}spoon {\k31}full {\k29}of {\k29}su{\k23}gar {\k18}and {\k19}your {\k48}dreams {\k21}will {\k18}come {\k17}true {\k27}up{\k23}on {\k13}a {\k312}star!\N{\k0}[okay: reference to: Disney's 'Snow White' 'Mary Poppins' and 'Peter Pan'.]
 Dialogue: Marked=0,0:06:15.26,0:06:17.60,Town People,,0,0,0,,{\k27}Dream {\k22}hard {\k8}e{\k35}nough, {\k23}my {\k119}friends!
 Dialogue: Marked=0,0:06:17.60,0:06:21.20,Town People,,0,0,0,,{\k52}Jaf{\k47}far {\k37}will {\k62}meet {\k24}a {\k41}vi{\k18}o{\k16}lent {\k63}end.
 Dialogue: Marked=0,0:06:21.20,0:06:23.83,Town People,,0,0,0,,{\k22}He {\k42}could {\k17}be {\k54}skew{\k19}ered {\k24}by {\k11}a {\k26}sai{\k24}ling {\k24}ship.
@@ -257,7 +257,7 @@ Dialogue: Marked=0,0:12:30.56,0:12:34.76,Aladdin,,0,0,0,,Hoah! Hey, little orpha
 Dialogue: Marked=0,0:12:34.86,0:12:35.96,Aladdin,,0,0,0,,You want some bread?
 Dialogue: Marked=0,0:12:35.96,0:12:37.50,Extra,,0,0,0,,We do, sir!
 Dialogue: Marked=0,0:12:38.13,0:12:39.63,Aladdin,,0,0,0,,Fetch, you fucks!
-Dialogue: Marked=0,0:12:40.13,0:12:44.00,Aladdin,,0,0,0,,{\k38}For {\k27}real, {\k29}I'm {\k22}not {\k25}that {\k23}pick{\k16}y{\k38}\N{\k16}I'll {\k50}steal {\k16}what{\k13}e{\k14}ver's {\k10}in {\k50}sight.
+Dialogue: Marked=0,0:12:40.13,0:12:44.00,Aladdin,,0,0,0,,{\k38}For {\k27}real, {\k29}I'm {\k22}not {\k25}that {\k23}pick{\k16}y\N{\k38}{\k16}I'll {\k50}steal {\k16}what{\k13}e{\k14}ver's {\k10}in {\k50}sight.
 Dialogue: Marked=0,0:12:44.96,0:12:47.76,Aladdin,,0,0,0,,{\k26}Don't {\k46}judge, {\k16}'cause {\k15}you {\k20}don't {\k20}un{\k13}der{\k55}stand {\k24}my {\k46}plight.
 Dialogue: Marked=0,0:12:47.76,0:12:49.16,Extra,,0,0,0,,Hey, my crutch!
 Dialogue: Marked=0,0:12:49.16,0:12:51.43,Jaffar,,0,0,0,,Mine now, loser! I steal everything.
@@ -278,9 +278,9 @@ Dialogue: Marked=0,0:13:29.06,0:13:33.20,Aladdin,,0,0,0,,You're the best! I'm go
 Dialogue: Marked=0,0:13:33.43,0:13:34.46,Aladdin,,0,0,0,,But you owe me one!
 Dialogue: Marked=0,0:13:35.53,0:13:37.80,Aladdin,,0,0,0,,{\k30}Did {\k27}you {\k49}know {\k14}this {\k14}bar{\k15}ba{\k23}ric {\k22}coun{\k33}try
 Dialogue: Marked=0,0:13:38.03,0:13:39.90,Aladdin,,0,0,0,,{\k19}They{\k12}on{\k8}ly {\k15}give {\k13}you {\k18}mo{\k11}ney {\k20}if {\k17}you {\k54}work?
-Dialogue: Marked=0,0:13:40.46,0:13:47.63,Aladdin,,0,0,0,,{\k48}Thanks, {\k23}but {\k33}no {\k33}thanks {\k19}- {\k17}the {\k58}man.\N{\k38}I'll {\k20}keep {\k31}steal{\k23}ing {\k37}all {\k23}I {\k35}can{\k11}\Nin{\k46}stead {\k18}of {\k36}being {\k12}a {\k31}fa{\k30}scist {\k28}yu{\k11}ppi {\k56}jerk!
+Dialogue: Marked=0,0:13:40.46,0:13:47.63,Aladdin,,0,0,0,,{\k48}Thanks, {\k23}but {\k33}no {\k33}thanks {\k19}- {\k17}the {\k58}man.\N{\k38}I'll {\k20}keep {\k31}steal{\k23}ing {\k37}all {\k23}I {\k35}can\N{\k11}in{\k46}stead {\k18}of {\k36}being {\k12}a {\k31}fa{\k30}scist {\k28}yu{\k11}ppi {\k56}jerk!
 Dialogue: Marked=0,0:13:49.33,0:13:54.03,Default,,0,0,0,,{\k69}Hip{\k30}pie! {\k38}{\k47}Fu{\k58}cker! {\k48}Sla{\k71}cker! {\k53}Su{\k56}cker!
-Dialogue: Marked=0,0:13:54.03,0:14:02.30,Aladdin,,0,0,0,,{\k61}Who {\k51}would {\k69}seek {\k33}em{\k44}ploy{\k88}ments,{\k28}\N{\k42}when {\k44}life {\k53}of{\k59}fers {\k53}her {\k33}en{\k44}joy{\k125}ments?
+Dialogue: Marked=0,0:13:54.03,0:14:02.30,Aladdin,,0,0,0,,{\k61}Who {\k51}would {\k69}seek {\k33}em{\k44}ploy{\k88}ments,\N{\k28}{\k42}when {\k44}life {\k53}of{\k59}fers {\k53}her {\k33}en{\k44}joy{\k125}ments?
 Dialogue: Marked=0,0:14:02.83,0:14:04.93,Aladdin,,0,0,0,,{\k20}A{\k11}ny{\k20}thing {\k19}I {\k27}get {\k28}{\k16}I {\k18}can {\k11}get {\k14}for {\k26}free
 Dialogue: Marked=0,0:14:05.03,0:14:06.76,Aladdin,,0,0,0,,{\k22}Be{\k30}sides, {\k13}the {\k9}e{\k29}co{\k8}no{\k23}my's {\k39}shit
 Dialogue: Marked=0,0:14:06.76,0:14:09.20,Aladdin,,0,0,0,,{\k20}So {\k25}I {\k29}make {\k47}haste {\k14}for {\k19}ma{\k24}king {\k17}ex{\k49}its.
@@ -310,7 +310,7 @@ Dialogue: Marked=0,0:15:07.03,0:15:10.70,Aladdin,,0,0,0,,{\k62}Just {\k46}one {\
 Dialogue: Marked=0,0:15:10.70,0:15:15.46,Town People,,0,0,0,,{\k57}'Cause {\k26}you {\k65}stole {\k52}my {\k65}daugh{\k53}ters {\k62}hy{\k96}men
 Dialogue: Marked=0,0:15:16.00,0:15:19.83,Aladdin,,0,0,0,,{\k35}That's {\k11}com{\k13}plete{\k8}ly {\k30}fair, {\k29}{\k19}but {\k11}in {\k18}my {\k14}de{\k34}fence: {\k23}{\k35}Dude, {\k20}your {\k16}daugh{\k26}ter's {\k41}hot!
 Dialogue: Marked=0,0:15:19.83,0:15:20.60,Town People,,0,0,0,,Yeah!
-Dialogue: Marked=0,0:15:21.53,0:15:25.43,Aladdin,,0,0,0,,{\k34}I {\k52}feel {\k13}that {\k20}it's {\k23}my {\k23}du{\k26}ty{\k32}\N{\k14}to {\k46}steal, {\k19}'cause {\k15}stea{\k21}ling's {\k13}an {\k39}art
+Dialogue: Marked=0,0:15:21.53,0:15:25.43,Aladdin,,0,0,0,,{\k34}I {\k52}feel {\k13}that {\k20}it's {\k23}my {\k23}du{\k26}ty\N{\k32}{\k14}to {\k46}steal, {\k19}'cause {\k15}stea{\k21}ling's {\k13}an {\k39}art
 Dialogue: Marked=0,0:15:25.43,0:15:30.76,Aladdin,,0,0,0,,{\k35}I'll {\k28}steal {\k24}cloth{\k19}ing {\k13}and {\k27}shel{\k20}ter, {\k28}what{\k11}e{\k17}ver {\k14}I {\k55}lack\N {\k31}can{\k15}dy {\k17}from {\k19}ba{\k25}bies, {\k9}the {\k27}shirt {\k14}off {\k25}your {\k60}back!
 Dialogue: Marked=0,0:15:30.76,0:15:35.33,Aladdin,,0,0,0,,{\k32}Credit {\k15}i{\k25}den{\k11}ti{\k26}ties, {\k18}thun{\k18}der {\k14}and {\k55}scenes.\N {\k10}in{\k12}tel{\k16}lec{\k32}tual {\k19}pro{\k15}per{\k28}ty, {\k11}what{\k15}ever {\k34}that {\k51}means.
 Dialogue: Marked=0,0:15:35.33,0:15:46.13,Aladdin,,0,0,0,,{\k37}And {\k27}if {\k29}you{\k24}look {\k28}clo{\k48}ser {\k22}{\k21}this {\k54}poor {\k27}lit{\k32}tle {\k38}or{\k26}phan {\k36}will {\k116}steal {\k120}your {\k395}heart!
