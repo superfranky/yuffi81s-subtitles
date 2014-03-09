@@ -8,11 +8,15 @@ ScaledBorderAndShadow: yes
 Collisions: Normal
 PlayResX: 640
 PlayResY: 300
-Scroll Position: 3
-Active Line: 46
-Video Zoom Percent: 1
+Scroll Position: 6
+Active Line: 27
+Video Zoom Percent: 0.5
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
+Audio URI: ..\..\video\hd\Twisted Act 1 Part 1-e5mkyhYMaQ8.mp4
+Video File: ..\..\video\hd\Twisted Act 1 Part 1-e5mkyhYMaQ8.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 2802
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -66,7 +70,7 @@ Dialogue: Marked=0,0:01:46.40,0:01:52.13,Jaffar,,0,0,0,,{\k49}And {\k51}all {\k1
 Dialogue: Marked=0,0:01:52.46,0:01:53.03,Town People,,0,0,0,,{\k26}Fuck {\k29}you!\N {\k2}[reference to: Walt Disney's Beauty and the Beast(bonjour)]
 Dialogue: Marked=0,0:01:53.26,0:01:54.00,Town People,,0,0,0,,{\k32}Fuck {\k42}you!
 Dialogue: Marked=0,0:01:54.16,0:01:55.60,Town People,,0,0,0,,{\k25}Fuck {\k25}you! {\k25}Fuck {\k25}you! {\k18}Fuck {\k27}you!
-Dialogue: Marked=0,0:01:56.16,0:01:57.00,Town People,,0,0,0,,{\k25}Fuck {\k20}you, {\k13}Ja{\k26}ffar.
+Dialogue: Marked=0,0:01:56.16,0:01:57.00,Town People,,0,0,0,,Fuck you, Jaffar.
 Dialogue: Marked=0,0:01:57.00,0:01:58.40,Jaffar,,0,0,0,,Oh, good morning, baker.
 Dialogue: Marked=0,0:01:58.40,0:02:01.00,Town People,,0,0,0,,Where are you off to today, you no-good piece of shit?
 Dialogue: Marked=0,0:02:01.00,0:02:03.63,Bird,,0,0,0,,Raw! Piece of shit!
@@ -273,7 +277,7 @@ Dialogue: Marked=0,0:13:24.83,0:13:29.06,Town People,,0,0,0,,No! No, please! I .
 Dialogue: Marked=0,0:13:29.06,0:13:33.20,Aladdin,,0,0,0,,You're the best! I'm gonna tell all my thief friends about you.
 Dialogue: Marked=0,0:13:33.43,0:13:34.46,Aladdin,,0,0,0,,But you owe me one!
 Dialogue: Marked=0,0:13:35.53,0:13:37.80,Aladdin,,0,0,0,,{\k30}Did {\k27}you {\k49}know {\k14}this {\k14}bar{\k15}ba{\k23}ric {\k22}coun{\k33}try
-Dialogue: Marked=0,0:13:38.03,0:13:39.90,Aladdin,,0,0,0,,{\k19}They{\k12}on{\k8}ly {\k15}give {\k13}you {\k18}mo{\k11}ney {\k20}if {\k17}you {\k54}work?
+Dialogue: Marked=0,0:13:38.03,0:13:39.90,Aladdin,,0,0,0,,{\k19}They {\k12}on{\k8}ly {\k15}give {\k13}you {\k18}mo{\k11}ney {\k20}if {\k17}you {\k54}work?
 Dialogue: Marked=0,0:13:40.46,0:13:47.63,Aladdin,,0,0,0,,{\k48}Thanks, {\k23}but {\k33}no {\k33}thanks {\k19}- {\k17}the {\k58}man.\N{\k38}I'll {\k20}keep {\k31}steal{\k23}ing {\k37}all {\k23}I {\k35}can\N{\k11}in{\k46}stead {\k18}of {\k36}being {\k12}a {\k31}fa{\k30}scist {\k28}yu{\k11}ppi {\k56}jerk!
 Dialogue: Marked=0,0:13:49.33,0:13:54.03,Default,,0,0,0,,{\k69}Hip{\k30}pie! {\k38}{\k47}Fu{\k58}cker! {\k48}Sla{\k71}cker! {\k53}Su{\k56}cker!
 Dialogue: Marked=0,0:13:54.03,0:14:02.30,Aladdin,,0,0,0,,{\k61}Who {\k51}would {\k69}seek {\k33}em{\k44}ploy{\k88}ments,\N{\k28}{\k42}when {\k44}life {\k53}of{\k59}fers {\k53}her {\k33}en{\k44}joy{\k125}ments?
