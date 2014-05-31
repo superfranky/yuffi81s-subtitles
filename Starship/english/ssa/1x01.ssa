@@ -1,0 +1,191 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 0.5
+Scroll Position: 149
+Active Line: 166
+Video File: ..\..\..\..\..\..\Kerstin\d\Starship\Starship\Starship Act 1 Part 1.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 13488
+Audio URI: ..\..\..\..\..\..\Kerstin\d\Starship\Starship\Starship Act 1 Part 1.mp4
+Export Encoding: Unicode (UTF-8)
+YCbCr Matrix: TV.601
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Arial,20,16777215,255,0,0,0,0,1,2,2,2,10,10,10,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:29.68,0:00:31.39,Default,,0,0,0,,The future is now!
+Dialogue: Marked=0,0:00:33.15,0:00:35.23,Default,,0,0,0,,Mankind has reached the stars!
+Dialogue: Marked=0,0:00:35.48,0:00:37.95,Default,,0,0,0,,And leading us into this new frontier is...
+Dialogue: Marked=0,0:00:38.28,0:00:39.07,Default,,0,0,0,,you!
+Dialogue: Marked=0,0:00:39.37,0:00:43.21,Default,,0,0,0,,Join the Galactic League of Extraterrestrial Exploration today,
+Dialogue: Marked=0,0:00:43.21,0:00:45.21,Default,,0,0,0,,and be a starship ranger!
+Dialogue: Marked=0,0:00:45.47,0:00:47.23,Default,,0,0,0,,Just like these ensigns here!
+Dialogue: Marked=0,0:00:47.32,0:00:48.56,Default,,0,0,0,,Hello, boys!
+Dialogue: Marked=0,0:00:48.91,0:00:51.15,Default,,0,0,0,,We're here to get the job done!
+Dialogue: Marked=0,0:00:51.37,0:00:52.46,Default,,0,0,0,,They sure are!
+Dialogue: Marked=0,0:00:53.40,0:00:54.84,Default,,0,0,0,,See new worlds!
+Dialogue: Marked=0,0:00:54.84,0:00:56.44,Default,,0,0,0,,We come to conquer...
+Dialogue: Marked=0,0:00:57.26,0:00:58.44,Default,,0,0,0,,...in peace!
+Dialogue: Marked=0,0:00:58.88,0:01:01.60,Default,,0,0,0,,Meet strange and fascinating new creatures!
+Dialogue: Marked=0,0:01:01.64,0:01:03.79,Default,,0,0,0,,Well, I wouldn't say... strange!
+Dialogue: Marked=0,0:01:03.95,0:01:06.70,Default,,0,0,0,,Escape the horrible robot wars of earth!
+Dialogue: Marked=0,0:01:06.78,0:01:08.86,Default,,0,0,0,,Annihilate human enslavers!
+Dialogue: Marked=0,0:01:09.21,0:01:10.91,Default,,0,0,0,,Boldly go, where no man...
+Dialogue: Marked=0,0:01:11.23,0:01:11.82,Default,,0,0,0,,Hey!
+Dialogue: Marked=0,0:01:12.03,0:01:12.64,Default,,0,0,0,,...woman...
+Dialogue: Marked=0,0:01:12.67,0:01:13.48,Default,,0,0,0,,Bark woof!
+Dialogue: Marked=0,0:01:13.87,0:01:14.64,Default,,0,0,0,,Haha!
+Dialogue: Marked=0,0:01:14.88,0:01:16.96,Default,,0,0,0,,...or data dog has gone before!
+Dialogue: Marked=0,0:01:17.32,0:01:18.96,Default,,0,0,0,,Sorry, K90X.
+Dialogue: Marked=0,0:01:20.78,0:01:22.36,Default,,0,0,0,,The starship rangers!
+Dialogue: Marked=0,0:01:22.56,0:01:24.60,Default,,0,0,0,,Leading human kind into the future!
+Dialogue: Marked=0,0:01:24.78,0:01:27.00,Default,,0,0,0,,For the past 900 years!
+Dialogue: Marked=0,0:01:27.00,0:01:27.76,Default,,0,0,0,,We're here!
+Dialogue: Marked=0,0:01:27.76,0:01:28.27,Default,,0,0,0,,We're here!
+Dialogue: Marked=0,0:01:28.70,0:01:29.48,Default,,0,0,0,,I'm here!
+Dialogue: Marked=0,0:01:29.48,0:01:30.40,Default,,0,0,0,,I'm here!
+Dialogue: Marked=0,0:01:30.22,0:01:31.07,Default,,0,0,0,,I'm here!
+Dialogue: Marked=0,0:01:30.96,0:01:31.61,Default,,0,0,0,,I'm here!
+Dialogue: Marked=0,0:01:31.71,0:01:32.72,Default,,0,0,0,,We're here!
+Dialogue: Marked=0,0:01:32.99,0:01:34.92,Default,,0,0,0,,We're here to get the job...
+Dialogue: Marked=0,0:01:36.19,0:01:37.10,Default,,0,0,0,,...get the job...
+Dialogue: Marked=0,0:01:37.37,0:01:38.40,Default,,0,0,0,,...get the job...
+Dialogue: Marked=0,0:01:39.58,0:01:40.48,Default,,0,0,0,,[alarm signal]
+Dialogue: Marked=0,0:01:40.48,0:01:41.24,Default,,0,0,0,,Captain's log!
+Dialogue: Marked=0,0:01:41.24,0:01:41.84,Default,,0,0,0,,Captain's log!
+Dialogue: Marked=0,0:01:41.84,0:01:43.08,Default,,0,0,0,,Cap-cap-captain's log!
+Dialogue: Marked=0,0:01:43.92,0:01:45.98,Default,,0,0,0,,During our approach to an uncharted alien planet...
+Dialogue: Marked=0,0:01:46.28,0:01:47.98,Default,,0,0,0,,...unanticipated meteor shower.
+Dialogue: Marked=0,0:01:48.49,0:01:50.65,Default,,0,0,0,,...gamma radiation space storm!
+Dialogue: Marked=0,0:01:51.07,0:01:52.00,Default,,0,0,0,,...our outer hub...
+Dialogue: Marked=0,0:01:52.00,0:01:52.92,Default,,0,0,0,,...exploded!
+Dialogue: Marked=0,0:01:54.03,0:01:54.92,Default,,0,0,0,,Someone really f...
+Dialogue: Marked=0,0:01:55.36,0:01:56.44,Default,,0,0,0,,...ucked up big time!
+Dialogue: Marked=0,0:01:56.81,0:01:57.72,Default,,0,0,0,,We're going down!!!
+Dialogue: Marked=0,0:01:57.72,0:01:58.38,Default,,0,0,0,,[Crashing]
+Dialogue: Marked=0,0:01:59.52,0:02:01.52,Default,,0,0,0,,...starship crashed into this alien planet.
+Dialogue: Marked=0,0:02:01.88,0:02:03.52,Default,,0,0,0,,...but we ran into something else out there.
+Dialogue: Marked=0,0:02:03.52,0:02:04.30,Default,,0,0,0,,...hostile natives.
+Dialogue: Marked=0,0:02:04.84,0:02:05.64,Default,,0,0,0,,They're monsters!
+Dialogue: Marked=0,0:02:06.06,0:02:06.40,Default,,0,0,0,,Bugs!
+Dialogue: Marked=0,0:02:06.40,0:02:07.21,Default,,0,0,0,,[creepy noises]
+Dialogue: Marked=0,0:02:07.21,0:02:10.88,Default,,0,0,0,,Sliming aliens! Aaaaaaaaaah...
+Dialogue: Marked=0,0:02:11.40,0:02:13.72,Default,,0,0,0,,The future - the future - the future is...
+Dialogue: Marked=0,0:02:13.90,0:02:14.67,Default,,0,0,0,,...aaaaaaaah....
+Dialogue: Marked=0,0:02:14.67,0:02:17.00,Default,,0,0,0,,The fu - fu - future is no - no - now!
+Dialogue: Marked=0,0:02:17.00,0:02:18.70,Default,,0,0,0,,Be a starship ranger!
+Dialogue: Marked=0,0:02:19.53,0:02:21.32,Default,,0,0,0,,The future is now!
+Dialogue: Marked=0,0:02:23.12,0:02:28.60,Default,,0,0,0,,I wanna be \na starship ranger!
+Dialogue: Marked=0,0:02:29.47,0:02:35.48,Default,,0,0,0,,I wanna have \nthe things they've got
+Dialogue: Marked=0,0:02:36.32,0:02:43.88,Default,,0,0,0,,I could be \na starship ranger...
+Dialogue: Marked=0,0:02:44.97,0:02:51.44,Default,,0,0,0,,But there's just one little \nthing they are
+Dialogue: Marked=0,0:02:52.12,0:02:54.17,Default,,0,0,0,,that I'm not
+Dialogue: Marked=0,0:02:55.16,0:02:56.00,Default,,0,0,0,,Yeah!
+Dialogue: Marked=0,0:02:56.00,0:02:57.80,Default,,0,0,0,,[laughs lightly]
+Dialogue: Marked=0,0:02:57.93,0:02:58.88,Default,,0,0,0,,beep, beep, beep, beep, beep!
+Dialogue: Marked=0,0:02:59.20,0:03:00.01,Default,,0,0,0,,Captain's log!
+Dialogue: Marked=0,0:03:00.14,0:03:01.96,Default,,0,0,0,,Hit the meteor showers, K90X!
+Dialogue: Marked=0,0:03:02.03,0:03:05.48,Default,,0,0,0,,I'll fight off this gamma radiation, if it's the last thing I'll ever do!
+Dialogue: Marked=0,0:03:06.24,0:03:07.20,Default,,0,0,0,,We're going down!
+Dialogue: Marked=0,0:03:07.40,0:03:08.94,Default,,0,0,0,,This is the last thing I'll ever do!!!
+Dialogue: Marked=0,0:03:09.20,0:03:12.51,Default,,0,0,0,,I'm here to get the job done because the future is now!
+Dialogue: Marked=0,0:03:12.86,0:03:13.64,Default,,0,0,0,,[laughs again]
+Dialogue: Marked=0,0:03:14.62,0:03:20.38,Default,,0,0,0,,All of my life I've pictured them out there, \nkeeping the peace in outer space
+Dialogue: Marked=0,0:03:20.81,0:03:25.28,Default,,0,0,0,,I may not be up there with them \nbut I've got what it takes
+Dialogue: Marked=0,0:03:26.16,0:03:31.56,Default,,0,0,0,,I've got a hunger and thirst for adventure, \nI wanna travel the galaxy
+Dialogue: Marked=0,0:03:31.84,0:03:37.08,Default,,0,0,0,,The future is now \nso I don't see how \nthe time isn't right for me
+Dialogue: Marked=0,0:03:37.32,0:03:38.20,Default,,0,0,0,,And I'll admit -
+Dialogue: Marked=0,0:03:38.59,0:03:39.07,Default,,0,0,0,,- it's - 
+Dialogue: Marked=0,0:03:39.28,0:03:42.97,Default,,0,0,0,,- all in my head, \nbut who says it can't be real?
+Dialogue: Marked=0,0:03:43.16,0:03:49.44,Default,,0,0,0,,They may be far away, \nbut I can safely say \nthat doesn't change the way I feel
+Dialogue: Marked=0,0:03:49.88,0:03:52.76,Default,,0,0,0,,I wanna be \na starship ranger
+Dialogue: Marked=0,0:03:52.97,0:03:55.87,Default,,0,0,0,,Even if it might sound strange
+Dialogue: Marked=0,0:03:55.93,0:03:58.30,Default,,0,0,0,,Maybe now \nI'm not a ranger
+Dialogue: Marked=0,0:03:58.40,0:04:01.80,Default,,0,0,0,,But all of that \nis right about to change
+Dialogue: Marked=0,0:04:02.40,0:04:03.18,Default,,0,0,0,,Bug!
+Dialogue: Marked=0,0:04:03.82,0:04:04.76,Default,,0,0,0,,Bug!
+Dialogue: Marked=0,0:04:06.28,0:04:08.48,Default,,0,0,0,,Bug? Are you in here?
+Dialogue: Marked=0,0:04:08.48,0:04:11.92,Default,,0,0,0,,No, but I am: A starship ranger!
+Dialogue: Marked=0,0:04:11.92,0:04:13.50,Default,,0,0,0,,Take this, you hostile native!
+Dialogue: Marked=0,0:04:13.64,0:04:16.44,Default,,0,0,0,,Pew, pew, pew! Pew, pew, pew! Pew, pew, pew!... \n[goes on 'pewing']
+Dialogue: Marked=0,0:04:16.44,0:04:17.72,Default,,0,0,0,,Ah, how'd I know you'd be here?
+Dialogue: Marked=0,0:04:17.72,0:04:20.09,Default,,0,0,0,,Pew,pew... Can you pretend to die?!?
+Dialogue: Marked=0,0:04:20.65,0:04:21.48,Default,,0,0,0,,Okay.
+Dialogue: Marked=0,0:04:21.48,0:04:24.20,Default,,0,0,0,,[pretends to die]
+Dialogue: Marked=0,0:04:24.30,0:04:26.38,Default,,0,0,0,,Yeah!!! Pretend direct hit!
+Dialogue: Marked=0,0:04:26.38,0:04:27.39,Default,,0,0,0,,Mission complete!
+Dialogue: Marked=0,0:04:27.39,0:04:29.15,Default,,0,0,0,,My best friend Roach - is dead!
+Dialogue: Marked=0,0:04:29.50,0:04:31.69,Default,,0,0,0,,Okay, Bug, can we get out of here?
+Dialogue: Marked=0,0:04:31.90,0:04:35.31,Default,,0,0,0,,You know, this old alien wrack gives me the willies.
+Dialogue: Marked=0,0:04:35.31,0:04:37.31,Default,,0,0,0,,And no one even knows where it came from!
+Dialogue: Marked=0,0:04:37.39,0:04:39.07,Default,,0,0,0,,I do! It came from earth!
+Dialogue: Marked=0,0:04:39.15,0:04:40.75,Default,,0,0,0,,Yeah, whatever.
+Dialogue: Marked=0,0:04:40.97,0:04:43.93,Default,,0,0,0,,It's not from our planet, so I - don't - like it!
+Dialogue: Marked=0,0:04:44.17,0:04:45.93,Default,,0,0,0,,Oh, come on, Roach!
+Dialogue: Marked=0,0:04:46.20,0:04:49.28,Default,,0,0,0,,Hey! I got a great idea: Let's watch some videos!
+Dialogue: Marked=0,0:04:49.45,0:04:50.62,Default,,0,0,0,,I'll pull them up on the view screen!
+Dialogue: Marked=0,0:04:50.70,0:04:52.94,Default,,0,0,0,,No, no, no, no, no, those things scare me, and...
+Dialogue: Marked=0,0:04:53.79,0:04:55.47,Default,,0,0,0,,...I can't understand a thing they say.
+Dialogue: Marked=0,0:04:55.53,0:04:59.24,Default,,0,0,0,,Well, that's because the humans are speaking human language!
+Dialogue: Marked=0,0:04:59.44,0:05:02.20,Default,,0,0,0,,But it's okay. I can translate.
+Dialogue: Marked=0,0:05:02.51,0:05:05.61,Default,,0,0,0,,I've watched these videos a million times.
+Dialogue: Marked=0,0:05:06.08,0:05:08.33,Default,,0,0,0,,Oh, Bug, can we please just go back to the hive?
+Dialogue: Marked=0,0:05:08.64,0:05:11.66,Default,,0,0,0,,We aren't even supposed to leave the hive, unless we're doing our job!
+Dialogue: Marked=0,0:05:11.82,0:05:14.28,Default,,0,0,0,,But I don't have a job!
+Dialogue: Marked=0,0:05:14.89,0:05:16.83,Default,,0,0,0,,Yeah, but you're getting one today!
+Dialogue: Marked=0,0:05:17.24,0:05:23.15,Default,,0,0,0,,You, me and a million other bugs, we are going before the over queen!
+Dialogue: Marked=0,0:05:23.15,0:05:23.96,Default,,0,0,0,,Oh yeah...
+Dialogue: Marked=0,0:05:23.96,0:05:25.96,Default,,0,0,0,,Roach, I don't know.
+Dialogue: Marked=0,0:05:26.28,0:05:29.48,Default,,0,0,0,,I don't want to go into the over queen's slime pit and have her just - 
+Dialogue: Marked=0,0:05:29.71,0:05:32.04,Default,,0,0,0,,- tell me what I'm supposed to do for the rest of my life!
+Dialogue: Marked=0,0:05:32.38,0:05:34.11,Default,,0,0,0,,Well, maybe I'm crazy, but - 
+Dialogue: Marked=0,0:05:34.56,0:05:37.05,Default,,0,0,0,,- I feel like I'm meant for something...
+Dialogue: Marked=0,0:05:37.69,0:05:38.43,Default,,0,0,0,,...more!
+Dialogue: Marked=0,0:05:40.51,0:05:42.22,Default,,0,0,0,,Of course you're crazy!
+Dialogue: Marked=0,0:05:42.41,0:05:46.17,Default,,0,0,0,,Every bug in the hive goes before the over queen to get there job, that's how it works!
+Dialogue: Marked=0,0:05:46.59,0:05:49.08,Default,,0,0,0,,Everybody does their part for the greater good!
+Dialogue: Marked=0,0:05:49.16,0:05:53.28,Default,,0,0,0,,You know: The needs of the many bugs outweigh the needs of the few bugs.
+Dialogue: Marked=0,0:05:53.02,0:05:55.00,Default,,0,0,0,,Or the one Bug, yeah, I konw, but...
+Dialogue: Marked=0,0:05:54.64,0:05:57.87,Default,,0,0,0,,And besides... I hear it's not that bad.
+Dialogue: Marked=0,0:05:58.22,0:06:01.48,Default,,0,0,0,,Ah - Well, you know, at least that's what my ten million older brothers always said...
+Dialogue: Marked=0,0:06:01.48,0:06:03.72,Default,,0,0,0,,But Roach - It's not what I want!
+Dialogue: Marked=0,0:06:04.67,0:06:05.47,Default,,0,0,0,,Oh, yeah...
+Dialogue: Marked=0,0:06:07.84,0:06:13.56,Default,,0,0,0,,All of your life you've had your head stuck\n up in the gaseous atmosphere 
+Dialogue: Marked=0,0:06:13.85,0:06:18.91,Default,,0,0,0,,Don't forget, that dirt is solid\n and clouds can disappear
+Dialogue: Marked=0,0:06:19.36,0:06:25.02,Default,,0,0,0,,When you're an insect you have a purpose\n like it or not, from a fly to a flea
+Dialogue: Marked=0,0:06:25.10,0:06:30.17,Default,,0,0,0,,Need I remind you? Leave that stuff behind\n so you can find what yours can be
+Dialogue: Marked=0,0:06:30.48,0:06:31.42,Default,,0,0,0,,Cause the needs -
+Dialogue: Marked=0,0:06:31.69,0:06:32.06,Default,,0,0,0,,- of -
+Dialogue: Marked=0,0:06:32.19,0:06:33.88,Default,,0,0,0,,- the many bugs
+Dialogue: Marked=0,0:06:34.00,0:06:35.92,Default,,0,0,0,,-they outweigh the few\n-they outweigh the few
+Dialogue: Marked=0,0:06:36.28,0:06:42.40,Default,,0,0,0,,And everybody knows\n it's just the way it goes\n and there's nothing you can do
+Dialogue: Marked=0,0:06:42.83,0:06:45.64,Default,,0,0,0,,You wanna be\n a starship ranger?
+Dialogue: Marked=0,0:06:45.37,0:06:45.84,Default,,0,0,0,,Yeah!
+Dialogue: Marked=0,0:06:45.84,0:06:48.76,Default,,0,0,0,,Discover worlds\n far and near?
+Dialogue: Marked=0,0:06:48.76,0:06:51.48,Default,,0,0,0,,Who gives a crap about starship rangers?
+Dialogue: Marked=0,0:06:51.52,0:06:54.70,Default,,0,0,0,,The greatest life to live\n is found right here
+Dialogue: Marked=0,0:06:54.88,0:06:57.55,Default,,0,0,0,,Come on! Last one there is a delicious rotten egg!
+Dialogue: Marked=0,0:07:01.34,0:07:02.12,Default,,0,0,0,,Dirt eater!
+Dialogue: Marked=0,0:07:02.12,0:07:03.85,Default,,0,0,0,,Exoskeleton polisher!
+Dialogue: Marked=0,0:07:03.04,0:07:04.84,Default,,0,0,0,,I wanna build honeycombs!
+Dialogue: Marked=0,0:07:03.82,0:07:05.92,Default,,0,0,0,,The bug that ruins your picnic!
+Dialogue: Marked=0,0:07:05.21,0:07:06.62,Default,,0,0,0,,The fly on the wall!
+Dialogue: Marked=0,0:07:07.12,0:07:12.16,Default,,0,0,0,,We've all got a job to do\n and it's how we all survive
+Dialogue: Marked=0,0:07:12.40,0:07:16.35,Default,,0,0,0,,by giving our life to the hive!
+Dialogue: Marked=0,0:07:16.51,0:07:17.53,Default,,0,0,0,,Cause the needs -
+Dialogue: Marked=0,0:07:17.53,0:07:18.12,Default,,0,0,0,,- of -
+Dialogue: Marked=0,0:07:18.12,0:07:19.74,Default,,0,0,0,,-the many bugs-
+Dialogue: Marked=0,0:07:20.12,0:07:21.87,Default,,0,0,0,,- they outweigh the few!
+Dialogue: Marked=0,0:07:22.19,0:07:23.69,Default,,0,0,0,,I know: today's the day -
+Dialogue: Marked=0,0:07:23.79,0:07:28.75,Default,,0,0,0,,Today's the day when we'll find what we're meant to do!
+Dialogue: Marked=0,0:07:28.75,0:07:30.06,Default,,0,0,0,,[buzzing]
+Dialogue: Marked=0,0:07:30.06,0:07:32.06,Default,,0,0,0,,
