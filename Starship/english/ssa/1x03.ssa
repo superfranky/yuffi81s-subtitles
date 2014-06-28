@@ -1,0 +1,118 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: ..\Starship\Starship Act 1 Part 3.mp4
+Scroll Position: 87
+Active Line: 94
+Video Zoom Percent: 0.25
+Video File: ..\Starship\Starship Act 1 Part 3.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 12382
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:51.87,0:00:52.38,Default,,0,0,0,,[Beep beep]
+Dialogue: 0,0:00:52.94,0:00:53.85,Default,,0,0,0,,Mission log:
+Dialogue: 0,0:00:54.14,0:01:01.40,Default,,0,0,0,,Officer February of the Galactic League Starship Ranger Corps, starship 15A2.
+Dialogue: 0,0:01:01.85,0:01:12.92,Default,,0,0,0,,After - x - number of years in space we have reached the uncharted alien world and are now prepping for human colonization.
+Dialogue: 0,0:01:13.74,0:01:20.88,Default,,0,0,0,,Upon arriving in an exploration pod it appears as though the planet's surface is - stable.
+Dialogue: 0,0:01:21.56,0:01:26.22,Default,,0,0,0,,And there seem to be no signs of intelligent lifeforms - anywhere.
+Dialogue: 0,0:01:27.47,0:01:30.84,Default,,0,0,0,,I will now analyze the air to see if it's breathable.
+Dialogue: 0,0:01:35.44,0:01:36.62,Default,,0,0,0,,Hmmm, ah...
+Dialogue: 0,0:01:36.92,0:01:40.25,Default,,0,0,0,,Contains copious amounts of - oxygen...
+Dialogue: 0,0:01:40.91,0:01:41.31,Default,,0,0,0,,But...
+Dialogue: 0,0:01:42.00,0:01:43.88,Default,,0,0,0,,I think, I should be okay.
+Dialogue: 0,0:01:45.04,0:01:46.97,Default,,0,0,0,,I will now remove my helmet.
+Dialogue: 0,0:01:54.32,0:01:57.77,Default,,0,0,0,,Let record show that I'm super ahead of schedule!
+Dialogue: 0,0:01:58.88,0:02:06.72,Default,,0,0,0,,As the ship's head schienceofficer I will now scout the surrounding areas, looking for any and all signs...\N[foreign sounds of animals]
+Dialogue: 0,0:02:08.25,0:02:08.96,Default,,0,0,0,,Mission log:
+Dialogue: 0,0:02:09.79,0:02:12.40,Default,,0,0,0,,I think I just heard a spooky noise.
+Dialogue: 0,0:02:13.31,0:02:18.60,Default,,0,0,0,,And against my basic instincts and everything that I learned at the academy training camp,
+Dialogue: 0,0:02:18.84,0:02:22.57,Default,,0,0,0,,I will now approach the noise for further investigation.
+Dialogue: 0,0:02:23.34,0:02:24.84,Default,,0,0,0,,All right, noise:
+Dialogue: 0,0:02:25.08,0:02:31.60,Default,,0,0,0,,On behalf of the 'Galactic League of Extraterrestrial Exploration' I demand you to show yourself!
+Dialogue: 0,0:02:31.76,0:02:32.70,Default,,0,0,0,,Pikapi!\N[Reference to: Pokemon]
+Dialogue: 0,0:02:33.18,0:02:35.55,Default,,0,0,0,,Aaaaaaah!!!
+Dialogue: 0,0:02:35.96,0:02:40.30,Default,,0,0,0,,You are the cutest thing I've ever seen!!!
+Dialogue: 0,0:02:40.75,0:02:43.53,Default,,0,0,0,,Mission log: Total plot twist!
+Dialogue: 0,0:02:43.85,0:02:50.22,Default,,0,0,0,,That creepy noise I thought I heard turned out to bee the  cutest effing noise I've ever seen.
+Dialogue: 0,0:02:51.45,0:02:55.32,Default,,0,0,0,,Mission log: Get out! There are more of 'em!
+Dialogue: 0,0:02:55.80,0:02:57.18,Default,,0,0,0,,My stars!
+Dialogue: 0,0:02:57.32,0:03:01.66,Default,,0,0,0,,I seem to have landed in a field of these aminals...!
+Dialogue: 0,0:03:02.52,0:03:04.97,Default,,0,0,0,,Hi! And what's your name?
+Dialogue: 0,0:03:04.97,0:03:05.84,Default,,0,0,0,,Ararara!
+Dialogue: 0,0:03:05.84,0:03:07.50,Default,,0,0,0,,Oh, I'm February!
+Dialogue: 0,0:03:09.04,0:03:14.52,Default,,0,0,0,,Mission log: I've successfully made contact with the planet's indigenous lifeforms.
+Dialogue: 0,0:03:14.62,0:03:17.07,Default,,0,0,0,,And they are ultra friendly!
+Dialogue: 0,0:03:18.11,0:03:23.80,Default,,0,0,0,,In my professional opinion this planet is ready for human colonization by - 
+Dialogue: 0,0:03:24.11,0:03:25.58,Default,,0,0,0,,- this afternoon!
+Dialogue: 0,0:03:26.33,0:03:28.46,Default,,0,0,0,,That is if that's all right with all you.
+Dialogue: 0,0:03:28.67,0:03:29.63,Default,,0,0,0,,[cute sounds from the animals]
+Dialogue: 0,0:03:29.82,0:03:31.96,Default,,0,0,0,,Oh, I'm so glad to hear it!
+Dialogue: 0,0:03:32.80,0:03:33.71,Default,,0,0,0,,You see...
+Dialogue: 0,0:03:34.12,0:03:36.56,Default,,0,0,0,,today is a really big day for me.
+Dialogue: 0,0:03:37.15,0:03:38.99,Default,,0,0,0,,Can I tell you guys something?
+Dialogue: 0,0:03:40.56,0:03:41.42,Default,,0,0,0,,See,
+Dialogue: 0,0:03:41.42,0:03:45.21,Default,,0,0,0,,you might not belief this, but this is my first mission.
+Dialogue: 0,0:03:46.51,0:03:52.94,Default,,0,0,0,,Yeah, it's my chance to prove to everyone back home, that - I am smart enough to get the job done.
+Dialogue: 0,0:03:52.94,0:03:53.92,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:03:54.30,0:03:58.99,Default,,0,0,0,,And you know, back at the academy i finished last in my class.
+Dialogue: 0,0:04:00.41,0:04:07.36,Default,,0,0,0,,But it wasn't my fault, I mean: How did they expect me to pass all those tests if I didn't know any of the answers?
+Dialogue: 0,0:04:08.86,0:04:13.87,Default,,0,0,0,,But being here with all of you guys, it just really makes me feel like I'm doing something great.
+Dialogue: 0,0:04:16.25,0:04:17.37,Default,,0,0,0,,Oh, hello.
+Dialogue: 0,0:04:17.37,0:04:18.54,Default,,0,0,0,,Totoro!\N[Reference to: My neighbor Totoro] 
+Dialogue: 0,0:04:18.12,0:04:19.98,Default,,0,0,0,,A...a...are you all right?
+Dialogue: 0,0:04:20.11,0:04:21.34,Default,,0,0,0,,Aaaaah!
+Dialogue: 0,0:04:23.76,0:04:27.95,Default,,0,0,0,,HOLY SHIT! ITS A BUG!!!!!
+Dialogue: 0,0:04:27.95,0:04:32.81,Default,,0,0,0,,[Screams and laughter]
+Dialogue: 0,0:04:33.50,0:04:35.74,Default,,0,0,0,,Hey! Was that thing what I thought that thing was?
+Dialogue: 0,0:04:35.74,0:04:36.46,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:04:36.76,0:04:39.69,Default,,0,0,0,,But we better get it back to the boss. Come on!
+Dialogue: 0,0:04:43.45,0:04:44.60,Default,,0,0,0,,So,
+Dialogue: 0,0:04:44.60,0:04:47.00,Default,,0,0,0,,first day being a wrangler-bug, huh?
+Dialogue: 0,0:04:47.20,0:04:50.70,Default,,0,0,0,,Yeah. I just got assigned this morning. [sighs]
+Dialogue: 0,0:04:50.70,0:04:53.15,Default,,0,0,0,,Hey, why the long slime-hole?
+Dialogue: 0,0:04:53.39,0:04:57.80,Default,,0,0,0,,Well, I just really had my dorsal tube set on being - nourishment.
+Dialogue: 0,0:04:58.01,0:04:59.07,Default,,0,0,0,,Oh, I see...
+Dialogue: 0,0:04:59.07,0:05:05.92,Default,,0,0,0,,Hey, well did you know that every egg in our swarm starts out by parasitically gestating in one of these mammals?
+Dialogue: 0,0:05:06.04,0:05:08.57,Default,,0,0,0,,And who do you think wrangles those mammals?
+Dialogue: 0,0:05:10.38,0:05:11.52,Default,,0,0,0,,Mammal-wranglers?
+Dialogue: 0,0:05:11.68,0:05:12.06,Default,,0,0,0,,Ha!
+Dialogue: 0,0:05:12.52,0:05:15.20,Default,,0,0,0,,That's right! The whole process starts with us!
+Dialogue: 0,0:05:15.45,0:05:18.48,Default,,0,0,0,,So, you still think being a wrangler is lame?
+Dialogue: 0,0:05:18.48,0:05:21.15,Default,,0,0,0,,No! Now I think it's kind of neat!
+Dialogue: 0,0:05:21.15,0:05:23.87,Default,,0,0,0,,Yep, it sure is. Now come on, let's go!
+Dialogue: 0,0:05:23.87,0:05:25.02,Default,,0,0,0,,Oh boy!
+Dialogue: 0,0:05:26.81,0:05:36.51,Default,,0,0,0,,Starship 15A2! Come in, starship 15A2! I need evac, there are hostile icky bugs down here!
+Dialogue: 0,0:05:38.09,0:05:39.47,Default,,0,0,0,,Ah! Where did it go?
+Dialogue: 0,0:05:40.64,0:05:42.30,Default,,0,0,0,,Yeah! Where is it go?
+Dialogue: 0,0:05:42.59,0:05:44.78,Default,,0,0,0,,Me thinks it went that away.
+Dialogue: 0,0:05:44.97,0:05:46.32,Default,,0,0,0,,I'm with you!
+Dialogue: 0,0:05:57.47,0:05:58.97,Default,,0,0,0,,All right, are you ready?
+Dialogue: 0,0:05:58.97,0:06:02.83,Default,,0,0,0,,Now the first thing you're gonna wanna do is lay down a base code of slime. 
+Dialogue: 0,0:06:03.34,0:06:04.83,Default,,0,0,0,,Go for it...
+Dialogue: 0,0:06:11.39,0:06:15.02,Default,,0,0,0,,FML!!!\N[Short for: Fuck my life]
+Dialogue: 0,0:06:15.18,0:06:18.84,Default,,0,0,0,,Hey mister, what are them weird noises coming out of it's mouth-parts?
+Dialogue: 0,0:06:18.84,0:06:21.55,Default,,0,0,0,,Hey, we don't talk to them, we just wrangle them.
+Dialogue: 0,0:06:21.55,0:06:22.86,Default,,0,0,0,,Now here's a tip:
+Dialogue: 0,0:06:22.86,0:06:28.22,Default,,0,0,0,,Go ahead and secret a nice think layer of mucus onto the mammal's eyes to temporarily blind it.
+Dialogue: 0,0:06:28.44,0:06:30.84,Default,,0,0,0,,We find this relaxes the mammals.
+Dialogue: 0,0:06:31.61,0:06:35.45,Default,,0,0,0,,Help! Help me!
+Dialogue: 0,0:06:34.94,0:06:36.76,Default,,0,0,0,,Wow, you're doing great!
+Dialogue: 0,0:06:36.83,0:06:40.35,Default,,0,0,0,,Are you sure this is your first wrangle?
+Dialogue: 0,0:06:40.35,0:06:42.06,Default,,0,0,0,,You're just saying that...!
+Dialogue: 0,0:06:43.02,0:06:44.92,Default,,0,0,0,,Hey! I don't just say stuff!
+Dialogue: 0,0:06:45.23,0:06:47.74,Default,,0,0,0,,Now come on, let's get her back to the hive.
+Dialogue: 0,0:06:47.74,0:06:49.53,Default,,0,0,0,,Starship rangers!
+Dialogue: 0,0:06:49.82,0:06:53.15,Default,,0,0,0,,I need the starship rangers!
+Dialogue: 0,0:06:53.15,0:06:55.15,Default,,0,0,0,,
