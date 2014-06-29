@@ -7,16 +7,12 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Export Encoding: Unicode (UTF-8)
-Video Zoom Percent: 0.75
-Scroll Position: 66
-Active Line: 82
+Video Zoom Percent: 1
+Scroll Position: 48
+Active Line: 53
 PlayResX: 640
 PlayResY: 360
 Last Style Storage: Default
-Audio URI: ..\..\video\hd\Twisted Act 1 Part 2-rUQDSfeWYjc.mp4
-Video File: ..\..\video\hd\Twisted Act 1 Part 2-rUQDSfeWYjc.mp4
-Video Aspect Ratio: c1.77778
-Video Position: 9188
 YCbCr Matrix: TV.601
 
 [V4 Styles]
@@ -83,7 +79,7 @@ Dialogue: Marked=0,0:03:13.85,0:03:16.12,Jaffar,,0,0,0,,Oh no, Achmed! Wait!
 Dialogue: Marked=0,0:03:15.05,0:03:16.72,Prince Achmed,,0,0,0,,No!
 Dialogue: Marked=0,0:03:16.72,0:03:20.67,Prince Achmed,,0,0,0,,Nobody makes an ass of prince Achmed!
 Dialogue: Marked=0,0:03:23.05,0:03:28.72,Jaffar,,0,0,0,,Damn that girl! Oh princess. You've got some explaining to do!
-Dialogue: Marked=0,0:03:29.05,0:03:32.42,Jaffar,,0,0,0,,Oh no! No, the Indian swallowtails. They've escaped!
+Dialogue: Marked=0,0:03:29.05,0:03:32.42,Jaffar,,0,0,0,,Oh no! No, the Indian swallow-tailed. They've escaped!
 Dialogue: Marked=0,0:03:32.42,0:03:34.90,Jasmin,,0,0,0,,No! {\i1}I{\i0} set them free.
 Dialogue: Marked=0,0:03:34.90,0:03:37.50,Jaffar,,0,0,0,,But those birds were imported from a foreign land.
 Dialogue: Marked=0,0:03:37.50,0:03:40.92,Jaffar,,0,0,0,,They can't survive here. The hawks will have them within the hour.
