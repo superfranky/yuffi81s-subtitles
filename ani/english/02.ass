@@ -10,34 +10,35 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 27
-Active Line: 41
-Video Position: 16752
+Scroll Position: 147
+Active Line: 158
+Video Position: 28867
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:10:00.90,0:10:02.62,Default,,0,0,0,,You just dropped a bomb on my, Marty?
-Dialogue: 0,0:10:03.44,0:10:06.02,Default,,0,0,0,,Okay, okay, I get it.  ???. You guys saved me. But ah...
+Dialogue: 0,0:10:00.90,0:10:02.62,Default,,0,0,0,,You just dropped a bomb on me, Marty.
+Dialogue: 0,0:10:03.44,0:10:06.02,Default,,0,0,0,,Okay, okay, ???. You guys hate me. But ah...
 Dialogue: 0,0:10:06.72,0:10:08.18,Default,,0,0,0,,You know, I got something for you, Marty.
 Dialogue: 0,0:10:08.18,0:10:10.16,Default,,0,0,0,,Now, that's really unnecessary...
-Dialogue: 0,0:10:10.54,0:10:13.64,Default,,0,0,0,,No, I'm not allowed to accept gifts says part of my...
+Dialogue: 0,0:10:10.54,0:10:13.64,Default,,0,0,0,,No, I'm not allowed to accept gifts. That's part of my...
 Dialogue: 0,0:10:09.46,0:10:10.94,Default,,0,0,0,,Oh no, you're gonna love it, trust me.
 Dialogue: 0,0:10:10.94,0:10:12.88,Default,,0,0,0,,I just have to get it out of my pocket real quick.
 Dialogue: 0,0:10:12.88,0:10:14.88,Default,,0,0,0,,Oh here it is! Argh!
 Dialogue: 0,0:10:15.78,0:10:17.34,Default,,0,0,0,,???
 Dialogue: 0,0:10:17.72,0:10:19.50,Default,,0,0,0,,Well, you guys ??? ?
 Dialogue: 0,0:10:19.50,0:10:22.56,Default,,0,0,0,,No problem. ???
-Dialogue: 0,0:10:28.00,0:10:31.14,Default,,0,0,0,,Alright. ??? a Jerk.
-Dialogue: 0,0:10:31.60,0:10:32.90,Default,,0,0,0,,Jesus christ.
+Dialogue: 0,0:10:28.00,0:10:31.14,Default,,0,0,0,,Alright. Me and a Jerk!
+Dialogue: 0,0:10:31.60,0:10:32.90,Default,,0,0,0,,Jesus Christ.
 Dialogue: 0,0:10:34.98,0:10:36.78,Default,,0,0,0,,What a dick!
 Dialogue: 0,0:10:37.82,0:10:39.60,Default,,0,0,0,,Hey guys...
 Dialogue: 0,0:10:38.42,0:10:39.90,Default,,0,0,0,,Ahh!
@@ -50,11 +51,11 @@ Dialogue: 0,0:10:51.50,0:10:54.98,Default,,0,0,0,,I'm gonna come in tomorrow wit
 Dialogue: 0,0:10:54.98,0:10:56.98,Default,,0,0,0,,And a few new Star-Wars jokes for you.
 Dialogue: 0,0:10:57.70,0:11:01.66,Default,,0,0,0,,But in the meantime... I don't know. Can I get anybody something to drink?
 Dialogue: 0,0:11:02.44,0:11:04.36,Default,,0,0,0,,How about some coffee. I'm serious. You want some coffee?
-Dialogue: 0,0:11:04.44,0:11:05.58,Default,,0,0,0,,??? have a coffee.
+Dialogue: 0,0:11:04.44,0:11:05.58,Default,,0,0,0,,Yeah, I'll have a coffee.
 Dialogue: 0,0:11:05.58,0:11:06.42,Default,,0,0,0,,Great.
 Dialogue: 0,0:11:06.42,0:11:07.68,Default,,0,0,0,,Coffee is alright for me.
 Dialogue: 0,0:11:07.68,0:11:09.12,Default,,0,0,0,,??? in the ice?
-Dialogue: 0,0:11:09.12,0:11:12.52,Default,,0,0,0,,How about some snacks? You know what? I'll just bring chips for the whole ???.
+Dialogue: 0,0:11:09.12,0:11:12.52,Default,,0,0,0,,How about some snacks? You know what? I'll just bring chips for the whole table.
 Dialogue: 0,0:11:12.52,0:11:15.14,Default,,0,0,0,,Actually, could we have pretzels?
 Dialogue: 0,0:11:15.14,0:11:16.20,Default,,0,0,0,,Pretzles, right?
 Dialogue: 0,0:11:16.20,0:11:17.70,Default,,0,0,0,,Uh... yeah.
@@ -67,34 +68,34 @@ Dialogue: 0,0:11:32.06,0:11:33.62,Default,,0,0,0,,Uph!
 Dialogue: 0,0:11:33.96,0:11:36.20,Default,,0,0,0,,Sorry about that. That's my fault.
 Dialogue: 0,0:11:36.42,0:11:37.58,Default,,0,0,0,,Hey, wait a minute.
 Dialogue: 0,0:11:38.66,0:11:39.58,Default,,0,0,0,,Tarkin!
-Dialogue: 0,0:11:40.42,0:11:44.66,Default,,0,0,0,,Moff General Tarkin. There you are old buddy, old pal. How in the heck are you?
+Dialogue: 0,0:11:40.42,0:11:44.66,Default,,0,0,0,,Moff Jeffrey Tarkin. There you are old buddy, old pal. How in the heck are you?
 Dialogue: 0,0:11:44.66,0:11:45.78,Default,,0,0,0,,Yes, hello Lord Vader.
 Dialogue: 0,0:11:45.78,0:11:48.36,Default,,0,0,0,,Please, please. Call me Ani. All my friends do.
 Dialogue: 0,0:11:50.12,0:11:52.36,Default,,0,0,0,,Alright. Ani.
 Dialogue: 0,0:12:02.16,0:12:03.20,Default,,0,0,0,,Ani.
-Dialogue: 0,0:12:03.88,0:12:05.62,Default,,0,0,0,,Would you terrible mind?
+Dialogue: 0,0:12:03.88,0:12:05.62,Default,,0,0,0,,Would you terribly mind?
 Dialogue: 0,0:12:06.30,0:12:09.78,Default,,0,0,0,,Getting out of my way. You see, I'm returning to my meeting over there.
 Dialogue: 0,0:12:09.78,0:12:11.34,Default,,0,0,0,,Oh no, you're not!
 Dialogue: 0,0:12:12.70,0:12:16.58,Default,,0,0,0,,Yes, I am. I cannot be absent for the remainder of the meeting...
 Dialogue: 0,0:12:15.88,0:12:17.54,Default,,0,0,0,,You're coming to me with me to get some coffee.
-Dialogue: 0,0:12:17.54,0:12:20.42,Default,,0,0,0,,Oh no. Terrible sorry, but I really cannot be...
+Dialogue: 0,0:12:17.54,0:12:20.42,Default,,0,0,0,,Oh no. Terribly sorry, but I really cannot be...
 Dialogue: 0,0:12:19.18,0:12:21.88,Default,,0,0,0,,I don't ???. Let's go. Coffee time. Come on!
-Dialogue: 0,0:12:24.38,0:12:25.70,Default,,0,0,0,,Alright, let's do it really quickly.
+Dialogue: 0,0:12:24.38,0:12:25.70,Default,,0,0,0,,Alright, let's do it very quickly.
 Dialogue: 0,0:12:25.70,0:12:26.70,Default,,0,0,0,,Alright.
 Dialogue: 0,0:12:27.22,0:12:28.70,Default,,0,0,0,,Oh, this is great.
 Dialogue: 0,0:12:29.44,0:12:31.64,Default,,0,0,0,,This is really great.
 Dialogue: 0,0:12:32.80,0:12:35.20,Default,,0,0,0,,So Moff. That's a pretty funny name. That's your first name?
 Dialogue: 0,0:12:35.20,0:12:37.20,Default,,0,0,0,,No, actually Moff is a title.
 Dialogue: 0,0:12:37.20,0:12:39.20,Default,,0,0,0,,It's a rank like captain or general.
-Dialogue: 0,0:12:39.58,0:12:41.98,Default,,0,0,0,,Is everyone who screwed up in college a Moff, Tarkin?
-Dialogue: 0,0:12:42.56,0:12:44.20,Default,,0,0,0,,You know, like a Mof?
-Dialogue: 0,0:12:45.34,0:12:46.80,Default,,0,0,0,,You know what a Mof is, Tarkin?
+Dialogue: 0,0:12:39.58,0:12:41.98,Default,,0,0,0,,Has anyone ever screwed up and called you a Moth, Tarkin?
+Dialogue: 0,0:12:42.56,0:12:44.20,Default,,0,0,0,,You know, like a moth?
+Dialogue: 0,0:12:45.34,0:12:46.80,Default,,0,0,0,,You know what a moth is, Tarkin?
 Dialogue: 0,0:12:46.20,0:12:47.02,Default,,0,0,0,,Yes.
 Dialogue: 0,0:12:48.54,0:12:51.30,Default,,0,0,0,,It's not a word for female parts if you catch my meaning.
 Dialogue: 0,0:12:51.12,0:12:52.42,Default,,0,0,0,,Yeah, I do. I do.
-Dialogue: 0,0:12:54.14,0:12:56.86,Default,,0,0,0,,So ??? screwed up and said that, they'll be like: Hey!
-Dialogue: 0,0:12:56.86,0:12:58.56,Default,,0,0,0,,Quit dorking ??? the Mof.
-Dialogue: 0,0:13:02.90,0:13:04.02,Default,,0,0,0,,???
+Dialogue: 0,0:12:54.14,0:12:56.86,Default,,0,0,0,,So has anyone ever screwed up and said that? They'll be like: Hey!
+Dialogue: 0,0:12:56.86,0:12:58.56,Default,,0,0,0,,Quit Tarkin ??? the moth.
+Dialogue: 0,0:13:02.90,0:13:04.02,Default,,0,0,0,,Has anyone ever done that?
 Dialogue: 0,0:13:08.08,0:13:11.08,Default,,0,0,0,,Yes. Well actually you've yelled that at me a number of times.
 Dialogue: 0,0:13:12.22,0:13:13.60,Default,,0,0,0,,You know that was me?
 Dialogue: 0,0:13:13.60,0:13:14.26,Default,,0,0,0,,Yes.
@@ -116,10 +117,10 @@ Dialogue: 0,0:14:05.12,0:14:05.70,Default,,0,0,0,,Who's there?
 Dialogue: 0,0:14:05.70,0:14:07.56,Default,,0,0,0,,Oh, quiet! Here she comes!
 Dialogue: 0,0:14:07.56,0:14:08.56,Default,,0,0,0,,Who?
 Dialogue: 0,0:14:08.56,0:14:09.52,Default,,0,0,0,,Her!
-Dialogue: 0,0:14:11.38,0:14:12.60,Default,,0,0,0,,Amelie.
+Dialogue: 0,0:14:11.38,0:14:12.60,Default,,0,0,0,,Emily.
 Dialogue: 0,0:14:12.84,0:14:13.76,Default,,0,0,0,,Which one is she?
 Dialogue: 0,0:14:13.76,0:14:15.76,Default,,0,0,0,,Good god man, she's the beautiful one.
-Dialogue: 0,0:14:17.28,0:14:20.00,Default,,0,0,0,,Oh I see her. Tarki, you ???. She's a cutie.
+Dialogue: 0,0:14:17.28,0:14:20.00,Default,,0,0,0,,Oh I see her. Tarki, you dog, you. She's a cutie.
 Dialogue: 0,0:14:20.00,0:14:21.42,Default,,0,0,0,,Yes, I know that.
 Dialogue: 0,0:14:21.42,0:14:25.28,Default,,0,0,0,,And she's also smart and funny and full with thinking and...
 Dialogue: 0,0:14:26.30,0:14:28.72,Default,,0,0,0,,Won't give me the time of day.
@@ -136,7 +137,7 @@ Dialogue: 0,0:15:00.26,0:15:01.20,Default,,0,0,0,,Pretty funny, huh?
 Dialogue: 0,0:15:01.20,0:15:04.36,Default,,0,0,0,,No, it's actually gross and immature.
 Dialogue: 0,0:15:03.82,0:15:04.50,Default,,0,0,0,,Yes.
 Dialogue: 0,0:15:04.50,0:15:06.74,Default,,0,0,0,,It not gross or anything. It's just...
-Dialogue: 0,0:15:06.92,0:15:09.62,Default,,0,0,0,,??? seeing this thing from the outside. It's got a nipple.
+Dialogue: 0,0:15:06.92,0:15:09.62,Default,,0,0,0,,Have you ever seem this thing from the outside. It's got a nipple.
 Dialogue: 0,0:15:09.62,0:15:15.12,Default,,0,0,0,,Ugh! That's not a nipple. It's a disruption ray generator. It's for the planet destroying laser shots out.
 Dialogue: 0,0:15:15.12,0:15:17.12,Default,,0,0,0,,Huh. What do you think about that?
 Dialogue: 0,0:15:17.12,0:15:18.48,Default,,0,0,0,,It's like shooting milk.
@@ -159,7 +160,7 @@ Dialogue: 0,0:15:52.14,0:15:54.12,Default,,0,0,0,,We're not best friends!
 Dialogue: 0,0:15:54.12,0:15:57.30,Default,,0,0,0,,You're a big dummy. And I'm mad at you.
 Dialogue: 0,0:15:58.40,0:15:59.94,Default,,0,0,0,,Hey Tarki? Where are you going?
 Dialogue: 0,0:15:59.68,0:16:02.18,Default,,0,0,0,,I'm going back to my meeting, you big dummy!
-Dialogue: 0,0:16:07.88,0:16:11.10,Default,,0,0,0,,Ani... used to be somebody.
+Dialogue: 0,0:16:07.88,0:16:11.10,Default,,0,0,0,,Ani... you used to be somebody.
 Dialogue: 0,0:16:12.40,0:16:13.90,Default,,0,0,0,,And now what are you?
 Dialogue: 0,0:16:14.68,0:16:18.98,Default,,0,0,0,,Just a... big, fat dummy.
 Dialogue: 0,0:16:24.02,0:16:26.04,Default,,0,0,0,,Looking back
@@ -182,7 +183,7 @@ Dialogue: 0,0:17:45.66,0:17:47.16,Default,,0,0,0,,It's the first day I meet my w
 Dialogue: 0,0:17:47.16,0:17:49.80,Default,,0,0,0,,{\i1}Are you an angle?{\i0}
 Dialogue: 0,0:17:50.04,0:17:52.94,Default,,0,0,0,,Are you an angle? That's a pretty good line.
 Dialogue: 0,0:17:53.40,0:17:55.38,Default,,0,0,0,,Oh, look at my hair back then.
-Dialogue: 0,0:17:55.38,0:17:58.02,Default,,0,0,0,,Mummy ??? a bowl on my head and just cut around it.
+Dialogue: 0,0:17:55.38,0:17:58.02,Default,,0,0,0,,Mummy's put a bowl on my head and just cut around it.
 Dialogue: 0,0:17:59.42,0:18:00.92,Default,,0,0,0,,???
 Dialogue: 0,0:18:00.92,0:18:05.68,Default,,0,0,0,,{\i1}Qui-Gon. It's that blood sample you send me. The Midi-chlorian count it off the scale...{\i0}
 Dialogue: 0,0:18:04.46,0:18:07.18,Default,,0,0,0,,The hell is this? Screw you, Obi-Wan!
