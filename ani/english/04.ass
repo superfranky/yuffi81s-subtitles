@@ -16,9 +16,9 @@ Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 213
-Active Line: 219
-Video Position: 58494
+Scroll Position: 198
+Active Line: 159
+Video Position: 58571
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,13 +38,13 @@ Dialogue: 0,0:30:12.16,0:30:13.83,Emilie,,0,0,0,,Oh, ah - Sir!
 Dialogue: 0,0:30:12.62,0:30:13.53,Tarkin,,0,0,0,,Excuse me.
 Dialogue: 0,0:30:13.84,0:30:15.53,Tarkin,,0,0,0,,I didn't see you there.
 Dialogue: 0,0:30:15.91,0:30:16.88,Tarkin,,0,0,0,,Ah...
-Dialogue: 0,0:30:17.56,0:30:18.63,Tarkin,,0,0,0,,Emilie, was it?
+Dialogue: 0,0:30:17.56,0:30:18.63,Tarkin,,0,0,0,,Emily, was it?
 Dialogue: 0,0:30:18.99,0:30:19.63,Emilie,,0,0,0,,Yes, Sir.
 Dialogue: 0,0:30:19.63,0:30:20.79,Tarkin,,0,0,0,,Ah...
 Dialogue: 0,0:30:21.58,0:30:24.71,Tarkin,,0,0,0,,Do you remember, ah - Tarkin?
 Dialogue: 0,0:30:25.94,0:30:26.98,Tarkin,,0,0,0,,Moff Jeffrey Tarkin.
 Dialogue: 0,0:30:27.75,0:30:29.55,Emilie,,0,0,0,,Ah...
-Dialogue: 0,0:30:29.55,0:30:33.17,Emilie,,0,0,0,,Yes, Sir. You're kind of in charge of the entire battlestation, Sir.
+Dialogue: 0,0:30:29.55,0:30:33.17,Emilie,,0,0,0,,Yes, Sir. You're kind of in charge of the entire battle station, Sir.
 Dialogue: 0,0:30:33.17,0:30:35.17,Emilie,,0,0,0,,Everybody has to know who you are.
 Dialogue: 0,0:30:35.50,0:30:36.28,Tarkin,,0,0,0,,Indeed.
 Dialogue: 0,0:30:41.01,0:30:43.43,Emilie,,0,0,0,,Can I do something for you, Sir?
@@ -54,7 +54,7 @@ Dialogue: 0,0:30:47.09,0:30:50.22,Tarkin,,0,0,0,,I wanted to appoligize to you.
 Dialogue: 0,0:30:50.22,0:30:52.22,Tarkin,,0,0,0,,For the other day.
 Dialogue: 0,0:30:52.22,0:30:55.67,Tarkin,,0,0,0,,That whole Death Star...
 Dialogue: 0,0:30:55.67,0:30:57.83,Tarkin,,0,0,0,,Boob thing...
-Dialogue: 0,0:30:57.83,0:31:01.74,Tarkin,,0,0,0,,Which was actually not my idea. It was Lord Vaders idea.
+Dialogue: 0,0:30:57.83,0:31:01.74,Tarkin,,0,0,0,,Which was actually not my idea. It was Lord Vader's idea.
 Dialogue: 0,0:31:01.74,0:31:03.20,Tarkin,,0,0,0,,He's immature. Not me.
 Dialogue: 0,0:31:03.20,0:31:04.37,Emilie,,0,0,0,,I'm sure, Sir.
 Dialogue: 0,0:31:04.37,0:31:05.67,Tarkin,,0,0,0,,Yes.
@@ -128,24 +128,24 @@ Dialogue: 0,0:34:37.09,0:34:40.47,emperor,,0,0,0,,Ani always tells me. You and h
 Dialogue: 0,0:34:40.47,0:34:42.30,emperor,,0,0,0,,He tells me everything.
 Dialogue: 0,0:34:42.30,0:34:43.31,Tarkin,,0,0,0,,Everything?
 Dialogue: 0,0:34:43.31,0:34:46.63,emperor,,0,0,0,,Well, I haven't spoken to him since yesterday morning.
-Dialogue: 0,0:34:46.63,0:34:49.36,emperor,,0,0,0,,I'm kind of avoiding him. ???
+Dialogue: 0,0:34:46.63,0:34:49.36,emperor,,0,0,0,,I'm kind of avoiding him. A little bit.
 Dialogue: 0,0:34:49.05,0:34:50.34,Tarkin,,0,0,0,,Oh, thank heavens.
 Dialogue: 0,0:34:50.34,0:34:52.34,Tarkin,,0,0,0,,I - I mean, why, Sir?
 Dialogue: 0,0:34:52.63,0:34:55.78,emperor,,0,0,0,,I may or may not have taken on a new apprentice.
 Dialogue: 0,0:34:55.78,0:35:00.44,emperor,,0,0,0,,It's nothing serious. I'm not trying to replace Ani. Ah...
 Dialogue: 0,0:35:00.95,0:35:04.86,emperor,,0,0,0,,If things work out with Mara, eventually I'll have her cut his head off.
-Dialogue: 0,0:35:04.86,0:35:07.55,emperor,,0,0,0,,But for now he's got nothing to wory about.
+Dialogue: 0,0:35:04.86,0:35:07.55,emperor,,0,0,0,,But for now he's got nothing to worry about.
 Dialogue: 0,0:35:07.78,0:35:11.62,emperor,,0,0,0,,She's just here to help with some of his responsibilities.
 Dialogue: 0,0:35:11.62,0:35:13.15,emperor,,0,0,0,,Speaking of which...
 Dialogue: 0,0:35:13.15,0:35:16.15,emperor,,0,0,0,,How is Ani doing in the meetings, huh?
-Dialogue: 0,0:35:16.15,0:35:19.46,emperor,,0,0,0,,Is he keeping you knuckle heads around track?
+Dialogue: 0,0:35:16.15,0:35:19.46,emperor,,0,0,0,,Is he keeping you knuckle heads on track?
 Dialogue: 0,0:35:19.21,0:35:24.44,Tarkin,,0,0,0,,Of course. Why, we just love having Ani in the meetings.
 Dialogue: 0,0:35:24.58,0:35:27.92,Tarkin,,0,0,0,,Why just the other day he made a very interesting proposal.
 Dialogue: 0,0:35:27.92,0:35:29.92,emperor,,0,0,0,,Hi, hi, hi, ...
 Dialogue: 0,0:35:32.06,0:35:33.38,Tarkin,,0,0,0,,What's funny, Sir?
 Dialogue: 0,0:35:34.39,0:35:36.31,emperor,,0,0,0,,I've got a confession to make.
 Dialogue: 0,0:35:37.16,0:35:40.28,emperor,,0,0,0,,So I know Ani's been having a rough time recently.
-Dialogue: 0,0:35:40.28,0:35:44.76,emperor,,0,0,0,,He doesn't make friends very easily. Thinks you guys doesn't respect him.
+Dialogue: 0,0:35:40.28,0:35:44.76,emperor,,0,0,0,,He doesn't make friends very easily. Thinks you guys don't respect him.
 Dialogue: 0,0:35:44.76,0:35:46.32,Tarkin,,0,0,0,,Why, that's absurd.
 Dialogue: 0,0:35:46.32,0:35:49.03,emperor,,0,0,0,,Right. So I told him...
 Dialogue: 0,0:35:49.03,0:35:54.28,emperor,,0,0,0,,That I had originally designed the Death Star to look like a big booby.
@@ -190,7 +190,7 @@ Dialogue: 0,0:38:00.64,0:38:02.64,Empire Guy,,0,0,0,,Papi, I would say he's one 
 Dialogue: 0,0:38:02.54,0:38:02.93,Tarkin,,0,0,0,,Yes.
 Dialogue: 0,0:38:02.93,0:38:06.04,emperor,,0,0,0,,Okay, good. Cause I think it's cool.
 Dialogue: 0,0:38:05.74,0:38:06.26,Tarkin,,0,0,0,,Yeah.
-Dialogue: 0,0:38:05.92,0:38:09.62,emperor,,0,0,0,,Alright. Well, go and get him. Tell him that Papi is here!
+Dialogue: 0,0:38:05.92,0:38:09.62,emperor,,0,0,0,,Alright. Well, go and get him. Go and tell him that Papi is here!
 Dialogue: 0,0:38:09.62,0:38:10.42,Tarkin,,0,0,0,,Right away, Sir.
 Dialogue: 0,0:38:10.42,0:38:11.57,Tarkin,,0,0,0,,You there!
 Dialogue: 0,0:38:11.57,0:38:13.99,Tarkin,,0,0,0,,Go and fetch Lord Vader for us, please.
