@@ -10,13 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: D:/yuffi81/yuffi81s-subtitles_sorcetree/ani/video/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: D:/yuffi81/yuffi81s-subtitles_sorcetree/ani/video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Active Line: 1
-Video Position: 86335
+Video Zoom Percent: 0.250000
+Scroll Position: 189
+Active Line: 197
+Video Position: 73062
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,5 +25,202 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:50:04.88,0:50:06.88,Default,,0,0,0,,
-Dialogue: 0,1:00:00.86,1:00:02.50,Default,,0,0,0,,
+Dialogue: 0,0:40:39.64,0:40:40.14,Default,,0,0,0,,Right away.
+Dialogue: 0,0:40:40.22,0:40:40.56,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:40:42.00,0:40:46.28,Default,,0,0,0,,If Ani is gone back home that means he's returned to Tatooine.
+Dialogue: 0,0:40:47.56,0:40:49.02,Default,,0,0,0,,So that's where I'm headed.
+Dialogue: 0,0:40:49.46,0:40:51.12,Default,,0,0,0,,And nothing is going to trip me up!
+Dialogue: 0,0:40:51.34,0:40:52.44,Default,,0,0,0,,Reporting for duty, Sir!
+Dialogue: 0,0:40:52.34,0:40:52.72,Default,,0,0,0,,Emily!
+Dialogue: 0,0:40:53.80,0:40:55.44,Default,,0,0,0,,I hear you need a ride to Tatooine.
+Dialogue: 0,0:40:56.70,0:40:59.56,Default,,0,0,0,,So you're the first pilot that they found? What is the chance of that?
+Dialogue: 0,0:41:00.56,0:41:01.00,Default,,0,0,0,,Ahm - 
+Dialogue: 0,0:41:01.56,0:41:02.20,Default,,0,0,0,,Yes.
+Dialogue: 0,0:41:03.06,0:41:03.62,Default,,0,0,0,,Well,...
+Dialogue: 0,0:41:04.64,0:41:07.60,Default,,0,0,0,,I - I look forward to riding you to Tatooine. I mean -
+Dialogue: 0,0:41:08.70,0:41:11.28,Default,,0,0,0,,You'll ride me to Tatooine. I mean - 
+Dialogue: 0,0:41:12.20,0:41:13.42,Default,,0,0,0,,Oh dear!
+Dialogue: 0,0:41:20.70,0:41:23.12,Default,,0,0,0,,We're now approaching the surface of Tatooine.
+Dialogue: 0,0:41:23.72,0:41:27.36,Default,,0,0,0,,Begin docking procedure into the space port of Mos Eisley.
+Dialogue: 0,0:41:29.58,0:41:31.08,Default,,0,0,0,,Alright Mara, you'll stick with me.
+Dialogue: 0,0:41:31.08,0:41:31.60,Default,,0,0,0,,Okay.
+Dialogue: 0,0:41:31.64,0:41:32.86,Default,,0,0,0,,I'll show you the [???].
+Dialogue: 0,0:41:32.98,0:41:34.86,Default,,0,0,0,,I grew up on the main streets of Tatooine.
+Dialogue: 0,0:41:35.06,0:41:36.22,Default,,0,0,0,,[???] yourself.
+Dialogue: 0,0:41:36.38,0:41:38.48,Default,,0,0,0,,[???] the crazy characters around here.
+Dialogue: 0,0:41:39.30,0:41:40.94,Default,,0,0,0,,I'm back on track
+Dialogue: 0,0:41:41.28,0:41:45.36,Default,,0,0,0,,Ready for the world to come at me
+Dialogue: 0,0:41:46.02,0:41:48.28,Default,,0,0,0,,I'm stepping up to bet
+Dialogue: 0,0:41:48.46,0:41:52.50,Default,,0,0,0,,Not gonna let anything get past me
+Dialogue: 0,0:41:53.74,0:41:59.28,Default,,0,0,0,,I've got my eyes on the prize
+Dialogue: 0,0:41:59.46,0:42:02.98,Default,,0,0,0,,Gonna do what's right
+Dialogue: 0,0:42:02.98,0:42:06.42,Default,,0,0,0,,Take what's mine
+Dialogue: 0,0:42:06.88,0:42:07.46,Default,,0,0,0,,Track back!
+Dialogue: 0,0:42:09.18,0:42:10.22,Default,,0,0,0,,Hey, look at these guys!
+Dialogue: 0,0:42:10.98,0:42:11.70,Default,,0,0,0,,Ani?
+Dialogue: 0,0:42:12.20,0:42:14.26,Default,,0,0,0,,Well, [???] fellows, look!
+Dialogue: 0,0:42:14.26,0:42:14.98,Default,,0,0,0,,Ani's back!
+Dialogue: 0,0:42:14.98,0:42:16.82,Default,,0,0,0,,Hey, don't let me interrupt, keep going.
+Dialogue: 0,0:42:16.68,0:42:17.84,Default,,0,0,0,,You know these guys?
+Dialogue: 0,0:42:17.84,0:42:19.42,Default,,0,0,0,,Of course! The old Cantina band!
+Dialogue: 0,0:42:19.42,0:42:21.42,Default,,0,0,0,,I swear they get better and better every year.
+Dialogue: 0,0:42:21.42,0:42:22.64,Default,,0,0,0,,[???]?
+Dialogue: 0,0:42:22.64,0:42:27.46,Default,,0,0,0,,Five, four, three, two, one chance
+Dialogue: 0,0:42:27.92,0:42:29.30,Default,,0,0,0,,Is all you get
+Dialogue: 0,0:42:29.66,0:42:32.18,Default,,0,0,0,,To show the world your best
+Dialogue: 0,0:42:32.38,0:42:34.66,Default,,0,0,0,,You better make the most of it
+Dialogue: 0,0:42:34.66,0:42:36.66,Default,,0,0,0,,You gotta go for it
+Dialogue: 0,0:42:36.98,0:42:39.54,Default,,0,0,0,,No one's gonna do it for you
+Dialogue: 0,0:42:39.78,0:42:43.80,Default,,0,0,0,,No one's gonna hold your hand\NYou gotta understand
+Dialogue: 0,0:42:43.86,0:42:46.92,Default,,0,0,0,,Enough is never enough\N[???]
+Dialogue: 0,0:42:47.24,0:42:48.80,Default,,0,0,0,,So you guys like Star-Wars jokes?
+Dialogue: 0,0:42:49.00,0:42:49.56,Default,,0,0,0,,You know!
+Dialogue: 0,0:42:49.56,0:42:50.16,Default,,0,0,0,,Oh, great!
+Dialogue: 0,0:42:50.80,0:42:55.86,Default,,0,0,0,,So they have talked [???] and I say: Wow! Those [???] are really tough to take care of.
+Dialogue: 0,0:42:55.86,0:42:58.40,Default,,0,0,0,,They say: Tell me about it, they shit about four times a day.
+Dialogue: 0,0:42:58.40,0:43:00.40,Default,,0,0,0,,I say: Don't tell me you guys count Dooku.
+Dialogue: 0,0:43:02.76,0:43:03.76,Default,,0,0,0,,I don't get it, Ani.
+Dialogue: 0,0:43:04.70,0:43:08.84,Default,,0,0,0,,Well, come on, Count Dooku is a [???] in the clone wars and Dooku kind of sounds like dookie.
+Dialogue: 0,0:43:09.14,0:43:10.28,Default,,0,0,0,,[???]
+Dialogue: 0,0:43:12.28,0:43:13.24,Default,,0,0,0,,It's a double meaning.
+Dialogue: 0,0:43:14.06,0:43:15.74,Default,,0,0,0,,Humorous play on words, and - 
+Dialogue: 0,0:43:16.72,0:43:18.18,Default,,0,0,0,,that's where the comedy comes in.
+Dialogue: 0,0:43:20.18,0:43:21.76,Default,,0,0,0,,Yeah, I understand.
+Dialogue: 0,0:43:22.18,0:43:23.44,Default,,0,0,0,,I just don't get why it's funny.
+Dialogue: 0,0:43:25.46,0:43:27.32,Default,,0,0,0,,Would you sing the song or something?
+Dialogue: 0,0:43:27.84,0:43:28.60,Default,,0,0,0,,Oh yeah...
+Dialogue: 0,0:43:30.60,0:43:33.88,Default,,0,0,0,,Cause you gotta face your fears
+Dialogue: 0,0:43:34.20,0:43:37.00,Default,,0,0,0,,You gotta fight for what you believe in
+Dialogue: 0,0:43:37.08,0:43:40.86,Default,,0,0,0,,And you forget about your tears
+Dialogue: 0,0:43:40.98,0:43:44.70,Default,,0,0,0,,Cause it's time for you to [???] and
+Dialogue: 0,0:43:44.70,0:43:51.48,Default,,0,0,0,,Strike back
+Dialogue: 0,0:43:51.72,0:43:57.66,Default,,0,0,0,,Strike back
+Dialogue: 0,0:43:57.92,0:43:58.56,Default,,0,0,0,,Strike back!
+Dialogue: 0,0:44:02.64,0:44:03.22,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:44:02.78,0:44:05.58,Default,,0,0,0,,Hey, how is it going guys? Hey wait a minute, who was touching my butt?
+Dialogue: 0,0:44:06.82,0:44:09.34,Default,,0,0,0,,Me! Me, me. Me!
+Dialogue: 0,0:44:14.16,0:44:14.82,Default,,0,0,0,,I hate that guy.
+Dialogue: 0,0:44:14.96,0:44:16.82,Default,,0,0,0,,Ugh! Loud...
+Dialogue: 0,0:44:17.24,0:44:18.20,Default,,0,0,0,,Ani???
+Dialogue: 0,0:44:18.56,0:44:21.30,Default,,0,0,0,,Oh my god! Ani Skywalker?
+Dialogue: 0,0:44:21.30,0:44:23.54,Default,,0,0,0,,You fat bastard, come here!
+Dialogue: 0,0:44:23.68,0:44:26.10,Default,,0,0,0,,Ahaha! Boby Fett!
+Dialogue: 0,0:44:26.18,0:44:29.84,Default,,0,0,0,,How in the heck are you? Why, I haven't seen you since that day in the arena, remember this?
+Dialogue: 0,0:44:29.98,0:44:32.08,Default,,0,0,0,,When Mace Windu gave your paps the old shave and a haircut?
+Dialogue: 0,0:44:32.08,0:44:33.64,Default,,0,0,0,,Oh Yeah!
+Dialogue: 0,0:44:34.02,0:44:35.54,Default,,0,0,0,,Those were some good times.
+Dialogue: 0,0:44:35.72,0:44:36.10,Default,,0,0,0,,Hey,
+Dialogue: 0,0:44:36.28,0:44:38.28,Default,,0,0,0,,How is old Mace nowadays?
+Dialogue: 0,0:44:38.20,0:44:42.92,Default,,0,0,0,,Pap and I threw him out of a window years ago, but - [???] there as a hoot and a half.
+Dialogue: 0,0:44:42.98,0:44:43.70,Default,,0,0,0,,Ani!
+Dialogue: 0,0:44:43.84,0:44:47.76,Default,,0,0,0,,Ani, you are looking good my friend!
+Dialogue: 0,0:44:48.28,0:44:49.76,Default,,0,0,0,,What brings you back to these parts, eh?
+Dialogue: 0,0:44:50.12,0:44:52.04,Default,,0,0,0,,Well, Bob, you're gonna think I'm crazy, but ah - 
+Dialogue: 0,0:44:52.42,0:44:53.82,Default,,0,0,0,,The Boonta-Eve's coming up and...
+Dialogue: 0,0:44:53.34,0:44:56.22,Default,,0,0,0,,Oh yeah! You need tickets, right? Listen:
+Dialogue: 0,0:44:56.22,0:44:57.56,Default,,0,0,0,,You call me!
+Dialogue: 0,0:44:57.72,0:45:02.66,Default,,0,0,0,,I'll get you the best deal on back seats. You and your lady.
+Dialogue: 0,0:45:02.80,0:45:03.08,Default,,0,0,0,,Oh.
+Dialogue: 0,0:45:03.22,0:45:05.86,Default,,0,0,0,,No, Boba, it's not like that. I mean my wife's dead, but ah - 
+Dialogue: 0,0:45:06.20,0:45:07.22,Default,,0,0,0,,she's not gone, you know?
+Dialogue: 0,0:45:07.62,0:45:08.50,Default,,0,0,0,,Oh yeah?
+Dialogue: 0,0:45:08.88,0:45:10.06,Default,,0,0,0,,You sure about that?
+Dialogue: 0,0:45:10.18,0:45:13.78,Default,,0,0,0,,You've been feeding her the old lines? Hey, this guy call you an angle?
+Dialogue: 0,0:45:13.52,0:45:15.08,Default,,0,0,0,,No. No. We're just friends.
+Dialogue: 0,0:45:14.98,0:45:17.56,Default,,0,0,0,,No, we're just friends. I'm old enough to be her father in law.
+Dialogue: 0,0:45:18.08,0:45:23.20,Default,,0,0,0,,You know Mara's - actually [???] a slave girl at Jabba's palace. You know, Bob works for Jabba.
+Dialogue: 0,0:45:23.78,0:45:25.82,Default,,0,0,0,,Really? Could you get me an audition?
+Dialogue: 0,0:45:25.82,0:45:27.24,Default,,0,0,0,,[???] Could you?
+Dialogue: 0,0:45:27.38,0:45:28.52,Default,,0,0,0,,Yeah,  yeah - 
+Dialogue: 0,0:45:28.72,0:45:29.56,Default,,0,0,0,,I'll see what I can do.
+Dialogue: 0,0:45:29.64,0:45:31.18,Default,,0,0,0,,Now Ani. These tickets man...
+Dialogue: 0,0:45:31.18,0:45:33.34,Default,,0,0,0,,Won't be needing them, Bob. I was actually thinking about - 
+Dialogue: 0,0:45:35.54,0:45:36.00,Default,,0,0,0,,entering.
+Dialogue: 0,0:45:37.52,0:45:38.34,Default,,0,0,0,,Racing again.
+Dialogue: 0,0:45:40.86,0:45:44.58,Default,,0,0,0,,[Boba laughs]
+Dialogue: 0,0:45:44.80,0:45:47.76,Default,,0,0,0,,This guy! This guy always with the jokes!
+Dialogue: 0,0:45:47.80,0:45:52.64,Default,,0,0,0,,Hey Ani, what was that joke about the Wampa? I never understood it, but Wampas are funny to me.
+Dialogue: 0,0:45:52.72,0:45:54.32,Default,,0,0,0,,It's no joke, Bob, I'm serious.
+Dialogue: 0,0:45:54.32,0:45:55.70,Default,,0,0,0,,I really wanna do this, look -
+Dialogue: 0,0:45:56.12,0:45:58.64,Default,,0,0,0,,I'm not looking to win or anything, just wanna be in the pod again.
+Dialogue: 0,0:45:58.64,0:46:00.38,Default,,0,0,0,,Alright, alright, hey, you ah -
+Dialogue: 0,0:46:00.76,0:46:02.12,Default,,0,0,0,,you take care of yourself, alright?
+Dialogue: 0,0:46:02.36,0:46:06.94,Default,,0,0,0,,If you ever need anybody bounty hunted or disintegrated you call me. 
+Dialogue: 0,0:46:07.04,0:46:07.74,Default,,0,0,0,,[???]
+Dialogue: 0,0:46:07.74,0:46:09.08,Default,,0,0,0,,[???] Bobarina.
+Dialogue: 0,0:46:08.74,0:46:10.24,Default,,0,0,0,,Alright, bring it in the air, Ani.
+Dialogue: 0,0:46:11.54,0:46:12.16,Default,,0,0,0,,And ah -
+Dialogue: 0,0:46:12.64,0:46:13.46,Default,,0,0,0,,Ani, old pal -
+Dialogue: 0,0:46:13.98,0:46:15.02,Default,,0,0,0,,here's 50 bugs.
+Dialogue: 0,0:46:15.64,0:46:16.72,Default,,0,0,0,,Oh Bob, I can't take this.
+Dialogue: 0,0:46:16.72,0:46:20.00,Default,,0,0,0,,Ani, republic credits are no good here, you know that, take the money.
+Dialogue: 0,0:46:21.38,0:46:22.12,Default,,0,0,0,,Well, thanks Bob.
+Dialogue: 0,0:46:22.20,0:46:23.84,Default,,0,0,0,,Alright. You'll take care now.
+Dialogue: 0,0:46:30.62,0:46:33.16,Default,,0,0,0,,That's Bob. He's a little rough around the edges, but he's a softy.
+Dialogue: 0,0:46:33.82,0:46:34.26,Default,,0,0,0,,Eh!
+Dialogue: 0,0:46:34.34,0:46:34.82,Default,,0,0,0,,Eh!
+Dialogue: 0,0:46:34.90,0:46:35.56,Default,,0,0,0,,Eh!
+Dialogue: 0,0:46:35.68,0:46:36.06,Default,,0,0,0,,You!
+Dialogue: 0,0:46:36.18,0:46:36.58,Default,,0,0,0,,You!
+Dialogue: 0,0:46:36.66,0:46:37.42,Default,,0,0,0,,You!
+Dialogue: 0,0:46:38.02,0:46:42.90,Default,,0,0,0,,You think you could bring your sourly butt back around here and the threes of us wouldn't hear about it?
+Dialogue: 0,0:46:42.90,0:46:44.90,Default,,0,0,0,,I don't think so!
+Dialogue: 0,0:46:46.02,0:46:47.58,Default,,0,0,0,,Sorry, pal!
+Dialogue: 0,0:46:50.26,0:46:52.84,Default,,0,0,0,,Hey guys, I don't know you, but I'm not looking for a fight or anything.
+Dialogue: 0,0:46:52.84,0:46:56.32,Default,,0,0,0,,[talking across each other]
+Dialogue: 0,0:46:56.32,0:46:58.32,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:46:59.00,0:47:00.40,Default,,0,0,0,,Now make way!
+Dialogue: 0,0:47:00.40,0:47:01.28,Default,,0,0,0,,Make way!
+Dialogue: 0,0:47:02.64,0:47:07.64,Default,,0,0,0,,For the master of disaster!
+Dialogue: 0,0:47:07.64,0:47:08.48,Default,,0,0,0,,No, not him!
+Dialogue: 0,0:47:08.62,0:47:12.76,Default,,0,0,0,,Talking 'bout the harbinger of BOOOM!
+Dialogue: 0,0:47:13.12,0:47:14.24,Default,,0,0,0,,It's my greatest enemy.
+Dialogue: 0,0:47:14.64,0:47:18.82,Default,,0,0,0,,The podracing champ of the galaxy.
+Dialogue: 0,0:47:19.06,0:47:23.68,Default,,0,0,0,,Sebulba!
+Dialogue: 0,0:47:32.36,0:47:34.98,Default,,0,0,0,,Okay, okay, I get I put on a few pounds, so what?
+Dialogue: 0,0:47:35.26,0:47:37.10,Default,,0,0,0,,Ani, that's your greatest enemy?
+Dialogue: 0,0:47:37.10,0:47:38.24,Default,,0,0,0,,Oh yeah, without a doubt.
+Dialogue: 0,0:47:38.44,0:47:39.94,Default,,0,0,0,,He's just a weird little thing!
+Dialogue: 0,0:47:39.94,0:47:41.28,Default,,0,0,0,,He's not a thing, He's a Dug.
+Dialogue: 0,0:47:41.60,0:47:43.82,Default,,0,0,0,,A particularly dangerous Dug named Sebulba.
+Dialogue: 0,0:47:55.26,0:47:58.06,Default,,0,0,0,,Let me explain what just [???]
+Dialogue: 0,0:47:57.22,0:47:58.12,Default,,0,0,0,,I - I think I got it.
+Dialogue: 0,0:47:58.22,0:47:58.92,Default,,0,0,0,,Oh, you speak Dug?
+Dialogue: 0,0:47:59.02,0:47:59.90,Default,,0,0,0,,I speak budgie.
+Dialogue: 0,0:47:59.90,0:48:01.32,Default,,0,0,0,,[???] to Dug.
+Dialogue: 0,0:48:01.36,0:48:01.68,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:48:01.68,0:48:03.22,Default,,0,0,0,,[???]
+Dialogue: 0,0:48:04.12,0:48:05.66,Default,,0,0,0,,Everybody will understand everything?
+Dialogue: 0,0:48:05.66,0:48:07.02,Default,,0,0,0,,- Yeah boy!\N- Yeah
+Dialogue: 0,0:48:06.86,0:48:07.64,Default,,0,0,0,,Okay, great.
+Dialogue: 0,0:48:07.64,0:48:08.04,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:48:23.76,0:48:27.70,Default,,0,0,0,,Oh yeah? Well let's just see who wins the Boonta-Eve THIS year, buddy!
+Dialogue: 0,0:48:28.82,0:48:31.56,Default,,0,0,0,,Settle down, I'm not looking for a fight or anything, I just wanna compete.
+Dialogue: 0,0:48:31.66,0:48:34.94,Default,,0,0,0,,Besides, you and I both know the chance of me winning this thing are one in a million.
+Dialogue: 0,0:48:50.92,0:48:53.58,Default,,0,0,0,,Ahm - In your dreams, pal. In your dreams.
+Dialogue: 0,0:48:53.70,0:48:55.20,Default,,0,0,0,,Hey, don't talk to her like that!
+Dialogue: 0,0:48:58.68,0:49:01.80,Default,,0,0,0,,We will take you on right now, Sebulba! I'll take on you!
+Dialogue: 0,0:49:01.94,0:49:02.44,Default,,0,0,0,,No!
+Dialogue: 0,0:49:03.14,0:49:04.20,Default,,0,0,0,,Mara, not here.
+Dialogue: 0,0:49:09.52,0:49:10.54,Default,,0,0,0,,They've got the high ground.
+Dialogue: 0,0:49:46.84,0:49:48.26,Default,,0,0,0,,Don't listen to him, Ani.
+Dialogue: 0,0:49:48.26,0:49:49.24,Default,,0,0,0,,My, he's right.
+Dialogue: 0,0:49:49.96,0:49:51.46,Default,,0,0,0,,I'll never fit in my old pod again.
+Dialogue: 0,0:49:51.98,0:49:54.74,Default,,0,0,0,,But it's not cause I got fat. It's cause I was laid the last time I raced.
+Dialogue: 0,0:49:54.78,0:49:55.24,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:49:55.36,0:49:58.84,Default,,0,0,0,,Of course I'm not gonna fit, I knew that going in, I'm gonna have to make it - bigger. 
+Dialogue: 0,0:49:59.10,0:50:01.90,Default,,0,0,0,,Well, I can help you with that and I can stay and help you train.
+Dialogue: 0,0:50:01.90,0:50:04.82,Default,,0,0,0,,No, no, Mara, you go to Jabba's palace, you do what you came here to do.
+Dialogue: 0,0:50:05.26,0:50:06.34,Default,,0,0,0,,I wish you luck, but - 
+Dialogue: 0,0:50:07.86,0:50:08.66,Default,,0,0,0,,You don't need any/Ani.
+Dialogue: 0,0:50:10.62,0:50:11.90,Default,,0,0,0,,I'm the one that needs all the luck.
+Dialogue: 0,0:50:13.26,0:50:14.26,Default,,0,0,0,,Thanks, Ani.
+Dialogue: 0,0:50:15.94,0:50:16.84,Default,,0,0,0,,Hey Ani?
+Dialogue: 0,0:50:17.64,0:50:19.24,Default,,0,0,0,,Are you sure you're gonna be okay?
+Dialogue: 0,0:50:19.30,0:50:20.10,Default,,0,0,0,,Absolutely.
+Dialogue: 0,0:50:20.56,0:50:23.10,Default,,0,0,0,,I let to know a friend of mine. He's living on Tatooine now.
+Dialogue: 0,0:50:23.20,0:50:24.32,Default,,0,0,0,,He'll be all the help I need.
+Dialogue: 0,0:50:24.48,0:50:25.84,Default,,0,0,0,,He's the best friend I ever had.
+Dialogue: 0,0:50:26.58,0:50:28.70,Default,,0,0,0,,And the funniest guy I ever met.
+Dialogue: 0,0:50:47.28,0:50:48.12,Default,,0,0,0,,Aaaah...!
+Dialogue: 0,0:50:48.12,0:50:50.12,Default,,0,0,0,,
