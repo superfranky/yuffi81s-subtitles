@@ -16,16 +16,16 @@ Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 185
-Active Line: 202
-Video Position: 87336
+Scroll Position: 147
+Active Line: 158
+Video Position: 87367
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: JarJar,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Ani,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Tarkin,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: JarJar,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Ani,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Tarkin,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -56,7 +56,7 @@ Dialogue: 0,0:52:26.25,0:52:26.72,JarJar,,0,0,0,,Yeah.
 Dialogue: 0,0:52:26.54,0:52:27.89,Ani,,0,0,0,,Hit the nose! You remember?
 Dialogue: 0,0:52:28.36,0:52:29.28,Ani,,0,0,0,,That was classic.
 Dialogue: 0,0:52:29.28,0:52:30.21,JarJar,,0,0,0,,Yeah.
-Dialogue: 0,0:52:30.21,0:52:32.76,Ani,,0,0,0,,And we'll finally ??? Sebulba once and for all.
+Dialogue: 0,0:52:30.21,0:52:32.76,Ani,,0,0,0,,And we'll finally topple Sebulba once and for all.
 Dialogue: 0,0:52:35.98,0:52:36.44,Ani,,0,0,0,,What's that?
 Dialogue: 0,0:52:36.44,0:52:37.10,JarJar,,0,0,0,,Huh?
 Dialogue: 0,0:52:38.30,0:52:38.82,JarJar,,0,0,0,,What?
@@ -118,11 +118,11 @@ Dialogue: 0,0:55:03.91,0:55:05.84,Ani,,0,0,0,,But you-sa used to be somebody.
 Dialogue: 0,0:55:06.33,0:55:08.09,Ani,,0,0,0,,The funniest guy I ever met.
 Dialogue: 0,0:55:08.50,0:55:11.44,Ani,,0,0,0,,Why, you're the whole reason I got into Star-Wars comedy in the first place.
 Dialogue: 0,0:55:12.62,0:55:13.95,Ani,,0,0,0,,And now look at you.
-Dialogue: 0,0:55:15.41,0:55:16.75,Ani,,0,0,0,,So nobody loved you.
+Dialogue: 0,0:55:15.41,0:55:16.75,Ani,,0,0,0,,So nobody loves you.
 Dialogue: 0,0:55:16.95,0:55:19.48,Ani,,0,0,0,,How can they love you if you don't love yourself?
 Dialogue: 0,0:55:22.41,0:55:24.02,Ani,,0,0,0,,J.J., you're full of shit!
 Dialogue: 0,0:55:28.64,0:55:29.98,JarJar,,0,0,0,,You-sa full of shit.
-Dialogue: 0,0:55:31.59,0:55:33.09,JarJar,,0,0,0,,You-sa full shit!
+Dialogue: 0,0:55:31.59,0:55:33.09,JarJar,,0,0,0,,You-sa full of shit!
 Dialogue: 0,0:55:33.71,0:55:36.84,JarJar,,0,0,0,,This guy ???
 Dialogue: 0,0:55:37.32,0:55:39.90,JarJar,,0,0,0,,??? Is all you came here, huh?
 Dialogue: 0,0:55:40.02,0:55:41.10,JarJar,,0,0,0,,Came here to fight me?
@@ -130,7 +130,7 @@ Dialogue: 0,0:55:41.10,0:55:42.85,Ani,,0,0,0,,No, no.
 Dialogue: 0,0:55:42.85,0:55:45.66,JarJar,,0,0,0,,The famous show down.
 Dialogue: 0,0:55:45.88,0:55:48.86,JarJar,,0,0,0,,The Jedi vs. the Gungan.
 Dialogue: 0,0:55:48.86,0:55:49.85,Ani,,0,0,0,,J.J., come on.
-Dialogue: 0,0:55:49.85,0:55:52.95,JarJar,,0,0,0,,Okay. You can ??? a Gungan.
+Dialogue: 0,0:55:49.85,0:55:52.95,JarJar,,0,0,0,,Okay. One thing you don't know about a Gungan.
 Dialogue: 0,0:55:54.42,0:55:56.58,JarJar,,0,0,0,,We famous for - sneak attack.
 Dialogue: 0,0:56:02.28,0:56:06.42,JarJar,,0,0,0,,Pretty good move, master Jedi.
 Dialogue: 0,0:56:07.09,0:56:10.58,JarJar,,0,0,0,,But let's see if you can dodge the same thing...
@@ -147,7 +147,7 @@ Dialogue: 0,0:56:28.24,0:56:29.06,JarJar,,0,0,0,,Oh!
 Dialogue: 0,0:56:29.27,0:56:29.81,Ani,,0,0,0,,Here.
 Dialogue: 0,0:56:30.73,0:56:31.67,Ani,,0,0,0,,It's fifty bucks.
 Dialogue: 0,0:56:31.67,0:56:32.49,JarJar,,0,0,0,,Oh!
-Dialogue: 0,0:56:32.49,0:56:33.60,Ani,,0,0,0,,??? I got on me.
+Dialogue: 0,0:56:32.49,0:56:33.60,Ani,,0,0,0,,It's all I got on me.
 Dialogue: 0,0:56:34.07,0:56:35.23,JarJar,,0,0,0,,You-sa sure?
 Dialogue: 0,0:56:35.23,0:56:35.96,Ani,,0,0,0,,I'm sure.
 Dialogue: 0,0:56:36.33,0:56:37.96,JarJar,,0,0,0,,You-sa check your pockets.
@@ -157,7 +157,7 @@ Dialogue: 0,0:56:42.18,0:56:43.44,JarJar,,0,0,0,,Because...
 Dialogue: 0,0:56:43.71,0:56:45.84,JarJar,,0,0,0,,There could be money in there, you see?
 Dialogue: 0,0:56:47.55,0:56:48.85,JarJar,,0,0,0,,Listen, J.J.!
 Dialogue: 0,0:56:50.36,0:56:53.18,Ani,,0,0,0,,I'm gonna be training for the Boonta-Eve down in Beggar's Canyon.
-Dialogue: 0,0:56:53.18,0:56:54.57,Ani,,0,0,0,,If you'd stop by - 
+Dialogue: 0,0:56:53.18,0:56:54.57,Ani,,0,0,0,,If you'd stop by -
 Dialogue: 0,0:56:55.75,0:56:57.11,Ani,,0,0,0,,It'd mean a lot.
 Dialogue: 0,0:56:57.76,0:57:00.61,JarJar,,0,0,0,,Yeah. Okay. Okay, Ani. Maybe.
 Dialogue: 0,0:57:02.06,0:57:02.89,JarJar,,0,0,0,,Maybe.
@@ -173,7 +173,7 @@ Dialogue: 0,0:57:27.34,0:57:27.95,Ani,,0,0,0,,But I...
 Dialogue: 0,0:57:27.68,0:57:28.25,Tarkin,,0,0,0,,{\b1}Ani!{\b0}
 Dialogue: 0,0:57:32.63,0:57:33.66,Tarkin,,0,0,0,,Ani...
 Dialogue: 0,0:57:33.49,0:57:39.30,Tarkin,,0,0,0,,If you don't return to the Death Start with me immediately, Papi is going to be very upset with you.
-Dialogue: 0,0:57:38.94,0:57:40.77,Ani,,0,0,0,,Who cares what Papi thinks?
+Dialogue: 0,0:57:38.94,0:57:40.77,Ani,,0,0,0,,Well, who cares what Papi thinks?
 Dialogue: 0,0:57:41.24,0:57:42.77,Ani,,0,0,0,,I'm sick of letting him run my life!
 Dialogue: 0,0:57:43.41,0:57:47.71,Ani,,0,0,0,,Until he finally teaches me how to stop people from dying - like he promised...
 Dialogue: 0,0:57:49.11,0:57:51.12,Ani,,0,0,0,,I'm not listening to Papi anymore.
@@ -187,7 +187,7 @@ Dialogue: 0,0:58:12.80,0:58:16.51,Tarkin,,0,0,0,,If you get behind the thrusters
 Dialogue: 0,0:58:16.64,0:58:18.96,Ani,,0,0,0,,Well, if I cannot race a pod then I am dead already.
 Dialogue: 0,0:58:19.04,0:58:19.65,Tarkin,,0,0,0,,Ugh!
 Dialogue: 0,0:58:20.76,0:58:21.65,Tarkin,,0,0,0,,What?
-Dialogue: 0,0:58:22.51,0:58:24.25,Tarkin,,0,0,0,,You're not dead already?
+Dialogue: 0,0:58:22.51,0:58:24.25,Tarkin,,0,0,0,,You're not dead already.
 Dialogue: 0,0:58:24.51,0:58:26.73,Tarkin,,0,0,0,,You're simply too old to race.
 Dialogue: 0,0:58:27.74,0:58:30.15,Tarkin,,0,0,0,,That's life, Anakin.
 Dialogue: 0,0:58:32.04,0:58:33.04,Tarkin,,0,0,0,,Look!
