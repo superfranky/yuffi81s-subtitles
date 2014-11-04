@@ -10,13 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: D:/yuffi81/yuffi81s-subtitles_sorcetree/ani/video/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: D:/yuffi81/yuffi81s-subtitles_sorcetree/ani/video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Active Line: 1
-Video Position: 129445
+Video Zoom Percent: 0.250000
+Scroll Position: 181
+Active Line: 191
+Video Position: 116292
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,5 +25,195 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:20:07.48,1:20:13.72,Default,,0,0,0,,
-Dialogue: 0,1:29:58.92,1:30:00.64,Default,,0,0,0,,
+Dialogue: 0,1:10:45.68,1:10:48.38,Default,,0,0,0,,I-I wish I could just wish away my feelings.
+Dialogue: 0,1:10:49.18,1:10:51.70,Default,,0,0,0,,[???] about that line is the repetition of the word 'wish'.
+Dialogue: 0,1:10:52.96,1:10:54.34,Default,,0,0,0,,So it's like poetry, I've rhymed.
+Dialogue: 0,1:10:54.54,1:10:57.90,Default,,0,0,0,,There's absolutely no way that you actually said these things.
+Dialogue: 0,1:10:57.90,1:11:01.28,Default,,0,0,0,,That is a literally [???] of what I said to Padme in front of our fireplace on the [???] 
+Dialogue: 0,1:11:02.56,1:11:05.46,Default,,0,0,0,,You know what happened the next day? I married that girl.
+Dialogue: 0,1:11:06.02,1:11:06.74,Default,,0,0,0,,Really?
+Dialogue: 0,1:11:07.54,1:11:08.58,Default,,0,0,0,,So you're saying that -
+Dialogue: 0,1:11:09.44,1:11:11.56,Default,,0,0,0,,You're saying that these lines actually work?
+Dialogue: 0,1:11:11.78,1:11:13.62,Default,,0,0,0,,Oh, trust me, Tarkin. The dames love them.
+Dialogue: 0,1:11:13.86,1:11:16.18,Default,,0,0,0,,Also, when you're saying these lines it helps if you cry.
+Dialogue: 0,1:11:17.26,1:11:22.44,Default,,0,0,0,,Is your voice get any whinier, like you could say something like :'Now that I'm with you I'm in agony'.
+Dialogue: 0,1:11:23.54,1:11:25.52,Default,,0,0,0,,well, lay it on thick, make her feel guilty.
+Dialogue: 0,1:11:25.62,1:11:28.14,Default,,0,0,0,,And if all else fails [???] sand people.
+Dialogue: 0,1:11:29.92,1:11:31.16,Default,,0,0,0,,Quickest way to a woman's heart.
+Dialogue: 0,1:11:31.24,1:11:34.54,Default,,0,0,0,,Well, I guess I've been doing it wrong all these years.
+Dialogue: 0,1:11:34.78,1:11:36.38,Default,,0,0,0,,Hey, why don't you take her out for a drink?
+Dialogue: 0,1:11:36.72,1:11:38.78,Default,,0,0,0,,I know a brittle old hole in the wall called the Cantina.
+Dialogue: 0,1:11:38.78,1:11:41.36,Default,,0,0,0,,Just a warning: They don't serve droids.
+Dialogue: 0,1:11:42.22,1:11:43.36,Default,,0,0,0,,Alright, fellows.
+Dialogue: 0,1:11:43.70,1:11:44.88,Default,,0,0,0,,I'll give it a shot, eh?
+Dialogue: 0,1:11:44.88,1:11:45.62,Default,,0,0,0,,Well, there you go.
+Dialogue: 0,1:11:45.84,1:11:47.44,Default,,0,0,0,,Alright, everyone, hands in, on three.
+Dialogue: 0,1:11:47.98,1:11:49.32,Default,,0,0,0,,One, two, three!
+Dialogue: 0,1:11:49.32,1:11:50.76,Default,,0,0,0,,Hit the nose!
+Dialogue: 0,1:12:01.02,1:12:02.18,Default,,0,0,0,,This must be the place.
+Dialogue: 0,1:12:03.44,1:12:04.50,Default,,0,0,0,,Alright, Mara.
+Dialogue: 0,1:12:06.50,1:12:08.80,Default,,0,0,0,,You - you can do this.
+Dialogue: 0,1:12:09.58,1:12:11.10,Default,,0,0,0,,You just gotta knock on the door.
+Dialogue: 0,1:12:12.78,1:12:13.76,Default,,0,0,0,,Alright.
+Dialogue: 0,1:12:17.54,1:12:19.20,Default,,0,0,0,,Youwannawanga!
+Dialogue: 0,1:12:20.98,1:12:21.74,Default,,0,0,0,,Hi!
+Dialogue: 0,1:12:22.08,1:12:23.22,Default,,0,0,0,,I'm Mara Jade.
+Dialogue: 0,1:12:23.56,1:12:27.04,Default,,0,0,0,,I'm here to audition for the dancing slave girl position... 
+Dialogue: 0,1:12:27.82,1:12:28.86,Default,,0,0,0,,For Jabba?
+Dialogue: 0,1:12:29.22,1:12:29.70,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:12:30.82,1:12:32.94,Default,,0,0,0,,I'll take it to Jabba now.
+Dialogue: 0,1:12:33.00,1:12:34.18,Default,,0,0,0,,Oh, thank you!
+Dialogue: 0,1:12:34.18,1:12:34.88,Default,,0,0,0,,Come in.
+Dialogue: 0,1:12:37.08,1:12:37.66,Default,,0,0,0,,Come in.
+Dialogue: 0,1:12:39.98,1:12:42.96,Default,,0,0,0,,Come and wait with the other applicants.
+Dialogue: 0,1:12:43.08,1:12:44.72,Default,,0,0,0,,Wait - wait, other applicants?
+Dialogue: 0,1:12:44.80,1:12:48.18,Default,,0,0,0,,[sings aloud without words]
+Dialogue: 0,1:12:55.10,1:12:56.18,Default,,0,0,0,,She's so good.
+Dialogue: 0,1:12:57.34,1:13:02.26,Default,,0,0,0,,So I've been a slave dancer for like going on like, I don't know, like thirteen years now, Hahaha.
+Dialogue: 0,1:13:02.62,1:13:06.56,Default,,0,0,0,,I've done [???] one, two, three, pretty much all the [???],
+Dialogue: 0,1:13:06.56,1:13:08.00,Default,,0,0,0,,where have you slaved?
+Dialogue: 0,1:13:08.46,1:13:10.16,Default,,0,0,0,,I'm over at Geonosis right now.
+Dialogue: 0,1:13:10.70,1:13:12.00,Default,,0,0,0,,But I'm looking for a change.
+Dialogue: 0,1:13:12.44,1:13:14.30,Default,,0,0,0,,The people all just bug me, you know?
+Dialogue: 0,1:13:14.30,1:13:15.50,Default,,0,0,0,,[Laughs]
+Dialogue: 0,1:13:17.24,1:13:18.30,Default,,0,0,0,,Excuse me.
+Dialogue: 0,1:13:18.60,1:13:20.14,Default,,0,0,0,,Why are you laughing?
+Dialogue: 0,1:13:20.68,1:13:21.94,Default,,0,0,0,,Oh, I - I don't know.
+Dialogue: 0,1:13:22.04,1:13:23.94,Default,,0,0,0,,Well, do you even get the joke?
+Dialogue: 0,1:13:24.64,1:13:25.34,Default,,0,0,0,,No, mam.
+Dialogue: 0,1:13:25.78,1:13:27.88,Default,,0,0,0,,See, she said that the people over there bug her
+Dialogue: 0,1:13:28.04,1:13:31.34,Default,,0,0,0,,and it's funny because the people who live on Geonosis are bug people.
+Dialogue: 0,1:13:33.12,1:13:36.44,Default,,0,0,0,,See, it's like a humorous play on words and that's where the comedy comes in, okay?
+Dialogue: 0,1:13:36.12,1:13:36.46,Default,,0,0,0,,Okay.
+Dialogue: 0,1:13:37.88,1:13:44.40,Default,,0,0,0,,So anyway, I hear it's pretty tough to get enslaved by Jabba, but I'm like, you know, I got this, you know what I'm saying, boys?
+Dialogue: 0,1:13:45.14,1:13:46.66,Default,,0,0,0,,You boys will buy me a drink later?
+Dialogue: 0,1:13:47.72,1:13:50.30,Default,,0,0,0,,You guys? All of you? One, two, three, four, five, six. Cool!
+Dialogue: 0,1:13:51.14,1:13:51.98,Default,,0,0,0,,See you then.
+Dialogue: 0,1:13:52.34,1:13:54.38,Default,,0,0,0,,Anyway, honey, your nipple's hanging out.
+Dialogue: 0,1:13:59.94,1:14:04.80,Default,,0,0,0,,So, anyway, it's like sometimes I see those girls who've only been slaving for like a couple of years
+Dialogue: 0,1:14:05.10,1:14:09.30,Default,,0,0,0,,and it's like, I just wanna be like a [???] girl, [???] or whatever it is.
+Dialogue: 0,1:14:09.32,1:14:11.94,Default,,0,0,0,,We call her [???] dollar the Hutt, you know?
+Dialogue: 0,1:14:12.20,1:14:14.02,Default,,0,0,0,,Honey, this is never gonna happen.
+Dialogue: 0,1:14:16.26,1:14:17.24,Default,,0,0,0,,Okay!
+Dialogue: 0,1:14:18.84,1:14:19.48,Default,,0,0,0,,Okay.
+Dialogue: 0,1:14:19.72,1:14:23.92,Default,,0,0,0,,Now, before your audition for Jabba you gotta fill out this application.
+Dialogue: 0,1:14:24.04,1:14:24.40,Default,,0,0,0,,Alright.
+Dialogue: 0,1:14:24.44,1:14:30.36,Default,,0,0,0,,Now when you fill out this application be sure to list all the past places that you were previously enslaved.
+Dialogue: 0,1:14:30.62,1:14:33.18,Default,,0,0,0,,Starting with the most recent place of enslavement.
+Dialogue: 0,1:14:33.62,1:14:35.54,Default,,0,0,0,,Oh - I, I don't got any of that.
+Dialogue: 0,1:14:35.54,1:14:36.18,Default,,0,0,0,,[gasps]
+Dialogue: 0,1:14:36.42,1:14:37.40,Default,,0,0,0,,What?
+Dialogue: 0,1:14:37.76,1:14:44.66,Default,,0,0,0,,[whispering]
+Dialogue: 0,1:14:47.66,1:14:49.54,Default,,0,0,0,,Do you got any references?
+Dialogue: 0,1:14:50.78,1:14:52.46,Default,,0,0,0,,No, mam. See -
+Dialogue: 0,1:14:52.80,1:14:55.32,Default,,0,0,0,,I'd never been no slave before or so...
+Dialogue: 0,1:14:55.74,1:14:58.96,Default,,0,0,0,,[laughing starts and grows]
+Dialogue: 0,1:14:58.96,1:15:00.48,Default,,0,0,0,,She'd never been a slave!
+Dialogue: 0,1:15:01.84,1:15:04.18,Default,,0,0,0,,And she auditioned for Jabba!
+Dialogue: 0,1:15:14.42,1:15:14.92,Default,,0,0,0,,Well,
+Dialogue: 0,1:15:16.00,1:15:16.92,Default,,0,0,0,,this is it.
+Dialogue: 0,1:15:17.14,1:15:18.42,Default,,0,0,0,,uhm, the Cantina.
+Dialogue: 0,1:15:19.94,1:15:22.96,Default,,0,0,0,,You don't think I'm maybe like a little overdressed for this place?
+Dialogue: 0,1:15:22.96,1:15:27.08,Default,,0,0,0,,Oh no, you're beautiful, I mean: You're dressed beautiful. Beautifully...
+Dialogue: 0,1:15:28.38,1:15:33.14,Default,,0,0,0,,Bartender, check please! I mean - could we have a seat? Oh dear...
+Dialogue: 0,1:15:33.60,1:15:35.14,Default,,0,0,0,,Sure pal, here you go.
+Dialogue: 0,1:15:35.84,1:15:38.28,Default,,0,0,0,,And, ah - hey, how about a bit of friendly advice:
+Dialogue: 0,1:15:38.40,1:15:40.72,Default,,0,0,0,,Just relax and be yourself.
+Dialogue: 0,1:15:41.64,1:15:42.56,Default,,0,0,0,,It's enough.
+Dialogue: 0,1:15:43.18,1:15:45.72,Default,,0,0,0,,Oh - oh - oh
+Dialogue: 0,1:15:46.40,1:15:47.22,Default,,0,0,0,,Oh
+Dialogue: 0,1:15:46.46,1:15:47.26,Default,,0,0,0,,Hey!
+Dialogue: 0,1:15:47.26,1:15:50.22,Default,,0,0,0,,Hey, hey, hey, you just came in here, but I think you've had enough!
+Dialogue: 0,1:15:50.22,1:15:52.10,Default,,0,0,0,,I'll tell you when I've had enough!
+Dialogue: 0,1:15:52.10,1:15:54.10,Default,,0,0,0,,You'll tell me when you've had enough!
+Dialogue: 0,1:15:59.16,1:15:59.78,Default,,0,0,0,,Hey!
+Dialogue: 0,1:16:00.96,1:16:02.44,Default,,0,0,0,,Eh. Hey.
+Dialogue: 0,1:16:03.42,1:16:05.64,Default,,0,0,0,,You guy want to see something funny?
+Dialogue: 0,1:16:07.04,1:16:09.14,Default,,0,0,0,,Watch this: Come here.
+Dialogue: 0,1:16:10.48,1:16:12.42,Default,,0,0,0,,My dick is a surfboard!
+Dialogue: 0,1:16:12.42,1:16:13.04,Default,,0,0,0,,Oh my god.
+Dialogue: 0,1:16:14.76,1:16:16.24,Default,,0,0,0,,That man's dick!
+Dialogue: 0,1:16:16.62,1:16:17.78,Default,,0,0,0,,It's a surfboard!
+Dialogue: 0,1:16:18.64,1:16:21.28,Default,,0,0,0,,Well, what can I get for you, Mr. Surfboard dick?
+Dialogue: 0,1:16:22.62,1:16:28.36,Default,,0,0,0,,Well, ah - I'll start with one - of everything, and then we'll go from there.
+Dialogue: 0,1:16:29.08,1:16:30.60,Default,,0,0,0,,Uhou, urgh...
+Dialogue: 0,1:16:31.08,1:16:32.60,Default,,0,0,0,,Is that old guy alright?
+Dialogue: 0,1:16:32.90,1:16:34.00,Default,,0,0,0,,Oh - oh, uhm...
+Dialogue: 0,1:16:34.94,1:16:37.04,Default,,0,0,0,,Excuse me, Sir, is everything okay?
+Dialogue: 0,1:16:38.38,1:16:44.48,Default,,0,0,0,,It's as if a million voices suddenly cried out in terror and then were suddenly silenced.
+Dialogue: 0,1:16:45.98,1:16:48.50,Default,,0,0,0,,I have the worst hangover in history.
+Dialogue: 0,1:16:49.76,1:16:50.40,Default,,0,0,0,,Thank you.
+Dialogue: 0,1:16:52.70,1:16:54.20,Default,,0,0,0,,I'm better now.
+Dialogue: 0,1:16:54.30,1:16:55.32,Default,,0,0,0,,I'm drunk.
+Dialogue: 0,1:16:56.96,1:16:59.74,Default,,0,0,0,,Wow! That guy really [??? puts them back?] huh?
+Dialogue: 0,1:17:00.06,1:17:05.60,Default,,0,0,0,,Well, you have to learn to consume this much alcohol if you are to learn the ways of the force.
+Dialogue: 0,1:17:05.70,1:17:07.16,Default,,0,0,0,,Become a Jedi like me.
+Dialogue: 0,1:17:07.24,1:17:08.32,Default,,0,0,0,,You're a Jedi?
+Dialogue: 0,1:17:09.02,1:17:11.48,Default,,0,0,0,,But I thought all the Jedi were wiped out except for -
+Dialogue: 0,1:17:11.98,1:17:12.70,Default,,0,0,0,,Say:
+Dialogue: 0,1:17:13.48,1:17:15.96,Default,,0,0,0,,Do you happen to know an Obi-Wan Kenobi?
+Dialogue: 0,1:17:16.80,1:17:17.70,Default,,0,0,0,,Of course I know him.
+Dialogue: 0,1:17:18.02,1:17:18.80,Default,,0,0,0,,He's me.
+Dialogue: 0,1:17:19.98,1:17:21.76,Default,,0,0,0,,I'm Obi-Wan Kenobi.
+Dialogue: 0,1:17:22.04,1:17:23.76,Default,,0,0,0,,And I am an alcoholic.
+Dialogue: 0,1:17:27.36,1:17:28.34,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,1:17:28.60,1:17:30.60,Default,,0,0,0,,I didn't have to tell you guys that.
+Dialogue: 0,1:17:31.06,1:17:32.60,Default,,0,0,0,,Let me start again.
+Dialogue: 0,1:17:37.04,1:17:43.04,Default,,0,0,0,,I'm Obi-Wan Kenobi, I'm a proud graduate of alcoholics anonymous,
+Dialogue: 0,1:17:45.16,1:17:46.54,Default,,0,0,0,,and I am an alcoholic.
+Dialogue: 0,1:17:48.98,1:17:49.68,Default,,0,0,0,,Who are you?
+Dialogue: 0,1:17:50.00,1:17:51.88,Default,,0,0,0,,Oh, ahm, Moff Jeffrey Tarkin.
+Dialogue: 0,1:17:52.02,1:17:54.06,Default,,0,0,0,,Moth? Who's moth? Her moth?
+Dialogue: 0,1:17:54.06,1:17:57.72,Default,,0,0,0,,No, no, no, no, Moff! It's a title. A Rank. Moff Tarkin.
+Dialogue: 0,1:17:57.92,1:18:00.84,Default,,0,0,0,,Oh! Well, it's very good to meet you, Jeffrey.
+Dialogue: 0,1:18:00.98,1:18:02.54,Default,,0,0,0,,I like you very much.
+Dialogue: 0,1:18:02.54,1:18:03.62,Default,,0,0,0,,I'm Obi-Wan.
+Dialogue: 0,1:18:04.18,1:18:05.08,Default,,0,0,0,,I'm an alcoholic.
+Dialogue: 0,1:18:06.46,1:18:07.46,Default,,0,0,0,,Yes, I know that.
+Dialogue: 0,1:18:07.54,1:18:12.02,Default,,0,0,0,,Oh good, well quit talking of all the Moff and let's have a drink, shall we?
+Dialogue: 0,1:18:12.18,1:18:16.04,Default,,0,0,0,,I hope you don't mind if I sit between you.
+Dialogue: 0,1:18:16.04,1:18:16.90,Default,,0,0,0,,Please, Sir...
+Dialogue: 0,1:18:16.54,1:18:21.00,Default,,0,0,0,,No, no not at all. You know, to be honest I'm a little bit of a history [???],
+Dialogue: 0,1:18:20.92,1:18:22.26,Default,,0,0,0,,Oh that's fine, so am I!
+Dialogue: 0,1:18:21.44,1:18:24.04,Default,,0,0,0,,And I've always wanted to meet a clone wars survivor.
+Dialogue: 0,1:18:24.04,1:18:26.78,Default,,0,0,0,,You know, the whole thing is just so shrouded in mystery.
+Dialogue: 0,1:18:26.66,1:18:28.38,Default,,0,0,0,,It is a bit mysterious, isn't it?
+Dialogue: 0,1:18:28.26,1:18:33.46,Default,,0,0,0,,No, no, no, you guys are making it sound more complicated than it was.
+Dialogue: 0,1:18:33.84,1:18:36.22,Default,,0,0,0,,Let me set the record straight.
+Dialogue: 0,1:18:40.34,1:18:46.12,Default,,0,0,0,,The clone wars began when my friend Qui-Gon and I went to the planet of Naboo.
+Dialogue: 0,1:18:46.32,1:18:52.42,Default,,0,0,0,,To settle a trade dispute that had broken out between the trade federation  and the planet.
+Dialogue: 0,1:18:52.42,1:18:57.50,Default,,0,0,0,,You see, the federation had put a blockade around the system so that
+Dialogue: 0,1:18:58.44,1:18:59.80,Default,,0,0,0,,they could, ah - 
+Dialogue: 0,1:19:01.80,1:19:03.44,Default,,0,0,0,,Oh. Ah...
+Dialogue: 0,1:19:04.12,1:19:05.06,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,1:19:05.56,1:19:09.08,Default,,0,0,0,,I fell asleep, because that was so boring.
+Dialogue: 0,1:19:17.02,1:19:18.60,Default,,0,0,0,,Ahm, look - 
+Dialogue: 0,1:19:18.60,1:19:19.58,Default,,0,0,0,,Where was I?
+Dialogue: 0,1:19:19.80,1:19:21.58,Default,,0,0,0,,You and your friend Qui-Gon were doing some...
+Dialogue: 0,1:19:21.00,1:19:22.72,Default,,0,0,0,,Yes, yes, Qui-Gon, Qui-Gon.
+Dialogue: 0,1:19:22.88,1:19:24.98,Default,,0,0,0,,He was my master, you see?
+Dialogue: 0,1:19:25.28,1:19:27.26,Default,,0,0,0,,Or was Yoda my master?
+Dialogue: 0,1:19:30.24,1:19:32.32,Default,,0,0,0,,My memory is flexible.
+Dialogue: 0,1:19:32.56,1:19:35.60,Default,,0,0,0,,You see, only a Sith deals in absolutes.
+Dialogue: 0,1:19:35.72,1:19:37.88,Default,,0,0,0,,Wait a minute. That doesn't make any sense at all.
+Dialogue: 0,1:19:37.96,1:19:40.74,Default,,0,0,0,,I on the other hand deal in absolute!
+Dialogue: 0,1:19:44.84,1:19:46.06,Default,,0,0,0,,Wooo!
+Dialogue: 0,1:19:46.06,1:19:48.06,Default,,0,0,0,,We're having fun now, man!
+Dialogue: 0,1:19:49.62,1:19:50.88,Default,,0,0,0,,So there I was.
+Dialogue: 0,1:19:51.14,1:19:52.88,Default,,0,0,0,,I was a Padawan learner.
+Dialogue: 0,1:19:53.10,1:19:56.34,Default,,0,0,0,,And I had my long hair.
+Dialogue: 0,1:19:56.64,1:19:58.26,Default,,0,0,0,,And my little braid.
+Dialogue: 0,1:19:59.04,1:20:01.20,Default,,0,0,0,,You see, I was kind of like a hippie guy.
+Dialogue: 0,1:20:01.20,1:20:01.70,Default,,0,0,0,,Yes.
+Dialogue: 0,1:20:01.70,1:20:04.10,Default,,0,0,0,,E-Excuse me, Sir, I - I hate to interrupt, but -
+Dialogue: 0,1:20:04.48,1:20:07.28,Default,,0,0,0,,do you see how your last statement doesn't make any sense at all?
+Dialogue: 0,1:20:07.68,1:20:10.90,Default,,0,0,0,,For if only a Sith deals in absolute
+Dialogue: 0,1:20:11.06,1:20:13.80,Default,,0,0,0,,well, then that in itself is an absolute.
+Dialogue: 0,1:20:14.36,1:20:17.90,Default,,0,0,0,,Do you see how you've - inadvertently called yourself a Sith there, old boy?
+Dialogue: 0,1:20:22.32,1:20:24.70,Default,,0,0,0,,That moth just blew my mind, mam.
+Dialogue: 0,1:20:26.98,1:20:29.28,Default,,0,0,0,,Anyway, back to the clone wars.
+Dialogue: 0,1:20:29.28,1:20:31.54,Default,,0,0,0,,Why were they called that? When do the clones show up?
+Dialogue: 0,1:20:32.42,1:20:35.82,Default,,0,0,0,,Well, the separatists who we were fighting had robots.
+Dialogue: 0,1:20:36.00,1:20:42.90,Default,,0,0,0,,And we, the republic, had clones, because the leader of the separatists, who was a Sith Lord, made them for us.
+Dialogue: 0,1:20:43.50,1:20:50.34,Default,,0,0,0,,But how could we have known that those clones would remain loyal to that Sith Lord? We didn't see that one coming.
+Dialogue: 0,1:20:50.34,1:20:52.34,Default,,0,0,0,,
