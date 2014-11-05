@@ -10,13 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: D:/yuffi81/yuffi81s-subtitles_sorcetree/ani/video/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: D:/yuffi81/yuffi81s-subtitles_sorcetree/ani/video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Active Line: 1
-Video Position: 143809
+Video Zoom Percent: 0.250000
+Scroll Position: 157
+Active Line: 167
+Video Position: 131628
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,5 +25,171 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,1:30:03.24,1:30:06.00,Default,,0,0,0,,
-Dialogue: 0,1:39:58.00,1:40:03.44,Default,,0,0,0,,
+Dialogue: 0,1:20:51.96,1:20:54.40,Default,,0,0,0,,You didn't even suspect foul play?
+Dialogue: 0,1:20:54.58,1:20:56.84,Default,,0,0,0,,Well, our vision was clouded.
+Dialogue: 0,1:20:57.08,1:20:58.74,Default,,0,0,0,,And we were stupid.
+Dialogue: 0,1:21:00.92,1:21:03.48,Default,,0,0,0,,But to our credit we were being tricked.
+Dialogue: 0,1:21:03.94,1:21:09.88,Default,,0,0,0,,You see, both the republic and the separatists were secretly been controlled by the emperor.
+Dialogue: 0,1:21:10.38,1:21:17.16,Default,,0,0,0,,He was fighting a war against himself for control of a galaxy, that he already had control of.
+Dialogue: 0,1:21:19.08,1:21:25.00,Default,,0,0,0,,What I never understood is: Why would the Jedi, who are supposed to lead the protectorate of the peace,
+Dialogue: 0,1:21:25.36,1:21:27.86,Default,,0,0,0,,plunge the galaxy into a war?
+Dialogue: 0,1:21:28.04,1:21:30.90,Default,,0,0,0,,We declared war in the name of peace.
+Dialogue: 0,1:21:31.90,1:21:32.52,Default,,0,0,0,,Right?
+Dialogue: 0,1:21:34.40,1:21:37.14,Default,,0,0,0,,We couldn't just let the Siths run everything.
+Dialogue: 0,1:21:37.28,1:21:43.86,Default,,0,0,0,,They're a group of religious [???] who want to impose their will on everyone else, and that's the Jedi's job!
+Dialogue: 0,1:21:45.20,1:21:45.68,Default,,0,0,0,,Hmmm...
+Dialogue: 0,1:21:46.04,1:21:50.18,Default,,0,0,0,,We are the light side, they are the dark side, they believe in love, we forbid it!
+Dialogue: 0,1:21:51.10,1:21:54.82,Default,,0,0,0,,Though you see, though you see, there - there has to be a balance.
+Dialogue: 0,1:21:55.36,1:21:58.64,Default,,0,0,0,,A harmony between light and the dark side.
+Dialogue: 0,1:21:58.86,1:22:03.42,Default,,0,0,0,,And to create that harmony we wanted to wipe out the dark side!
+Dialogue: 0,1:22:04.28,1:22:11.06,Default,,0,0,0,,And then all the sudden two Siths come along, and they kill all but two Jedis? That's not balance!
+Dialogue: 0,1:22:11.06,1:22:12.04,Default,,0,0,0,,Yes, it is!
+Dialogue: 0,1:22:13.70,1:22:17.88,Default,,0,0,0,,You know, speaking with you has confirmed everything that Ani ever told me about the Jedi.
+Dialogue: 0,1:22:18.22,1:22:19.82,Default,,0,0,0,,You guys are a bunch of knuckleheads.
+Dialogue: 0,1:22:21.44,1:22:26.04,Default,,0,0,0,,Well, you can tell that Annie that she can go and get her gun. [Reference to the Musical: 'Annie get your gun']
+Dialogue: 0,1:22:26.50,1:22:27.30,Default,,0,0,0,,Oh, no.
+Dialogue: 0,1:22:31.82,1:22:37.72,Default,,0,0,0,,Because she has insulted my religion and now I will kill her with my sword.
+Dialogue: 0,1:22:37.72,1:22:42.02,Default,,0,0,0,,Oh! No, no, no! Ani! Ani, as in - your old apprentice.
+Dialogue: 0,1:22:43.00,1:22:44.62,Default,,0,0,0,,Do you remember Ani?
+Dialogue: 0,1:22:46.62,1:22:47.24,Default,,0,0,0,,Yes.
+Dialogue: 0,1:22:48.50,1:22:50.10,Default,,0,0,0,,I loved him like a brother.
+Dialogue: 0,1:22:51.98,1:22:53.92,Default,,0,0,0,,So I cut him in half -
+Dialogue: 0,1:22:56.76,1:22:59.36,Default,,0,0,0,,and I put him in a volcano.
+Dialogue: 0,1:23:10.00,1:23:10.70,Default,,0,0,0,,Oh...!
+Dialogue: 0,1:23:13.22,1:23:15.60,Default,,0,0,0,,Well, - he's better now.
+Dialogue: 0,1:23:15.72,1:23:16.42,Default,,0,0,0,,WHAT???
+Dialogue: 0,1:23:16.70,1:23:20.06,Default,,0,0,0,,Yes! Why, in fact he's racing in this year's Boonta-Eve.
+Dialogue: 0,1:23:20.50,1:23:25.72,Default,,0,0,0,,You should come by some time and - say hello, perhaps you two can bury the old hatchet there, huh?
+Dialogue: 0,1:23:25.72,1:23:26.46,Default,,0,0,0,,[something's ringing]
+Dialogue: 0,1:23:26.04,1:23:26.22,Default,,0,0,0,,Oh!
+Dialogue: 0,1:23:26.72,1:23:29.18,Default,,0,0,0,,Pardon me. I'm being invited to a face time.
+Dialogue: 0,1:23:30.60,1:23:31.54,Default,,0,0,0,,Oh, that's not good.
+Dialogue: 0,1:23:31.86,1:23:32.52,Default,,0,0,0,,What is it?
+Dialogue: 0,1:23:33.72,1:23:34.96,Default,,0,0,0,,[gulps] It's the emperor.
+Dialogue: 0,1:23:36.16,1:23:37.28,Default,,0,0,0,,I think I'm in trouble.
+Dialogue: 0,1:23:38.42,1:23:39.62,Default,,0,0,0,,Ah - Emily?
+Dialogue: 0,1:23:41.34,1:23:42.32,Default,,0,0,0,,I need to take this!
+Dialogue: 0,1:23:42.62,1:23:45.08,Default,,0,0,0,,Wha- I - uh! I can't miss this!
+Dialogue: 0,1:23:50.78,1:23:51.32,Default,,0,0,0,,Well -
+Dialogue: 0,1:23:53.14,1:23:53.86,Default,,0,0,0,,It's like -
+Dialogue: 0,1:23:54.92,1:23:56.02,Default,,0,0,0,,god damn it, right?
+Dialogue: 0,1:23:59.52,1:24:06.40,Default,,0,0,0,,It's like you - you think you kill a guy - and then he shows up - as a goddamn robot.
+Dialogue: 0,1:24:09.44,1:24:12.82,Default,,0,0,0,,And this is the second bloody time this has happened to me!
+Dialogue: 0,1:24:17.20,1:24:22.82,Default,,0,0,0,,First Darth Maul and now Ani, I -  what is the world coming to? I tell you what...
+Dialogue: 0,1:24:23.94,1:24:24.48,Default,,0,0,0,,Well, -
+Dialogue: 0,1:24:25.04,1:24:27.92,Default,,0,0,0,,I guess, I'll just have to finish the job.
+Dialogue: 0,1:24:29.94,1:24:31.48,Default,,0,0,0,,Come here, my little friend.
+Dialogue: 0,1:24:35.12,1:24:38.82,Default,,0,0,0,,Yes, it appears that you and I have a common enemy.
+Dialogue: 0,1:24:39.32,1:24:42.18,Default,,0,0,0,,What do you say to the two of us joining forces?
+Dialogue: 0,1:24:44.46,1:24:47.54,Default,,0,0,0,,Yes, podracing is a dangerous sport...
+Dialogue: 0,1:24:47.72,1:24:49.94,Default,,0,0,0,,Especially for a man of Ani's age.
+Dialogue: 0,1:24:50.24,1:24:53.68,Default,,0,0,0,,And especially if he doesn't have his pit crew there to help him.
+Dialogue: 0,1:24:54.00,1:25:01.34,Default,,0,0,0,,So what do you say? I take care of the pit crew, and you make sure that Ani doesn't finish the race?
+Dialogue: 0,1:25:01.46,1:25:02.78,Default,,0,0,0,,[Sebulba laughs silently]
+Dialogue: 0,1:25:02.78,1:25:07.44,Default,,0,0,0,,Yes, have [???] his pod if you have to, I don't care, just kill him!
+Dialogue: 0,1:25:09.16,1:25:12.06,Default,,0,0,0,,Yes... I like you [???]
+Dialogue: 0,1:25:16.12,1:25:20.06,Default,,0,0,0,,I like you because you are a animal and I like animals.
+Dialogue: 0,1:25:22.10,1:25:24.54,Default,,0,0,0,,You remind me of my friend Yoda.
+Dialogue: 0,1:25:25.00,1:25:28.70,Default,,0,0,0,,Yoda is a green animal who lives in a swamp.
+Dialogue: 0,1:25:30.42,1:25:31.94,Default,,0,0,0,,You'd like him, he's cute.
+Dialogue: 0,1:25:32.86,1:25:39.76,Default,,0,0,0,,And now - lets have a drink. To our fiendish union - Of the light side!
+Dialogue: 0,1:25:39.96,1:25:42.70,Default,,0,0,0,,[both laugh]
+Dialogue: 0,1:25:53.22,1:25:53.68,Default,,0,0,0,,Huhu - 
+Dialogue: 0,1:25:54.98,1:25:56.40,Default,,0,0,0,,Here goes nothing...
+Dialogue: 0,1:25:57.42,1:25:58.72,Default,,0,0,0,,[ring]
+Dialogue: 0,1:26:00.20,1:26:01.42,Default,,0,0,0,,[ring]
+Dialogue: 0,1:26:02.68,1:26:03.42,Default,,0,0,0,,Jeffrey?
+Dialogue: 0,1:26:03.56,1:26:04.72,Default,,0,0,0,,Oh, hello, Papi.
+Dialogue: 0,1:26:04.86,1:26:08.32,Default,,0,0,0,,Jeffrey, I finished that Lego set I was working on.
+Dialogue: 0,1:26:08.54,1:26:10.32,Default,,0,0,0,,You must be so proud of yourself, Sir.
+Dialogue: 0,1:26:10.52,1:26:13.68,Default,,0,0,0,,Well, I didn't do it all by myself, I had some help.
+Dialogue: 0,1:26:13.84,1:26:16.06,Default,,0,0,0,,FROM WHOM - ah, may I ask?
+Dialogue: 0,1:26:16.10,1:26:17.26,Default,,0,0,0,,Hello, Jeffrey.
+Dialogue: 0,1:26:17.90,1:26:18.90,Default,,0,0,0,,Veers!
+Dialogue: 0,1:26:19.14,1:26:26.74,Default,,0,0,0,,Yes. And he's also filled me in on all of this podracing business, huh? Unlike you.
+Dialogue: 0,1:26:26.94,1:26:29.72,Default,,0,0,0,,I've half a mind to make this guy my grand Moff.
+Dialogue: 0,1:26:29.78,1:26:34.30,Default,,0,0,0,,I'm terribly sorry, Jeffrey, old boy, but you see, opportunity only knocks once.
+Dialogue: 0,1:26:34.34,1:26:36.48,Default,,0,0,0,,I would have expected this from Needa.
+Dialogue: 0,1:26:36.86,1:26:38.56,Default,,0,0,0,,But not you, Veers.
+Dialogue: 0,1:26:38.64,1:26:39.46,Default,,0,0,0,,Needa.
+Dialogue: 0,1:26:39.74,1:26:42.52,Default,,0,0,0,,I'm sick of hearing the name Captain Needa.
+Dialogue: 0,1:26:42.80,1:26:48.32,Default,,0,0,0,,From now on this galaxy will know the name of General Veers!
+Dialogue: 0,1:26:48.46,1:26:49.60,Default,,0,0,0,,Thank you, Captain Needa.
+Dialogue: 0,1:26:49.68,1:26:50.26,Default,,0,0,0,,Damn it!
+Dialogue: 0,1:26:52.00,1:26:56.62,Default,,0,0,0,,So anyway, Tarkin, I want you to bring Ani home right now, okay?
+Dialogue: 0,1:26:56.96,1:26:58.60,Default,,0,0,0,,Enough messing around, right?
+Dialogue: 0,1:26:58.24,1:26:59.60,Default,,0,0,0,,Oh - Sir,
+Dialogue: 0,1:27:00.76,1:27:01.90,Default,,0,0,0,,pardon me, but -
+Dialogue: 0,1:27:02.26,1:27:04.96,Default,,0,0,0,,Ani's put so much effort in - into this already.
+Dialogue: 0,1:27:05.40,1:27:08.14,Default,,0,0,0,,Why, it's the happiest I've seen him in years.
+Dialogue: 0,1:27:08.28,1:27:10.72,Default,,0,0,0,,You wouldn't just - take that away from him now, would you?
+Dialogue: 0,1:27:11.52,1:27:13.14,Default,,0,0,0,,Podracing is stupid.
+Dialogue: 0,1:27:13.92,1:27:22.92,Default,,0,0,0,,No apprentice of mine is gonna be out podracing, I need Ani back here to help me run this battle station.
+Dialogue: 0,1:27:23.12,1:27:27.46,Default,,0,0,0,,Well, if that's the only reason that you need him, perhaps I oughtn't bring him back at all, Sir!
+Dialogue: 0,1:27:28.22,1:27:33.54,Default,,0,0,0,,Jeffrey, you will follow orders.
+Dialogue: 0,1:27:35.94,1:27:36.62,Default,,0,0,0,,Yes, Sir.
+Dialogue: 0,1:27:38.20,1:27:39.52,Default,,0,0,0,,I will follow orders.
+Dialogue: 0,1:27:40.54,1:27:44.30,Default,,0,0,0,,But not your orders! For I'll follow the orders of my heart!
+Dialogue: 0,1:27:44.42,1:27:46.30,Default,,0,0,0,,That's something that Ani taught me.
+Dialogue: 0,1:27:46.48,1:27:52.52,Default,,0,0,0,,And I can't believe that you, knowing how Ani loves podracing oh so very much, won't even support him in that!
+Dialogue: 0,1:27:52.86,1:27:54.28,Default,,0,0,0,,What sort of a Pappy are you?
+Dialogue: 0,1:27:55.84,1:27:57.16,Default,,0,0,0,,That's it, Jeffrey!
+Dialogue: 0,1:27:57.54,1:28:00.30,Default,,0,0,0,,You can kiss that promotion good bye!
+Dialogue: 0,1:28:03.66,1:28:04.12,Default,,0,0,0,,Fine!
+Dialogue: 0,1:28:16.80,1:28:17.26,Default,,0,0,0,,There!
+Dialogue: 0,1:28:17.90,1:28:21.86,Default,,0,0,0,,You can take that promotion, and you can stick it in your dark side, Sir!
+Dialogue: 0,1:28:23.58,1:28:24.70,Default,,0,0,0,,I'm hanging up now!
+Dialogue: 0,1:28:24.98,1:28:25.66,Default,,0,0,0,,Tarkin out!
+Dialogue: 0,1:28:25.80,1:28:27.66,Default,,0,0,0,,Jeffrey, don't you hang up on me!
+Dialogue: 0,1:28:28.08,1:28:28.52,Default,,0,0,0,,Aye...!
+Dialogue: 0,1:28:32.96,1:28:33.68,Default,,0,0,0,,Whoa...
+Dialogue: 0,1:28:34.30,1:28:36.30,Default,,0,0,0,,You just hung up on the emperor.
+Dialogue: 0,1:28:41.56,1:28:42.00,Default,,0,0,0,,Yep.
+Dialogue: 0,1:28:44.78,1:28:46.66,Default,,0,0,0,,Think you'll lose your job?
+Dialogue: 0,1:28:50.00,1:28:50.50,Default,,0,0,0,,Yep.
+Dialogue: 0,1:28:52.90,1:28:53.72,Default,,0,0,0,,[sighs]
+Dialogue: 0,1:28:55.34,1:28:56.18,Default,,0,0,0,,Well,
+Dialogue: 0,1:28:59.62,1:29:00.34,Default,,0,0,0,,good night.
+Dialogue: 0,1:29:01.78,1:29:03.46,Default,,0,0,0,,Ah - Jeffrey, wait!
+Dialogue: 0,1:29:03.76,1:29:04.26,Default,,0,0,0,,Yes?
+Dialogue: 0,1:29:05.54,1:29:07.68,Default,,0,0,0,,That was pretty cool what you did back there.
+Dialogue: 0,1:29:08.30,1:29:10.00,Default,,0,0,0,,Standing up for a friend like that...
+Dialogue: 0,1:29:10.06,1:29:10.68,Default,,0,0,0,,Really?
+Dialogue: 0,1:29:11.46,1:29:13.76,Default,,0,0,0,,Yeah, I - I didn't know you had it in you.
+Dialogue: 0,1:29:14.80,1:29:15.62,Default,,0,0,0,,Well,
+Dialogue: 0,1:29:16.24,1:29:18.86,Default,,0,0,0,,I think you'll find I'm full of surprises.\N[Reference to: Star-Wars Episode V (Luke Skywalker to Darth Vader)]
+Dialogue: 0,1:29:18.98,1:29:19.64,Default,,0,0,0,,Oh.
+Dialogue: 0,1:29:19.82,1:29:22.38,Default,,0,0,0,,Oh no, ugh. Is that like a pickup line or something?
+Dialogue: 0,1:29:22.40,1:29:23.86,Default,,0,0,0,,No! Sorry! Terribly sorry...
+Dialogue: 0,1:29:24.56,1:29:27.22,Default,,0,0,0,,I'm just gonna head back for the ship turn in for the night.
+Dialogue: 0,1:29:27.42,1:29:28.06,Default,,0,0,0,,Yeah...
+Dialogue: 0,1:29:29.02,1:29:29.40,Default,,0,0,0,,[Sighs]
+Dialogue: 0,1:29:29.58,1:29:30.76,Default,,0,0,0,,Ahm, Emily, wait!
+Dialogue: 0,1:29:31.86,1:29:32.38,Default,,0,0,0,,Yeah?
+Dialogue: 0,1:29:47.10,1:29:54.68,Default,,0,0,0,,From the moment I met you - all those years ago - not a day has gone by that I haven't thought of you.
+Dialogue: 0,1:29:56.50,1:29:57.08,Default,,0,0,0,,Really?
+Dialogue: 0,1:29:59.40,1:30:00.28,Default,,0,0,0,,And -
+Dialogue: 0,1:30:03.30,1:30:05.84,Default,,0,0,0,,now that I'm with you, I'm on agony.
+Dialogue: 0,1:30:07.90,1:30:09.90,Default,,0,0,0,,I - I had no idea.
+Dialogue: 0,1:30:11.32,1:30:15.28,Default,,0,0,0,,ah - At the thought of not being with you, I can't breath.
+Dialogue: 0,1:30:17.02,1:30:20.98,Default,,0,0,0,,I'm haunted by the kiss that you never should have given me.
+Dialogue: 0,1:30:21.52,1:30:23.40,Default,,0,0,0,,We never kissed!\N[half laughing]
+Dialogue: 0,1:30:24.06,1:30:24.62,Default,,0,0,0,,Wait!
+Dialogue: 0,1:30:25.84,1:30:26.42,Default,,0,0,0,,Did we?
+Dialogue: 0,1:30:27.98,1:30:32.64,Default,,0,0,0,,My heart is beating, hoping that that kiss will not become a scar.
+Dialogue: 0,1:30:36.70,1:30:38.38,Default,,0,0,0,,Jeffrey Tarkin -
+Dialogue: 0,1:30:39.18,1:30:40.08,Default,,0,0,0,,you -
+Dialogue: 0,1:30:41.30,1:30:42.74,Default,,0,0,0,,are a poet.
+Dialogue: 0,1:30:47.28,1:30:48.08,Default,,0,0,0,,No - 
+Dialogue: 0,1:30:48.68,1:30:52.88,Default,,0,0,0,,No man has ever spoken to me like this. You just seem so -
+Dialogue: 0,1:30:53.36,1:30:54.38,Default,,0,0,0,,pathetic!
+Dialogue: 0,1:30:54.38,1:30:55.54,Default,,0,0,0,,I am, I am!
+Dialogue: 0,1:30:56.50,1:30:59.64,Default,,0,0,0,,You're in my very soul, tormenting me!
+Dialogue: 0,1:30:59.64,1:31:02.44,Default,,0,0,0,,Oh, I'm so sorry, I feel so guilty.
+Dialogue: 0,1:31:03.30,1:31:07.76,Default,,0,0,0,,If you are suffering as much as I am, please tell me.
+Dialogue: 0,1:31:09.20,1:31:11.04,Default,,0,0,0,,I think I am.
+Dialogue: 0,1:31:12.16,1:31:17.36,Default,,0,0,0,,Jeffrey, this is gonna sound crazy, but I think that we should get married.
+Dialogue: 0,1:31:17.88,1:31:18.98,Default,,0,0,0,,Tomorrow!
+Dialogue: 0,1:31:26.56,1:31:27.90,Default,,0,0,0,,Holy smokes!
+Dialogue: 0,1:31:29.02,1:31:29.98,Default,,0,0,0,,Thanks, Ani!
+Dialogue: 0,1:31:29.98,1:31:31.98,Default,,0,0,0,,
