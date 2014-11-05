@@ -17,8 +17,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
 Scroll Position: 153
-Active Line: 170
-Video Position: 144233
+Active Line: 167
+Video Position: 144243
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +32,7 @@ Style: Emely,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,1:31:32.96,1:31:36.84,Default,,0,0,0,,From the moment I met you
-Dialogue: 0,1:31:37.16,1:31:40.29,Default,,0,0,0,,For those years ago
+Dialogue: 0,1:31:37.16,1:31:40.29,Default,,0,0,0,,All those years ago
 Dialogue: 0,1:31:40.41,1:31:44.01,Default,,0,0,0,,Not a single day has gone away
 Dialogue: 0,1:31:44.01,1:31:47.25,Default,,0,0,0,,That I didn't think of you
 Dialogue: 0,1:31:47.84,1:31:51.50,Default,,0,0,0,,And now that I'm with you
@@ -56,7 +56,7 @@ Dialogue: 0,1:33:14.45,1:33:20.60,Default,,0,0,0,,I cannot breath
 Dialogue: 0,1:33:20.60,1:33:25.12,Default,,0,0,0,,I'm haunted by the kiss that you
 Dialogue: 0,1:33:26.32,1:33:30.49,Default,,0,0,0,,Haunted by the kiss
 Dialogue: 0,1:33:27.27,1:33:30.89,Default,,0,0,0,,That you never should have given me
-Dialogue: 0,1:33:30.89,1:33:37.18,Default,,0,0,0,,That you never should have given me - oh
+Dialogue: 0,1:33:30.89,1:33:37.18,Default,,0,0,0,,That you never should have given me - oh no
 Dialogue: 0,1:33:33.86,1:33:38.36,Default,,0,0,0,,I'm haunted by the kiss that you
 Dialogue: 0,1:33:37.93,1:33:43.22,Default,,0,0,0,,Haunted by - haunted by the kiss
 Dialogue: 0,1:33:40.43,1:33:48.72,Default,,0,0,0,,That you never should have given me
@@ -101,14 +101,14 @@ Dialogue: 0,1:35:38.90,1:35:40.38,JarJar,,0,0,0,,Yeah.
 Dialogue: 0,1:35:40.38,1:35:42.81,Obi-Wan,,0,0,0,,Oh, yippie ho...
 Dialogue: 0,1:35:42.81,1:35:46.67,Obi-Wan,,0,0,0,,Whoop di doo.
 Dialogue: 0,1:35:47.80,1:35:50.62,Obi-Wan,,0,0,0,,Is that what you think we are, J.J.?
-Dialogue: 0,1:35:50.62,1:35:53.90,Obi-Wan,,0,0,0,,Boyos, ???, companions, friends?
+Dialogue: 0,1:35:50.62,1:35:53.90,Obi-Wan,,0,0,0,,Boyos, bosom companions, friends?
 Dialogue: 0,1:35:53.90,1:35:55.31,JarJar,,0,0,0,,That's what they speak.
 Dialogue: 0,1:35:55.31,1:35:59.13,Obi-Wan,,0,0,0,,The ability to speak does not make one intelligent.
 Dialogue: 0,1:36:00.03,1:36:04.02,Obi-Wan,,0,0,0,,You know what I said to Qui-Gon the day that we found you on Naboo?
 Dialogue: 0,1:36:04.02,1:36:07.36,Obi-Wan,,0,0,0,,I said: You leave that rabbit duck where you found it!
 Dialogue: 0,1:36:07.81,1:36:10.88,Obi-Wan,,0,0,0,,And he said to me: This Gungan may be of help.
 Dialogue: 0,1:36:11.25,1:36:12.52,Obi-Wan,,0,0,0,,But he was wrong.
-Dialogue: 0,1:36:13.03,1:36:14.69,Obi-Wan,,0,0,0,,Wasn't he, Mr. Binks.
+Dialogue: 0,1:36:13.03,1:36:14.69,Obi-Wan,,0,0,0,,Wasn't he, Mr. Binks?
 Dialogue: 0,1:36:14.69,1:36:15.38,JarJar,,0,0,0,,No.
 Dialogue: 0,1:36:15.38,1:36:18.32,Obi-Wan,,0,0,0,,And now I have one final question for you:
 Dialogue: 0,1:36:19.08,1:36:20.90,Obi-Wan,,0,0,0,,Is it duck season...
@@ -123,7 +123,7 @@ Dialogue: 0,1:36:42.08,1:36:42.72,JarJar,,0,0,0,,My booze?
 Dialogue: 0,1:36:42.72,1:36:44.19,Obi-Wan,,0,0,0,,Yeah. Give me booze, now!
 Dialogue: 0,1:36:43.81,1:36:44.97,JarJar,,0,0,0,,I don't drink anymore.
 Dialogue: 0,1:36:44.88,1:36:47.36,Obi-Wan,,0,0,0,,Come on, mad. I - uh - I know you've got soemthing.
-Dialogue: 0,1:36:47.36,1:36:49.46,Obi-Wan,,0,0,0,,Don't hold out on me. I'm not ??? out here. 
+Dialogue: 0,1:36:47.36,1:36:49.46,Obi-Wan,,0,0,0,,Don't hold out on me. I'm not ??? out here.
 Dialogue: 0,1:36:48.38,1:36:50.25,JarJar,,0,0,0,,Okay. Okay, okay, okay.
 Dialogue: 0,1:36:50.25,1:36:52.68,JarJar,,0,0,0,,But it's just for emergencies, okay?
 Dialogue: 0,1:36:51.73,1:36:53.01,Obi-Wan,,0,0,0,,Alright. Half, so what.
@@ -134,7 +134,7 @@ Dialogue: 0,1:36:58.13,1:37:00.55,JarJar,,0,0,0,,I checked my pockets, Obi. Plea
 Dialogue: 0,1:37:00.21,1:37:01.75,Obi-Wan,,0,0,0,,Okay, okay.
 Dialogue: 0,1:37:01.94,1:37:04.18,Obi-Wan,,0,0,0,,Now do me a favor, J.J.
 Dialogue: 0,1:37:04.18,1:37:06.21,Obi-Wan,,0,0,0,,And once I've killed you...
-Dialogue: 0,1:37:06.21,1:37:08.90,Obi-Wan,,0,0,0,,Don't come back as a god damn robot!
+Dialogue: 0,1:37:06.21,1:37:08.90,Obi-Wan,,0,0,0,,Don't come back as a goddamn robot!
 Dialogue: 0,1:37:08.90,1:37:09.94,JarJar,,0,0,0,,Please, no!
 Dialogue: 0,1:37:10.27,1:37:11.03,JarJar,,0,0,0,,Argh!
 Dialogue: 0,1:37:13.18,1:37:15.33,Obi-Wan,,0,0,0,,Oh, oh. I better get out of here!
@@ -147,7 +147,7 @@ Dialogue: 0,1:37:30.73,1:37:33.40,Tarkin,,0,0,0,,Ani. This is not your fault.
 Dialogue: 0,1:37:33.98,1:37:35.40,Tarkin,,0,0,0,,J.J. has been shot.
 Dialogue: 0,1:37:37.91,1:37:38.76,Ani,,0,0,0,,Shot?
 Dialogue: 0,1:37:38.43,1:37:39.10,Tarkin,,0,0,0,,Yes.
-Dialogue: 0,1:37:40.27,1:37:41.10,Ani,,0,0,0,,But who?
+Dialogue: 0,1:37:40.27,1:37:41.10,Ani,,0,0,0,,By who?
 Dialogue: 0,1:37:41.67,1:37:44.07,Tarkin,,0,0,0,,We don't know. He's not making much sense in there.
 Dialogue: 0,1:37:45.56,1:37:46.61,Ani,,0,0,0,,Well, I wanna see him!
 Dialogue: 0,1:37:46.22,1:37:48.92,Ani,,0,0,0,,No, Ani. You better not go back there! No, Ani, wait!
@@ -160,11 +160,11 @@ Dialogue: 0,1:38:08.08,1:38:09.29,Ani,,0,0,0,,Of course not.
 Dialogue: 0,1:38:09.29,1:38:10.12,Obi-Wan,,0,0,0,,Argh.
 Dialogue: 0,1:38:09.98,1:38:11.01,Ani,,0,0,0,,You'll be oki-day.
 Dialogue: 0,1:38:11.46,1:38:13.01,JarJar,,0,0,0,,Monsters out there.
-Dialogue: 0,1:38:13.70,1:38:15.65,JarJar,,0,0,0,,Leak-in inn here.
+Dialogue: 0,1:38:13.70,1:38:15.65,JarJar,,0,0,0,,Leak-in in here.
 Dialogue: 0,1:38:15.65,1:38:18.22,JarJar,,0,0,0,,All sinking and no power.
 Dialogue: 0,1:38:18.84,1:38:22.12,JarJar,,0,0,0,,When you-sa thinking J.J. gonna be in trouble?
 Dialogue: 0,1:38:23.62,1:38:25.49,Ani,,0,0,0,,J.J., this is all my fault.
-Dialogue: 0,1:38:26.36,1:38:28.57,Ani,,0,0,0,,I never should have dragged you into this mess,
+Dialogue: 0,1:38:26.36,1:38:28.57,Ani,,0,0,0,,I never should have dragged you into this mess.
 Dialogue: 0,1:38:28.83,1:38:31.12,Ani,,0,0,0,,If only I could stop people from dying!
 Dialogue: 0,1:38:31.12,1:38:31.78,JarJar,,0,0,0,,Urgh.
 Dialogue: 0,1:38:33.62,1:38:35.97,JarJar,,0,0,0,,Better dead here...
@@ -181,7 +181,7 @@ Dialogue: 0,1:39:03.48,1:39:04.56,Ani,,0,0,0,,J.J.!
 Dialogue: 0,1:39:14.79,1:39:18.11,Ani,,0,0,0,,Noooo!
 Dialogue: 0,1:39:19.58,1:39:20.82,Tarkin,,0,0,0,,Oh, my!
 Dialogue: 0,1:39:21.43,1:39:22.99,Emely,,0,0,0,,[sound of a goat???]
-Dialogue: 0,1:39:23.19,1:39:24.99,Emely,,0,0,0,,???, Ani?
+Dialogue: 0,1:39:23.19,1:39:24.99,Emely,,0,0,0,,Was that Ani?
 Dialogue: 0,1:39:25.53,1:39:26.99,Tarkin,,0,0,0,,I'll go and speak with him.
 Dialogue: 0,1:39:27.34,1:39:29.57,Tarkin,,0,0,0,,I can only image how he must be feeling.
 Dialogue: 0,1:39:36.46,1:39:37.05,Tarkin,,0,0,0,,Ani!
@@ -191,14 +191,14 @@ Dialogue: 0,1:39:42.97,1:39:45.13,Ani,,0,0,0,,I'm going back to the Death Star. 
 Dialogue: 0,1:39:45.13,1:39:45.83,Tarkin,,0,0,0,,What?
 Dialogue: 0,1:39:46.52,1:39:47.40,Tarkin,,0,0,0,,What about the race?
 Dialogue: 0,1:39:47.40,1:39:48.62,Ani,,0,0,0,,Well, forget the race!
-Dialogue: 0,1:39:49.46,1:39:52.42,Ani,,0,0,0,,It was a dumb idea to begin with and now it' got J.J. killed.
+Dialogue: 0,1:39:49.46,1:39:52.42,Ani,,0,0,0,,It was a dumb idea to begin with and now it's got J.J. killed.
 Dialogue: 0,1:39:53.27,1:39:54.42,Tarkin,,0,0,0,,What are you talking about?
 Dialogue: 0,1:39:55.28,1:39:57.54,Ani,,0,0,0,,Well, somebody obviously doesn't want me to compete.
 Dialogue: 0,1:39:58.09,1:39:59.43,Ani,,0,0,0,,That's why they killed by pit crew.
 Dialogue: 0,1:39:59.43,1:40:01.74,Ani,,0,0,0,,That's the only explanation for what's going on here.
 Dialogue: 0,1:40:01.56,1:40:03.27,Tarkin,,0,0,0,,That's not necessarily true.
 Dialogue: 0,1:40:03.65,1:40:05.17,Tarkin,,0,0,0,,Everyone hated J.J.
-Dialogue: 0,1:40:07.38,1:40:09.70,Tarkin,,0,0,0,,And lots of them wanted to see him dead.
+Dialogue: 0,1:40:07.38,1:40:09.70,Tarkin,,0,0,0,,And a lot of them wanted to see him dead.
 Dialogue: 0,1:40:11.19,1:40:13.81,Tarkin,,0,0,0,,But the only thing that he wanted to see...
 Dialogue: 0,1:40:14.17,1:40:15.69,Tarkin,,0,0,0,,Was you racing again.
 Dialogue: 0,1:40:15.69,1:40:17.69,Tarkin,,0,0,0,,

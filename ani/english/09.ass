@@ -10,24 +10,25 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Last Style Storage: Default
+Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 157
-Active Line: 167
-Video Position: 131628
+Video Zoom Percent: 0.750000
+Scroll Position: 61
+Active Line: 75
+Video Position: 131722
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,1:20:51.96,1:20:54.40,Default,,0,0,0,,You didn't even suspect foul play?
 Dialogue: 0,1:20:54.58,1:20:56.84,Default,,0,0,0,,Well, our vision was clouded.
-Dialogue: 0,1:20:57.08,1:20:58.74,Default,,0,0,0,,And we were stupid.
+Dialogue: 0,1:20:57.08,1:20:58.74,Default,,0,0,0,,And we were very stupid.
 Dialogue: 0,1:21:00.92,1:21:03.48,Default,,0,0,0,,But to our credit we were being tricked.
 Dialogue: 0,1:21:03.94,1:21:09.88,Default,,0,0,0,,You see, both the republic and the separatists were secretly been controlled by the emperor.
 Dialogue: 0,1:21:10.38,1:21:17.16,Default,,0,0,0,,He was fighting a war against himself for control of a galaxy, that he already had control of.
@@ -39,7 +40,7 @@ Dialogue: 0,1:21:34.40,1:21:37.14,Default,,0,0,0,,We couldn't just let the Siths
 Dialogue: 0,1:21:37.28,1:21:43.86,Default,,0,0,0,,They're a group of religious [???] who want to impose their will on everyone else, and that's the Jedi's job!
 Dialogue: 0,1:21:45.20,1:21:45.68,Default,,0,0,0,,Hmmm...
 Dialogue: 0,1:21:46.04,1:21:50.18,Default,,0,0,0,,We are the light side, they are the dark side, they believe in love, we forbid it!
-Dialogue: 0,1:21:51.10,1:21:54.82,Default,,0,0,0,,Though you see, though you see, there - there has to be a balance.
+Dialogue: 0,1:21:51.10,1:21:54.82,Default,,0,0,0,,Don't you see? Don't you see, there - there has to be a balance.
 Dialogue: 0,1:21:55.36,1:21:58.64,Default,,0,0,0,,A harmony between light and the dark side.
 Dialogue: 0,1:21:58.86,1:22:03.42,Default,,0,0,0,,And to create that harmony we wanted to wipe out the dark side!
 Dialogue: 0,1:22:04.28,1:22:11.06,Default,,0,0,0,,And then all the sudden two Siths come along, and they kill all but two Jedis? That's not balance!
@@ -86,7 +87,7 @@ Dialogue: 0,1:24:47.72,1:24:49.94,Default,,0,0,0,,Especially for a man of Ani's 
 Dialogue: 0,1:24:50.24,1:24:53.68,Default,,0,0,0,,And especially if he doesn't have his pit crew there to help him.
 Dialogue: 0,1:24:54.00,1:25:01.34,Default,,0,0,0,,So what do you say? I take care of the pit crew, and you make sure that Ani doesn't finish the race?
 Dialogue: 0,1:25:01.46,1:25:02.78,Default,,0,0,0,,[Sebulba laughs silently]
-Dialogue: 0,1:25:02.78,1:25:07.44,Default,,0,0,0,,Yes, have [???] his pod if you have to, I don't care, just kill him!
+Dialogue: 0,1:25:02.78,1:25:07.44,Default,,0,0,0,,Yes, sabotage his pod if you have to, I don't care, just kill him!
 Dialogue: 0,1:25:09.16,1:25:12.06,Default,,0,0,0,,Yes... I like you [???]
 Dialogue: 0,1:25:16.12,1:25:20.06,Default,,0,0,0,,I like you because you are a animal and I like animals.
 Dialogue: 0,1:25:22.10,1:25:24.54,Default,,0,0,0,,You remind me of my friend Yoda.
@@ -94,12 +95,12 @@ Dialogue: 0,1:25:25.00,1:25:28.70,Default,,0,0,0,,Yoda is a green animal who liv
 Dialogue: 0,1:25:30.42,1:25:31.94,Default,,0,0,0,,You'd like him, he's cute.
 Dialogue: 0,1:25:32.86,1:25:39.76,Default,,0,0,0,,And now - lets have a drink. To our fiendish union - Of the light side!
 Dialogue: 0,1:25:39.96,1:25:42.70,Default,,0,0,0,,[both laugh]
-Dialogue: 0,1:25:53.22,1:25:53.68,Default,,0,0,0,,Huhu - 
+Dialogue: 0,1:25:53.22,1:25:53.68,Default,,0,0,0,,Huhu -
 Dialogue: 0,1:25:54.98,1:25:56.40,Default,,0,0,0,,Here goes nothing...
 Dialogue: 0,1:25:57.42,1:25:58.72,Default,,0,0,0,,[ring]
 Dialogue: 0,1:26:00.20,1:26:01.42,Default,,0,0,0,,[ring]
 Dialogue: 0,1:26:02.68,1:26:03.42,Default,,0,0,0,,Jeffrey?
-Dialogue: 0,1:26:03.56,1:26:04.72,Default,,0,0,0,,Oh, hello, Papi.
+Dialogue: 0,1:26:03.56,1:26:04.72,Default,,0,0,0,,Oh, hello, Pappy.
 Dialogue: 0,1:26:04.86,1:26:08.32,Default,,0,0,0,,Jeffrey, I finished that Lego set I was working on.
 Dialogue: 0,1:26:08.54,1:26:10.32,Default,,0,0,0,,You must be so proud of yourself, Sir.
 Dialogue: 0,1:26:10.52,1:26:13.68,Default,,0,0,0,,Well, I didn't do it all by myself, I had some help.
@@ -180,7 +181,7 @@ Dialogue: 0,1:30:27.98,1:30:32.64,Default,,0,0,0,,My heart is beating, hoping th
 Dialogue: 0,1:30:36.70,1:30:38.38,Default,,0,0,0,,Jeffrey Tarkin -
 Dialogue: 0,1:30:39.18,1:30:40.08,Default,,0,0,0,,you -
 Dialogue: 0,1:30:41.30,1:30:42.74,Default,,0,0,0,,are a poet.
-Dialogue: 0,1:30:47.28,1:30:48.08,Default,,0,0,0,,No - 
+Dialogue: 0,1:30:47.28,1:30:48.08,Default,,0,0,0,,No -
 Dialogue: 0,1:30:48.68,1:30:52.88,Default,,0,0,0,,No man has ever spoken to me like this. You just seem so -
 Dialogue: 0,1:30:53.36,1:30:54.38,Default,,0,0,0,,pathetic!
 Dialogue: 0,1:30:54.38,1:30:55.54,Default,,0,0,0,,I am, I am!
