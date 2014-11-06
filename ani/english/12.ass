@@ -10,18 +10,181 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: D:/yuffi81/yuffi81s-subtitles_sorcetree/ani/video/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: D:/yuffi81/yuffi81s-subtitles_sorcetree/ani/video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Last Style Storage: Default
+Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Video Position: 175766
+Scroll Position: 78
+Active Line: 90
+Video Position: 174821
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Ani,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Emperor,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Commentator,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Tarkin,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Obi-Wan,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Qui-Gon,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Boba Fett,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Mara,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Jabba,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Bib Fortuna,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,2:02:10.90,2:02:13.08,Default,,0,0,0,,
-Dialogue: 0,2:02:13.08,2:02:15.08,Default,,0,0,0,,
+Dialogue: 0,1:52:51.34,1:52:53.58,Ani,,0,0,0,,It's working!
+Dialogue: 0,1:52:53.58,1:52:56.69,Ani,,0,0,0,,It's working!
+Dialogue: 0,1:52:56.69,1:52:59.30,Emperor,,0,0,0,,Good. Now go, Ani! Go!
+Dialogue: 0,1:52:59.30,1:53:03.12,Default,,0,0,0,,And remember: Try spinning. That's a good trick.
+Dialogue: 0,1:53:05.53,1:53:08.68,Commentator,,0,0,0,,Well it appears that our ??? racers are dead.
+Dialogue: 0,1:53:09.06,1:53:12.19,Commentator,,0,0,0,,Which makes the outcome of this race a foregone conclusion.
+Dialogue: 0,1:53:12.27,1:53:16.73,Commentator,,0,0,0,,And here he comes now: The undisputed podracing champ of the galaxy, Sebulba.
+Dialogue: 0,1:53:17.04,1:53:21.29,Commentator,,0,0,0,,Making his way to the hot flats, taking his time, enjoying the scenery.
+Dialogue: 0,1:53:21.29,1:53:22.43,Commentator,,0,0,0,,And why wouldn't he?
+Dialogue: 0,1:53:22.43,1:53:26.69,Commentator,,0,0,0,,There is absolutely no one who can possibly stop him now. What was that?!?
+Dialogue: 0,1:53:28.81,1:53:33.91,Commentator,,0,0,0,,Folks, our cameras are trying to pick something up but it's moving just too gosh damn fast! We can't get a focus on it.
+Dialogue: 0,1:53:34.34,1:53:35.41,Commentator,,0,0,0,,Did you see that?
+Dialogue: 0,1:53:35.41,1:53:37.41,Commentator,,0,0,0,,Wait! Could it be?
+Dialogue: 0,1:53:37.41,1:53:39.41,Commentator,,0,0,0,,I - I think it is.
+Dialogue: 0,1:53:39.41,1:53:40.33,Commentator,,0,0,0,,It's...
+Dialogue: 0,1:53:40.76,1:53:41.79,Commentator,,0,0,0,,It's...
+Dialogue: 0,1:53:41.79,1:53:45.54,Commentator,,0,0,0,,Ani!
+Dialogue: 0,1:53:50.87,1:53:55.66,Default,,0,0,0,,One in a million
+Dialogue: 0,1:53:57.37,1:54:00.77,Default,,0,0,0,,One in a million
+Dialogue: 0,1:54:03.78,1:54:06.26,Tarkin,,0,0,0,,Ani!
+Dialogue: 0,1:54:06.88,1:54:11.20,Tarkin,,0,0,0,,You've got the high ground.
+Dialogue: 0,1:54:12.38,1:54:17.10,Tarkin,,0,0,0,,Hit the nose!
+Dialogue: 0,1:54:18.58,1:54:23.76,Default,,0,0,0,,One in a million
+Dialogue: 0,1:54:23.24,1:54:24.97,Default,,0,0,0,,And Sebulba is going down!
+Dialogue: 0,1:54:24.97,1:54:26.39,Default,,0,0,0,,Watch out, he's going down!
+Dialogue: 0,1:54:26.39,1:54:28.51,Default,,0,0,0,,Here comes Ani across the finish line.
+Dialogue: 0,1:54:28.51,1:54:30.51,Default,,0,0,0,,The new podracing champ!
+Dialogue: 0,1:54:30.51,1:54:32.51,Default,,0,0,0,,Ani!
+Dialogue: 0,1:54:37.05,1:54:41.54,Ani,,0,0,0,,They were like animals and I slaughtered them like animals. I hate them!
+Dialogue: 0,1:54:41.54,1:54:43.27,Default,,0,0,0,,Yeah!
+Dialogue: 0,1:54:43.27,1:54:44.83,Ani,,0,0,0,,??? J.J.
+Dialogue: 0,1:54:45.24,1:54:46.83,Ani,,0,0,0,,We did it!
+Dialogue: 0,1:54:47.86,1:54:49.74,Ani,,0,0,0,,We did it!
+Dialogue: 0,1:54:51.29,1:54:53.08,Default,,0,0,0,,One in a million
+Dialogue: 0,1:54:54.07,1:54:55.64,Obi-Wan,,0,0,0,,What? He won?!?
+Dialogue: 0,1:54:55.64,1:54:57.73,Obi-Wan,,0,0,0,,That's not fair! We cheated!
+Dialogue: 0,1:54:59.86,1:55:00.73,Obi-Wan,,0,0,0,,Oh, well.
+Dialogue: 0,1:55:01.09,1:55:03.37,Obi-Wan,,0,0,0,,I guess I'll move on to plan b.
+Dialogue: 0,1:55:03.63,1:55:09.05,Obi-Wan,,0,0,0,,I'll raise Ani's son in ignorance and I'll trick him into killing his own father.
+Dialogue: 0,1:55:11.26,1:55:13.29,Obi-Wan,,0,0,0,,And if I kept to sieve the boy...
+Dialogue: 0,1:55:13.29,1:55:15.50,Obi-Wan,,0,0,0,,There's allways sister.
+Dialogue: 0,1:55:15.50,1:55:19.33,Qui-Gon,,0,0,0,,Oh let it go, old friend.
+Dialogue: 0,1:55:20.16,1:55:21.85,Obi-Wan,,0,0,0,,Oh, Qui-Gon. There you are.
+Dialogue: 0,1:55:21.85,1:55:23.55,Qui-Gon,,0,0,0,,Ah.
+Dialogue: 0,1:55:23.55,1:55:24.74,Obi-Wan,,0,0,0,,I thought you were dead.
+Dialogue: 0,1:55:24.74,1:55:26.74,Qui-Gon,,0,0,0,,Huh? I am.
+Dialogue: 0,1:55:26.74,1:55:27.98,Qui-Gon,,0,0,0,,I'm a ghost.
+Dialogue: 0,1:55:27.98,1:55:28.80,Obi-Wan,,0,0,0,,Oh.
+Dialogue: 0,1:55:28.99,1:55:30.42,Qui-Gon,,0,0,0,,Care for a drink?
+Dialogue: 0,1:55:30.42,1:55:31.18,Obi-Wan,,0,0,0,,Always.
+Dialogue: 0,1:55:31.18,1:55:33.76,Qui-Gon,,0,0,0,,Ha ha ha. I call this one...
+Dialogue: 0,1:55:33.76,1:55:35.76,Qui-Gon,,0,0,0,,A Qui-Gon Gin.
+Dialogue: 0,1:55:38.34,1:55:40.04,Qui-Gon,,0,0,0,,And tonic.
+Dialogue: 0,1:55:40.31,1:55:43.32,Obi-Wan,,0,0,0,,Well that sounds lovely, thank you. - Hey!
+Dialogue: 0,1:55:44.02,1:55:45.64,Obi-Wan,,0,0,0,,Hey!
+Dialogue: 0,1:55:45.64,1:55:46.73,Obi-Wan,,0,0,0,,Hey!
+Dialogue: 0,1:55:48.32,1:55:52.42,Obi-Wan,,0,0,0,,I can't get it. It's all blue and see-through like you.
+Dialogue: 0,1:55:52.88,1:55:54.11,Qui-Gon,,0,0,0,,Sorry, friend.
+Dialogue: 0,1:55:54.11,1:55:56.68,Qui-Gon,,0,0,0,,But boo-s are for ghosts.
+Dialogue: 0,1:56:03.45,1:56:04.84,Qui-Gon,,0,0,0,,You see what I did there?
+Dialogue: 0,1:56:05.61,1:56:08.26,Qui-Gon,,0,0,0,,Boo! It's the sound the ghost makes.
+Dialogue: 0,1:56:09.14,1:56:12.63,Qui-Gon,,0,0,0,,And booze is a word of an alcoholic beverage.
+Dialogue: 0,1:56:13.17,1:56:15.41,Qui-Gon,,0,0,0,,It's a humorous play on words.
+Dialogue: 0,1:56:16.27,1:56:19.20,Qui-Gon,,0,0,0,,And that's where the comedy comes in.
+Dialogue: 0,1:56:19.70,1:56:20.80,Qui-Gon,,0,0,0,,*Gulp*
+Dialogue: 0,1:56:28.65,1:56:30.00,Obi-Wan,,0,0,0,,No!
+Dialogue: 0,1:56:31.02,1:56:32.31,Obi-Wan,,0,0,0,,I wanted a drink!
+Dialogue: 0,1:56:33.54,1:56:35.29,Obi-Wan,,0,0,0,,I wanna drink a drink!
+Dialogue: 0,1:56:38.31,1:56:38.96,Obi-Wan,,0,0,0,,Oh, well...
+Dialogue: 0,1:56:40.60,1:56:42.42,Obi-Wan,,0,0,0,,Strike me down, now.
+Dialogue: 0,1:56:43.56,1:56:45.35,Obi-Wan,,0,0,0,,And I will become...
+Dialogue: 0,1:56:45.69,1:56:46.79,Obi-Wan,,0,0,0,,More powerful...
+Dialogue: 0,1:56:48.17,1:56:50.22,Obi-Wan,,0,0,0,,Than you can possibly match.
+Dialogue: 0,1:57:06.81,1:57:08.28,Ani,,0,0,0,,Alright, Mara. Listen up.
+Dialogue: 0,1:57:08.47,1:57:12.04,Ani,,0,0,0,,Jabi can be a little intimidating. See, if he's starting to get nervous, just picture him naked.
+Dialogue: 0,1:57:13.17,1:57:14.93,Ani,,0,0,0,,That's a joke, kid. He's always naked.
+Dialogue: 0,1:57:15.98,1:57:16.92,Ani,,0,0,0,,You'll see.
+Dialogue: 0,1:57:17.16,1:57:18.64,Ani,,0,0,0,,Got to relax. It'll be great.
+Dialogue: 0,1:57:18.93,1:57:21.66,Boba Fett,,0,0,0,,Jo oh ho. Ani! Mara!
+Dialogue: 0,1:57:21.66,1:57:24.37,Mara,,0,0,0,,Hey, Bob. Thanks for getting me this audition.
+Dialogue: 0,1:57:24.37,1:57:25.79,Boba Fett,,0,0,0,,Ah, no sweat.
+Dialogue: 0,1:57:25.79,1:57:29.31,Boba Fett,,0,0,0,,I whisper in Jabba's ear and you get an audition the same day.
+Dialogue: 0,1:57:29.31,1:57:32.77,Boba Fett,,0,0,0,,When Bob says something, you know it's for real.
+Dialogue: 0,1:57:41.70,1:57:42.80,Ani,,0,0,0,,Hey, kid.
+Dialogue: 0,1:57:44.29,1:57:45.46,Ani,,0,0,0,,Knock him dead!
+Dialogue: 0,1:57:46.27,1:57:47.17,Mara,,0,0,0,,Thanks, Ani.
+Dialogue: 0,1:57:47.17,1:57:52.52,Jabba,,0,0,0,,Oh... ho... ho... ho...
+Dialogue: 0,1:57:48.09,1:57:49.64,Bib Fortuna,,0,0,0,,Okay, Jabba.
+Dialogue: 0,1:57:51.08,1:57:54.52,Bib Fortuna,,0,0,0,,Okay, we jot one last audition to see today.
+Dialogue: 0,1:57:54.52,1:57:57.61,Jabba,,0,0,0,,Lo chiba Jedi.
+Dialogue: 0,1:57:57.94,1:58:00.27,Bib Fortuna,,0,0,0,,Jabba says: Whenever you're ready.
+Dialogue: 0,1:58:00.27,1:58:01.18,Mara,,0,0,0,,Okay.
+Dialogue: 0,1:58:16.22,1:58:19.15,Jabba,,0,0,0,,Oh... ho... ho... ho...
+Dialogue: 0,1:58:17.81,1:58:19.22,Bib Fortuna,,0,0,0,,She fell down.
+Dialogue: 0,1:58:19.23,1:58:21.12,Bib Fortuna,,0,0,0,,During her big audition.
+Dialogue: 0,1:58:21.12,1:58:23.12,Bib Fortuna,,0,0,0,, He he he. That sucks!
+Dialogue: 0,1:58:23.12,1:58:25.46,Bib Fortuna,,0,0,0,,He he he...
+Dialogue: 0,1:58:23.77,1:58:25.32,Ani,,0,0,0,,Come on, kid. You can do this!
+Dialogue: 0,1:58:40.03,1:58:42.84,Default,,0,0,0,,Everyone thought they were dreaming
+Dialogue: 0,1:58:43.20,1:58:45.78,Default,,0,0,0,,They couldn't believe their eyes
+Dialogue: 0,1:58:46.12,1:58:49.40,Default,,0,0,0,,No one saw you - saw you coming
+Dialogue: 0,1:58:49.93,1:58:52.55,Default,,0,0,0,,You took them by surprise
+Dialogue: 0,1:58:53.55,1:58:56.38,Default,,0,0,0,,They all said you are too ???
+Dialogue: 0,1:58:56.38,1:58:59.14,Default,,0,0,0,,It was there then he passed you by
+Dialogue: 0,1:58:59.65,1:59:01.05,Default,,0,0,0,,You proved him wrong
+Dialogue: 0,1:59:01.40,1:59:02.96,Default,,0,0,0,,Now they know it
+Dialogue: 0,1:59:03.67,1:59:08.47,Default,,0,0,0,,Lightning strikes a second time
+Dialogue: 0,1:59:09.18,1:59:10.95,Default,,0,0,0,,Back on top
+Dialogue: 0,1:59:11.01,1:59:12.57,Default,,0,0,0,,A champion
+Dialogue: 0,1:59:12.57,1:59:14.22,Default,,0,0,0,,Back on top
+Dialogue: 0,1:59:14.45,1:59:15.88,Default,,0,0,0,,The only one
+Dialogue: 0,1:59:15.88,1:59:17.40,Default,,0,0,0,,Back on top
+Dialogue: 0,1:59:17.40,1:59:18.90,Default,,0,0,0,,I think you're back again
+Dialogue: 0,1:59:19.55,1:59:20.55,Bib Fortuna,,0,0,0,,Wow
+Dialogue: 0,1:59:26.26,1:59:28.45,Default,,0,0,0,,This girl is breaking all the rules
+Dialogue: 0,1:59:32.63,1:59:34.44,Default,,0,0,0,,You're on top of the world
+Dialogue: 0,1:59:34.61,1:59:36.12,Default,,0,0,0,,You're in command
+Dialogue: 0,1:59:36.12,1:59:39.48,Default,,0,0,0,,Everything exists in the palm of your hand
+Dialogue: 0,1:59:40.02,1:59:41.48,Default,,0,0,0,,Yeah you got it
+Dialogue: 0,1:59:42.09,1:59:45.87,Default,,0,0,0,,He just got to let it down
+Dialogue: 0,1:59:46.41,1:59:49.88,Default,,0,0,0,,If you've got a hunger then you've got to eat
+Dialogue: 0,1:59:49.88,1:59:53.03,Default,,0,0,0,,Just open your eyes and then you can see
+Dialogue: 0,1:59:53.26,1:59:56.43,Default,,0,0,0,,Just reach out your hand and then you can feel
+Dialogue: 0,1:59:56.43,1:59:59.60,Default,,0,0,0,,You just got to believe it and you can get
+Dialogue: 0,1:59:59.72,2:00:01.44,Default,,0,0,0,,Back on top
+Dialogue: 0,2:00:01.57,2:00:03.07,Default,,0,0,0,,A champion
+Dialogue: 0,2:00:03.07,2:00:04.78,Default,,0,0,0,,Back on top
+Dialogue: 0,2:00:04.88,2:00:06.35,Default,,0,0,0,,You know you are
+Dialogue: 0,2:00:06.35,2:00:07.88,Default,,0,0,0,,Back on top
+Dialogue: 0,2:00:07.88,2:00:09.90,Default,,0,0,0,,I think you're back again
+Dialogue: 0,2:00:09.90,2:00:11.33,Default,,0,0,0,,Back on top
+Dialogue: 0,2:00:13.26,2:00:14.71,Default,,0,0,0,,Back on top
+Dialogue: 0,2:00:16.59,2:00:18.13,Default,,0,0,0,,Back on top
+Dialogue: 0,2:00:20.24,2:00:21.54,Default,,0,0,0,,You're back on top
+Dialogue: 0,2:00:21.54,2:00:23.54,Default,,0,0,0,,I think you're back
+Dialogue: 0,2:00:26.27,2:00:27.40,Ani,,0,0,0,,Great dance, kid.
+Dialogue: 0,2:00:27.62,2:00:28.83,Ani,,0,0,0,,That was one in a million
+Dialogue: 0,2:00:28.83,2:00:29.93,Mara,,0,0,0,,Thanks, Ani.
+Dialogue: 0,2:00:30.06,2:00:32.24,Bib Fortuna,,0,0,0,,Jabba says you've got the part.
+Dialogue: 0,2:00:33.36,2:00:34.85,Bib Fortuna,,0,0,0,,She got the part!
+Dialogue: 0,2:00:34.85,2:00:37.16,Default,,0,0,0,,I think you're back again
+Dialogue: 0,2:00:37.54,2:00:38.88,Default,,0,0,0,,Ani
+Dialogue: 0,2:00:39.19,2:00:40.18,Default,,0,0,0,,Ani
+Dialogue: 0,2:00:40.73,2:00:41.86,Default,,0,0,0,,Ani
+Dialogue: 0,2:00:42.32,2:00:43.35,Default,,0,0,0,,Ani
+Dialogue: 0,2:00:43.48,2:00:50.82,Default,,0,0,0,,I think you're ready now
+Dialogue: 0,2:00:50.82,2:00:52.65,Default,,0,0,0,,I think you're ready to go
+Dialogue: 0,2:00:56.40,2:00:59.61,Default,,0,0,0,,This is the beginning...\N [Thanks for watching]
+Dialogue: 0,2:01:06.65,2:01:09.92,Default,,0,0,0,,[Special thanks to Rory Seize The Days (he always does...)]
+Dialogue: 0,2:01:14.41,2:01:18.02,Default,,0,0,0,,[And our subscribers]
+Dialogue: 0,2:01:22.09,2:01:25.49,Default,,0,0,0,,[See you on the trail to oregon]
+Dialogue: 0,2:02:12.85,2:02:14.91,Default,,0,0,0,,[bye]
