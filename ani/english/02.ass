@@ -16,8 +16,8 @@ Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 107
-Active Line: 112
+Scroll Position: 153
+Active Line: 182
 Video Position: 28867
 
 [V4+ Styles]
@@ -44,13 +44,13 @@ Dialogue: 0,0:10:37.82,0:10:39.60,Default,,0,0,0,,Hey guys...
 Dialogue: 0,0:10:38.42,0:10:39.90,Default,,0,0,0,,Ahh!
 Dialogue: 0,0:10:39.90,0:10:42.90,Default,,0,0,0,,Just wanna apologize real quick. I lost my temper back there.
 Dialogue: 0,0:10:42.90,0:10:44.54,Default,,0,0,0,,Shouldn't have tried to force-choke you guys.
-Dialogue: 0,0:10:44.74,0:10:46.68,Default,,0,0,0,,??? you guys are right. I've been, ah...
+Dialogue: 0,0:10:44.74,0:10:46.68,Default,,0,0,0,,Maybe you guys are right. I've been, ah...
 Dialogue: 0,0:10:46.68,0:10:48.46,Default,,0,0,0,,Sillly, but ah...
 Dialogue: 0,0:10:49.28,0:10:51.20,Default,,0,0,0,,You know what?
 Dialogue: 0,0:10:51.50,0:10:54.98,Default,,0,0,0,,I'm gonna come in tomorrow with some new ideas for you. Serious ones this time.
 Dialogue: 0,0:10:54.98,0:10:56.98,Default,,0,0,0,,And a few new Star-Wars jokes for you.
 Dialogue: 0,0:10:57.70,0:11:01.66,Default,,0,0,0,,But in the meantime... I don't know. Can I get anybody something to drink?
-Dialogue: 0,0:11:02.44,0:11:04.36,Default,,0,0,0,,How about some coffee. I'm serious. You want some coffee?
+Dialogue: 0,0:11:02.44,0:11:04.36,Default,,0,0,0,,How about some coffee. Hey Veers, you want some coffee?
 Dialogue: 0,0:11:04.44,0:11:05.58,Default,,0,0,0,,Yeah, I'll have a coffee.
 Dialogue: 0,0:11:05.58,0:11:06.42,Default,,0,0,0,,Great.
 Dialogue: 0,0:11:06.42,0:11:07.68,Default,,0,0,0,,Coffee is alright for me.
@@ -79,7 +79,7 @@ Dialogue: 0,0:12:09.78,0:12:11.34,Default,,0,0,0,,Oh no, you're not!
 Dialogue: 0,0:12:12.70,0:12:16.58,Default,,0,0,0,,Yes, I am. I cannot be absent for the remainder of the meeting...
 Dialogue: 0,0:12:15.88,0:12:17.54,Default,,0,0,0,,You're coming to me with me to get some coffee.
 Dialogue: 0,0:12:17.54,0:12:20.42,Default,,0,0,0,,Oh no. Terribly sorry, but I really cannot be...
-Dialogue: 0,0:12:19.18,0:12:21.88,Default,,0,0,0,,I don't ???. Let's go. Coffee time. Come on!
+Dialogue: 0,0:12:19.18,0:12:21.88,Default,,0,0,0,,Hey Tarki! Let's go. Coffee time. Come on!
 Dialogue: 0,0:12:24.38,0:12:25.70,Default,,0,0,0,,Alright, let's do it very quickly.
 Dialogue: 0,0:12:25.70,0:12:26.70,Default,,0,0,0,,Alright.
 Dialogue: 0,0:12:27.22,0:12:28.70,Default,,0,0,0,,Oh, this is great.
@@ -206,8 +206,8 @@ Dialogue: 0,0:19:24.66,0:19:31.74,Default,,0,0,0,,But that was long ago and far 
 Dialogue: 0,0:19:31.74,0:19:33.34,Default,,0,0,0,,Hey guys, it's me again.
 Dialogue: 0,0:19:33.52,0:19:37.02,Default,,0,0,0,,Know the trash compactor down at the detention level?
 Dialogue: 0,0:19:37.56,0:19:39.36,Default,,0,0,0,,Yeah, I'm stuck.
-Dialogue: 0,0:19:47.14,0:19:50.76,Default,,0,0,0,,???. Emergency! Emergency!
-Dialogue: 0,0:19:50.76,0:19:53.56,Default,,0,0,0,,Squat ??? to get to 22.
+Dialogue: 0,0:19:47.14,0:19:50.76,Default,,0,0,0,,Code red! Emergency! Emergency!
+Dialogue: 0,0:19:50.76,0:19:53.56,Default,,0,0,0,,Squat ??? report to [???] 22.
 Dialogue: 0,0:19:53.56,0:19:54.92,Default,,0,0,0,,Code red.
 Dialogue: 0,0:19:55.60,0:19:57.08,Default,,0,0,0,,Well, what do you think it is?
 Dialogue: 0,0:19:57.08,0:19:59.08,Default,,0,0,0,,Oh, probably another drill.

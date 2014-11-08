@@ -16,9 +16,9 @@ Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 106
-Active Line: 116
-Video Position: 22109
+Scroll Position: 182
+Active Line: 185
+Video Position: 28787
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +32,7 @@ Dialogue: 0,0:10:06.72,0:10:08.18,Default,,0,0,0,,Weißt du, ich habe etwas für
 Dialogue: 0,0:10:08.18,0:10:10.16,Default,,0,0,0,,Also, das ist wirklich nicht nötig...
 Dialogue: 0,0:10:10.54,0:10:13.64,Default,,0,0,0,,Nein es ist mir nicht erlaubt Geschenke anzunehmen. Das ist Teil meines...
 Dialogue: 0,0:10:09.46,0:10:10.94,Default,,0,0,0,,Oh nein, du wirst es lieben, vertrau mir.
-Dialogue: 0,0:10:10.94,0:10:12.88,Default,,0,0,0,,Ich muß es nur eben schnell aus meiner Tasche holen. 
+Dialogue: 0,0:10:10.94,0:10:12.88,Default,,0,0,0,,Ich muß es nur eben schnell aus meiner Tasche holen.
 Dialogue: 0,0:10:12.88,0:10:14.88,Default,,0,0,0,,Oh hier ist es! Argh!
 Dialogue: 0,0:10:15.78,0:10:17.34,Default,,0,0,0,,???
 Dialogue: 0,0:10:17.72,0:10:19.50,Default,,0,0,0,,Na, ihr Jungs ??? ?
@@ -44,13 +44,13 @@ Dialogue: 0,0:10:37.82,0:10:39.60,Default,,0,0,0,,Hey Jungs...
 Dialogue: 0,0:10:38.42,0:10:39.90,Default,,0,0,0,,Ahh!
 Dialogue: 0,0:10:39.90,0:10:42.90,Default,,0,0,0,,Will mich nur schnell entschuldigen. Ich habe da eben die Beherrschung verloren.
 Dialogue: 0,0:10:42.90,0:10:44.54,Default,,0,0,0,,Hätte nicht versuchen sollen euch Jungs mit der Macht zu erwürgen.
-Dialogue: 0,0:10:44.74,0:10:46.68,Default,,0,0,0,,??? ihr Jungs habt recht. Ich war, äh...
+Dialogue: 0,0:10:44.74,0:10:46.68,Default,,0,0,0,,Vielleicht habt ihr Jungs recht. Ich war, äh...
 Dialogue: 0,0:10:46.68,0:10:48.46,Default,,0,0,0,,blöd, aber äh...
 Dialogue: 0,0:10:49.28,0:10:51.20,Default,,0,0,0,,Wisst ihr was?
 Dialogue: 0,0:10:51.50,0:10:54.98,Default,,0,0,0,,Ich werde morgen reinkommen mit ein paar neuen Ideen für euch. Ernsthaften diesmal.
 Dialogue: 0,0:10:54.98,0:10:56.98,Default,,0,0,0,,Und ein paar neuen Star-Wars Witzen für euch.
 Dialogue: 0,0:10:57.70,0:11:01.66,Default,,0,0,0,,Aber in der Zwischenzeit... ich weiß nicht. Kann ich irgendwem was zu trinken holen?
-Dialogue: 0,0:11:02.44,0:11:04.36,Default,,0,0,0,,Wie wäre es mit Kaffee? Wollt ihr Kaffee?
+Dialogue: 0,0:11:02.44,0:11:04.36,Default,,0,0,0,,Wie wäre es mit Kaffee? Hey Veers, willst du 'nen Kaffee?
 Dialogue: 0,0:11:04.44,0:11:05.58,Default,,0,0,0,,Ja, ich nehme einen Kaffee.
 Dialogue: 0,0:11:05.58,0:11:06.42,Default,,0,0,0,,Großartig.
 Dialogue: 0,0:11:06.42,0:11:07.68,Default,,0,0,0,,Mit Kaffee bin ich einverstanden.
@@ -74,12 +74,12 @@ Dialogue: 0,0:11:45.78,0:11:48.36,Default,,0,0,0,,Bitte, bitte. Nenn mich Ani. A
 Dialogue: 0,0:11:50.12,0:11:52.36,Default,,0,0,0,,Okay. Ani.
 Dialogue: 0,0:12:02.16,0:12:03.20,Default,,0,0,0,,Ani.
 Dialogue: 0,0:12:03.88,0:12:05.62,Default,,0,0,0,,Würde es dir sehr viel ausmachen?
-Dialogue: 0,0:12:06.30,0:12:09.78,Default,,0,0,0,,Mir aud dem Weg zu gehen. Verstehst du, ich bin auf dem Rückweg zu meinem Meeting da drüben.
+Dialogue: 0,0:12:06.30,0:12:09.78,Default,,0,0,0,,Mir aus dem Weg zu gehen. Verstehst du, ich bin auf dem Rückweg zu meinem Meeting da drüben.
 Dialogue: 0,0:12:09.78,0:12:11.34,Default,,0,0,0,,Oh nein, bist du nicht!
 Dialogue: 0,0:12:12.70,0:12:16.58,Default,,0,0,0,,Doch, bin ich. Ich kann nicht wegbleiben für den Rest des Meetings...
 Dialogue: 0,0:12:15.88,0:12:17.54,Default,,0,0,0,,Du kommst mit mir Kaffee holen.
 Dialogue: 0,0:12:17.54,0:12:20.42,Default,,0,0,0,,Oh nein. Tut mir schrecklich leid, aber ich kann wirklich nicht...
-Dialogue: 0,0:12:19.18,0:12:21.88,Default,,0,0,0,,Ich ???. Gehen wir. Kaffeezeit. Komm schon!
+Dialogue: 0,0:12:19.18,0:12:21.88,Default,,0,0,0,,Hey Tarki! Gehen wir. Kaffeezeit. Komm schon!
 Dialogue: 0,0:12:24.38,0:12:25.70,Default,,0,0,0,,Okay, machen wir schnell.
 Dialogue: 0,0:12:25.70,0:12:26.70,Default,,0,0,0,,Okay.
 Dialogue: 0,0:12:27.22,0:12:28.70,Default,,0,0,0,,Oh, das ist großartig.
@@ -101,7 +101,7 @@ Dialogue: 0,0:13:12.22,0:13:13.60,Default,,0,0,0,,Du weißt, dass ich das war?
 Dialogue: 0,0:13:13.60,0:13:14.26,Default,,0,0,0,,Ja.
 Dialogue: 0,0:13:14.26,0:13:16.26,Default,,0,0,0,,Oh, Tarki, du bist großartig.
 Dialogue: 0,0:13:16.42,0:13:18.26,Default,,0,0,0,,Tja, uns geht's richtig gut.
-Dialogue: 0,0:13:18.26,0:13:21.72,Default,,0,0,0,,Nur ein Paar Jungs. Holemn uns etwas Java.
+Dialogue: 0,0:13:18.26,0:13:21.72,Default,,0,0,0,,Nur ein Paar Jungs. Holen uns etwas Java.
 Dialogue: 0,0:13:25.06,0:13:26.12,Default,,0,0,0,,hm hm.
 Dialogue: 0,0:13:27.80,0:13:30.58,Default,,0,0,0,,Hey Tarki. Wie nennt man einen Typen, der zu viel Java trinkt?
 Dialogue: 0,0:13:31.16,0:13:34.26,Default,,0,0,0,,Also, wenn er so viel Java trinkt, dass er total fett wird wie eine Schnecke und er sich nicht mehr bewegen kann?
@@ -119,7 +119,7 @@ Dialogue: 0,0:14:07.56,0:14:08.56,Default,,0,0,0,,Wer?
 Dialogue: 0,0:14:08.56,0:14:09.52,Default,,0,0,0,,Sie!
 Dialogue: 0,0:14:11.38,0:14:12.60,Default,,0,0,0,,Emily.
 Dialogue: 0,0:14:12.84,0:14:13.76,Default,,0,0,0,,Welche ist es?
-Dialogue: 0,0:14:13.76,0:14:15.76,Default,,0,0,0,,Guter Gott man, sie ist die schöne.
+Dialogue: 0,0:14:13.76,0:14:15.76,Default,,0,0,0,,Guter Gott man, sie ist die Schöne.
 Dialogue: 0,0:14:17.28,0:14:20.00,Default,,0,0,0,,Oh ich sehe sie. Tarki, du Hund, du. Sie ist eine Süße.
 Dialogue: 0,0:14:20.00,0:14:21.42,Default,,0,0,0,,Ja, das weiß ich.
 Dialogue: 0,0:14:21.42,0:14:25.28,Default,,0,0,0,,Und sie ist auch noch klug und lustig und voll von Gedanken und...
@@ -140,7 +140,7 @@ Dialogue: 0,0:15:04.50,0:15:06.74,Default,,0,0,0,,Es ist nicht ekelhaft oder so.
 Dialogue: 0,0:15:06.92,0:15:09.62,Default,,0,0,0,,Habt ihr dieses Ding jemals von außen gesehen? Es hat eine Brustwarze.
 Dialogue: 0,0:15:09.62,0:15:15.12,Default,,0,0,0,,Ugh! Das ist keine Brustwarze. Es ist ein Disruptionsstrahlgenerator. Da schießt der Planeten zerstörende Laserstrahl raus.
 Dialogue: 0,0:15:15.12,0:15:17.12,Default,,0,0,0,,Ha! Was hältst du davon?
-Dialogue: 0,0:15:17.12,0:15:18.48,Default,,0,0,0,,Es schießt Milch.
+Dialogue: 0,0:15:17.12,0:15:18.48,Default,,0,0,0,,So wie Milch schießen.
 Dialogue: 0,0:15:20.02,0:15:22.12,Default,,0,0,0,,Ihr seid eine lustige Gruppe von Mädchen.
 Dialogue: 0,0:15:22.12,0:15:23.08,Default,,0,0,0,,Schwein!
 Dialogue: 0,0:15:23.08,0:15:24.36,Default,,0,0,0,,Perversling!
@@ -172,7 +172,7 @@ Dialogue: 0,0:16:47.86,0:16:50.70,Default,,0,0,0,,Aber ich erinnere mich an all 
 Dialogue: 0,0:16:50.70,0:16:53.78,Default,,0,0,0,,Ich erinnere mich an all die Berühmtheit
 Dialogue: 0,0:16:53.78,0:17:01.50,Default,,0,0,0,,Ich erinnere mich wie es sich angefühlt hat, als wäre es gestern gewesen
 Dialogue: 0,0:17:01.50,0:17:07.00,Default,,0,0,0,,Vor langer Zeit,weit entfernt
-Dialogue: 0,0:17:07.74,0:17:13.36,Default,,0,0,0,,Ich wußte mal die  Regeln des Spiels
+Dialogue: 0,0:17:07.74,0:17:13.36,Default,,0,0,0,,Ich wußte mal die Regeln des Spiels
 Dialogue: 0,0:17:13.90,0:17:18.98,Default,,0,0,0,,Ich war jemand, der ich heute nicht bin
 Dialogue: 0,0:17:19.56,0:17:25.56,Default,,0,0,0,,Ich will, dass man sich so an mich erinnert
 Dialogue: 0,0:17:26.08,0:17:32.18,Default,,0,0,0,,Aber das war vor langer Zeit und weit entfernt
@@ -203,13 +203,13 @@ Dialogue: 0,0:19:02.14,0:19:05.80,Default,,0,0,0,,Weit entfernt
 Dialogue: 0,0:19:04.52,0:19:09.82,Default,,0,0,0,,Weit entfernt
 Dialogue: 0,0:19:17.72,0:19:24.66,Default,,0,0,0,,Ich will, dass man sich so an mich erinnert
 Dialogue: 0,0:19:24.66,0:19:31.74,Default,,0,0,0,,Aber das war vor langer Zeit und weit entfernt
-Dialogue: 0,0:19:31.74,0:19:33.34,Default,,0,0,0,,Hey Jungs,, ich bin's wieder.
+Dialogue: 0,0:19:31.74,0:19:33.34,Default,,0,0,0,,Hey Jungs, ich bin's wieder.
 Dialogue: 0,0:19:33.52,0:19:37.02,Default,,0,0,0,,Kennt ihr die Müllpresse unten in der Inhaftierungsebene?
 Dialogue: 0,0:19:37.56,0:19:39.36,Default,,0,0,0,,Ja, ich stecke fest.
-Dialogue: 0,0:19:47.14,0:19:50.76,Default,,0,0,0,,???. Notfall! Notfall!
-Dialogue: 0,0:19:50.76,0:19:53.56,Default,,0,0,0,,Squat ??? sofort zu 22.
+Dialogue: 0,0:19:47.14,0:19:50.76,Default,,0,0,0,,Code rot! Notfall! Notfall!
+Dialogue: 0,0:19:50.76,0:19:53.56,Default,,0,0,0,,Squat ??? sofort bei [???] 22 melden.
 Dialogue: 0,0:19:53.56,0:19:54.92,Default,,0,0,0,,Code rot.
 Dialogue: 0,0:19:55.60,0:19:57.08,Default,,0,0,0,,Also, was denkst du, was los ist?
-Dialogue: 0,0:19:57.08,0:19:59.08,Default,,0,0,0,,Oh, vielleicht ein weiterer Bohrer.
+Dialogue: 0,0:19:57.08,0:19:59.08,Default,,0,0,0,,Oh, vielleicht eine weitere Übung.
 Dialogue: 0,0:20:00.64,0:20:01.74,Default,,0,0,0,,Hey Jungs. Das war schnell.
 Dialogue: 0,0:20:01.74,0:20:03.74,Default,,0,0,0,,

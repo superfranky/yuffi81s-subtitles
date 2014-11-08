@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 113
-Active Line: 114
-Video Position: 14492
+Scroll Position: 205
+Active Line: 205
+Video Position: 14400
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,7 +38,7 @@ Dialogue: 0,0:00:33.11,0:00:33.76,Default,,0,0,0,,Wie geht es Ihnen?
 Dialogue: 0,0:00:34.60,0:00:35.11,Default,,0,0,0,,Sehr gut.
 Dialogue: 0,0:00:35.97,0:00:36.62,Default,,0,0,0,,Wie geht es Ihnen?
 Dialogue: 0,0:00:36.77,0:00:38.00,Default,,0,0,0,,Oh, ziemlich gut, kann nicht klagen.
-Dialogue: 0,0:00:39.08,0:00:41.94,Default,,0,0,0,,Hab nur in den Wltraum gesehen, wissen Sie? An die gute alte Zeit gedacht.
+Dialogue: 0,0:00:39.08,0:00:41.94,Default,,0,0,0,,Hab nur in den Weltraum gesehen, wissen Sie? An die gute alte Zeit gedacht.
 Dialogue: 0,0:00:43.34,0:00:44.88,Default,,0,0,0,,So ist das mit der guten alten Zeit:
 Dialogue: 0,0:00:45.34,0:00:47.14,Default,,0,0,0,,Man weiß nie, dass man mittendrin ist - bis sie vergangen ist.
 Dialogue: 0,0:00:48.20,0:00:48.97,Default,,0,0,0,,Also, was ist los?
@@ -55,7 +55,7 @@ Dialogue: 0,0:01:09.48,0:01:10.88,Default,,0,0,0,,[Reden durcheinander]
 Dialogue: 0,0:01:10.52,0:01:12.24,Default,,0,0,0,,Er ist ein Held
 Dialogue: 0,0:01:12.52,0:01:15.00,Default,,0,0,0,,Er kann [???]
 Dialogue: 0,0:01:15.36,0:01:17.08,Default,,0,0,0,,Er ist etwas
-Dialogue: 0,0:01:17.06,0:01:21.33,Default,,0,0,0,,[???] und er ist alles, was er sein kann
+Dialogue: 0,0:01:17.06,0:01:21.33,Default,,0,0,0,,So unglaublich. Und er ist alles, was er sein kann
 Dialogue: 0,0:01:21.60,0:01:24.53,Default,,0,0,0,,Du kannst schauen, aber du kannst ihn nicht anfassen
 Dialogue: 0,0:01:24.66,0:01:27.66,Default,,0,0,0,,Es ist schwer zu glauben
 Dialogue: 0,0:01:27.86,0:01:34.60,Default,,0,0,0,,Denn er ist hier, in Fleisch und Blut - endlich
@@ -69,7 +69,7 @@ Dialogue: 0,0:01:51.46,0:01:53.40,Default,,0,0,0,,Ich mach' nur Spaß, ihr Typen
 Dialogue: 0,0:01:53.60,0:01:56.40,Default,,0,0,0,,Aber, hey, wenn ihr Typen Klone seid, wie ist dieser hier dann so hässlich geworden?
 Dialogue: 0,0:01:57.73,0:01:59.66,Default,,0,0,0,,Ich mach' wieder Spaß, ihr seid beide schön!
 Dialogue: 0,0:01:59.66,0:02:02.66,Default,,0,0,0,,Die Sache ist die: Ich mache Witze über alle, aber ich liebe jeden.
-Dialogue: 0,0:02:02.73,0:02:04.13,Default,,0,0,0,,Also, ihr Typen mögt Star-Wars Zeug?
+Dialogue: 0,0:02:02.73,0:02:04.13,Default,,0,0,0,,Also, ihr Typen mögt Star-Wars Witze?
 Dialogue: 0,0:02:04.40,0:02:05.40,Default,,0,0,0,,Ja, sicher...
 Dialogue: 0,0:02:05.40,0:02:10.00,Default,,0,0,0,,Oh toll! Na ja, ich habe nicht allzu viel Zeit, bin unterwegs zu einem Meeting, aber ich arbeite an einer Reihe von Star-Wars Klopf-klopf-Witzen.
 Dialogue: 0,0:02:10.53,0:02:12.06,Default,,0,0,0,,Wie zum Beispiel: Klopf, klopf.
@@ -82,7 +82,7 @@ Dialogue: 0,0:02:17.97,0:02:18.86,Default,,0,0,0,,Versteht ihr, was ich da gemac
 Dialogue: 0,0:02:19.63,0:02:21.23,Default,,0,0,0,,Ich habe es klingen lassen als hätte ich gesagt 'you're the man'.\N[english: Du bist der Mann]
 Dialogue: 0,0:02:22.26,0:02:23.40,Default,,0,0,0,,Das ist doppeldeutig!
 Dialogue: 0,0:02:23.43,0:02:25.26,Default,,0,0,0,,Humorvolles Wortspiel.
-Dialogue: 0,0:02:26.70,0:02:28.30,Default,,0,0,0,,Da kommt die comedy ins Spiel.
+Dialogue: 0,0:02:26.70,0:02:28.30,Default,,0,0,0,,Da kommt die Comedy ins Spiel.
 Dialogue: 0,0:02:30.00,0:02:34.50,Default,,0,0,0,,Hey, macht euch keine Sorgen deswegen, manchmal gehen meine Witze über den Verstand der Leute. Das macht Sinn: Ich bin ein großer Kerl, versteht ihr?
 Dialogue: 0,0:02:34.60,0:02:35.20,Default,,0,0,0,,Ja...
 Dialogue: 0,0:02:36.30,0:02:37.26,Default,,0,0,0,,Okay, wir sehen uns später.
@@ -159,7 +159,7 @@ Dialogue: 0,0:05:49.40,0:05:54.80,Default,,0,0,0,,Er - er gehört einfach nicht 
 Dialogue: 0,0:05:54.80,0:05:58.51,Default,,0,0,0,,Ja, und da ist diese Sache mit seiner Religion, oh darüber kann man nicht reden...
 Dialogue: 0,0:05:58.60,0:06:00.05,Default,,0,0,0,,Oh nein...
 Dialogue: 0,0:06:00.14,0:06:01.88,Default,,0,0,0,,Trotzdem ist es seltsam, oder?
-Dialogue: 0,0:06:02.11,0:06:03.71,Default,,0,0,0,,Es hat etwas zu tun mit - mit - mit - 
+Dialogue: 0,0:06:02.11,0:06:03.71,Default,,0,0,0,,Es hat etwas zu tun mit - mit - mit -
 Dialogue: 0,0:06:03.88,0:06:05.34,Default,,0,0,0,,[???]? Ist das richtig?
 Dialogue: 0,0:06:05.65,0:06:07.17,Default,,0,0,0,,Es ist nicht sehr christlich.
 Dialogue: 0,0:06:06.94,0:06:07.51,Default,,0,0,0,,Nein! Nein.
@@ -178,8 +178,8 @@ Dialogue: 0,0:06:37.51,0:06:39.00,Default,,0,0,0,,Sorge dafür, dass ihr Jungs a
 Dialogue: 0,0:06:40.37,0:06:41.65,Default,,0,0,0,,Keinen Mist baut.
 Dialogue: 0,0:06:43.02,0:06:43.91,Default,,0,0,0,,Okay, ihr könnt anfangen.
 Dialogue: 0,0:06:44.11,0:06:44.88,Default,,0,0,0,,Danke.
-Dialogue: 0,0:06:45.17,0:06:49.28,Default,,0,0,0,,Also äh, meine Herren da gibt es ein Thema, welches dirngend der Diskussion bedarf.
-Dialogue: 0,0:06:49.42,0:06:52.08,Default,,0,0,0,,Und das ist der glänzende Designer Fußboden in unseren Absaugöffnungen.
+Dialogue: 0,0:06:45.17,0:06:49.28,Default,,0,0,0,,Also äh, meine Herren da gibt es ein Thema, welches dringend der Diskussion bedarf.
+Dialogue: 0,0:06:49.42,0:06:52.08,Default,,0,0,0,,Und das ist die gewaltige Designschwäche unserer Luftschächte.
 Dialogue: 0,0:06:52.11,0:06:53.68,Default,,0,0,0,,Sagt mal, woll ihr nicht fragen wo ich meinen neuen Umhang her habe?
 Dialogue: 0,0:06:54.22,0:06:54.91,Default,,0,0,0,,Entschuldigung...?
 Dialogue: 0,0:06:55.25,0:06:56.91,Default,,0,0,0,,Wollt ihr mich nicht fragen, wo ich meinen neuen Umhang her habe?
@@ -189,7 +189,7 @@ Dialogue: 0,0:07:03.42,0:07:05.45,Default,,0,0,0,,[???] dem Meeting mit einem Wi
 Dialogue: 0,0:07:06.08,0:07:11.94,Default,,0,0,0,,Ich weiß, es ist ein Sith Witz, aber ihr Jungs könnt trotzdem lachen. Nicht zu sehr natürlich, nicht zu sehr, denn wißt ihr - Das ist meine Religion.
 Dialogue: 0,0:07:14.00,0:07:15.02,Default,,0,0,0,,Okay, macht weiter.
 Dialogue: 0,0:07:15.34,0:07:16.05,Default,,0,0,0,,Danke.
-Dialogue: 0,0:07:16.25,0:07:20.14,Default,,0,0,0,,Also, wie ich schon sagte, diese Absaugöffnungen machen uns ziemlich verletzlich und...
+Dialogue: 0,0:07:16.25,0:07:20.14,Default,,0,0,0,,Also, wie ich schon sagte, diese Luftschächte machen uns ziemlich verwundbar und...
 Dialogue: 0,0:07:20.05,0:07:21.48,Default,,0,0,0,,Ich will nur ganz schnell was sagen.
 Dialogue: 0,0:07:22.25,0:07:26.00,Default,,0,0,0,,Nun, ich habe euer großes Gejammer darüber gehört, dass einige von euch das Gefühl haben als ob ich keine Ideen beisteuere.
 Dialogue: 0,0:07:26.17,0:07:27.25,Default,,0,0,0,,Äh, na ja...
@@ -218,7 +218,7 @@ Dialogue: 0,0:08:27.65,0:08:29.65,Default,,0,0,0,,Kommen sie auf den Punkt, Lord
 Dialogue: 0,0:08:29.65,0:08:32.62,Default,,0,0,0,,Okay, okay, okay, also ihr wißt, dass wir einen zweiten Todesstern bauen drüben in site b.
 Dialogue: 0,0:08:32.62,0:08:33.14,Default,,0,0,0,,Sicher.
 Dialogue: 0,0:08:33.94,0:08:38.74,Default,,0,0,0,,Also, ich habe gedacht, sobald sie beide fertig sind nehmen wir die zwei Todessterne,
-Dialogue: 0,0:08:40.25,0:08:46.14,Default,,0,0,0,,wir klinken sie zusammen um ein riesiges - Paar Titten zu ershaffen.
+Dialogue: 0,0:08:40.25,0:08:46.14,Default,,0,0,0,,wir klinken sie zusammen um ein riesiges - Paar Titten zu erschaffen.
 Dialogue: 0,0:08:47.80,0:08:49.22,Default,,0,0,0,,Und, äh -
 Dialogue: 0,0:08:52.68,0:08:53.85,Default,,0,0,0,,Das ist meine Idee, also...
 Dialogue: 0,0:08:53.85,0:09:01.11,Default,,0,0,0,,Also, alle - alle, die diesem 'Vorschlag' die zwillings Todessterne in große Brüste zu verwandeln zustimmen, heben bitte ihre Hand.
@@ -229,7 +229,7 @@ Dialogue: 0,0:09:10.17,0:09:19.88,Default,,0,0,0,,Hören Sie, Lord Vader, es tut
 Dialogue: 0,0:09:20.45,0:09:25.42,Default,,0,0,0,,Wisst ihr was? Ihr Jungs habt mir zugehört, ihr mochtet die Idee nicht, ihr dachtet es wäre eine - eine dumme Idee, also, äh -
 Dialogue: 0,0:09:26.85,0:09:27.42,Default,,0,0,0,,Vergesst es einfach.
 Dialogue: 0,0:09:27.94,0:09:29.22,Default,,0,0,0,,Okay, werden wir.
-Dialogue: 0,0:09:29.65,0:09:33.37,Default,,0,0,0,,Also, ein kleiner Laser könnte uns töten, wenn er in diese Absaugöffnungen geschossen wird...
+Dialogue: 0,0:09:29.65,0:09:33.37,Default,,0,0,0,,Also, ein kleiner Laser könnte uns töten, wenn er in diese Luftschächte geschossen wird...
 Dialogue: 0,0:09:33.05,0:09:34.88,Default,,0,0,0,,Also gut, warum ist es eine dumme Idee?
 Dialogue: 0,0:09:35.02,0:09:38.14,Default,,0,0,0,,Was? Den Todesstern in eine riesige Brust zu verwandeln?
 Dialogue: 0,0:09:37.85,0:09:38.51,Default,,0,0,0,,Ja!
