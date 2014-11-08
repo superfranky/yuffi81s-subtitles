@@ -10,19 +10,232 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: D:/yuffi81/yuffi81s-subtitles_sorcetree/ani/video/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: D:/yuffi81/yuffi81s-subtitles_sorcetree/ani/video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Last Style Storage: Default
+Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Active Line: 1
-Video Position: 14409
+Video Zoom Percent: 0.625000
+Scroll Position: 113
+Active Line: 114
+Video Position: 14492
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
-Dialogue: 0,0:10:00.00,0:10:01.00,Default,,0,0,0,,
+Dialogue: 0,0:00:09.16,0:00:10.72,Default,,0,0,0,,Und sie kommen auf die Zielgrade -
+Dialogue: 0,0:00:10.84,0:00:13.30,Default,,0,0,0,,Der Staub ist zu dicht, ich kann nicht erkennen wer es ist!
+Dialogue: 0,0:00:13.30,0:00:13.84,Default,,0,0,0,,Moment -
+Dialogue: 0,0:00:14.02,0:00:14.66,Default,,0,0,0,,wer ist es?
+Dialogue: 0,0:00:14.66,0:00:15.58,Default,,0,0,0,,Es ist -
+Dialogue: 0,0:00:15.70,0:00:17.58,Default,,0,0,0,,Es ist Ani!
+Dialogue: 0,0:00:22.60,0:00:25.46,Default,,0,0,0,,Entschuldigen Sie - Lord Vader...
+Dialogue: 0,0:00:25.90,0:00:28.34,Default,,0,0,0,,Bitte! Bitte, nennen Sie mich - Ani!
+Dialogue: 0,0:00:33.11,0:00:33.76,Default,,0,0,0,,Wie geht es Ihnen?
+Dialogue: 0,0:00:34.60,0:00:35.11,Default,,0,0,0,,Sehr gut.
+Dialogue: 0,0:00:35.97,0:00:36.62,Default,,0,0,0,,Wie geht es Ihnen?
+Dialogue: 0,0:00:36.77,0:00:38.00,Default,,0,0,0,,Oh, ziemlich gut, kann nicht klagen.
+Dialogue: 0,0:00:39.08,0:00:41.94,Default,,0,0,0,,Hab nur in den Wltraum gesehen, wissen Sie? An die gute alte Zeit gedacht.
+Dialogue: 0,0:00:43.34,0:00:44.88,Default,,0,0,0,,So ist das mit der guten alten Zeit:
+Dialogue: 0,0:00:45.34,0:00:47.14,Default,,0,0,0,,Man weiß nie, dass man mittendrin ist - bis sie vergangen ist.
+Dialogue: 0,0:00:48.20,0:00:48.97,Default,,0,0,0,,Also, was ist los?
+Dialogue: 0,0:00:49.31,0:00:52.60,Default,,0,0,0,,Ihr Treffen mit den imperialen Oppositionsmitgliedern.
+Dialogue: 0,0:00:52.60,0:00:54.04,Default,,0,0,0,,Oh, bis dahin habe ich noch eine Menge Zeit, aber -
+Dialogue: 0,0:00:54.24,0:00:55.88,Default,,0,0,0,,[???]! Ich bin zu spät!
+Dialogue: 0,0:00:57.40,0:00:59.56,Default,,0,0,0,,Da! Da ist er
+Dialogue: 0,0:01:00.04,0:01:02.56,Default,,0,0,0,,Er ist nicht wie du oder ich
+Dialogue: 0,0:01:02.72,0:01:03.72,Default,,0,0,0,,Er ist ein Mann
+Dialogue: 0,0:01:03.72,0:01:04.16,Default,,0,0,0,,Huh!
+Dialogue: 0,0:01:04.32,0:01:05.52,Default,,0,0,0,,Nur ein Mann
+Dialogue: 0,0:01:05.68,0:01:08.64,Default,,0,0,0,,Und er ist besser als ihr je gesehen habt.
+Dialogue: 0,0:01:09.48,0:01:10.88,Default,,0,0,0,,[Reden durcheinander]
+Dialogue: 0,0:01:10.52,0:01:12.24,Default,,0,0,0,,Er ist ein Held
+Dialogue: 0,0:01:12.52,0:01:15.00,Default,,0,0,0,,Er kann [???]
+Dialogue: 0,0:01:15.36,0:01:17.08,Default,,0,0,0,,Er ist etwas
+Dialogue: 0,0:01:17.06,0:01:21.33,Default,,0,0,0,,[???] und er ist alles, was er sein kann
+Dialogue: 0,0:01:21.60,0:01:24.53,Default,,0,0,0,,Du kannst schauen, aber du kannst ihn nicht anfassen
+Dialogue: 0,0:01:24.66,0:01:27.66,Default,,0,0,0,,Es ist schwer zu glauben
+Dialogue: 0,0:01:27.86,0:01:34.60,Default,,0,0,0,,Denn er ist hier, in Fleisch und Blut - endlich
+Dialogue: 0,0:01:34.86,0:01:35.93,Default,,0,0,0,,Ani
+Dialogue: 0,0:01:37.93,0:01:38.86,Default,,0,0,0,,Ani
+Dialogue: 0,0:01:40.86,0:01:41.86,Default,,0,0,0,,Ani
+Dialogue: 0,0:01:44.13,0:01:45.33,Default,,0,0,0,,Ani
+Dialogue: 0,0:01:47.20,0:01:48.33,Default,,0,0,0,,Hey, seht euch diese Typen an.
+Dialogue: 0,0:01:49.06,0:01:51.00,Default,,0,0,0,,Wißt ihr, manchmal verwechsle ich euch Typen.
+Dialogue: 0,0:01:51.46,0:01:53.40,Default,,0,0,0,,Ich mach' nur Spaß, ihr Typen seid Klone!
+Dialogue: 0,0:01:53.60,0:01:56.40,Default,,0,0,0,,Aber, hey, wenn ihr Typen Klone seid, wie ist dieser hier dann so hässlich geworden?
+Dialogue: 0,0:01:57.73,0:01:59.66,Default,,0,0,0,,Ich mach' wieder Spaß, ihr seid beide schön!
+Dialogue: 0,0:01:59.66,0:02:02.66,Default,,0,0,0,,Die Sache ist die: Ich mache Witze über alle, aber ich liebe jeden.
+Dialogue: 0,0:02:02.73,0:02:04.13,Default,,0,0,0,,Also, ihr Typen mögt Star-Wars Zeug?
+Dialogue: 0,0:02:04.40,0:02:05.40,Default,,0,0,0,,Ja, sicher...
+Dialogue: 0,0:02:05.40,0:02:10.00,Default,,0,0,0,,Oh toll! Na ja, ich habe nicht allzu viel Zeit, bin unterwegs zu einem Meeting, aber ich arbeite an einer Reihe von Star-Wars Klopf-klopf-Witzen.
+Dialogue: 0,0:02:10.53,0:02:12.06,Default,,0,0,0,,Wie zum Beispiel: Klopf, klopf.
+Dialogue: 0,0:02:12.21,0:02:12.89,Default,,0,0,0,,Wer ist da?
+Dialogue: 0,0:02:13.00,0:02:13.41,Default,,0,0,0,,Yoda.
+Dialogue: 0,0:02:14.12,0:02:14.77,Default,,0,0,0,,Yoda wer?
+Dialogue: 0,0:02:14.81,0:02:15.32,Default,,0,0,0,,Yoda man!
+Dialogue: 0,0:02:17.01,0:02:17.96,Default,,0,0,0,,Oh, okay...
+Dialogue: 0,0:02:17.97,0:02:18.86,Default,,0,0,0,,Versteht ihr, was ich da gemacht habe?
+Dialogue: 0,0:02:19.63,0:02:21.23,Default,,0,0,0,,Ich habe es klingen lassen als hätte ich gesagt 'you're the man'.\N[english: Du bist der Mann]
+Dialogue: 0,0:02:22.26,0:02:23.40,Default,,0,0,0,,Das ist doppeldeutig!
+Dialogue: 0,0:02:23.43,0:02:25.26,Default,,0,0,0,,Humorvolles Wortspiel.
+Dialogue: 0,0:02:26.70,0:02:28.30,Default,,0,0,0,,Da kommt die comedy ins Spiel.
+Dialogue: 0,0:02:30.00,0:02:34.50,Default,,0,0,0,,Hey, macht euch keine Sorgen deswegen, manchmal gehen meine Witze über den Verstand der Leute. Das macht Sinn: Ich bin ein großer Kerl, versteht ihr?
+Dialogue: 0,0:02:34.60,0:02:35.20,Default,,0,0,0,,Ja...
+Dialogue: 0,0:02:36.30,0:02:37.26,Default,,0,0,0,,Okay, wir sehen uns später.
+Dialogue: 0,0:02:37.26,0:02:39.26,Default,,0,0,0,,Wartet! Wartet und seht
+Dialogue: 0,0:02:39.80,0:02:42.43,Default,,0,0,0,,Es ist besser als die Filme
+Dialogue: 0,0:02:42.43,0:02:43.56,Default,,0,0,0,,Seht wie er abgeht
+Dialogue: 0,0:02:43.56,0:02:44.13,Default,,0,0,0,,Abgeht!
+Dialogue: 0,0:02:44.13,0:02:45.53,Default,,0,0,0,,Wißt ihr nicht
+Dialogue: 0,0:02:46.10,0:02:48.33,Default,,0,0,0,,An ihm ist mehr, als man sieht
+Dialogue: 0,0:02:48.46,0:02:49.56,Default,,0,0,0,,Ganz schlecht!
+Dialogue: 0,0:02:49.93,0:02:51.13,Default,,0,0,0,,Tut mir leid, Jungs.
+Dialogue: 0,0:02:51.30,0:02:53.13,Default,,0,0,0,,Hey, mögt ihr Jungs Star-Wars Witze?
+Dialogue: 0,0:02:53.30,0:02:54.00,Default,,0,0,0,,Ich schätze...
+Dialogue: 0,0:02:54.00,0:02:55.13,Default,,0,0,0,,Oh großartig! Klopf klopf.
+Dialogue: 0,0:02:55.30,0:02:55.90,Default,,0,0,0,,Wer ist da?
+Dialogue: 0,0:02:55.90,0:02:56.60,Default,,0,0,0,,R2-D
+Dialogue: 0,0:02:56.60,0:02:57.56,Default,,0,0,0,,R2-D, so?
+Dialogue: 0,0:02:57.56,0:02:59.43,Default,,0,0,0,,Nein, R2-D2! Erwischt!
+Dialogue: 0,0:02:59.63,0:03:00.40,Default,,0,0,0,,Ugh...
+Dialogue: 0,0:03:00.76,0:03:01.86,Default,,0,0,0,,Na ja, wir sehen uns!
+Dialogue: 0,0:03:02.00,0:03:04.00,Default,,0,0,0,,Rock! Rock 'n' roll
+Dialogue: 0,0:03:04.20,0:03:07.10,Default,,0,0,0,,Er ist der eine, den keiner kontrollieren kann
+Dialogue: 0,0:03:07.26,0:03:08.33,Default,,0,0,0,,Oh nein
+Dialogue: 0,0:03:08.33,0:03:08.93,Default,,0,0,0,,Nein!
+Dialogue: 0,0:03:08.93,0:03:10.56,Default,,0,0,0,,Laßt ihn machen
+Dialogue: 0,0:03:11.00,0:03:13.45,Default,,0,0,0,,Wie macht er das - Keiner weiß es
+Dialogue: 0,0:03:13.65,0:03:16.45,Default,,0,0,0,,Du kannst schauen, aber du kannst ihn nicht anfassen
+Dialogue: 0,0:03:16.45,0:03:19.35,Default,,0,0,0,,Es ist schwer zu glauben
+Dialogue: 0,0:03:19.65,0:03:26.40,Default,,0,0,0,,Denn er ist hier, in Fleisch und Blut - endlich
+Dialogue: 0,0:03:26.55,0:03:27.65,Default,,0,0,0,,Ani
+Dialogue: 0,0:03:29.65,0:03:30.80,Default,,0,0,0,,Ani
+Dialogue: 0,0:03:32.60,0:03:37.20,Default,,0,0,0,,Und zu begreifen wer es bringt wie Ani
+Dialogue: 0,0:03:38.75,0:03:42.55,Default,,0,0,0,,Ani - Er kann es nicht mehr erwarten. Ich denke wir sind bereit loszulegen
+Dialogue: 0,0:03:46.65,0:03:50.60,Default,,0,0,0,,Ich denke wir sind bereit loszulegen, yeah
+Dialogue: 0,0:03:54.30,0:03:55.10,Default,,0,0,0,,Ani
+Dialogue: 0,0:03:55.85,0:03:56.80,Default,,0,0,0,,Ani
+Dialogue: 0,0:03:57.35,0:03:58.25,Default,,0,0,0,,Ani
+Dialogue: 0,0:03:58.85,0:03:59.90,Default,,0,0,0,,Ani
+Dialogue: 0,0:04:00.50,0:04:01.45,Default,,0,0,0,,Ani
+Dialogue: 0,0:04:01.72,0:04:05.42,Default,,0,0,0,,Ich denke wir sind jetzt bereit
+Dialogue: 0,0:04:05.57,0:04:07.25,Default,,0,0,0,,Ich denke wir sind bereit loszulegen
+Dialogue: 0,0:04:14.50,0:04:20.56,Default,,0,0,0,,Okay, Tarkin, ich sage wir fangen einfach ohne ihn an. Lord Vader ist schon 25 Minuten zu spät.
+Dialogue: 0,0:04:20.56,0:04:22.56,Default,,0,0,0,,Hmm, ich denke, Sie haben recht.
+Dialogue: 0,0:04:22.56,0:04:23.12,Default,,0,0,0,,Ja.
+Dialogue: 0,0:04:23.28,0:04:24.24,Default,,0,0,0,,Nun, meine Herren:
+Dialogue: 0,0:04:24.64,0:04:26.24,Default,,0,0,0,,Heute ist ein gewaltiger Tag.
+Dialogue: 0,0:04:26.76,0:04:32.40,Default,,0,0,0,,Als veranwortlicher Moff für dieses Projekt würde ich gern meine Glückwünsche auf jeden einzelnen von Ihnen ausdehnen
+Dialogue: 0,0:04:32.77,0:04:35.94,Default,,0,0,0,,für die Fertigstellung dieser voll funktionsfähigen Kampfstation.
+Dialogue: 0,0:04:36.11,0:04:37.31,Default,,0,0,0,,Schlag ein, alter Junge!
+Dialogue: 0,0:04:37.45,0:04:43.48,Default,,0,0,0,,Natürlich gibt es da immernoch ein paar Knoten zu lösen, und wir alle wissen, dass wir uns auf einen Namen für dieses Ding einigen müssen.
+Dialogue: 0,0:04:43.88,0:04:46.60,Default,,0,0,0,,Gott weiß, dass wir ihn nicht ewig den Todesstern nennen können.
+Dialogue: 0,0:04:48.11,0:04:50.00,Default,,0,0,0,,Ja, es ist ein bisschen makaber...
+Dialogue: 0,0:04:50.00,0:04:50.45,Default,,0,0,0,,Ich stimme dem zu.
+Dialogue: 0,0:04:51.05,0:04:52.05,Default,,0,0,0,,Ich stimme Ihnen zu.
+Dialogue: 0,0:04:53.62,0:04:56.68,Default,,0,0,0,,Es ist auch nicht gerade ein familienfreundlicher Name.
+Dialogue: 0,0:04:56.74,0:04:57.82,Default,,0,0,0,,Was, meinen Sie etwa...
+Dialogue: 0,0:04:57.65,0:04:58.34,Default,,0,0,0,,Ja, das meine ich!
+Dialogue: 0,0:04:58.65,0:05:00.00,Default,,0,0,0,,Sie alle wissen, was ich andeute.
+Dialogue: 0,0:05:00.45,0:05:05.14,Default,,0,0,0,,Ich werde augenblicklich mit dem Sicherheitsinspektor abschließen und sie werden mir endlich die Freigabe erteilen.
+Dialogue: 0,0:05:05.74,0:05:08.22,Default,,0,0,0,,Ihre Frauen und Kinder an Bord zu bringen!
+Dialogue: 0,0:05:09.00,0:05:11.05,Default,,0,0,0,,Herzlichen Glückwunsch, alter Junge!
+Dialogue: 0,0:05:11.11,0:05:15.60,Default,,0,0,0,,Das ist viel zu feiern und ich denke, Sie verdienen alle einen großen Klaps auf die Schulter.
+Dialogue: 0,0:05:15.71,0:05:17.14,Default,,0,0,0,,Na, danke und hier ist einer für Sie.
+Dialogue: 0,0:05:18.97,0:05:22.94,Default,,0,0,0,,Also, ich muß gehen und noch ein paar letzte Freigabeformulare unterschreiben und ich werde in Küze wieder bei Ihnen sein.
+Dialogue: 0,0:05:23.34,0:05:24.00,Default,,0,0,0,,Meine Herren -
+Dialogue: 0,0:05:24.77,0:05:28.74,Default,,0,0,0,, - und Freunde ich würde gern hinzufügen, da ich sehe, dass ein gewisser Jemand nicht hier ist -
+Dialogue: 0,0:05:29.05,0:05:31.42,Default,,0,0,0,,Ich denke nicht, dass irgendwer von uns es verdient hat gewürgt zu werden, hä?
+Dialogue: 0,0:05:33.42,0:05:35.68,Default,,0,0,0,,Ja, ich habe mich immer gefragt
+Dialogue: 0,0:05:35.82,0:05:42.42,Default,,0,0,0,,außer ungefähr so in der Ecke zu stehen und uns zu würgen, was macht Lord Vader eigentlich, also...
+Dialogue: 0,0:05:42.42,0:05:44.42,Default,,0,0,0,,Oh, ich kann es dir ehrlich nicht sagen.
+Dialogue: 0,0:05:44.57,0:05:48.25,Default,,0,0,0,,Na, ich sag euch eins: Er ist nicht der Aufseher des Personals wie er immer behauptet.
+Dialogue: 0,0:05:48.45,0:05:49.25,Default,,0,0,0,,Das bin ich!
+Dialogue: 0,0:05:49.40,0:05:54.80,Default,,0,0,0,,Er - er gehört einfach nicht in diese Meetings. Er liefert weder irgenwelche Ideen, noch ist er dafür qualifiziert.
+Dialogue: 0,0:05:54.80,0:05:58.51,Default,,0,0,0,,Ja, und da ist diese Sache mit seiner Religion, oh darüber kann man nicht reden...
+Dialogue: 0,0:05:58.60,0:06:00.05,Default,,0,0,0,,Oh nein...
+Dialogue: 0,0:06:00.14,0:06:01.88,Default,,0,0,0,,Trotzdem ist es seltsam, oder?
+Dialogue: 0,0:06:02.11,0:06:03.71,Default,,0,0,0,,Es hat etwas zu tun mit - mit - mit - 
+Dialogue: 0,0:06:03.88,0:06:05.34,Default,,0,0,0,,[???]? Ist das richtig?
+Dialogue: 0,0:06:05.65,0:06:07.17,Default,,0,0,0,,Es ist nicht sehr christlich.
+Dialogue: 0,0:06:06.94,0:06:07.51,Default,,0,0,0,,Nein! Nein.
+Dialogue: 0,0:06:09.34,0:06:11.94,Default,,0,0,0,,Wie dem auch sei, wir sollten alle einfach froh sein, dass er jetzt nicht hier ist.
+Dialogue: 0,0:06:11.94,0:06:13.94,Default,,0,0,0,,Hi Jungs. Ich bin da.
+Dialogue: 0,0:06:14.62,0:06:16.51,Default,,0,0,0,,Tut mir leid, dass ich zu spät bin. Ich wurde aufgehalten von einer -
+Dialogue: 0,0:06:17.57,0:06:18.05,Default,,0,0,0,,[puuuh]
+Dialogue: 0,0:06:19.85,0:06:20.68,Default,,0,0,0,,- Arbeit, wißt ihr?
+Dialogue: 0,0:06:21.14,0:06:23.71,Default,,0,0,0,,Dieses Personal wird sich nicht selbst überwachen, habe ich recht?
+Dialogue: 0,0:06:23.82,0:06:24.25,Default,,0,0,0,,aha...
+Dialogue: 0,0:06:24.40,0:06:26.37,Default,,0,0,0,,Wißt ihr, ihr Jungs könnt mich einfach Darth Später nennen.
+Dialogue: 0,0:06:28.88,0:06:30.48,Default,,0,0,0,,Okay, Zeit für unser Meeting.
+Dialogue: 0,0:06:31.22,0:06:34.05,Default,,0,0,0,,Reden wir über irgendwelche wichtigen Sachen. Ich mag das, ich mag das sehr.
+Dialogue: 0,0:06:34.85,0:06:36.62,Default,,0,0,0,,Ich werde einfach hier hinten stehen, etwa so.
+Dialogue: 0,0:06:37.51,0:06:39.00,Default,,0,0,0,,Sorge dafür, dass ihr Jungs auf Kurs bleibt.
+Dialogue: 0,0:06:40.37,0:06:41.65,Default,,0,0,0,,Keinen Mist baut.
+Dialogue: 0,0:06:43.02,0:06:43.91,Default,,0,0,0,,Okay, ihr könnt anfangen.
+Dialogue: 0,0:06:44.11,0:06:44.88,Default,,0,0,0,,Danke.
+Dialogue: 0,0:06:45.17,0:06:49.28,Default,,0,0,0,,Also äh, meine Herren da gibt es ein Thema, welches dirngend der Diskussion bedarf.
+Dialogue: 0,0:06:49.42,0:06:52.08,Default,,0,0,0,,Und das ist der glänzende Designer Fußboden in unseren Absaugöffnungen.
+Dialogue: 0,0:06:52.11,0:06:53.68,Default,,0,0,0,,Sagt mal, woll ihr nicht fragen wo ich meinen neuen Umhang her habe?
+Dialogue: 0,0:06:54.22,0:06:54.91,Default,,0,0,0,,Entschuldigung...?
+Dialogue: 0,0:06:55.25,0:06:56.91,Default,,0,0,0,,Wollt ihr mich nicht fragen, wo ich meinen neuen Umhang her habe?
+Dialogue: 0,0:06:57.45,0:06:59.42,Default,,0,0,0,,Ähhhh, wo haben Sie...
+Dialogue: 0,0:06:59.48,0:07:01.42,Default,,0,0,0,,In der Darth Mall!\N[Mall=Einkaufszentrum]
+Dialogue: 0,0:07:03.42,0:07:05.45,Default,,0,0,0,,[???] dem Meeting mit einem Witz einen guten Start geben.
+Dialogue: 0,0:07:06.08,0:07:11.94,Default,,0,0,0,,Ich weiß, es ist ein Sith Witz, aber ihr Jungs könnt trotzdem lachen. Nicht zu sehr natürlich, nicht zu sehr, denn wißt ihr - Das ist meine Religion.
+Dialogue: 0,0:07:14.00,0:07:15.02,Default,,0,0,0,,Okay, macht weiter.
+Dialogue: 0,0:07:15.34,0:07:16.05,Default,,0,0,0,,Danke.
+Dialogue: 0,0:07:16.25,0:07:20.14,Default,,0,0,0,,Also, wie ich schon sagte, diese Absaugöffnungen machen uns ziemlich verletzlich und...
+Dialogue: 0,0:07:20.05,0:07:21.48,Default,,0,0,0,,Ich will nur ganz schnell was sagen.
+Dialogue: 0,0:07:22.25,0:07:26.00,Default,,0,0,0,,Nun, ich habe euer großes Gejammer darüber gehört, dass einige von euch das Gefühl haben als ob ich keine Ideen beisteuere.
+Dialogue: 0,0:07:26.17,0:07:27.25,Default,,0,0,0,,Äh, na ja...
+Dialogue: 0,0:07:27.25,0:07:29.51,Default,,0,0,0,,Das ist okay, Alles gut, kein böses Blut, aber, äh -
+Dialogue: 0,0:07:30.34,0:07:35.17,Default,,0,0,0,,Ich will euch zeigen, dass ich Teil des Teams bin, deshalb will ich so eine Idee an euch Jungs weitergeben, von der ich denke, dass ihr sie wirklich mögen werdet.
+Dialogue: 0,0:07:35.25,0:07:37.91,Default,,0,0,0,,Also gut Lord Vader, was ist Ihre Idee?
+Dialogue: 0,0:07:37.91,0:07:43.11,Default,,0,0,0,,Okay, ich also da unten, fliege in meinem Tie-Fighter, komme durch die Andocköffnung und ich erkenne wie diese Kampfstation aussieht.
+Dialogue: 0,0:07:43.54,0:07:46.22,Default,,0,0,0,,Ich meine, ihr Jungs habt den Todesstern von außen gesehen, also wisst ihr, wovon ich rede.
+Dialogue: 0,0:07:46.51,0:07:47.31,Default,,0,0,0,,Wie sieht er aus?
+Dialogue: 0,0:07:47.97,0:07:48.60,Default,,0,0,0,,Äääääh...
+Dialogue: 0,0:07:49.11,0:07:49.97,Default,,0,0,0,,Wie ein Mond?
+Dialogue: 0,0:07:49.97,0:07:51.14,Default,,0,0,0,,Oder eine Kugel?
+Dialogue: 0,0:07:51.22,0:07:51.74,Default,,0,0,0,,Eine Hupe!
+Dialogue: 0,0:07:53.02,0:07:53.80,Default,,0,0,0,,Ein Mops.
+Dialogue: 0,0:07:57.62,0:07:59.82,Default,,0,0,0,,Sie meinen - eine Brust?
+Dialogue: 0,0:08:01.42,0:08:02.34,Default,,0,0,0,,Ja, eine Tüte.
+Dialogue: 0,0:08:02.68,0:08:04.91,Default,,0,0,0,,Er hat sogar einen dunklen Kreis über dem Zentrum, wie eine Brustwarze.
+Dialogue: 0,0:08:04.91,0:08:08.40,Default,,0,0,0,,Oh, also, nun... Ich bin - Ich bin mir ziemlich sicher dass das unbeabsichtigt war, Lord Vader!
+Dialogue: 0,0:08:07.45,0:08:09.94,Default,,0,0,0,,Nein, es ist ein glücklicher Zufall, warum nicht damit Hand in Hand gehen?
+Dialogue: 0,0:08:10.34,0:08:13.22,Default,,0,0,0,,Als erster, der das erkannt hat, werde ich allen den Wind aus den Segeln nehmen.
+Dialogue: 0,0:08:13.31,0:08:15.57,Default,,0,0,0,,Denn, ihr wisst schon, diese Rebellen werden dieses Ding sehen und sagen: Hey!
+Dialogue: 0,0:08:16.11,0:08:16.97,Default,,0,0,0,,Seht euch diese Brust an!
+Dialogue: 0,0:08:18.11,0:08:19.74,Default,,0,0,0,,Das Imperium ist ein Haufen Brüste.
+Dialogue: 0,0:08:21.14,0:08:27.65,Default,,0,0,0,,Können uns alle die Art von Müll vorstellen, den die Rebellen erzählen werden, also sagen wir einfach: Ja! Wir sind ein böses Imperium, aber trotzdem haben wir Sinn für Humor.
+Dialogue: 0,0:08:27.65,0:08:29.65,Default,,0,0,0,,Kommen sie auf den Punkt, Lord Vader.
+Dialogue: 0,0:08:29.65,0:08:32.62,Default,,0,0,0,,Okay, okay, okay, also ihr wißt, dass wir einen zweiten Todesstern bauen drüben in site b.
+Dialogue: 0,0:08:32.62,0:08:33.14,Default,,0,0,0,,Sicher.
+Dialogue: 0,0:08:33.94,0:08:38.74,Default,,0,0,0,,Also, ich habe gedacht, sobald sie beide fertig sind nehmen wir die zwei Todessterne,
+Dialogue: 0,0:08:40.25,0:08:46.14,Default,,0,0,0,,wir klinken sie zusammen um ein riesiges - Paar Titten zu ershaffen.
+Dialogue: 0,0:08:47.80,0:08:49.22,Default,,0,0,0,,Und, äh -
+Dialogue: 0,0:08:52.68,0:08:53.85,Default,,0,0,0,,Das ist meine Idee, also...
+Dialogue: 0,0:08:53.85,0:09:01.11,Default,,0,0,0,,Also, alle - alle, die diesem 'Vorschlag' die zwillings Todessterne in große Brüste zu verwandeln zustimmen, heben bitte ihre Hand.
+Dialogue: 0,0:09:05.32,0:09:06.91,Default,,0,0,0,,Hey, kommt schon, Jungs, seid nicht schüchtern.
+Dialogue: 0,0:09:07.20,0:09:08.54,Default,,0,0,0,,Hey Veers, komm schon Veers!
+Dialogue: 0,0:09:08.57,0:09:09.00,Default,,0,0,0,,Gott...
+Dialogue: 0,0:09:10.17,0:09:19.88,Default,,0,0,0,,Hören Sie, Lord Vader, es tut mir leid, aber es scheint Ihr Vorschlag ein dreißig jähriges Projekt von höchster Ernsthaftigkeit in ein bisschen Partyhumor zu verwandeln, wurde, nun ja, abgelehnt.
+Dialogue: 0,0:09:20.45,0:09:25.42,Default,,0,0,0,,Wisst ihr was? Ihr Jungs habt mir zugehört, ihr mochtet die Idee nicht, ihr dachtet es wäre eine - eine dumme Idee, also, äh -
+Dialogue: 0,0:09:26.85,0:09:27.42,Default,,0,0,0,,Vergesst es einfach.
+Dialogue: 0,0:09:27.94,0:09:29.22,Default,,0,0,0,,Okay, werden wir.
+Dialogue: 0,0:09:29.65,0:09:33.37,Default,,0,0,0,,Also, ein kleiner Laser könnte uns töten, wenn er in diese Absaugöffnungen geschossen wird...
+Dialogue: 0,0:09:33.05,0:09:34.88,Default,,0,0,0,,Also gut, warum ist es eine dumme Idee?
+Dialogue: 0,0:09:35.02,0:09:38.14,Default,,0,0,0,,Was? Den Todesstern in eine riesige Brust zu verwandeln?
+Dialogue: 0,0:09:37.85,0:09:38.51,Default,,0,0,0,,Ja!
+Dialogue: 0,0:09:39.42,0:09:43.80,Default,,0,0,0,,ALSO ZUALLERERST IST ES EIN BISSCHEN BLÖDER QUATSCH, DANKE!!!
+Dialogue: 0,0:09:44.22,0:09:49.74,Default,,0,0,0,,Und als zweites schätze ich Ihre Etikette in diesen Meetings überhaupt nicht, oder das zu spät Kommen oder ständige Unterbrechungen.
+Dialogue: 0,0:09:50.28,0:09:54.14,Default,,0,0,0,,Ich schätze, was ich zu sagen versuche ist: Könnten Sie bitte nicht mehr zu diesen Meetings kommen?
+Dialogue: 0,0:09:55.08,0:09:57.34,Default,,0,0,0,,Tut mir leid, Jungs, einer mußte es sagen.
+Dialogue: 0,0:09:58.68,0:09:59.34,Default,,0,0,0,,Also.
+Dialogue: 0,0:09:59.34,0:10:01.34,Default,,0,0,0,,

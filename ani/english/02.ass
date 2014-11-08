@@ -16,8 +16,8 @@ Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 147
-Active Line: 158
+Scroll Position: 107
+Active Line: 112
 Video Position: 28867
 
 [V4+ Styles]
@@ -36,7 +36,7 @@ Dialogue: 0,0:10:10.94,0:10:12.88,Default,,0,0,0,,I just have to get it out of m
 Dialogue: 0,0:10:12.88,0:10:14.88,Default,,0,0,0,,Oh here it is! Argh!
 Dialogue: 0,0:10:15.78,0:10:17.34,Default,,0,0,0,,???
 Dialogue: 0,0:10:17.72,0:10:19.50,Default,,0,0,0,,Well, you guys ??? ?
-Dialogue: 0,0:10:19.50,0:10:22.56,Default,,0,0,0,,No problem. ???
+Dialogue: 0,0:10:19.50,0:10:22.56,Default,,0,0,0,,No problem. I've got enough for everybody!
 Dialogue: 0,0:10:28.00,0:10:31.14,Default,,0,0,0,,Alright. Me and a Jerk!
 Dialogue: 0,0:10:31.60,0:10:32.90,Default,,0,0,0,,Jesus Christ.
 Dialogue: 0,0:10:34.98,0:10:36.78,Default,,0,0,0,,What a dick!
@@ -54,7 +54,7 @@ Dialogue: 0,0:11:02.44,0:11:04.36,Default,,0,0,0,,How about some coffee. I'm ser
 Dialogue: 0,0:11:04.44,0:11:05.58,Default,,0,0,0,,Yeah, I'll have a coffee.
 Dialogue: 0,0:11:05.58,0:11:06.42,Default,,0,0,0,,Great.
 Dialogue: 0,0:11:06.42,0:11:07.68,Default,,0,0,0,,Coffee is alright for me.
-Dialogue: 0,0:11:07.68,0:11:09.12,Default,,0,0,0,,??? in the ice?
+Dialogue: 0,0:11:07.68,0:11:09.12,Default,,0,0,0,,Yes, I suppose a tea would be nice.
 Dialogue: 0,0:11:09.12,0:11:12.52,Default,,0,0,0,,How about some snacks? You know what? I'll just bring chips for the whole table.
 Dialogue: 0,0:11:12.52,0:11:15.14,Default,,0,0,0,,Actually, could we have pretzels?
 Dialogue: 0,0:11:15.14,0:11:16.20,Default,,0,0,0,,Pretzles, right?
@@ -91,7 +91,7 @@ Dialogue: 0,0:12:39.58,0:12:41.98,Default,,0,0,0,,Has anyone ever screwed up and
 Dialogue: 0,0:12:42.56,0:12:44.20,Default,,0,0,0,,You know, like a moth?
 Dialogue: 0,0:12:45.34,0:12:46.80,Default,,0,0,0,,You know what a moth is, Tarkin?
 Dialogue: 0,0:12:46.20,0:12:47.02,Default,,0,0,0,,Yes.
-Dialogue: 0,0:12:48.54,0:12:51.30,Default,,0,0,0,,It's not a word for female parts if you catch my meaning.
+Dialogue: 0,0:12:48.54,0:12:51.30,Default,,0,0,0,,Excellent word for female parts if you catch my meaning.
 Dialogue: 0,0:12:51.12,0:12:52.42,Default,,0,0,0,,Yeah, I do. I do.
 Dialogue: 0,0:12:54.14,0:12:56.86,Default,,0,0,0,,So has anyone ever screwed up and said that? They'll be like: Hey!
 Dialogue: 0,0:12:56.86,0:12:58.56,Default,,0,0,0,,Quit Tarkin ??? the moth.
@@ -112,7 +112,7 @@ Dialogue: 0,0:13:49.80,0:13:51.34,Default,,0,0,0,,Java the Hutt.
 Dialogue: 0,0:13:55.04,0:13:57.06,Default,,0,0,0,,That's way better than what I have.
 Dialogue: 0,0:13:58.84,0:14:01.84,Default,,0,0,0,,Say, you're pretty good at coming up with Star-Wars jokes.
 Dialogue: 0,0:14:01.84,0:14:03.84,Default,,0,0,0,,Just another thing we've got in common.
-Dialogue: 0,0:14:03.84,0:14:05.12,Default,,0,0,0,,Hey Tarkin. Knok, knock.
+Dialogue: 0,0:14:03.84,0:14:05.12,Default,,0,0,0,,Hey Tarkin. Knock, knock.
 Dialogue: 0,0:14:05.12,0:14:05.70,Default,,0,0,0,,Who's there?
 Dialogue: 0,0:14:05.70,0:14:07.56,Default,,0,0,0,,Oh, quiet! Here she comes!
 Dialogue: 0,0:14:07.56,0:14:08.56,Default,,0,0,0,,Who?
@@ -136,9 +136,9 @@ Dialogue: 0,0:14:55.20,0:14:59.58,Default,,0,0,0,,Tarkin was just telling me his
 Dialogue: 0,0:15:00.26,0:15:01.20,Default,,0,0,0,,Pretty funny, huh?
 Dialogue: 0,0:15:01.20,0:15:04.36,Default,,0,0,0,,No, it's actually gross and immature.
 Dialogue: 0,0:15:03.82,0:15:04.50,Default,,0,0,0,,Yes.
-Dialogue: 0,0:15:04.50,0:15:06.74,Default,,0,0,0,,It not gross or anything. It's just...
-Dialogue: 0,0:15:06.92,0:15:09.62,Default,,0,0,0,,Have you ever seem this thing from the outside. It's got a nipple.
-Dialogue: 0,0:15:09.62,0:15:15.12,Default,,0,0,0,,Ugh! That's not a nipple. It's a disruption ray generator. It's for the planet destroying laser shots out.
+Dialogue: 0,0:15:04.50,0:15:06.74,Default,,0,0,0,,It's not gross or anything. It's just...
+Dialogue: 0,0:15:06.92,0:15:09.62,Default,,0,0,0,,Have you ever seem this thing from the outside? It's got a nipple.
+Dialogue: 0,0:15:09.62,0:15:15.12,Default,,0,0,0,,Ugh! That's not a nipple. It's a disruption ray generator. It's where the planet destroying laser shots out.
 Dialogue: 0,0:15:15.12,0:15:17.12,Default,,0,0,0,,Huh. What do you think about that?
 Dialogue: 0,0:15:17.12,0:15:18.48,Default,,0,0,0,,It's like shooting milk.
 Dialogue: 0,0:15:20.02,0:15:22.12,Default,,0,0,0,,You're a funny group of girls.
@@ -146,7 +146,7 @@ Dialogue: 0,0:15:22.12,0:15:23.08,Default,,0,0,0,,Pig!
 Dialogue: 0,0:15:23.08,0:15:24.36,Default,,0,0,0,,Pervert!
 Dialogue: 0,0:15:24.36,0:15:25.74,Default,,0,0,0,,Asshole!
 Dialogue: 0,0:15:25.74,0:15:27.28,Default,,0,0,0,,Hey, where are you going?
-Dialogue: 0,0:15:27.28,0:15:31.74,Default,,0,0,0,,This guy likes you. He's the Casanova of Coruscant. He's Tarking all the Muff.
+Dialogue: 0,0:15:27.28,0:15:31.74,Default,,0,0,0,,This guy likes you. He's the Casanova of Coruscant. He's Tarking all the Moff.
 Dialogue: 0,0:15:33.84,0:15:36.00,Default,,0,0,0,,You son of a bitch, Tarki. I think she likes you.
 Dialogue: 0,0:15:36.00,0:15:37.48,Default,,0,0,0,,Way to go, Vader!
 Dialogue: 0,0:15:37.48,0:15:38.36,Default,,0,0,0,,Hey, no need to thank me.
@@ -166,7 +166,7 @@ Dialogue: 0,0:16:14.68,0:16:18.98,Default,,0,0,0,,Just a... big, fat dummy.
 Dialogue: 0,0:16:24.02,0:16:26.04,Default,,0,0,0,,Looking back
 Dialogue: 0,0:16:26.04,0:16:29.30,Default,,0,0,0,,Over the years
 Dialogue: 0,0:16:29.98,0:16:34.82,Default,,0,0,0,,Life was easy and everything was clear
-Dialogue: 0,0:16:36.16,0:16:41.94,Default,,0,0,0,,It's been soo long since I felt that way
+Dialogue: 0,0:16:36.16,0:16:41.94,Default,,0,0,0,,It's been so long since I felt that way
 Dialogue: 0,0:16:42.70,0:16:47.86,Default,,0,0,0,,It's been so long since I've seen the light of day
 Dialogue: 0,0:16:47.86,0:16:50.70,Default,,0,0,0,,But I remember all the glory
 Dialogue: 0,0:16:50.70,0:16:53.78,Default,,0,0,0,,I remember all the fame
@@ -179,13 +179,13 @@ Dialogue: 0,0:17:26.08,0:17:32.18,Default,,0,0,0,,But that was long ago and far 
 Dialogue: 0,0:17:32.82,0:17:35.44,Default,,0,0,0,,Alright, let's just ??? the old home movies.
 Dialogue: 0,0:17:38.40,0:17:40.10,Default,,0,0,0,,See what we got here.
 Dialogue: 0,0:17:43.44,0:17:45.12,Default,,0,0,0,,Oh, would you look at that.
-Dialogue: 0,0:17:45.66,0:17:47.16,Default,,0,0,0,,It's the first day I meet my wife.
+Dialogue: 0,0:17:45.66,0:17:47.16,Default,,0,0,0,,It's the first day I met my wife.
 Dialogue: 0,0:17:47.16,0:17:49.80,Default,,0,0,0,,{\i1}Are you an angle?{\i0}
 Dialogue: 0,0:17:50.04,0:17:52.94,Default,,0,0,0,,Are you an angle? That's a pretty good line.
 Dialogue: 0,0:17:53.40,0:17:55.38,Default,,0,0,0,,Oh, look at my hair back then.
 Dialogue: 0,0:17:55.38,0:17:58.02,Default,,0,0,0,,Mummy's put a bowl on my head and just cut around it.
-Dialogue: 0,0:17:59.42,0:18:00.92,Default,,0,0,0,,???
-Dialogue: 0,0:18:00.92,0:18:05.68,Default,,0,0,0,,{\i1}Qui-Gon. It's that blood sample you send me. The Midi-chlorian count it off the scale...{\i0}
+Dialogue: 0,0:17:59.42,0:18:00.92,Default,,0,0,0,,That was a kidding.
+Dialogue: 0,0:18:00.92,0:18:05.68,Default,,0,0,0,,{\i1}Qui-Gon. It's that blood sample you send me. The Midi-chlorian count is off the scale...{\i0}
 Dialogue: 0,0:18:04.46,0:18:07.18,Default,,0,0,0,,The hell is this? Screw you, Obi-Wan!
 Dialogue: 0,0:18:08.12,0:18:11.08,Default,,0,0,0,,Always like to fast forward to the Jar-Jar part.
 Dialogue: 0,0:18:11.90,0:18:15.12,Default,,0,0,0,,{\i1}Moi moi. I love you.{\i0}
