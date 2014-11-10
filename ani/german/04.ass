@@ -15,10 +15,10 @@ Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 209
-Active Line: 219
-Video Position: 58494
+Video Zoom Percent: 0.625000
+Scroll Position: 116
+Active Line: 117
+Video Position: 58654
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,7 +67,7 @@ Dialogue: 0,0:31:14.34,0:31:15.25,Tarkin,,0,0,0,,Oje!
 Dialogue: 0,0:31:15.60,0:31:19.37,Emilie,,0,0,0,,Würden Sie mich entschuldigen, Sir? Ich muß in dieser Reihe stehen, weil der Imperator kommt.
 Dialogue: 0,0:31:19.37,0:31:20.93,Tarkin,,0,0,0,,Der Imperator kommt hierher?
 Dialogue: 0,0:31:21.32,0:31:23.00,Emilie,,0,0,0,,Ich habe ihn gerade zum Andocken freigegeben.
-Dialogue: 0,0:31:22.80,0:31:24.30,Tarkin,,0,0,0,,Meine Güte! I muß gehen.
+Dialogue: 0,0:31:22.80,0:31:24.30,Tarkin,,0,0,0,,Meine Güte! Ich muß gehen.
 Dialogue: 0,0:31:24.30,0:31:25.17,Tarkin,,0,0,0,,Ah, ähm...
 Dialogue: 0,0:31:25.79,0:31:27.27,Tarkin,,0,0,0,,Danke für die Unterhaltung. Sie sind entzückend.
 Dialogue: 0,0:31:27.27,0:31:28.72,Tarkin,,0,0,0,,Ich meine es war entzückend. Ich meine...
@@ -148,7 +148,7 @@ Dialogue: 0,0:35:37.16,0:35:40.28,emperor,,0,0,0,,Also, ich weiß, dass Ani es i
 Dialogue: 0,0:35:40.28,0:35:44.76,emperor,,0,0,0,,Er findet nicht schnell Freunde. Denkt ihr Jungs respektiert ihn nicht.
 Dialogue: 0,0:35:44.76,0:35:46.32,Tarkin,,0,0,0,,Aber das ist absurd.
 Dialogue: 0,0:35:46.32,0:35:49.03,emperor,,0,0,0,,Klar. Also habe ich ihm erzählt...
-Dialogue: 0,0:35:49.03,0:35:54.28,emperor,,0,0,0,,dass ich den Todesstern ursprünglichso konstruiert habe, dass er wie eine große Brust aussieht.
+Dialogue: 0,0:35:49.03,0:35:54.28,emperor,,0,0,0,,dass ich den Todesstern ursprünglich so konstruiert habe, dass er wie eine große Brust aussieht.
 Dialogue: 0,0:35:55.39,0:35:57.29,emperor,,0,0,0,,Und ich sagte: Hey, Ani...
 Dialogue: 0,0:35:57.29,0:36:05.20,emperor,,0,0,0,,Wäre es nicht toll, wenn sobald beide Todessterne fertig sind, wir sie zusammenklinken würden, um aus ihnen ein großes Paar Möpse zu machen?
 Dialogue: 0,0:36:06.70,0:36:12.35,emperor,,0,0,0,,Und er wurde ganz aufgeregt. Und ich sagte ihm, er sollte es im nächsten Meeting vorbringen.
