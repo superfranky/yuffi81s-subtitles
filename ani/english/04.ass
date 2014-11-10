@@ -16,8 +16,8 @@ Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 198
-Active Line: 159
+Scroll Position: 168
+Active Line: 188
 Video Position: 58571
 
 [V4+ Styles]
@@ -67,9 +67,9 @@ Dialogue: 0,0:31:14.34,0:31:15.25,Tarkin,,0,0,0,,Oh dear!
 Dialogue: 0,0:31:15.60,0:31:19.37,Emilie,,0,0,0,,Can I be excused, Sir? I've gotta go stand in this line because the emperor is coming.
 Dialogue: 0,0:31:19.37,0:31:20.93,Tarkin,,0,0,0,,The emperor is coming here?
 Dialogue: 0,0:31:21.32,0:31:23.00,Emilie,,0,0,0,,I just gave him docking clearance.
-Dialogue: 0,0:31:22.80,0:31:24.30,Tarkin,,0,0,0,,Oh, my! I need to go.
+Dialogue: 0,0:31:22.80,0:31:24.30,Tarkin,,0,0,0,,Oh my! I need to go.
 Dialogue: 0,0:31:24.30,0:31:25.17,Tarkin,,0,0,0,,Ah, uhm...
-Dialogue: 0,0:31:25.79,0:31:27.27,Tarkin,,0,0,0,,Thanks for the chat. Your lovely.
+Dialogue: 0,0:31:25.79,0:31:27.27,Tarkin,,0,0,0,,Thanks for the chat. You're lovely.
 Dialogue: 0,0:31:27.27,0:31:28.72,Tarkin,,0,0,0,,I mean it was lovely. I mean...
 Dialogue: 0,0:31:29.25,0:31:30.32,Tarkin,,0,0,0,,Oh dear!
 Dialogue: 0,0:31:32.95,0:31:36.09,Tarkin,,0,0,0,,And over here we've our state-of-the-art motherboard...
@@ -99,19 +99,19 @@ Dialogue: 0,0:32:56.95,0:32:58.60,Tarkin,,0,0,0,,Excuse me!
 Dialogue: 0,0:32:59.51,0:33:05.91,Tarkin,,0,0,0,,Who allowed this handsome young man aboard my battle station - why, it's the emperor!
 Dialogue: 0,0:33:07.31,0:33:10.93,emperor,,0,0,0,,Jeffrey. Jeffrey Tarkin.
 Dialogue: 0,0:33:10.72,0:33:12.43,Tarkin,,0,0,0,,Emperor Palpatine.
-Dialogue: 0,0:33:11.96,0:33:15.87,emperor,,0,0,0,,Oh please, please. You call me Papi!
+Dialogue: 0,0:33:11.96,0:33:15.87,emperor,,0,0,0,,Oh please, please. You call me Pappy!
 Dialogue: 0,0:33:16.94,0:33:18.93,emperor,,0,0,0,,All my friends do.
-Dialogue: 0,0:33:18.93,0:33:21.39,Tarkin,,0,0,0,,Wow, Papi. You sure gave me a fright.
+Dialogue: 0,0:33:18.93,0:33:21.39,Tarkin,,0,0,0,,Wow, Pappy. You sure gave me a fright.
 Dialogue: 0,0:33:21.39,0:33:23.31,Tarkin,,0,0,0,,I had no idea you were coming for a visit.
 Dialogue: 0,0:33:23.31,0:33:24.45,emperor,,0,0,0,,Surprise!
 Dialogue: 0,0:33:24.78,0:33:26.72,emperor,,0,0,0,,And hey, I've got more good news.
 Dialogue: 0,0:33:26.72,0:33:30.90,emperor,,0,0,0,,I cleared out my whole schedule and I'm gonna stay until ???.
 Dialogue: 0,0:33:30.90,0:33:31.63,Tarkin,,0,0,0,,Huzzah!
 Dialogue: 0,0:33:31.63,0:33:36.76,emperor,,0,0,0,,I hope you don't mind taking care of an old man for a whole week?
-Dialogue: 0,0:33:36.83,0:33:39.18,Tarkin,,0,0,0,,Not at all, Papi! Not at all!
+Dialogue: 0,0:33:36.83,0:33:39.18,Tarkin,,0,0,0,,Not at all, Pappy! Not at all!
 Dialogue: 0,0:33:39.18,0:33:41.18,Storm Trooper,,0,0,0,,Excuse me, Moff Tarkin?
 Dialogue: 0,0:33:41.18,0:33:44.01,Tarkin,,0,0,0,,Not now! Can't you see I'm speaking with the emperor?
-Dialogue: 0,0:33:44.01,0:33:46.82,Storm Trooper,,0,0,0,,Yes, Sir. But's ah - uh - okay...
+Dialogue: 0,0:33:44.01,0:33:46.82,Storm Trooper,,0,0,0,,Yes, but Sir it's a - uh - okay...
 Dialogue: 0,0:33:48.28,0:33:52.95,emperor,,0,0,0,,Jeffrey. I wanted to thank you for everything you've been doing recently.
 Dialogue: 0,0:33:52.95,0:33:57.01,emperor,,0,0,0,,You know, you've been a huge help in more ways than you know.
 Dialogue: 0,0:33:57.24,0:33:58.52,emperor,,0,0,0,,In fact...
@@ -138,7 +138,7 @@ Dialogue: 0,0:35:04.86,0:35:07.55,emperor,,0,0,0,,But for now he's got nothing t
 Dialogue: 0,0:35:07.78,0:35:11.62,emperor,,0,0,0,,She's just here to help with some of his responsibilities.
 Dialogue: 0,0:35:11.62,0:35:13.15,emperor,,0,0,0,,Speaking of which...
 Dialogue: 0,0:35:13.15,0:35:16.15,emperor,,0,0,0,,How is Ani doing in the meetings, huh?
-Dialogue: 0,0:35:16.15,0:35:19.46,emperor,,0,0,0,,Is he keeping you knuckle heads on track?
+Dialogue: 0,0:35:16.15,0:35:19.46,emperor,,0,0,0,,Is he keeping you knuckleheads on track?
 Dialogue: 0,0:35:19.21,0:35:24.44,Tarkin,,0,0,0,,Of course. Why, we just love having Ani in the meetings.
 Dialogue: 0,0:35:24.58,0:35:27.92,Tarkin,,0,0,0,,Why just the other day he made a very interesting proposal.
 Dialogue: 0,0:35:27.92,0:35:29.92,emperor,,0,0,0,,Hi, hi, hi, ...
@@ -170,7 +170,7 @@ Dialogue: 0,0:37:04.67,0:37:06.23,Empire Guy,,0,0,0,,It was Admiral Moaty, Sir.
 Dialogue: 0,0:37:05.96,0:37:07.47,Empire Guy,,0,0,0,,{\b1}What?!? No!{\b0}
 Dialogue: 0,0:37:07.60,0:37:11.23,emperor,,0,0,0,,Now, you will die.
 Dialogue: 0,0:37:10.05,0:37:11.73,Empire Guy,,0,0,0,,Emperor, please!
-Dialogue: 0,0:37:20.88,0:37:24.40,emperor,,0,0,0,,Alright. Now, where's Ani. I've got a surprise for him.
+Dialogue: 0,0:37:20.88,0:37:24.40,emperor,,0,0,0,,Alright. Now, where's Ani? I've got a surprise for him.
 Dialogue: 0,0:37:24.77,0:37:27.62,emperor,,0,0,0,,It's a Star-Wars Lego.
 Dialogue: 0,0:37:29.37,0:37:33.73,emperor,,0,0,0,,Yeah, I saw it in the Toys-R-Us on Coruscant and I thought: Hey...
 Dialogue: 0,0:37:33.73,0:37:35.05,emperor,,0,0,0,,That's for Ani!
@@ -186,11 +186,11 @@ Dialogue: 0,0:37:51.21,0:37:54.78,emperor,,0,0,0,,Or do you think Ani might be a
 Dialogue: 0,0:37:54.78,0:37:57.95,emperor,,0,0,0,,Sir, nobody's too old for Lego bricks!
 Dialogue: 0,0:37:57.95,0:37:59.24,emperor,,0,0,0,,Why, I would say...
 Dialogue: 0,0:37:59.31,0:38:00.64,emperor,,0,0,0,,[audience]
-Dialogue: 0,0:38:00.64,0:38:02.64,Empire Guy,,0,0,0,,Papi, I would say he's one lucky kid.
+Dialogue: 0,0:38:00.64,0:38:02.64,Empire Guy,,0,0,0,,Pappy, I would say he's one lucky kid.
 Dialogue: 0,0:38:02.54,0:38:02.93,Tarkin,,0,0,0,,Yes.
 Dialogue: 0,0:38:02.93,0:38:06.04,emperor,,0,0,0,,Okay, good. Cause I think it's cool.
 Dialogue: 0,0:38:05.74,0:38:06.26,Tarkin,,0,0,0,,Yeah.
-Dialogue: 0,0:38:05.92,0:38:09.62,emperor,,0,0,0,,Alright. Well, go and get him. Go and tell him that Papi is here!
+Dialogue: 0,0:38:05.92,0:38:09.62,emperor,,0,0,0,,Alright. Well, go and get him. Go and tell him that Pappy is here!
 Dialogue: 0,0:38:09.62,0:38:10.42,Tarkin,,0,0,0,,Right away, Sir.
 Dialogue: 0,0:38:10.42,0:38:11.57,Tarkin,,0,0,0,,You there!
 Dialogue: 0,0:38:11.57,0:38:13.99,Tarkin,,0,0,0,,Go and fetch Lord Vader for us, please.
@@ -205,21 +205,21 @@ Dialogue: 0,0:38:32.87,0:38:35.39,Storm Trooper,,0,0,0,,I don't know. He said so
 Dialogue: 0,0:38:35.39,0:38:38.30,Storm Trooper,,0,0,0,,And then he made a joke that I didn't get.
 Dialogue: 0,0:38:39.53,0:38:42.46,Storm Trooper,,0,0,0,,But I think it had something to do with him podracing again.
 Dialogue: 0,0:38:42.46,0:38:46.09,Tarkin,,0,0,0,,Podracing at his age? That's preposterous. He'd kill himself. Oh!
-Dialogue: 0,0:38:48.43,0:38:49.79,Tarkin,,0,0,0,,Papi wouldn't like that.
-Dialogue: 0,0:38:51.08,0:38:53.32,Tarkin,,0,0,0,,Papi wouldn't like any of this.
+Dialogue: 0,0:38:48.43,0:38:49.79,Tarkin,,0,0,0,,Pappy wouldn't like that.
+Dialogue: 0,0:38:51.08,0:38:53.32,Tarkin,,0,0,0,,Pappy wouldn't like any of this.
 Dialogue: 0,0:38:53.32,0:38:56.30,Tarkin,,0,0,0,,Why, if he finds out that we lost Ani on my watch...
 Dialogue: 0,0:38:56.30,0:38:59.66,Tarkin,,0,0,0,,He'll electrocute me to death with lightning. Or worse:
 Dialogue: 0,0:39:00.32,0:39:01.79,Tarkin,,0,0,0,,I'll loose that promotion.
 Dialogue: 0,0:39:01.84,0:39:03.09,Storm Trooper,,0,0,0,,No!
 Dialogue: 0,0:39:03.09,0:39:05.09,Storm Trooper,,0,0,0,,What are you going to do, Sir?
 Dialogue: 0,0:39:06.53,0:39:08.48,Tarkin,,0,0,0,,There's only one thing I can do.
-Dialogue: 0,0:39:09.98,0:39:11.34,Tarkin,,0,0,0,,Say, Papi?
+Dialogue: 0,0:39:09.98,0:39:11.34,Tarkin,,0,0,0,,Say, Pappy?
 Dialogue: 0,0:39:11.59,0:39:12.51,emperor,,0,0,0,,Yes?
 Dialogue: 0,0:39:13.32,0:39:14.50,Tarkin,,0,0,0,,You know what I think?
 Dialogue: 0,0:39:15.60,0:39:17.47,Tarkin,,0,0,0,,I think that Ani would love it...
 Dialogue: 0,0:39:17.47,0:39:20.71,Tarkin,,0,0,0,,If you put together that set of Lego bricks yourself...
 Dialogue: 0,0:39:20.71,0:39:23.19,Tarkin,,0,0,0,,And then gave it to him when it's finished.
-Dialogue: 0,0:39:24.54,0:39:27.60,emperor,,0,0,0,,But doesn't Ani wanna put it together?
+Dialogue: 0,0:39:24.54,0:39:27.60,emperor,,0,0,0,,Why, doesn't Ani wanna put it together?
 Dialogue: 0,0:39:27.85,0:39:30.16,emperor,,0,0,0,,That's the fun of Lego bricks!
 Dialogue: 0,0:39:30.16,0:39:31.36,Tarkin,,0,0,0,,No, no, no.
 Dialogue: 0,0:39:31.36,0:39:33.79,Tarkin,,0,0,0,,Ani likes to have a completed set.
