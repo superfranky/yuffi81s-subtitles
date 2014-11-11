@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 124
-Active Line: 126
-Video Position: 8210
+Scroll Position: 158
+Active Line: 187
+Video Position: 12171
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,7 +44,7 @@ Dialogue: 0,0:00:45.34,0:00:47.14,Default,,0,0,0,,You never know you're in them 
 Dialogue: 0,0:00:48.20,0:00:48.97,Default,,0,0,0,,So, what's up?
 Dialogue: 0,0:00:49.31,0:00:52.60,Default,,0,0,0,,Your meeting with the imperial opposites.
 Dialogue: 0,0:00:52.60,0:00:54.04,Default,,0,0,0,,Oh, I've got plenty of time before, but -
-Dialogue: 0,0:00:54.24,0:00:55.88,Default,,0,0,0,,[???]! I'm late!
+Dialogue: 0,0:00:54.24,0:00:55.88,Default,,0,0,0,,Oh cripes! I'm late!
 Dialogue: 0,0:00:57.40,0:00:59.56,Default,,0,0,0,,There! There he is
 Dialogue: 0,0:01:00.04,0:01:02.56,Default,,0,0,0,,He isn't like you or like me
 Dialogue: 0,0:01:02.72,0:01:03.72,Default,,0,0,0,,He's a man
@@ -53,7 +53,7 @@ Dialogue: 0,0:01:04.32,0:01:05.52,Default,,0,0,0,,Just a man
 Dialogue: 0,0:01:05.68,0:01:08.64,Default,,0,0,0,,And he's better than you'd ever seen.
 Dialogue: 0,0:01:09.48,0:01:10.88,Default,,0,0,0,,[Talking across each other]
 Dialogue: 0,0:01:10.52,0:01:12.24,Default,,0,0,0,,He's a hero
-Dialogue: 0,0:01:12.52,0:01:15.00,Default,,0,0,0,,He can [???]
+Dialogue: 0,0:01:12.52,0:01:15.00,Default,,0,0,0,,The captain of the team
 Dialogue: 0,0:01:15.36,0:01:17.08,Default,,0,0,0,,He is something
 Dialogue: 0,0:01:17.06,0:01:21.33,Default,,0,0,0,,So incredible. And he's being all he can be
 Dialogue: 0,0:01:21.60,0:01:24.53,Default,,0,0,0,,You can look, but you can't touch
@@ -114,7 +114,7 @@ Dialogue: 0,0:03:16.45,0:03:19.35,Default,,0,0,0,,It is hard to believe
 Dialogue: 0,0:03:19.65,0:03:26.40,Default,,0,0,0,,Cause he's here in the flesh - finally
 Dialogue: 0,0:03:26.55,0:03:27.65,Default,,0,0,0,,Ani
 Dialogue: 0,0:03:29.65,0:03:30.80,Default,,0,0,0,,Ani
-Dialogue: 0,0:03:32.60,0:03:37.20,Default,,0,0,0,,And to realize who rolls like Ani [is that correct???]
+Dialogue: 0,0:03:32.60,0:03:37.20,Default,,0,0,0,,And to realize who rolls like Ani
 Dialogue: 0,0:03:38.75,0:03:42.55,Default,,0,0,0,,Ani - He can't wait any more. I think we're ready to go
 Dialogue: 0,0:03:46.65,0:03:50.60,Default,,0,0,0,,I think we're ready to go, yeah
 Dialogue: 0,0:03:54.30,0:03:55.10,Default,,0,0,0,,Ani
@@ -160,8 +160,8 @@ Dialogue: 0,0:05:54.80,0:05:58.51,Default,,0,0,0,,Yes, and then there's that thi
 Dialogue: 0,0:05:58.60,0:06:00.05,Default,,0,0,0,,Oh no...
 Dialogue: 0,0:06:00.14,0:06:01.88,Default,,0,0,0,,Even so it is curious, isn't it?
 Dialogue: 0,0:06:02.11,0:06:03.71,Default,,0,0,0,,It has something to do with - with - with -
-Dialogue: 0,0:06:03.88,0:06:05.34,Default,,0,0,0,,[???]? Is that right?
-Dialogue: 0,0:06:05.65,0:06:07.17,Default,,0,0,0,,It's not very christian.
+Dialogue: 0,0:06:03.88,0:06:05.34,Default,,0,0,0,,Kyber crystal? Is that right?
+Dialogue: 0,0:06:05.65,0:06:07.17,Default,,0,0,0,,It's not very Christian.
 Dialogue: 0,0:06:06.94,0:06:07.51,Default,,0,0,0,,No! No.
 Dialogue: 0,0:06:09.34,0:06:11.94,Default,,0,0,0,,At any rate, we should all just be glad that he is not here now.
 Dialogue: 0,0:06:11.94,0:06:13.94,Default,,0,0,0,,Hi guys. I'm here.
@@ -191,25 +191,25 @@ Dialogue: 0,0:07:14.00,0:07:15.02,Default,,0,0,0,,Okay, continue.
 Dialogue: 0,0:07:15.34,0:07:16.05,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:07:16.25,0:07:20.14,Default,,0,0,0,,So, as I was saying these exhaust ports are actually leaving us rather vulnerable and...
 Dialogue: 0,0:07:20.05,0:07:21.48,Default,,0,0,0,,I just wanna say something real quick.
-Dialogue: 0,0:07:22.25,0:07:26.00,Default,,0,0,0,,So I've heard through your great whine that some of you feel like I don't contribute any ideas.
+Dialogue: 0,0:07:22.25,0:07:26.00,Default,,0,0,0,,So I've heard through the old grapevine that some of you feel like I don't contribute any ideas.
 Dialogue: 0,0:07:26.17,0:07:27.25,Default,,0,0,0,,Uh, well...
 Dialogue: 0,0:07:27.25,0:07:29.51,Default,,0,0,0,,That's okay, we're cool, no hard feelings, but, ah -
-Dialogue: 0,0:07:30.34,0:07:35.17,Default,,0,0,0,,I wanna show you that I'm part of the team so I like do want an idea pass to you guys that I think you're really gonna like.
+Dialogue: 0,0:07:30.34,0:07:35.17,Default,,0,0,0,,I wanna show you that I'm part of the team so I'd like to run an idea past to you guys that I think you're really gonna like.
 Dialogue: 0,0:07:35.25,0:07:37.91,Default,,0,0,0,,Well, all right Lord Vader, what is your idea?
-Dialogue: 0,0:07:37.91,0:07:43.11,Default,,0,0,0,,Okay, so I down, flying around in my tie-fighter, coming through the docking bay and I realized what this battle station looks like.
+Dialogue: 0,0:07:37.91,0:07:43.11,Default,,0,0,0,,Okay, so I'm down flying around in my tie-fighter, coming through the docking bay and I realized what this battle station looks like.
 Dialogue: 0,0:07:43.54,0:07:46.22,Default,,0,0,0,,I mean you guys have seen the Death Star from the outside, so you know what I'm talking about.
 Dialogue: 0,0:07:46.51,0:07:47.31,Default,,0,0,0,,What's it look like?
 Dialogue: 0,0:07:47.97,0:07:48.60,Default,,0,0,0,,Aaah...
 Dialogue: 0,0:07:49.11,0:07:49.97,Default,,0,0,0,,A moon?
 Dialogue: 0,0:07:49.97,0:07:51.14,Default,,0,0,0,,Or a sphere?
 Dialogue: 0,0:07:51.22,0:07:51.74,Default,,0,0,0,,A hooter!
-Dialogue: 0,0:07:53.02,0:07:53.80,Default,,0,0,0,,A knocker.
+Dialogue: 0,0:07:53.02,0:07:53.80,Default,,0,0,0,,You know, a knocker.
 Dialogue: 0,0:07:57.62,0:07:59.82,Default,,0,0,0,,You mean - a breast?
-Dialogue: 0,0:08:01.42,0:08:02.34,Default,,0,0,0,,Yeah, a dug.
-Dialogue: 0,0:08:02.68,0:08:04.91,Default,,0,0,0,,It's even a dark circle up the center like a nipple.
+Dialogue: 0,0:08:01.42,0:08:02.34,Default,,0,0,0,,Yeah, a jug.
+Dialogue: 0,0:08:02.68,0:08:04.91,Default,,0,0,0,,It's even got a little dark circle up the center like a nipple.
 Dialogue: 0,0:08:04.91,0:08:08.40,Default,,0,0,0,,Oh, well, well... I'm - I'm quite sure that was unintentional, Lord Vader!
 Dialogue: 0,0:08:07.45,0:08:09.94,Default,,0,0,0,,No, it's a happy accident, why not go with it?
-Dialogue: 0,0:08:10.34,0:08:13.22,Default,,0,0,0,,For the first to acknowledge I will take the wind out of everybody's sales.
+Dialogue: 0,0:08:10.34,0:08:13.22,Default,,0,0,0,,For the first to acknowledge I will take the wind out of everybody's sails.
 Dialogue: 0,0:08:13.31,0:08:15.57,Default,,0,0,0,,Cause you know those rebels are gonna see this thing and say: Hey!
 Dialogue: 0,0:08:16.11,0:08:16.97,Default,,0,0,0,,Look at that boob!
 Dialogue: 0,0:08:18.11,0:08:19.74,Default,,0,0,0,,The empire is a bunch of boobs.
