@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 112
-Active Line: 154
-Video Position: 14442
+Video Zoom Percent: 0.250000
+Scroll Position: 124
+Active Line: 126
+Video Position: 8210
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -152,7 +152,7 @@ Dialogue: 0,0:05:24.77,0:05:28.74,Default,,0,0,0,, - and friends I'd like to add
 Dialogue: 0,0:05:29.05,0:05:31.42,Default,,0,0,0,,I don't think any of us deserve to be choked, eh?
 Dialogue: 0,0:05:33.42,0:05:35.68,Default,,0,0,0,,Yes, I have always wondered
 Dialogue: 0,0:05:35.82,0:05:42.42,Default,,0,0,0,,besides stand in the corner like this and choking us, what does Lord Vader actually do, like...
-Dialogue: 0,0:05:42.42,0:05:44.42,Default,,0,0,0,,Oh, I honesty couldn't tell you.
+Dialogue: 0,0:05:42.42,0:05:44.42,Default,,0,0,0,,Oh, I honestly couldn't tell you.
 Dialogue: 0,0:05:44.57,0:05:48.25,Default,,0,0,0,,Well, I tell you one thing: He's not the personnel supervisor like he keeps saying.
 Dialogue: 0,0:05:48.45,0:05:49.25,Default,,0,0,0,,That's me!
 Dialogue: 0,0:05:49.40,0:05:54.80,Default,,0,0,0,,He - he simply doesn't belong in these meetings. He never offers any ideas nor is he qualified to.

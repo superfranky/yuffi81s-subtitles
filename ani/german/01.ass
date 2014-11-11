@@ -16,8 +16,8 @@ Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 205
-Active Line: 205
+Scroll Position: 25
+Active Line: 28
 Video Position: 14400
 
 [V4+ Styles]
@@ -44,7 +44,7 @@ Dialogue: 0,0:00:45.34,0:00:47.14,Default,,0,0,0,,Man weiß nie, dass man mitten
 Dialogue: 0,0:00:48.20,0:00:48.97,Default,,0,0,0,,Also, was ist los?
 Dialogue: 0,0:00:49.31,0:00:52.60,Default,,0,0,0,,Ihr Treffen mit den imperialen Oppositionsmitgliedern.
 Dialogue: 0,0:00:52.60,0:00:54.04,Default,,0,0,0,,Oh, bis dahin habe ich noch eine Menge Zeit, aber -
-Dialogue: 0,0:00:54.24,0:00:55.88,Default,,0,0,0,,[???]! Ich bin zu spät!
+Dialogue: 0,0:00:54.24,0:00:55.88,Default,,0,0,0,,Oh Mann! Ich bin zu spät!
 Dialogue: 0,0:00:57.40,0:00:59.56,Default,,0,0,0,,Da! Da ist er
 Dialogue: 0,0:01:00.04,0:01:02.56,Default,,0,0,0,,Er ist nicht wie du oder ich
 Dialogue: 0,0:01:02.72,0:01:03.72,Default,,0,0,0,,Er ist ein Mann
@@ -53,7 +53,7 @@ Dialogue: 0,0:01:04.32,0:01:05.52,Default,,0,0,0,,Nur ein Mann
 Dialogue: 0,0:01:05.68,0:01:08.64,Default,,0,0,0,,Und er ist besser als ihr je gesehen habt.
 Dialogue: 0,0:01:09.48,0:01:10.88,Default,,0,0,0,,[Reden durcheinander]
 Dialogue: 0,0:01:10.52,0:01:12.24,Default,,0,0,0,,Er ist ein Held
-Dialogue: 0,0:01:12.52,0:01:15.00,Default,,0,0,0,,Er kann [???]
+Dialogue: 0,0:01:12.52,0:01:15.00,Default,,0,0,0,,Der Kapitän der Mannschaft
 Dialogue: 0,0:01:15.36,0:01:17.08,Default,,0,0,0,,Er ist etwas
 Dialogue: 0,0:01:17.06,0:01:21.33,Default,,0,0,0,,So unglaublich. Und er ist alles, was er sein kann
 Dialogue: 0,0:01:21.60,0:01:24.53,Default,,0,0,0,,Du kannst schauen, aber du kannst ihn nicht anfassen
