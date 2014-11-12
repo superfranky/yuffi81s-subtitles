@@ -16,8 +16,8 @@ Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 147
-Active Line: 158
+Scroll Position: 88
+Active Line: 107
 Video Position: 87367
 
 [V4+ Styles]
@@ -45,12 +45,12 @@ Dialogue: 0,0:52:04.60,0:52:06.00,JarJar,,0,0,0,,What is you-sa doing her?
 Dialogue: 0,0:52:06.00,0:52:07.34,Ani,,0,0,0,,For Boonta-Eve, that's why.
 Dialogue: 0,0:52:07.34,0:52:08.50,Ani,,0,0,0,,I'm racing again.
 Dialogue: 0,0:52:08.74,0:52:10.11,JarJar,,0,0,0,,You-sa racing?
-Dialogue: 0,0:52:10.23,0:52:12.96,Ani,,0,0,0,,Yeah, but I can't race without my old pit-crew, can I?
-Dialogue: 0,0:52:12.96,0:52:14.79,JarJar,,0,0,0,,Your old pit-crew? Huh - me-sa!
+Dialogue: 0,0:52:10.23,0:52:12.96,Ani,,0,0,0,,Yeah, but I can't race without my old pit crew, can I?
+Dialogue: 0,0:52:12.96,0:52:14.79,JarJar,,0,0,0,,Your old pit crew? Huh - me-sa!
 Dialogue: 0,0:52:14.79,0:52:15.92,Ani,,0,0,0,,Of course.
 Dialogue: 0,0:52:15.92,0:52:17.61,JarJar,,0,0,0,,I don't know, Ani.
 Dialogue: 0,0:52:17.61,0:52:20.12,Ani,,0,0,0,,Oh, come on. It's gonna be great. Just like the good old days.
-Dialogue: 0,0:52:20.12,0:52:23.49,Ani,,0,0,0,,Fix up my old pod. We'll do some training. Run laps around the pit of Carkoon.
+Dialogue: 0,0:52:20.12,0:52:23.49,Ani,,0,0,0,,We'll fix up my old pod. We'll do some training. Run laps around the pit of Carkoon.
 Dialogue: 0,0:52:23.49,0:52:26.25,Ani,,0,0,0,,You can goof up and chase around all those little pit droids. Remember that?
 Dialogue: 0,0:52:26.25,0:52:26.72,JarJar,,0,0,0,,Yeah.
 Dialogue: 0,0:52:26.54,0:52:27.89,Ani,,0,0,0,,Hit the nose! You remember?
@@ -70,7 +70,7 @@ Dialogue: 0,0:52:51.50,0:52:52.32,Ani,,0,0,0,,From a noose.
 Dialogue: 0,0:52:52.63,0:52:53.57,JarJar,,0,0,0,,Yeah.
 Dialogue: 0,0:52:53.77,0:52:54.46,Ani,,0,0,0,,What's this?
 Dialogue: 0,0:52:54.46,0:52:56.46,JarJar,,0,0,0,,Oh no! Ani, you should not be reading that.
-Dialogue: 0,0:52:58.47,0:53:00.62,Ani,,0,0,0,,{\i1}God-bye-sa cruel world.{\i0} What?
+Dialogue: 0,0:52:58.47,0:53:00.62,Ani,,0,0,0,,{\i1}Good-bye-sa cruel world.{\i0} What?
 Dialogue: 0,0:53:03.24,0:53:05.21,Ani,,0,0,0,,{\i1}Can't take any more disappoi-pois.{\i0}
 Dialogue: 0,0:53:05.98,0:53:08.05,Ani,,0,0,0,,{\i1}Me-sa whole life is one big - {\i0}
 Dialogue: 0,0:53:08.05,0:53:09.52,Ani,,0,0,0,,{\i1}Boom-deaster.{\i0}
@@ -90,7 +90,7 @@ Dialogue: 0,0:53:47.63,0:53:52.49,JarJar,,0,0,0,,Everybody says that me-sa ruine
 Dialogue: 0,0:53:57.15,0:53:58.84,Ani,,0,0,0,,But that's not true!
 Dialogue: 0,0:53:59.01,0:54:00.56,Ani,,0,0,0,,I mean, you're a war hero!
 Dialogue: 0,0:54:00.56,0:54:02.54,Ani,,0,0,0,,You're a senator for crying out loud!
-Dialogue: 0,0:54:02.54,0:54:04.60,Ani,,0,0,0,,Why, you're the guy that voted Papi supreme power.
+Dialogue: 0,0:54:02.54,0:54:04.60,Ani,,0,0,0,,Why, you're the guy that voted Pappy supreme power.
 Dialogue: 0,0:54:04.60,0:54:07.17,Ani,,0,0,0,,There probably wouldn't even be an evil empire if it weren't for you!
 Dialogue: 0,0:54:07.17,0:54:11.32,JarJar,,0,0,0,,Me-sa know. Me-sa know! And what thanks does me-sa get? Nothing!
 Dialogue: 0,0:54:11.57,0:54:14.00,JarJar,,0,0,0,,And what's the last thing you ever did for old J.J., huh?
@@ -100,7 +100,7 @@ Dialogue: 0,0:54:18.54,0:54:19.93,Ani,,0,0,0,,I'm just trying to help you.
 Dialogue: 0,0:54:19.93,0:54:22.23,JarJar,,0,0,0,,Hmm, you wanna help me-sa?
 Dialogue: 0,0:54:22.69,0:54:23.44,JarJar,,0,0,0,,Ha, ha.
 Dialogue: 0,0:54:23.66,0:54:26.83,JarJar,,0,0,0,,Now you wanna help me-sa. Well...
-Dialogue: 0,0:54:27.01,0:54:30.86,JarJar,,0,0,0,,Where was you-sa whe me-sa was being chases around by mobs, huh?
+Dialogue: 0,0:54:27.01,0:54:30.86,JarJar,,0,0,0,,Where was you-sa when me-sa was being chased around by mobs, huh?
 Dialogue: 0,0:54:30.86,0:54:33.93,JarJar,,0,0,0,,When me-sa was being ridiculed on the internet?
 Dialogue: 0,0:54:35.87,0:54:37.24,JarJar,,0,0,0,,You-sa owe me!
 Dialogue: 0,0:54:37.24,0:54:38.66,Ani,,0,0,0,,Oh yeah? I owe you?
@@ -135,7 +135,7 @@ Dialogue: 0,0:55:54.42,0:55:56.58,JarJar,,0,0,0,,We famous for - sneak attack.
 Dialogue: 0,0:56:02.28,0:56:06.42,JarJar,,0,0,0,,Pretty good move, master Jedi.
 Dialogue: 0,0:56:07.09,0:56:10.58,JarJar,,0,0,0,,But let's see if you can dodge the same thing...
 Dialogue: 0,0:56:11.14,0:56:12.12,JarJar,,0,0,0,,Twice!
-Dialogue: 0,0:56:12.12,0:56:13.30,Ani,,0,0,0,,Not gonna work!
+Dialogue: 0,0:56:12.12,0:56:13.30,Ani,,0,0,0,,Knock it off!
 Dialogue: 0,0:56:12.80,0:56:13.51,JarJar,,0,0,0,,Argh!
 Dialogue: 0,0:56:13.51,0:56:16.91,JarJar,,0,0,0,,Ahhhhh.
 Dialogue: 0,0:56:15.40,0:56:16.91,Ani,,0,0,0,,Look what you're making me do!
@@ -164,21 +164,21 @@ Dialogue: 0,0:57:02.06,0:57:02.89,JarJar,,0,0,0,,Maybe.
 Dialogue: 0,0:57:11.92,0:57:13.54,Tarkin,,0,0,0,,Uh - There you are!
 Dialogue: 0,0:57:13.71,0:57:15.12,Ani,,0,0,0,,Tarkin! What are you doing here?
 Dialogue: 0,0:57:14.42,0:57:17.24,Tarkin,,0,0,0,,Ani! You have some serious explaining to do!
-Dialogue: 0,0:57:16.78,0:57:18.79,Ani,,0,0,0,,I can explain everything. The ??? came out...
-Dialogue: 0,0:57:17.79,0:57:21.72,Tarkin,,0,0,0,,Yes, yes, yes. I know! Everyone from Mos Eisley to Mos ??? is talking about it!
+Dialogue: 0,0:57:16.78,0:57:18.79,Ani,,0,0,0,,I can explain everything. Listen, I came out...
+Dialogue: 0,0:57:17.79,0:57:21.72,Tarkin,,0,0,0,,Yes, yes, yes. I know! Everyone from Mos Eisley to Mos Espa is talking about it!
 Dialogue: 0,0:57:22.10,0:57:24.33,Tarkin,,0,0,0,,You want to race in the Boonta-Eve?
 Dialogue: 0,0:57:24.77,0:57:25.76,Tarkin,,0,0,0,,Huh!
 Dialogue: 0,0:57:25.76,0:57:27.46,Tarkin,,0,0,0,,Not gonna happen! Let's go!
 Dialogue: 0,0:57:27.34,0:57:27.95,Ani,,0,0,0,,But I...
 Dialogue: 0,0:57:27.68,0:57:28.25,Tarkin,,0,0,0,,{\b1}Ani!{\b0}
 Dialogue: 0,0:57:32.63,0:57:33.66,Tarkin,,0,0,0,,Ani...
-Dialogue: 0,0:57:33.49,0:57:39.30,Tarkin,,0,0,0,,If you don't return to the Death Start with me immediately, Papi is going to be very upset with you.
-Dialogue: 0,0:57:38.94,0:57:40.77,Ani,,0,0,0,,Well, who cares what Papi thinks?
+Dialogue: 0,0:57:33.49,0:57:39.30,Tarkin,,0,0,0,,If you don't return to the Death Start with me immediately, Pappy is going to be very upset with you.
+Dialogue: 0,0:57:38.94,0:57:40.77,Ani,,0,0,0,,Well, who cares what Pappy thinks?
 Dialogue: 0,0:57:41.24,0:57:42.77,Ani,,0,0,0,,I'm sick of letting him run my life!
 Dialogue: 0,0:57:43.41,0:57:47.71,Ani,,0,0,0,,Until he finally teaches me how to stop people from dying - like he promised...
-Dialogue: 0,0:57:49.11,0:57:51.12,Ani,,0,0,0,,I'm not listening to Papi anymore.
+Dialogue: 0,0:57:49.11,0:57:51.12,Ani,,0,0,0,,I'm not listening to Pappy anymore.
 Dialogue: 0,0:57:54.81,0:57:56.25,Tarkin,,0,0,0,,Look, Ani.
-Dialogue: 0,0:57:57.46,0:58:00.51,Tarkin,,0,0,0,,I know that you fell like you need to do this.
+Dialogue: 0,0:57:57.46,0:58:00.51,Tarkin,,0,0,0,,I know that you feel like you need to do this.
 Dialogue: 0,0:58:01.73,0:58:04.17,Tarkin,,0,0,0,,But you're not the man that you once were.
 Dialogue: 0,0:58:04.46,0:58:06.33,Tarkin,,0,0,0,,And the Boonta-Eve?
 Dialogue: 0,0:58:06.81,0:58:10.10,Tarkin,,0,0,0,,It's the most dangerous race in the entire universe.
@@ -193,14 +193,14 @@ Dialogue: 0,0:58:27.74,0:58:30.15,Tarkin,,0,0,0,,That's life, Anakin.
 Dialogue: 0,0:58:32.04,0:58:33.04,Tarkin,,0,0,0,,Look!
 Dialogue: 0,0:58:33.19,0:58:36.91,Tarkin,,0,0,0,,You did something great once. And people loved you for it.
 Dialogue: 0,0:58:37.88,0:58:40.21,Tarkin,,0,0,0,,But it's over now. You peaked.
-Dialogue: 0,0:58:40.56,0:58:42.59,Tarkin,,0,0,0,,Let's say you do race again, huh.
+Dialogue: 0,0:58:40.56,0:58:42.59,Tarkin,,0,0,0,,Let's say you do race again, huh?
 Dialogue: 0,0:58:43.08,0:58:46.01,Tarkin,,0,0,0,,But you do a bad job.
 Dialogue: 0,0:58:46.89,0:58:48.01,Tarkin,,0,0,0,,You loose.
 Dialogue: 0,0:58:49.67,0:58:54.11,Tarkin,,0,0,0,,Well then all those fans - who loved you...
 Dialogue: 0,0:58:54.76,0:58:56.85,Tarkin,,0,0,0,,You'll become a joke to them.
-Dialogue: 0,0:58:57.38,0:59:00.82,Tarkin,,0,0,0,,You'll prove that you weren't talented. You'll  proove that you were lucky.
+Dialogue: 0,0:58:57.38,0:59:00.82,Tarkin,,0,0,0,,You'll prove that you weren't talented. You'll prove that you were lucky.
 Dialogue: 0,0:59:02.48,0:59:04.13,Tarkin,,0,0,0,,And that's how you'd end things.
-Dialogue: 0,0:59:04.13,0:59:06.32,Tarkin,,0,0,0,,Not as a winner. As a looser.
+Dialogue: 0,0:59:04.13,0:59:06.32,Tarkin,,0,0,0,,Not as a winner. As a loser.
 Dialogue: 0,0:59:11.05,0:59:12.69,Ani,,0,0,0,,Let me tell you something.
 Dialogue: 0,0:59:14.79,0:59:17.54,Ani,,0,0,0,,Before my first Boonta-Eve, I was a nobody.
 Dialogue: 0,0:59:18.45,0:59:21.44,Ani,,0,0,0,,Everything I had, I put in that race. And I came out on top.
@@ -208,14 +208,14 @@ Dialogue: 0,0:59:22.43,0:59:23.76,Ani,,0,0,0,,And yeah...
 Dialogue: 0,0:59:23.76,0:59:25.47,Ani,,0,0,0,,Maybe I stumbled into it.
 Dialogue: 0,0:59:25.47,0:59:27.07,Ani,,0,0,0,,Maybe I was lucky.
 Dialogue: 0,0:59:28.92,0:59:31.83,Ani,,0,0,0,,But ain't I got the right to find that out for myself?
-Dialogue: 0,0:59:33.00,0:59:36.73,Ani,,0,0,0,,Am I gonna be so scared what other people think that I'm not even gonna try?
+Dialogue: 0,0:59:33.00,0:59:36.73,Ani,,0,0,0,,Might I be so scared of what other people think that I'm not even gonna try?
 Dialogue: 0,0:59:37.77,0:59:39.73,Ani,,0,0,0,,So if I got a reputation...
 Dialogue: 0,0:59:40.05,0:59:41.98,Ani,,0,0,0,,If I got anything worth loosing...
 Dialogue: 0,0:59:43.53,0:59:45.94,Ani,,0,0,0,,It's because I had the guts to try.
 Dialogue: 0,0:59:47.99,0:59:48.89,Tarkin,,0,0,0,,Ani.
 Dialogue: 0,0:59:51.53,0:59:53.37,Tarkin,,0,0,0,,What you're trying to do...
 Dialogue: 0,0:59:54.27,0:59:55.84,Tarkin,,0,0,0,,You can't do it alone.
-Dialogue: 0,0:59:56.30,0:59:57.84,Tarkin,,0,0,0,,And who's going to help you, huh?
+Dialogue: 0,0:59:56.30,0:59:57.84,Tarkin,,0,0,0,,And who's going to help you, hm?
 Dialogue: 0,0:59:58.93,0:59:59.69,JarJar,,0,0,0,,Me-sa!
 Dialogue: 0,1:00:00.85,1:00:02.17,JarJar,,0,0,0,,That's who-sa!
 Dialogue: 0,1:00:02.40,1:00:02.99,Ani,,0,0,0,,J.J.?
