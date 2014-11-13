@@ -16,9 +16,9 @@ Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 177
-Active Line: 178
-Video Position: 85569
+Scroll Position: 81
+Active Line: 76
+Video Position: 87402
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,7 +56,7 @@ Dialogue: 0,0:52:26.25,0:52:26.72,JarJar,,0,0,0,,Ja.
 Dialogue: 0,0:52:26.54,0:52:27.89,Ani,,0,0,0,,Hau ihm auf die Nase! Erinnerst du dich?
 Dialogue: 0,0:52:28.36,0:52:29.28,Ani,,0,0,0,,Das war zeitlos.
 Dialogue: 0,0:52:29.28,0:52:30.21,JarJar,,0,0,0,,Ja.
-Dialogue: 0,0:52:30.21,0:52:32.76,Ani,,0,0,0,,Und an Ende werden wir Sebulba ein für alle mal stürzen.
+Dialogue: 0,0:52:30.21,0:52:32.76,Ani,,0,0,0,,Und am Ende werden wir Sebulba ein für alle mal stürzen.
 Dialogue: 0,0:52:35.98,0:52:36.44,Ani,,0,0,0,,Was ist das?
 Dialogue: 0,0:52:36.44,0:52:37.10,JarJar,,0,0,0,,Hä?
 Dialogue: 0,0:52:38.30,0:52:38.82,JarJar,,0,0,0,,Was?
@@ -172,7 +172,7 @@ Dialogue: 0,0:57:25.76,0:57:27.46,Tarkin,,0,0,0,,Das wird nicht passieren! Gehen
 Dialogue: 0,0:57:27.34,0:57:27.95,Ani,,0,0,0,,Aber ich...
 Dialogue: 0,0:57:27.68,0:57:28.25,Tarkin,,0,0,0,,{\b1}Ani!{\b0}
 Dialogue: 0,0:57:32.63,0:57:33.66,Tarkin,,0,0,0,,Ani...
-Dialogue: 0,0:57:33.49,0:57:39.30,Tarkin,,0,0,0,,Wenn du nicht sofort mit mir zurück zum Todesstern kommst, wird Pappy sehr verärgert über dich sein. 
+Dialogue: 0,0:57:33.49,0:57:39.30,Tarkin,,0,0,0,,Wenn du nicht sofort mit mir zurück zum Todesstern kommst, wird Pappy sehr verärgert über dich sein.
 Dialogue: 0,0:57:38.94,0:57:40.77,Ani,,0,0,0,,Na, wen interessiert es, was Pappy denkt?
 Dialogue: 0,0:57:41.24,0:57:42.77,Ani,,0,0,0,,Ich habe es satt, dass er mein Leben bestimmt!
 Dialogue: 0,0:57:43.41,0:57:47.71,Ani,,0,0,0,,Solange er mir nicht endlich beibringt, wie man Leute vom Sterben abhält - wie er es versprochen hat...
