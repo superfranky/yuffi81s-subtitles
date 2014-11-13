@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 195
-Active Line: 196
-Video Position: 101838
+Scroll Position: 201
+Active Line: 117
+Video Position: 101797
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -142,7 +142,7 @@ Dialogue: 0,1:06:34.18,1:06:36.46,Default,,0,0,0,,Oh - du hast die Macht
 Dialogue: 0,1:06:38.34,1:06:40.20,Default,,0,0,0,,Du bist noch nicht am Ziel
 Dialogue: 0,1:06:41.68,1:06:43.92,Default,,0,0,0,,Denn du kannst wissen, er ist härter geworden
 Dialogue: 0,1:06:44.56,1:06:49.02,Default,,0,0,0,,Er ist stärker, schneller, besser, wenn du es glaubst
-Dialogue: 0,1:06:49.26,1:06:50.30,Default,,0,0,0,,Du musst es machen
+Dialogue: 0,1:06:49.26,1:06:50.30,Default,,0,0,0,,Musst du es machen
 Dialogue: 0,1:06:51.92,1:06:53.86,Default,,0,0,0,,Wenn ich in deine Augen sehe
 Dialogue: 0,1:06:55.34,1:06:57.48,Default,,0,0,0,,Kann ich das Feuer sehen
 Dialogue: 0,1:06:58.08,1:07:03.56,Default,,0,0,0,,Es brennt, also erhebe dich
