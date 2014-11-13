@@ -16,8 +16,8 @@ Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 200
-Active Line: 206
+Scroll Position: 116
+Active Line: 135
 Video Position: 101764
 
 [V4+ Styles]
@@ -38,7 +38,7 @@ Dialogue: 0,1:01:03.34,1:01:05.46,Default,,0,0,0,,But you have left me with no c
 Dialogue: 0,1:01:07.02,1:01:08.32,Default,,0,0,0,,Lord Vader!
 Dialogue: 0,1:01:09.00,1:01:12.90,Default,,0,0,0,,I order you to come back to the Death Star with me and just be -
 Dialogue: 0,1:01:14.08,1:01:15.26,Default,,0,0,0,,Well, just be -
-Dialogue: 0,1:01:20.78,1:01:23.34,Default,,0,0,0,,miserable for the rest of your life\N[Reference to: Disney, The little mermaid (sebastian)]
+Dialogue: 0,1:01:20.78,1:01:23.34,Default,,0,0,0,,miserable for the rest of your life\N[Reference to: Disney, The little mermaid (Sebastian)]
 Dialogue: 0,1:01:30.62,1:01:31.68,Default,,0,0,0,,Fine.
 Dialogue: 0,1:01:33.68,1:01:34.64,Default,,0,0,0,,Fine.
 Dialogue: 0,1:01:42.06,1:01:43.50,Default,,0,0,0,,I'll try and help you win that race.
@@ -109,7 +109,7 @@ Dialogue: 0,1:05:15.76,1:05:16.96,Default,,0,0,0,,No way!
 Dialogue: 0,1:05:17.09,1:05:19.19,Default,,0,0,0,,Yeah, he's training down in Beggar's Canyon.
 Dialogue: 0,1:05:19.34,1:05:19.84,Default,,0,0,0,,Hey!
 Dialogue: 0,1:05:20.70,1:05:21.48,Default,,0,0,0,,Let's check it out.
-Dialogue: 0,1:05:21.84,1:05:22.50,Default,,0,0,0,,[???]
+Dialogue: 0,1:05:21.84,1:05:22.50,Default,,0,0,0,,Alright.
 Dialogue: 0,1:05:29.50,1:05:30.52,Default,,0,0,0,,Hey, Tarki.
 Dialogue: 0,1:05:30.90,1:05:31.74,Default,,0,0,0,,Be honest.
 Dialogue: 0,1:05:32.00,1:05:33.68,Default,,0,0,0,,These outfits look silly!
@@ -158,17 +158,17 @@ Dialogue: 0,1:07:28.98,1:07:31.18,Default,,0,0,0,,Oh - you got the force
 Dialogue: 0,1:07:31.90,1:07:35.12,Default,,0,0,0,,Oh uuuuuuh
 Dialogue: 0,1:07:35.12,1:07:35.50,Default,,0,0,0,,Go!
 Dialogue: 0,1:07:35.50,1:07:38.02,Default,,0,0,0,,You've got it, you've got it, you've got it
-Dialogue: 0,1:07:38.58,1:07:40.30,Default,,0,0,0,,[???] yeah
+Dialogue: 0,1:07:38.58,1:07:40.30,Default,,0,0,0,,The force, yeah
 Dialogue: 0,1:07:40.30,1:07:42.22,Default,,0,0,0,,Oh uuuuuuh
 Dialogue: 0,1:07:42.22,1:07:44.22,Default,,0,0,0,,You've got it, you've got it, you've got it
-Dialogue: 0,1:07:48.70,1:07:49.86,Default,,0,0,0,,[???] Ani.
+Dialogue: 0,1:07:48.70,1:07:49.86,Default,,0,0,0,,Here, your pod, Ani.
 Dialogue: 0,1:07:49.86,1:07:50.42,Default,,0,0,0,,Alright.
 Dialogue: 0,1:07:50.56,1:07:51.94,Default,,0,0,0,,Alright Ani, moment of truth!
 Dialogue: 0,1:07:52.48,1:07:52.92,Default,,0,0,0,,[???]
 Dialogue: 0,1:07:54.96,1:07:56.74,Default,,0,0,0,,It's working!
 Dialogue: 0,1:07:57.10,1:07:59.98,Default,,0,0,0,,ITS WORKING!!!
 Dialogue: 0,1:08:02.30,1:08:04.94,Default,,0,0,0,,Now this is podracing!
-Dialogue: 0,1:08:05.54,1:08:07.24,Default,,0,0,0,,Holy [???]! Look at that time!
+Dialogue: 0,1:08:05.54,1:08:07.24,Default,,0,0,0,,Holy smokes! Look at that time!
 Dialogue: 0,1:08:07.34,1:08:08.58,Default,,0,0,0,,I can't read!
 Dialogue: 0,1:08:11.54,1:08:13.46,Default,,0,0,0,,He might actually have a shot at this.
 Dialogue: 0,1:08:13.60,1:08:16.72,Default,,0,0,0,,Hey boys, good work today! Now hit the showers.
