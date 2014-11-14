@@ -16,8 +16,8 @@ Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 187
-Active Line: 190
+Scroll Position: 102
+Active Line: 121
 Video Position: 116128
 
 [V4+ Styles]
@@ -27,7 +27,7 @@ Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,1:10:45.68,1:10:48.38,Default,,0,0,0,,I-I wish I could just wish away my feelings.
-Dialogue: 0,1:10:49.18,1:10:51.70,Default,,0,0,0,,What's great  about that line is the repetition of the word 'wish'.
+Dialogue: 0,1:10:49.18,1:10:51.70,Default,,0,0,0,,What's great about that line is the repetition of the word 'wish'.
 Dialogue: 0,1:10:52.96,1:10:54.34,Default,,0,0,0,,So it's like poetry, I've rhymed.
 Dialogue: 0,1:10:54.54,1:10:57.90,Default,,0,0,0,,There's absolutely no way that you actually said these things.
 Dialogue: 0,1:10:57.90,1:11:01.28,Default,,0,0,0,,That is literally a transcript of what I said to Padme in front of a fireplace on Naboo.
@@ -70,7 +70,7 @@ Dialogue: 0,1:12:39.98,1:12:42.96,Default,,0,0,0,,Come and wait with the other a
 Dialogue: 0,1:12:43.08,1:12:44.72,Default,,0,0,0,,Wait - wait, other applicants?
 Dialogue: 0,1:12:44.80,1:12:48.18,Default,,0,0,0,,[sings aloud without words]
 Dialogue: 0,1:12:55.10,1:12:56.18,Default,,0,0,0,,She's so good.
-Dialogue: 0,1:12:57.34,1:13:02.26,Default,,0,0,0,,So I've been a slave dancer for like going on like, I don't know, like thirteen years now, Hahaha.
+Dialogue: 0,1:12:57.34,1:13:02.26,Default,,0,0,0,,So I've been a slave dancer for like going on like, I don't know, like thirteen years now, hahaha.
 Dialogue: 0,1:13:02.62,1:13:06.56,Default,,0,0,0,,I've done Yavin one, two, three, pretty much all the Yavins,
 Dialogue: 0,1:13:06.56,1:13:08.00,Default,,0,0,0,,where have you slaved?
 Dialogue: 0,1:13:08.46,1:13:10.16,Default,,0,0,0,,I'm over at Geonosis right now.
@@ -129,7 +129,7 @@ Dialogue: 0,1:15:50.22,1:15:52.10,Default,,0,0,0,,I'll tell you when I've had en
 Dialogue: 0,1:15:52.10,1:15:54.10,Default,,0,0,0,,You'll tell me when you've had enough!
 Dialogue: 0,1:15:59.16,1:15:59.78,Default,,0,0,0,,Hey!
 Dialogue: 0,1:16:00.96,1:16:02.44,Default,,0,0,0,,Eh. Hey.
-Dialogue: 0,1:16:03.42,1:16:05.64,Default,,0,0,0,,You guy want to see something funny?
+Dialogue: 0,1:16:03.42,1:16:05.64,Default,,0,0,0,,You guys want to see something funny?
 Dialogue: 0,1:16:07.04,1:16:09.14,Default,,0,0,0,,Watch this: Come here.
 Dialogue: 0,1:16:10.48,1:16:12.42,Default,,0,0,0,,My dick is a surfboard!
 Dialogue: 0,1:16:12.42,1:16:13.04,Default,,0,0,0,,Oh my god.
@@ -146,7 +146,7 @@ Dialogue: 0,1:16:45.98,1:16:48.50,Default,,0,0,0,,I have the worst hangover in h
 Dialogue: 0,1:16:49.76,1:16:50.40,Default,,0,0,0,,Thank you.
 Dialogue: 0,1:16:52.70,1:16:54.20,Default,,0,0,0,,I'm better now.
 Dialogue: 0,1:16:54.30,1:16:55.32,Default,,0,0,0,,I'm drunk.
-Dialogue: 0,1:16:56.96,1:16:59.74,Default,,0,0,0,,Wow! That guy really [??? puts them back?] huh?
+Dialogue: 0,1:16:56.96,1:16:59.74,Default,,0,0,0,,Wow! That guy really puts some back, huh?
 Dialogue: 0,1:17:00.06,1:17:05.60,Default,,0,0,0,,Well, you have to learn to consume this much alcohol if you are to learn the ways of the force.
 Dialogue: 0,1:17:05.70,1:17:07.16,Default,,0,0,0,,Become a Jedi like me.
 Dialogue: 0,1:17:07.24,1:17:08.32,Default,,0,0,0,,You're a Jedi?
