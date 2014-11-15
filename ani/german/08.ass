@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 163
-Active Line: 164
-Video Position: 116323
+Scroll Position: 185
+Active Line: 190
+Video Position: 116128
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -209,7 +209,7 @@ Dialogue: 0,1:20:01.20,1:20:01.70,Default,,0,0,0,,Ja.
 Dialogue: 0,1:20:01.70,1:20:04.10,Default,,0,0,0,,E-Entschuldigen Sie, Sir, ich - ich hasse es, zu unterbrechen, aber -
 Dialogue: 0,1:20:04.48,1:20:07.28,Default,,0,0,0,,erkennen Sie, dass Ihre letzte Aussage überhaupt keinen Sinn ergibt?
 Dialogue: 0,1:20:07.68,1:20:10.90,Default,,0,0,0,,Denn wenn nur ein Sith nichts als Extreme kennt,
-Dialogue: 0,1:20:11.06,1:20:13.80,Default,,0,0,0,,nun, dann ist das in sich selbst unbeding.
+Dialogue: 0,1:20:11.06,1:20:13.80,Default,,0,0,0,,nun, dann ist das in sich selbst unbedingt.
 Dialogue: 0,1:20:14.36,1:20:17.90,Default,,0,0,0,,Sehen Sie, wie Sie sich da selbst - versehentlich einen Sith genannt haben, alter Junge?
 Dialogue: 0,1:20:22.32,1:20:24.70,Default,,0,0,0,,Diese Motte hat mich gerade umgehauen, mam.
 Dialogue: 0,1:20:26.98,1:20:29.28,Default,,0,0,0,,Wie auch immer, zurück zu den Klonkriegen.
