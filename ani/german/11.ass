@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 196
-Active Line: 206
-Video Position: 162244
+Scroll Position: 195
+Active Line: 200
+Video Position: 162322
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,7 +42,7 @@ Dialogue: 0,1:40:52.96,1:40:55.78,Default,,0,0,0,,Ich werde niemals einen Person
 Dialogue: 0,1:40:55.78,1:40:57.88,Default,,0,0,0,,Oh Ani - das bist du nicht, ich wußte das schon.
 Dialogue: 0,1:40:57.94,1:40:58.88,Default,,0,0,0,,Nun, ich wußte es nicht!
 Dialogue: 0,1:41:00.40,1:41:02.82,Default,,0,0,0,,Denn ich habe mich selbst all die Jahre belogen!
-Dialogue: 0,1:41:03.64,1:41:06.32,Default,,0,0,0,,Versucht mich slbst zu überzeugen, dass ich etwas wert war!
+Dialogue: 0,1:41:03.64,1:41:06.32,Default,,0,0,0,,Versucht mich selbst zu überzeugen, dass ich etwas wert war!
 Dialogue: 0,1:41:06.56,1:41:07.40,Default,,0,0,0,,ETWAS!
 Dialogue: 0,1:41:10.04,1:41:10.76,Default,,0,0,0,,Aber ich bin es nicht.
 Dialogue: 0,1:41:20.84,1:41:21.56,Default,,0,0,0,,Weißt du, Ani -
@@ -97,7 +97,7 @@ Dialogue: 0,1:43:50.02,1:43:53.68,Default,,0,0,0,,Wir sind hier beim größten J
 Dialogue: 0,1:43:53.68,1:43:54.40,Default,,0,0,0,,Das stimmt, Tom.
 Dialogue: 0,1:43:54.50,1:43:58.42,Default,,0,0,0,,und alle freuen sich auf den erbitterten Zweikampf zwischen dem Champ des Podrennens Sebulba
 Dialogue: 0,1:43:58.42,1:44:00.42,Default,,0,0,0,,und dem ex, ex, ex, früheren Champ Ani.
-Dialogue: 0,1:44:00.52,1:44:05.68,Default,,0,0,0,,Persönlich habe icb kein Geld auf diesen weeeiiiit über seine bestes Alter hinausgegangenen Rennfahrer gesetzt, aber hey! Ich habe mich schon öfter geirrt!
+Dialogue: 0,1:44:00.52,1:44:05.68,Default,,0,0,0,,Persönlich habe ich kein Geld auf diesen weeeiiiit über sein bestes Alter hinausgegangenen Rennfahrer gesetzt, aber hey! Ich habe mich schon öfter geirrt!
 Dialogue: 0,1:44:05.82,1:44:08.62,Default,,0,0,0,,Tatsächlich sagt einer von unseren Köpfen immer die Wahrheit und einer von uns lügt immer.
 Dialogue: 0,1:44:08.56,1:44:09.70,Default,,0,0,0,,Das stimmt, Tom.
 Dialogue: 0,1:44:19.62,1:44:21.50,Default,,0,0,0,,Okay Ani, sie ist fertig zum fliegen.
@@ -142,7 +142,7 @@ Dialogue: 0,1:46:00.86,1:46:01.60,Default,,0,0,0,,Na ja... -
 Dialogue: 0,1:46:05.26,1:46:06.48,Default,,0,0,0,,Augenblick der Wahrheit, hä?
 Dialogue: 0,1:46:09.00,1:46:11.94,Default,,0,0,0,,Also, es gibt da eine Redensart auf Coruscant:
 Dialogue: 0,1:46:13.94,1:46:17.92,Default,,0,0,0,,Jeder große Rennfahrer hat ein letztes Rennen.
-Dialogue: 0,1:46:20.72,1:46:24.94,Default,,0,0,0,,Warum gehst du nicht da raus uns lehrst sie, dass das, was zuletzt altert, das Herz ist?
+Dialogue: 0,1:46:20.72,1:46:24.94,Default,,0,0,0,,Warum gehst du nicht da raus und lehrst sie, dass das, was zuletzt altert, das Herz ist?
 Dialogue: 0,1:46:28.32,1:46:30.24,Default,,0,0,0,,Kannst du es fühlen
 Dialogue: 0,1:46:32.24,1:46:34.64,Default,,0,0,0,,in der Luft
 Dialogue: 0,1:46:36.54,1:46:42.34,Default,,0,0,0,,um uns her treibend, überall
@@ -222,11 +222,11 @@ Dialogue: 0,1:51:40.46,1:51:44.20,Default,,0,0,0,,habe ich vergessen - an deinen
 Dialogue: 0,1:51:47.36,1:51:48.24,Default,,0,0,0,,Und dafür, Ani -
 Dialogue: 0,1:51:52.92,1:51:53.64,Default,,0,0,0,,Entschuldige ich mich.
 Dialogue: 0,1:51:59.52,1:52:00.65,Default,,0,0,0,,Es ist okay, Pappy.
-Dialogue: 0,1:52:02.65,1:52:04.10,Default,,0,0,0,,Ich habe getan, weshalb ich hergekommen bin. 
+Dialogue: 0,1:52:02.65,1:52:04.10,Default,,0,0,0,,Ich habe getan, weshalb ich hergekommen bin.
 Dialogue: 0,1:52:05.47,1:52:06.10,Default,,0,0,0,,Ich bin das Rennen gefahren.
 Dialogue: 0,1:52:09.05,1:52:11.07,Default,,0,0,0,,Ich wünschte nur, ich hätte durchhalten können, verstehst du?
 Dialogue: 0,1:52:14.05,1:52:14.57,Default,,0,0,0,,Ani, -
-Dialogue: 0,1:52:16.75,1:52:20.00,Default,,0,0,0,,Lass mcih dir etwas - über Sith erzählen:
+Dialogue: 0,1:52:16.75,1:52:20.00,Default,,0,0,0,,Lass mich dir etwas - über Sith erzählen:
 Dialogue: 0,1:52:21.45,1:52:25.47,Default,,0,0,0,,Wir sind die einzigen Leute, die nichts als Extreme kennen.
 Dialogue: 0,1:52:26.02,1:52:31.97,Default,,0,0,0,,Und wir akzeptieren absolut nie ein Nein als Antwort.
 Dialogue: 0,1:52:31.97,1:52:34.27,Default,,0,0,0,,Pappy, meinen Podrenner hat es erwischt, die ganze Energie ist erschöpft.

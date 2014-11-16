@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 160
-Active Line: 170
-Video Position: 144233
+Scroll Position: 116
+Active Line: 122
+Video Position: 140949
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +37,7 @@ Dialogue: 0,1:31:40.41,1:31:44.01,Default,,0,0,0,,Ist nicht ein einziger Tag ver
 Dialogue: 0,1:31:44.01,1:31:47.25,Default,,0,0,0,,An dem ich nicht an dich gedacht habe
 Dialogue: 0,1:31:47.84,1:31:51.50,Default,,0,0,0,,Und jetzt, da ich mit dir zusammen bin
 Dialogue: 0,1:31:51.50,1:31:54.34,Default,,0,0,0,,Fühle ich Qual
-Dialogue: 0,1:31:55.05,1:31:58.31,Default,,0,0,0,,Je näher ich dir kommen
+Dialogue: 0,1:31:55.05,1:31:58.31,Default,,0,0,0,,Je näher ich dir komme
 Dialogue: 0,1:31:58.60,1:32:01.03,Default,,0,0,0,,Desto schlimmer wird es für mich.
 Dialogue: 0,1:32:01.74,1:32:06.35,Default,,0,0,0,,Aber der Gedanke nicht bei dir zu sein
 Dialogue: 0,1:32:08.82,1:32:14.92,Default,,0,0,0,,Ich kann nicht atmen
@@ -126,7 +126,7 @@ Dialogue: 0,1:36:44.88,1:36:47.36,Obi-Wan,,0,0,0,,Komm schon, du Irrer. Ich - ä
 Dialogue: 0,1:36:47.36,1:36:49.46,Obi-Wan,,0,0,0,,Halte mich nicht hin. Ich bin nicht ??? hier draußen.
 Dialogue: 0,1:36:48.38,1:36:50.25,JarJar,,0,0,0,,Okay. Okay, okay, okay.
 Dialogue: 0,1:36:50.25,1:36:52.68,JarJar,,0,0,0,,Aber das ist nur für Notfälle, okay?
-Dialogue: 0,1:36:51.73,1:36:53.01,Obi-Wan,,0,0,0,,Okay. [???].
+Dialogue: 0,1:36:51.73,1:36:53.01,Obi-Wan,,0,0,0,,Okay. Gib's her!
 Dialogue: 0,1:36:53.01,1:36:54.65,Obi-Wan,,0,0,0,,Und jetzt gib mir etwas Geld.
 Dialogue: 0,1:36:54.65,1:36:56.38,JarJar,,0,0,0,,I - ich habe kein Geld, Obi.
 Dialogue: 0,1:36:56.38,1:36:58.80,Obi-Wan,,0,0,0,,Du-sa sicher? Du-sa kontrollierst deine Taschen.
@@ -134,7 +134,7 @@ Dialogue: 0,1:36:58.13,1:37:00.55,JarJar,,0,0,0,,Ich kontrolliere meine Taschen,
 Dialogue: 0,1:37:00.21,1:37:01.75,Obi-Wan,,0,0,0,,Okay, okay.
 Dialogue: 0,1:37:01.94,1:37:04.18,Obi-Wan,,0,0,0,,Jetzt tu mir einen Gefallen, J.J.
 Dialogue: 0,1:37:04.18,1:37:06.21,Obi-Wan,,0,0,0,,Und wenn ich dich getötet habe...
-Dialogue: 0,1:37:06.21,1:37:08.90,Obi-Wan,,0,0,0,,Komm mit zuzrück als ein gottverdammter Roboter!
+Dialogue: 0,1:37:06.21,1:37:08.90,Obi-Wan,,0,0,0,,Komm nicht zurück als ein gottverdammter Roboter!
 Dialogue: 0,1:37:08.90,1:37:09.94,JarJar,,0,0,0,,Bitte, nein!
 Dialogue: 0,1:37:10.27,1:37:11.03,JarJar,,0,0,0,,Argh!
 Dialogue: 0,1:37:13.18,1:37:15.33,Obi-Wan,,0,0,0,,Oh, oh. Ich hau besser hier ab!
@@ -152,7 +152,7 @@ Dialogue: 0,1:37:41.67,1:37:44.07,Tarkin,,0,0,0,,Wir wissen es nicht. Er drückt
 Dialogue: 0,1:37:45.56,1:37:46.61,Ani,,0,0,0,,Also, ich will ihn sehen!
 Dialogue: 0,1:37:46.22,1:37:48.92,Ani,,0,0,0,,Nein, Ani. Du gehst besser nicht nach da hinten! Nein, Ani, warte!
 Dialogue: 0,1:37:48.60,1:37:49.41,Emely,,0,0,0,,Warte, Ani!
-Dialogue: 0,1:37:55.64,1:37:56.78,Ani,,0,0,0,,Oh, J.J.!
+Dialogue: 0,1:37:55.64,1:37:56.78,Ani,,0,0,0,,Armer J.J.!
 Dialogue: 0,1:37:58.74,1:37:59.70,Ani,,0,0,0,,Ich bin hier!
 Dialogue: 0,1:38:01.96,1:38:02.72,JarJar,,0,0,0,,Uh.
 Dialogue: 0,1:38:02.92,1:38:05.55,JarJar,,0,0,0,,Du-sa denken J.J. wird sterben?
