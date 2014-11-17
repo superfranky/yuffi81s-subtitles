@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 190
-Active Line: 199
-Video Position: 43006
+Scroll Position: 72
+Active Line: 76
+Video Position: 34274
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,7 +43,7 @@ Dialogue: 0,0:20:32.60,0:20:34.00,Default,,0,0,0,,Alright, knock it off, it's no
 Dialogue: 0,0:20:34.08,0:20:34.42,Default,,0,0,0,,Okay...
 Dialogue: 0,0:20:36.05,0:20:38.02,Default,,0,0,0,,My jokes are about Jabba's palace.
 Dialogue: 0,0:20:39.25,0:20:40.02,Default,,0,0,0,,Okay:
-Dialogue: 0,0:20:41.68,0:20:44.42,Default,,0,0,0,,What's the one thing Jabba ask for when he goes to a seafood restaurant?
+Dialogue: 0,0:20:41.68,0:20:44.42,Default,,0,0,0,,What's the one thing Jabba asks for when he goes to a seafood restaurant?
 Dialogue: 0,0:20:46.42,0:20:47.51,Default,,0,0,0,,Uuuuh...
 Dialogue: 0,0:20:48.51,0:20:49.31,Default,,0,0,0,,Bit for tuna.
 Dialogue: 0,0:20:52.00,0:20:53.94,Default,,0,0,0,,Bit for tuna, oh come on! Bib Fortuna?
@@ -78,7 +78,7 @@ Dialogue: 0,0:22:11.37,0:22:12.22,Default,,0,0,0,,Fuuuuuck!
 Dialogue: 0,0:22:12.22,0:22:15.71,Default,,0,0,0,,Lord Vader, we've been trying to call you - all morning.
 Dialogue: 0,0:22:16.91,0:22:24.85,Default,,0,0,0,,I don't quite know how to put this, but the emperor has decided to take the roll of his apprentice in a new direction.
 Dialogue: 0,0:22:29.94,0:22:30.62,Default,,0,0,0,,What?
-Dialogue: 0,0:22:31.14,0:22:33.94,Default,,0,0,0,,If you like we can say you became ill.
+Dialogue: 0,0:22:31.14,0:22:33.94,Default,,0,0,0,,If you like we could say you became ill.
 Dialogue: 0,0:22:35.40,0:22:37.14,Default,,0,0,0,,Well, who the hell is this?
 Dialogue: 0,0:22:37.31,0:22:43.80,Default,,0,0,0,,Oh, this is Mara Jade, top imperial assassin and the emperor's new apprentice.
 Dialogue: 0,0:22:50.91,0:22:51.82,Default,,0,0,0,,Hey...!
@@ -102,7 +102,7 @@ Dialogue: 0,0:23:38.60,0:23:41.45,Default,,0,0,0,,-ah, are you pretty good with 
 Dialogue: 0,0:23:43.68,0:23:44.60,Default,,0,0,0,,No, not really.
 Dialogue: 0,0:23:45.82,0:23:48.65,Default,,0,0,0,,Tell you the truth I lost [???] every light saber battle I ever had.
 Dialogue: 0,0:23:48.82,0:23:49.31,Default,,0,0,0,,Alright...
-Dialogue: 0,0:23:49.48,0:23:51.88,Default,,0,0,0,,[???] time I actually won it, the thing was against a bunch of kids.
+Dialogue: 0,0:23:49.48,0:23:51.88,Default,,0,0,0,,That time I actually won it, the thing was against a bunch of kids.
 Dialogue: 0,0:23:52.91,0:23:53.48,Default,,0,0,0,,But it -
 Dialogue: 0,0:23:54.68,0:23:56.22,Default,,0,0,0,,But that was a really close call.
 Dialogue: 0,0:23:56.45,0:23:57.94,Default,,0,0,0,,And those where some [???] younglings.

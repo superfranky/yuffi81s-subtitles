@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 153
-Active Line: 182
-Video Position: 28867
+Video Zoom Percent: 0.250000
+Scroll Position: 104
+Active Line: 112
+Video Position: 21810
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +34,7 @@ Dialogue: 0,0:10:10.54,0:10:13.64,Default,,0,0,0,,No, I'm not allowed to accept 
 Dialogue: 0,0:10:09.46,0:10:10.94,Default,,0,0,0,,Oh no, you're gonna love it, trust me.
 Dialogue: 0,0:10:10.94,0:10:12.88,Default,,0,0,0,,I just have to get it out of my pocket real quick.
 Dialogue: 0,0:10:12.88,0:10:14.88,Default,,0,0,0,,Oh here it is! Argh!
-Dialogue: 0,0:10:15.78,0:10:17.34,Default,,0,0,0,,???
+Dialogue: 0,0:10:15.78,0:10:17.34,Default,,0,0,0,,Yeah, I know what you like!
 Dialogue: 0,0:10:17.72,0:10:19.50,Default,,0,0,0,,Well, you guys ??? ?
 Dialogue: 0,0:10:19.50,0:10:22.56,Default,,0,0,0,,No problem. I've got enough for everybody!
 Dialogue: 0,0:10:28.00,0:10:31.14,Default,,0,0,0,,Alright. Me and a Jerk!
@@ -94,7 +94,7 @@ Dialogue: 0,0:12:46.20,0:12:47.02,Default,,0,0,0,,Yes.
 Dialogue: 0,0:12:48.54,0:12:51.30,Default,,0,0,0,,Excellent word for female parts if you catch my meaning.
 Dialogue: 0,0:12:51.12,0:12:52.42,Default,,0,0,0,,Yeah, I do. I do.
 Dialogue: 0,0:12:54.14,0:12:56.86,Default,,0,0,0,,So has anyone ever screwed up and said that? They'll be like: Hey!
-Dialogue: 0,0:12:56.86,0:12:58.56,Default,,0,0,0,,Quit Tarkin ??? the moth.
+Dialogue: 0,0:12:56.86,0:12:58.56,Default,,0,0,0,,Quit Tarkin all the moth.
 Dialogue: 0,0:13:02.90,0:13:04.02,Default,,0,0,0,,Has anyone ever done that?
 Dialogue: 0,0:13:08.08,0:13:11.08,Default,,0,0,0,,Yes. Well actually you've yelled that at me a number of times.
 Dialogue: 0,0:13:12.22,0:13:13.60,Default,,0,0,0,,You know that was me?
@@ -138,7 +138,7 @@ Dialogue: 0,0:15:01.20,0:15:04.36,Default,,0,0,0,,No, it's actually gross and im
 Dialogue: 0,0:15:03.82,0:15:04.50,Default,,0,0,0,,Yes.
 Dialogue: 0,0:15:04.50,0:15:06.74,Default,,0,0,0,,It's not gross or anything. It's just...
 Dialogue: 0,0:15:06.92,0:15:09.62,Default,,0,0,0,,Have you ever seem this thing from the outside? It's got a nipple.
-Dialogue: 0,0:15:09.62,0:15:15.12,Default,,0,0,0,,Ugh! That's not a nipple. It's a disruption ray generator. It's where the planet destroying laser shots out.
+Dialogue: 0,0:15:09.62,0:15:15.12,Default,,0,0,0,,Ugh! That's not a nipple. It's a disruption ray generator. It's where the planet destroying laser shoots out.
 Dialogue: 0,0:15:15.12,0:15:17.12,Default,,0,0,0,,Huh. What do you think about that?
 Dialogue: 0,0:15:17.12,0:15:18.48,Default,,0,0,0,,It's like shooting milk.
 Dialogue: 0,0:15:20.02,0:15:22.12,Default,,0,0,0,,You're a funny group of girls.
