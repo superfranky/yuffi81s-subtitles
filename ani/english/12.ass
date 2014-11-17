@@ -16,8 +16,8 @@ Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 78
-Active Line: 90
+Scroll Position: 101
+Active Line: 119
 Video Position: 174821
 
 [V4+ Styles]
@@ -43,7 +43,7 @@ Dialogue: 0,1:52:59.30,1:53:03.12,Default,,0,0,0,,And remember: Try spinning. Th
 Dialogue: 0,1:53:05.53,1:53:08.68,Commentator,,0,0,0,,Well it appears that our ??? racers are dead.
 Dialogue: 0,1:53:09.06,1:53:12.19,Commentator,,0,0,0,,Which makes the outcome of this race a foregone conclusion.
 Dialogue: 0,1:53:12.27,1:53:16.73,Commentator,,0,0,0,,And here he comes now: The undisputed podracing champ of the galaxy, Sebulba.
-Dialogue: 0,1:53:17.04,1:53:21.29,Commentator,,0,0,0,,Making his way to the hot flats, taking his time, enjoying the scenery.
+Dialogue: 0,1:53:17.04,1:53:21.29,Commentator,,0,0,0,,Making his way through the hot flats, taking his time, enjoying the scenery.
 Dialogue: 0,1:53:21.29,1:53:22.43,Commentator,,0,0,0,,And why wouldn't he?
 Dialogue: 0,1:53:22.43,1:53:26.69,Commentator,,0,0,0,,There is absolutely no one who can possibly stop him now. What was that?!?
 Dialogue: 0,1:53:28.81,1:53:33.91,Commentator,,0,0,0,,Folks, our cameras are trying to pick something up but it's moving just too gosh damn fast! We can't get a focus on it.
@@ -75,8 +75,8 @@ Dialogue: 0,1:54:55.64,1:54:57.73,Obi-Wan,,0,0,0,,That's not fair! We cheated!
 Dialogue: 0,1:54:59.86,1:55:00.73,Obi-Wan,,0,0,0,,Oh, well.
 Dialogue: 0,1:55:01.09,1:55:03.37,Obi-Wan,,0,0,0,,I guess I'll move on to plan b.
 Dialogue: 0,1:55:03.63,1:55:09.05,Obi-Wan,,0,0,0,,I'll raise Ani's son in ignorance and I'll trick him into killing his own father.
-Dialogue: 0,1:55:11.26,1:55:13.29,Obi-Wan,,0,0,0,,And if I kept to sieve the boy...
-Dialogue: 0,1:55:13.29,1:55:15.50,Obi-Wan,,0,0,0,,There's allways sister.
+Dialogue: 0,1:55:11.26,1:55:13.29,Obi-Wan,,0,0,0,,And if I can't deceive the boy...
+Dialogue: 0,1:55:13.29,1:55:15.50,Obi-Wan,,0,0,0,,There's always sister.
 Dialogue: 0,1:55:15.50,1:55:19.33,Qui-Gon,,0,0,0,,Oh let it go, old friend.
 Dialogue: 0,1:55:20.16,1:55:21.85,Obi-Wan,,0,0,0,,Oh, Qui-Gon. There you are.
 Dialogue: 0,1:55:21.85,1:55:23.55,Qui-Gon,,0,0,0,,Ah.
@@ -96,7 +96,7 @@ Dialogue: 0,1:55:48.32,1:55:52.42,Obi-Wan,,0,0,0,,I can't get it. It's all blue 
 Dialogue: 0,1:55:52.88,1:55:54.11,Qui-Gon,,0,0,0,,Sorry, friend.
 Dialogue: 0,1:55:54.11,1:55:56.68,Qui-Gon,,0,0,0,,But boo-s are for ghosts.
 Dialogue: 0,1:56:03.45,1:56:04.84,Qui-Gon,,0,0,0,,You see what I did there?
-Dialogue: 0,1:56:05.61,1:56:08.26,Qui-Gon,,0,0,0,,Boo! It's the sound the ghost makes.
+Dialogue: 0,1:56:05.61,1:56:08.26,Qui-Gon,,0,0,0,,Boo! It's the sound a ghost makes.
 Dialogue: 0,1:56:09.14,1:56:12.63,Qui-Gon,,0,0,0,,And booze is a word of an alcoholic beverage.
 Dialogue: 0,1:56:13.17,1:56:15.41,Qui-Gon,,0,0,0,,It's a humorous play on words.
 Dialogue: 0,1:56:16.27,1:56:19.20,Qui-Gon,,0,0,0,,And that's where the comedy comes in.
@@ -108,12 +108,12 @@ Dialogue: 0,1:56:38.31,1:56:38.96,Obi-Wan,,0,0,0,,Oh, well...
 Dialogue: 0,1:56:40.60,1:56:42.42,Obi-Wan,,0,0,0,,Strike me down, now.
 Dialogue: 0,1:56:43.56,1:56:45.35,Obi-Wan,,0,0,0,,And I will become...
 Dialogue: 0,1:56:45.69,1:56:46.79,Obi-Wan,,0,0,0,,More powerful...
-Dialogue: 0,1:56:48.17,1:56:50.22,Obi-Wan,,0,0,0,,Than you can possibly match.
+Dialogue: 0,1:56:48.17,1:56:50.22,Obi-Wan,,0,0,0,,Than you could possibly imagine.
 Dialogue: 0,1:57:06.81,1:57:08.28,Ani,,0,0,0,,Alright, Mara. Listen up.
-Dialogue: 0,1:57:08.47,1:57:12.04,Ani,,0,0,0,,Jabi can be a little intimidating. See, if he's starting to get nervous, just picture him naked.
+Dialogue: 0,1:57:08.47,1:57:12.04,Ani,,0,0,0,,Jabba, he can be a little intimidating. So if you start to get nervous, just picture him naked.
 Dialogue: 0,1:57:13.17,1:57:14.93,Ani,,0,0,0,,That's a joke, kid. He's always naked.
 Dialogue: 0,1:57:15.98,1:57:16.92,Ani,,0,0,0,,You'll see.
-Dialogue: 0,1:57:17.16,1:57:18.64,Ani,,0,0,0,,Got to relax. It'll be great.
+Dialogue: 0,1:57:17.16,1:57:18.64,Ani,,0,0,0,,Gotta relax. It'll be great.
 Dialogue: 0,1:57:18.93,1:57:21.66,Boba Fett,,0,0,0,,Jo oh ho. Ani! Mara!
 Dialogue: 0,1:57:21.66,1:57:24.37,Mara,,0,0,0,,Hey, Bob. Thanks for getting me this audition.
 Dialogue: 0,1:57:24.37,1:57:25.79,Boba Fett,,0,0,0,,Ah, no sweat.
@@ -124,7 +124,7 @@ Dialogue: 0,1:57:44.29,1:57:45.46,Ani,,0,0,0,,Knock him dead!
 Dialogue: 0,1:57:46.27,1:57:47.17,Mara,,0,0,0,,Thanks, Ani.
 Dialogue: 0,1:57:47.17,1:57:52.52,Jabba,,0,0,0,,Oh... ho... ho... ho...
 Dialogue: 0,1:57:48.09,1:57:49.64,Bib Fortuna,,0,0,0,,Okay, Jabba.
-Dialogue: 0,1:57:51.08,1:57:54.52,Bib Fortuna,,0,0,0,,Okay, we jot one last audition to see today.
+Dialogue: 0,1:57:51.08,1:57:54.52,Bib Fortuna,,0,0,0,,Okay, we got one last audition to see today.
 Dialogue: 0,1:57:54.52,1:57:57.61,Jabba,,0,0,0,,Lo chiba Jedi.
 Dialogue: 0,1:57:57.94,1:58:00.27,Bib Fortuna,,0,0,0,,Jabba says: Whenever you're ready.
 Dialogue: 0,1:58:00.27,1:58:01.18,Mara,,0,0,0,,Okay.
@@ -138,9 +138,9 @@ Dialogue: 0,1:58:40.03,1:58:42.84,Default,,0,0,0,,Everyone thought they were dre
 Dialogue: 0,1:58:43.20,1:58:45.78,Default,,0,0,0,,They couldn't believe their eyes
 Dialogue: 0,1:58:46.12,1:58:49.40,Default,,0,0,0,,No one saw you - saw you coming
 Dialogue: 0,1:58:49.93,1:58:52.55,Default,,0,0,0,,You took them by surprise
-Dialogue: 0,1:58:53.55,1:58:56.38,Default,,0,0,0,,They all said you are too ???
-Dialogue: 0,1:58:56.38,1:58:59.14,Default,,0,0,0,,It was there then he passed you by
-Dialogue: 0,1:58:59.65,1:59:01.05,Default,,0,0,0,,You proved him wrong
+Dialogue: 0,1:58:53.55,1:58:56.38,Default,,0,0,0,,They all said you had your moment
+Dialogue: 0,1:58:56.38,1:58:59.14,Default,,0,0,0,,It was there, then it passed you by
+Dialogue: 0,1:58:59.65,1:59:01.05,Default,,0,0,0,,You proved them wrong
 Dialogue: 0,1:59:01.40,1:59:02.96,Default,,0,0,0,,Now they know it
 Dialogue: 0,1:59:03.67,1:59:08.47,Default,,0,0,0,,Lightning strikes a second time
 Dialogue: 0,1:59:09.18,1:59:10.95,Default,,0,0,0,,Back on top
@@ -155,7 +155,7 @@ Dialogue: 0,1:59:32.63,1:59:34.44,Default,,0,0,0,,You're on top of the world
 Dialogue: 0,1:59:34.61,1:59:36.12,Default,,0,0,0,,You're in command
 Dialogue: 0,1:59:36.12,1:59:39.48,Default,,0,0,0,,Everything exists in the palm of your hand
 Dialogue: 0,1:59:40.02,1:59:41.48,Default,,0,0,0,,Yeah you got it
-Dialogue: 0,1:59:42.09,1:59:45.87,Default,,0,0,0,,He just got to let it down
+Dialogue: 0,1:59:42.09,1:59:45.87,Default,,0,0,0,,You just gotta let it down
 Dialogue: 0,1:59:46.41,1:59:49.88,Default,,0,0,0,,If you've got a hunger then you've got to eat
 Dialogue: 0,1:59:49.88,1:59:53.03,Default,,0,0,0,,Just open your eyes and then you can see
 Dialogue: 0,1:59:53.26,1:59:56.43,Default,,0,0,0,,Just reach out your hand and then you can feel
