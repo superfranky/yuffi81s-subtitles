@@ -16,8 +16,8 @@ Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 5
-Active Line: 9
+Scroll Position: 160
+Active Line: 182
 Video Position: 28787
 
 [V4+ Styles]
@@ -27,17 +27,17 @@ Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:10:00.90,0:10:02.62,Default,,0,0,0,,Du hast da gerade eine Bombe auf mich fallen lassen, Marty.
-Dialogue: 0,0:10:03.44,0:10:06.02,Default,,0,0,0,,Okay, okay, ???. Ihr Jungs hasst mich. Aber äh...
+Dialogue: 0,0:10:03.44,0:10:06.02,Default,,0,0,0,,Okay, okay, ich hab's verstanden. Ich bin ein Witz. Ihr Jungs hasst mich. Aber äh...
 Dialogue: 0,0:10:06.72,0:10:08.18,Default,,0,0,0,,Weißt du, ich habe etwas für dich, Marty.
 Dialogue: 0,0:10:08.18,0:10:10.16,Default,,0,0,0,,Also, das ist wirklich nicht nötig...
 Dialogue: 0,0:10:10.54,0:10:13.64,Default,,0,0,0,,Nein es ist mir nicht erlaubt Geschenke anzunehmen. Das ist Teil meines...
 Dialogue: 0,0:10:09.46,0:10:10.94,Default,,0,0,0,,Oh nein, du wirst es lieben, vertrau mir.
 Dialogue: 0,0:10:10.94,0:10:12.88,Default,,0,0,0,,Ich muß es nur eben schnell aus meiner Tasche holen.
 Dialogue: 0,0:10:12.88,0:10:14.88,Default,,0,0,0,,Oh hier ist es! Argh!
-Dialogue: 0,0:10:15.78,0:10:17.34,Default,,0,0,0,,Ja, ich weiß, was du magst!
-Dialogue: 0,0:10:17.72,0:10:19.50,Default,,0,0,0,,Na, ihr Jungs ??? ?
+Dialogue: 0,0:10:15.78,0:10:17.34,Default,,0,0,0,,Bitte sehr. Wie gefällt dir das?
+Dialogue: 0,0:10:17.72,0:10:19.50,Default,,0,0,0,,Na, fühlt ihr Jungs euch ausgebootet?
 Dialogue: 0,0:10:19.50,0:10:22.56,Default,,0,0,0,,Kein Problem. Es ist genug für alle da!
-Dialogue: 0,0:10:28.00,0:10:31.14,Default,,0,0,0,,Okay. Ich und ein Trottel!
+Dialogue: 0,0:10:28.00,0:10:31.14,Default,,0,0,0,,Okay. Meeting vertagt!
 Dialogue: 0,0:10:31.60,0:10:32.90,Default,,0,0,0,,Jesus Christus.
 Dialogue: 0,0:10:34.98,0:10:36.78,Default,,0,0,0,,Was für ein Arsch!
 Dialogue: 0,0:10:37.82,0:10:39.60,Default,,0,0,0,,Hey Jungs...
@@ -91,13 +91,13 @@ Dialogue: 0,0:12:39.58,0:12:41.98,Default,,0,0,0,,Hat jemals jemand das verbockt
 Dialogue: 0,0:12:42.56,0:12:44.20,Default,,0,0,0,,Du weißt schon, wie eine Motte?
 Dialogue: 0,0:12:45.34,0:12:46.80,Default,,0,0,0,,Weißt du, was eine Motte ist, Tarkin?
 Dialogue: 0,0:12:46.20,0:12:47.02,Default,,0,0,0,,Ja.
-Dialogue: 0,0:12:48.54,0:12:51.30,Default,,0,0,0,,Exzellentes Wort für frauliche Teile, wenn du verstehst, was ich meine.
+Dialogue: 0,0:12:48.54,0:12:51.30,Default,,0,0,0,,Es ist ein anderes Wort für frauliche Teile, wenn du verstehst, was ich meine.
 Dialogue: 0,0:12:51.12,0:12:52.42,Default,,0,0,0,,Ja, tu ich. Tu ich.
 Dialogue: 0,0:12:54.14,0:12:56.86,Default,,0,0,0,,Also, hat jemand das jemals verbockt und das gesagt? Die dann so: Hey!
 Dialogue: 0,0:12:56.86,0:12:58.56,Default,,0,0,0,,Hör auf Tarkin ??? die Motte.
 Dialogue: 0,0:13:02.90,0:13:04.02,Default,,0,0,0,,Hat das jemals jemand getan?
 Dialogue: 0,0:13:08.08,0:13:11.08,Default,,0,0,0,,Ja. Also, um ehrlich zu sein hast du du mir das ein paarmal zugeschrien.
-Dialogue: 0,0:13:12.22,0:13:13.60,Default,,0,0,0,,Du weißt, dass ich das war?
+Dialogue: 0,0:13:12.22,0:13:13.60,Default,,0,0,0,,Du wusstest, dass ich das war?
 Dialogue: 0,0:13:13.60,0:13:14.26,Default,,0,0,0,,Ja.
 Dialogue: 0,0:13:14.26,0:13:16.26,Default,,0,0,0,,Oh, Tarki, du bist großartig.
 Dialogue: 0,0:13:16.42,0:13:18.26,Default,,0,0,0,,Tja, uns geht's richtig gut.
@@ -176,7 +176,7 @@ Dialogue: 0,0:17:07.74,0:17:13.36,Default,,0,0,0,,Ich wußte mal die Regeln des 
 Dialogue: 0,0:17:13.90,0:17:18.98,Default,,0,0,0,,Ich war jemand, der ich heute nicht bin
 Dialogue: 0,0:17:19.56,0:17:25.56,Default,,0,0,0,,Ich will, dass man sich so an mich erinnert
 Dialogue: 0,0:17:26.08,0:17:32.18,Default,,0,0,0,,Aber das war vor langer Zeit und weit entfernt
-Dialogue: 0,0:17:32.82,0:17:35.44,Default,,0,0,0,,Okay,  ??? wir einfach die alten home movies.
+Dialogue: 0,0:17:32.82,0:17:35.44,Default,,0,0,0,,Okay, schmeißen wir einfach die alten home movies rein.
 Dialogue: 0,0:17:38.40,0:17:40.10,Default,,0,0,0,,Schaun wir mal, was wir hier haben.
 Dialogue: 0,0:17:43.44,0:17:45.12,Default,,0,0,0,,Oh, seht euch das an.
 Dialogue: 0,0:17:45.66,0:17:47.16,Default,,0,0,0,,Das ist der erste Tag, an dem ich meine Frau getroffen habe.
@@ -207,7 +207,7 @@ Dialogue: 0,0:19:31.74,0:19:33.34,Default,,0,0,0,,Hey Jungs, ich bin's wieder.
 Dialogue: 0,0:19:33.52,0:19:37.02,Default,,0,0,0,,Kennt ihr die Müllpresse unten in der Inhaftierungsebene?
 Dialogue: 0,0:19:37.56,0:19:39.36,Default,,0,0,0,,Ja, ich stecke fest.
 Dialogue: 0,0:19:47.14,0:19:50.76,Default,,0,0,0,,Code rot! Notfall! Notfall!
-Dialogue: 0,0:19:50.76,0:19:53.56,Default,,0,0,0,,Squat ??? sofort bei [???] 22 melden.
+Dialogue: 0,0:19:50.76,0:19:53.56,Default,,0,0,0,,Squat 7A sofort bei Deck E 22 melden.
 Dialogue: 0,0:19:53.56,0:19:54.92,Default,,0,0,0,,Code rot.
 Dialogue: 0,0:19:55.60,0:19:57.08,Default,,0,0,0,,Also, was denkst du, was los ist?
 Dialogue: 0,0:19:57.08,0:19:59.08,Default,,0,0,0,,Oh, vielleicht eine weitere Übung.
