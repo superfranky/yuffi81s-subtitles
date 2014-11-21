@@ -15,10 +15,10 @@ Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 116
-Active Line: 117
-Video Position: 58654
+Video Zoom Percent: 0.500000
+Scroll Position: 161
+Active Line: 167
+Video Position: 58585
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,7 +48,7 @@ Dialogue: 0,0:30:29.55,0:30:33.17,Emilie,,0,0,0,,Ja, Sir. Sie sind sowas wie ver
 Dialogue: 0,0:30:33.17,0:30:35.17,Emilie,,0,0,0,,Jeder muß wissen wer Sie sind.
 Dialogue: 0,0:30:35.50,0:30:36.28,Tarkin,,0,0,0,,Tatsächlich.
 Dialogue: 0,0:30:41.01,0:30:43.43,Emilie,,0,0,0,,Kann ich etwas für Sie tun, Sir?
-Dialogue: 0,0:30:42.84,0:30:44.59,Tarkin,,0,0,0,,Oh, ich? Nein!
+Dialogue: 0,0:30:42.84,0:30:44.59,Tarkin,,0,0,0,,Oh, für mich? Nein!
 Dialogue: 0,0:30:44.59,0:30:46.59,Tarkin,,0,0,0,,Eigentlich, äh...
 Dialogue: 0,0:30:47.09,0:30:50.22,Tarkin,,0,0,0,,wollte ich mich bei Ihnen entschuldigen.
 Dialogue: 0,0:30:50.22,0:30:52.22,Tarkin,,0,0,0,,Für gestern.
@@ -168,7 +168,7 @@ Dialogue: 0,0:36:56.28,0:36:59.65,emperor,,0,0,0,,Okay. Was ist mit euch Deppen,
 Dialogue: 0,0:36:59.93,0:37:03.29,emperor,,0,0,0,,Wer von euch mochte meine Idee nicht?
 Dialogue: 0,0:37:04.67,0:37:06.23,Empire Guy,,0,0,0,,Es war Admiral Moaty, Sir.
 Dialogue: 0,0:37:05.96,0:37:07.47,Empire Guy,,0,0,0,,{\b1}Was?!? Nein!{\b0}
-Dialogue: 0,0:37:07.60,0:37:11.23,emperor,,0,0,0,,Jetzt werden sie sterben.
+Dialogue: 0,0:37:07.60,0:37:11.23,emperor,,0,0,0,,Jetzt werden Sie sterben.
 Dialogue: 0,0:37:10.05,0:37:11.73,Empire Guy,,0,0,0,,Imperator, bitte!
 Dialogue: 0,0:37:20.88,0:37:24.40,emperor,,0,0,0,,Okay. Also wo ist Ani? Ich habe eine Überraschung für ihn.
 Dialogue: 0,0:37:24.77,0:37:27.62,emperor,,0,0,0,,Es ist ein Star-Wars Lego.
@@ -197,7 +197,7 @@ Dialogue: 0,0:38:11.57,0:38:13.99,Tarkin,,0,0,0,,Gehen Sie und bringen Sie uns L
 Dialogue: 0,0:38:13.99,0:38:16.50,Storm Trooper,,0,0,0,,Das habe ich versucht Ihnen zu sagen, Sir.
 Dialogue: 0,0:38:16.50,0:38:18.36,Storm Trooper,,0,0,0,,Lord Vader ist weggelaufen!
 Dialogue: 0,0:38:18.36,0:38:19.14,Tarkin,,0,0,0,,Was?!?
-Dialogue: 0,0:38:19.14,0:38:22.32,emperor,,0,0,0,,Jefferey? Ist da drüben alles okay?
+Dialogue: 0,0:38:19.14,0:38:22.32,emperor,,0,0,0,,Jeffrey? Ist da drüben alles okay?
 Dialogue: 0,0:38:23.31,0:38:25.71,Tarkin,,0,0,0,,Ja, Sir. Alles ist in Ordnung, danke.
 Dialogue: 0,0:38:25.71,0:38:29.26,emperor,,0,0,0,,Okay. Ich bin hier drüben. Ich höre dir nicht zu.
 Dialogue: 0,0:38:31.37,0:38:32.87,Tarkin,,0,0,0,,Was meinen Sie damit, weggelaufen?

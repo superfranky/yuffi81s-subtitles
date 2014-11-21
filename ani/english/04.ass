@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 168
-Active Line: 188
-Video Position: 58571
+Video Zoom Percent: 0.625000
+Scroll Position: 188
+Active Line: 189
+Video Position: 58567
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -50,7 +50,7 @@ Dialogue: 0,0:30:35.50,0:30:36.28,Tarkin,,0,0,0,,Indeed.
 Dialogue: 0,0:30:41.01,0:30:43.43,Emilie,,0,0,0,,Can I do something for you, Sir?
 Dialogue: 0,0:30:42.84,0:30:44.59,Tarkin,,0,0,0,,Oh, me? No!
 Dialogue: 0,0:30:44.59,0:30:46.59,Tarkin,,0,0,0,,Actually, ah...
-Dialogue: 0,0:30:47.09,0:30:50.22,Tarkin,,0,0,0,,I wanted to appoligize to you.
+Dialogue: 0,0:30:47.09,0:30:50.22,Tarkin,,0,0,0,,I wanted to apologize to you.
 Dialogue: 0,0:30:50.22,0:30:52.22,Tarkin,,0,0,0,,For the other day.
 Dialogue: 0,0:30:52.22,0:30:55.67,Tarkin,,0,0,0,,That whole Death Star...
 Dialogue: 0,0:30:55.67,0:30:57.83,Tarkin,,0,0,0,,Boob thing...
@@ -72,7 +72,7 @@ Dialogue: 0,0:31:24.30,0:31:25.17,Tarkin,,0,0,0,,Ah, uhm...
 Dialogue: 0,0:31:25.79,0:31:27.27,Tarkin,,0,0,0,,Thanks for the chat. You're lovely.
 Dialogue: 0,0:31:27.27,0:31:28.72,Tarkin,,0,0,0,,I mean it was lovely. I mean...
 Dialogue: 0,0:31:29.25,0:31:30.32,Tarkin,,0,0,0,,Oh dear!
-Dialogue: 0,0:31:32.95,0:31:36.09,Tarkin,,0,0,0,,And over here we've our state-of-the-art motherboard...
+Dialogue: 0,0:31:32.95,0:31:36.09,Tarkin,,0,0,0,,And over here we have our state-of-the-art motherboard...
 Dialogue: 0,0:31:36.09,0:31:43.24,Empire Guy,,0,0,0,,Which of course can control anything from lowering the docking bay doors to shutting down the trash compactor in the detention level.
 Dialogue: 0,0:31:43.44,0:31:46.77,Empire Guy,,0,0,0,,Ahm, emperor. Is everything alright?
 Dialogue: 0,0:31:48.17,0:31:51.49,emperor,,0,0,0,,We're gonna paint these walls, right?
@@ -178,10 +178,10 @@ Dialogue: 0,0:37:34.81,0:37:36.24,Tarkin,,0,0,0,,Yes.
 Dialogue: 0,0:37:35.63,0:37:38.24,emperor,,0,0,0,,Look at it. It's pretty cool.
 Dialogue: 0,0:37:37.58,0:37:38.41,Tarkin,,0,0,0,,It sure is.
 Dialogue: 0,0:37:38.57,0:37:40.48,emperor,,0,0,0,,It's got the little Luke, ...
-Dialogue: 0,0:37:40.48,0:37:43.35,emperor,,0,0,0,,And the little R2 and the little - ah...
+Dialogue: 0,0:37:40.48,0:37:43.35,emperor,,0,0,0,,And the little R2 and the little - uh...
 Dialogue: 0,0:37:43.98,0:37:45.35,emperor,,0,0,0,,Jek Porkins.
 Dialogue: 0,0:37:46.03,0:37:47.54,emperor,,0,0,0,,I don't know who that is.
-Dialogue: 0,0:37:48.78,0:37:51.21,emperor,,0,0,0,,So, do you think that's good or...
+Dialogue: 0,0:37:48.78,0:37:51.21,emperor,,0,0,0,,So, do you think it's good or...
 Dialogue: 0,0:37:51.21,0:37:54.78,emperor,,0,0,0,,Or do you think Ani might be a little too old for Lego bricks?
 Dialogue: 0,0:37:54.78,0:37:57.95,emperor,,0,0,0,,Sir, nobody's too old for Lego bricks!
 Dialogue: 0,0:37:57.95,0:37:59.24,emperor,,0,0,0,,Why, I would say...
@@ -197,7 +197,7 @@ Dialogue: 0,0:38:11.57,0:38:13.99,Tarkin,,0,0,0,,Go and fetch Lord Vader for us,
 Dialogue: 0,0:38:13.99,0:38:16.50,Storm Trooper,,0,0,0,,That's what I've been trying to tell you, Sir.
 Dialogue: 0,0:38:16.50,0:38:18.36,Storm Trooper,,0,0,0,,Lord Vader has run away!
 Dialogue: 0,0:38:18.36,0:38:19.14,Tarkin,,0,0,0,,What?!?
-Dialogue: 0,0:38:19.14,0:38:22.32,emperor,,0,0,0,,Jefferey? Is everything okay over there?
+Dialogue: 0,0:38:19.14,0:38:22.32,emperor,,0,0,0,,Jeffrey? Is everything okay over there?
 Dialogue: 0,0:38:23.31,0:38:25.71,Tarkin,,0,0,0,,Yes, Sir. Everything is fine, thank you.
 Dialogue: 0,0:38:25.71,0:38:29.26,emperor,,0,0,0,,Alright. I'll be over here. Not listening to you.
 Dialogue: 0,0:38:31.37,0:38:32.87,Tarkin,,0,0,0,,What do you mean, run away?
@@ -219,7 +219,7 @@ Dialogue: 0,0:39:13.32,0:39:14.50,Tarkin,,0,0,0,,You know what I think?
 Dialogue: 0,0:39:15.60,0:39:17.47,Tarkin,,0,0,0,,I think that Ani would love it...
 Dialogue: 0,0:39:17.47,0:39:20.71,Tarkin,,0,0,0,,If you put together that set of Lego bricks yourself...
 Dialogue: 0,0:39:20.71,0:39:23.19,Tarkin,,0,0,0,,And then gave it to him when it's finished.
-Dialogue: 0,0:39:24.54,0:39:27.60,emperor,,0,0,0,,Why, doesn't Ani wanna put it together?
+Dialogue: 0,0:39:24.54,0:39:27.60,emperor,,0,0,0,,But doesn't Ani wanna put it together?
 Dialogue: 0,0:39:27.85,0:39:30.16,emperor,,0,0,0,,That's the fun of Lego bricks!
 Dialogue: 0,0:39:30.16,0:39:31.36,Tarkin,,0,0,0,,No, no, no.
 Dialogue: 0,0:39:31.36,0:39:33.79,Tarkin,,0,0,0,,Ani likes to have a completed set.
