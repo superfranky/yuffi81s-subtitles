@@ -10,15 +10,17 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Export Filters: Clean Tags
+Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 192
-Active Line: 193
-Video Position: 43225
+Video Zoom Percent: 0.250000
+Scroll Position: 193
+Active Line: 194
+Video Position: 42391
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -70,7 +72,7 @@ Dialogue: 0,0:21:58.37,0:22:00.85,Default,,0,0,0,,And here is where you'll be st
 Dialogue: 0,0:22:01.80,0:22:02.68,Default,,0,0,0,,Hey, what's going on here?
 Dialogue: 0,0:22:02.82,0:22:03.97,Default,,0,0,0,,Uhm? Oh.
 Dialogue: 0,0:22:04.45,0:22:05.31,Default,,0,0,0,,You're still here.
-Dialogue: 0,0:22:05.45,0:22:07.40,Default,,0,0,0,,Of course I'm still here, it's a satellite and I live here.
+Dialogue: 0,0:22:05.45,0:22:07.40,Default,,0,0,0,,Of course I'm still here, it's a sith lounge. I live here.
 Dialogue: 0,0:22:07.74,0:22:08.68,Default,,0,0,0,,I'm so sorry.
 Dialogue: 0,0:22:08.80,0:22:10.68,Default,,0,0,0,,There's the g - I'll just go, I c- can -
 Dialogue: 0,0:22:09.48,0:22:11.05,Default,,0,0,0,,No, I'll handle this.
@@ -78,7 +80,7 @@ Dialogue: 0,0:22:11.37,0:22:12.22,Default,,0,0,0,,Fuuuuuck!
 Dialogue: 0,0:22:12.22,0:22:15.71,Default,,0,0,0,,Lord Vader, we've been trying to call you - all morning.
 Dialogue: 0,0:22:16.91,0:22:24.85,Default,,0,0,0,,I don't quite know how to put this, but the emperor has decided to take the roll of his apprentice in a new direction.
 Dialogue: 0,0:22:29.94,0:22:30.62,Default,,0,0,0,,What?
-Dialogue: 0,0:22:31.14,0:22:33.94,Default,,0,0,0,,If you like we could say you became ill.
+Dialogue: 0,0:22:31.14,0:22:33.94,Default,,0,0,0,,If you like we can say you became ill.
 Dialogue: 0,0:22:35.40,0:22:37.14,Default,,0,0,0,,Well, who the hell is this?
 Dialogue: 0,0:22:37.31,0:22:43.80,Default,,0,0,0,,Oh, this is Mara Jade, top imperial assassin and the emperor's new apprentice.
 Dialogue: 0,0:22:50.91,0:22:51.82,Default,,0,0,0,,Hey...!
@@ -86,7 +88,7 @@ Dialogue: 0,0:22:52.97,0:22:54.42,Default,,0,0,0,,Nice to meet you.
 Dialogue: 0,0:22:54.57,0:22:55.51,Default,,0,0,0,,Mara Jade, huh?
 Dialogue: 0,0:22:56.28,0:22:57.02,Default,,0,0,0,,Never heard of you.
 Dialogue: 0,0:22:57.48,0:23:00.97,Default,,0,0,0,,Really? You must not know dick about Star-Wars.
-Dialogue: 0,0:23:02.22,0:23:04.71,Default,,0,0,0,,Ahm, Dark Vader, is it?
+Dialogue: 0,0:23:02.22,0:23:04.71,Default,,0,0,0,,Uhm, Dark Vader, is it?
 Dialogue: 0,0:23:05.37,0:23:07.02,Default,,0,0,0,,Dar- Dark Va- Dark Vadder?
 Dialogue: 0,0:23:07.34,0:23:08.25,Default,,0,0,0,,Just call me Ani...
 Dialogue: 0,0:23:09.60,0:23:10.25,Default,,0,0,0,,Ani.
@@ -95,17 +97,17 @@ Dialogue: 0,0:23:13.65,0:23:14.88,Default,,0,0,0,,Wow, Ani!
 Dialogue: 0,0:23:15.11,0:23:18.40,Default,,0,0,0,,You're - leaving me with some pretty big shoes to fill.
 Dialogue: 0,0:23:18.40,0:23:21.17,Default,,0,0,0,,Is that some kind of joke, huh? Are you trying to patronize me?
 Dialogue: 0,0:23:21.45,0:23:25.31,Default,,0,0,0,,Cause I'm a failure that nobody likes, cause I'm a big fat loser that's never been good and anything?
-Dialogue: 0,0:23:26.85,0:23:29.00,Default,,0,0,0,,Wow, wow, wow, wow, wow, geez!
+Dialogue: 0,0:23:26.85,0:23:29.00,Default,,0,0,0,,Woah, woah, woah, woah, woah, geez!
 Dialogue: 0,0:23:31.57,0:23:34.71,Default,,0,0,0,,I think you're the one beating yourself up, buddy, I mean -
-Dialogue: 0,0:23:35.11,0:23:37.88,Default,,0,0,0,,Come on, you had to have been good at something, like, ah -
+Dialogue: 0,0:23:35.11,0:23:37.88,Default,,0,0,0,,Come on, you had to have been good at something, like, uh -
 Dialogue: 0,0:23:38.60,0:23:41.45,Default,,0,0,0,,-ah, are you pretty good with like your little light up sword?
 Dialogue: 0,0:23:43.68,0:23:44.60,Default,,0,0,0,,No, not really.
-Dialogue: 0,0:23:45.82,0:23:48.65,Default,,0,0,0,,Tell you the truth I lost [???] every light saber battle I ever had.
+Dialogue: 0,0:23:45.82,0:23:48.65,Default,,0,0,0,,To tell you the truth I lost just about every light saber battle I ever had.
 Dialogue: 0,0:23:48.82,0:23:49.31,Default,,0,0,0,,Alright...
-Dialogue: 0,0:23:49.48,0:23:51.88,Default,,0,0,0,,That time I actually won it, the thing was against a bunch of kids.
+Dialogue: 0,0:23:49.48,0:23:51.88,Default,,0,0,0,,The one time I actually won it, the thing was against a bunch of kids.
 Dialogue: 0,0:23:52.91,0:23:53.48,Default,,0,0,0,,But it -
 Dialogue: 0,0:23:54.68,0:23:56.22,Default,,0,0,0,,But that was a really close call.
-Dialogue: 0,0:23:56.45,0:23:57.94,Default,,0,0,0,,And those where some [???] younglings.
+Dialogue: 0,0:23:56.45,0:23:57.94,Default,,0,0,0,,And those where some nemi younglings.
 Dialogue: 0,0:23:58.14,0:23:59.28,Default,,0,0,0,,Could have gone either way.
 Dialogue: 0,0:24:00.74,0:24:04.40,Default,,0,0,0,,But, ah - didn't you help hunt down and destroy the Jedi?
 Dialogue: 0,0:24:04.71,0:24:05.08,Default,,0,0,0,,No.
@@ -113,8 +115,8 @@ Dialogue: 0,0:24:06.31,0:24:07.91,Default,,0,0,0,,Clone troopers did most of the
 Dialogue: 0,0:24:09.00,0:24:09.51,Default,,0,0,0,,Okay.
 Dialogue: 0,0:24:09.80,0:24:12.71,Default,,0,0,0,,I mean don't get me wrong, I butchered my fair share of defenseless sand people.
 Dialogue: 0,0:24:13.57,0:24:14.51,Default,,0,0,0,,And I cried about it.
-Dialogue: 0,0:24:16.02,0:24:17.71,Default,,0,0,0,,Also choked my pregnant wife to death.
-Dialogue: 0,0:24:19.57,0:24:20.54,Default,,0,0,0,,Cried about that too.
+Dialogue: 0,0:24:16.02,0:24:17.71,Default,,0,0,0,,I also choked my pregnant wife to death.
+Dialogue: 0,0:24:19.57,0:24:20.54,Default,,0,0,0,,I cried about that too.
 Dialogue: 0,0:24:22.60,0:24:23.42,Default,,0,0,0,,Ugh!
 Dialogue: 0,0:24:24.31,0:24:27.57,Default,,0,0,0,,Ani, I would have rather not known any of that.
 Dialogue: 0,0:24:28.42,0:24:35.00,Default,,0,0,0,,You are way cooler as a mystery and now I think you're kind of like - Like a puss wad.
@@ -126,9 +128,9 @@ Dialogue: 0,0:24:46.34,0:24:47.05,Default,,0,0,0,,Thanks.
 Dialogue: 0,0:24:48.05,0:24:48.54,Default,,0,0,0,,Uhm,
 Dialogue: 0,0:24:48.85,0:24:54.08,Default,,0,0,0,,So, I don't know how this works, exactly, I don't know if you should probably just go.
 Dialogue: 0,0:24:55.68,0:25:02.25,Default,,0,0,0,,Or - or if - or if you think the emperor would want me to like kill you, you know, to take your place, what - what do you think?
-Dialogue: 0,0:25:03.14,0:25:04.40,Default,,0,0,0,,He'll might have you cut my head off.
+Dialogue: 0,0:25:03.14,0:25:04.40,Default,,0,0,0,,He might have you cut my head off.
 Dialogue: 0,0:25:05.20,0:25:06.77,Default,,0,0,0,,But he'll make you think that it was your idea.
-Dialogue: 0,0:25:07.00,0:25:08.77,Default,,0,0,0,,Cause that's how he works, the mysterious ways.
+Dialogue: 0,0:25:07.00,0:25:08.77,Default,,0,0,0,,Cause that's how he works. In mysterious ways.
 Dialogue: 0,0:25:08.77,0:25:09.37,Default,,0,0,0,,Okay.
 Dialogue: 0,0:25:09.48,0:25:12.82,Default,,0,0,0,,You'll think you're making your own choices, but really you're just a pawn in his grand schemes.
 Dialogue: 0,0:25:12.88,0:25:13.74,Default,,0,0,0,,And that's unfair.
@@ -148,14 +150,14 @@ Dialogue: 0,0:25:45.45,0:25:46.11,Default,,0,0,0,,Oh, honey.
 Dialogue: 0,0:25:47.20,0:25:50.02,Default,,0,0,0,,You ever heard of old race called the Boonta-Eve-Classic of 33?
 Dialogue: 0,0:25:50.68,0:25:51.82,Default,,0,0,0,,No I haven't.
 Dialogue: 0,0:25:52.37,0:25:54.94,Default,,0,0,0,,Cause I've been living under a rock on Endor!
-Dialogue: 0,0:25:55.34,0:25:59.28,Default,,0,0,0,,Duh! Of course I've heard of it. It's only the most important podrace on history.
-Dialogue: 0,0:25:59.48,0:26:01.08,Default,,0,0,0,,I not want to brag, but ah -
+Dialogue: 0,0:25:55.34,0:25:59.28,Default,,0,0,0,,Duh! Of course I've heard of it. It's only the most important podrace in all history.
+Dialogue: 0,0:25:59.48,0:26:01.08,Default,,0,0,0,,I not want to brag, but uh -
 Dialogue: 0,0:26:03.51,0:26:04.40,Default,,0,0,0,,I won that race.
 Dialogue: 0,0:26:08.14,0:26:09.20,Default,,0,0,0,,Bullshit!
 Dialogue: 0,0:26:11.08,0:26:11.94,Default,,0,0,0,,What, y-
 Dialogue: 0,0:26:12.00,0:26:12.94,Default,,0,0,0,,you're -
 Dialogue: 0,0:26:13.37,0:26:15.94,Default,,0,0,0,,that Ani Skywalker???
-Dialogue: 0,0:26:16.38,0:26:19.30,Default,,0,0,0,,I thought you were just some guy, but this guy, ah!
+Dialogue: 0,0:26:16.38,0:26:19.30,Default,,0,0,0,,I thought you were just some guy, but this guy, uh!
 Dialogue: 0,0:26:19.30,0:26:21.74,Default,,0,0,0,,This guy changed podracing forever!
 Dialogue: 0,0:26:22.00,0:26:25.64,Default,,0,0,0,,I mean everyone said that only a CGI cartoon could win the Boonta-Eve!
 Dialogue: 0,0:26:25.84,0:26:28.32,Default,,0,0,0,,But you, you proved everyone wrong!
@@ -166,7 +168,7 @@ Dialogue: 0,0:26:34.30,0:26:34.96,Default,,0,0,0,,Oh my god!
 Dialogue: 0,0:26:35.38,0:26:36.96,Default,,0,0,0,,I have your trading card!
 Dialogue: 0,0:26:38.78,0:26:40.24,Default,,0,0,0,,Would you sign this for me?
 Dialogue: 0,0:26:40.32,0:26:41.84,Default,,0,0,0,,Wow! Okay, sure!
-Dialogue: 0,0:26:42.84,0:26:46.24,Default,,0,0,0,,Oh my gosh this is wild. I'm loosing it over here!
+Dialogue: 0,0:26:42.84,0:26:46.24,Default,,0,0,0,,Oh my gosh! This is wild. I'm losing it over here!
 Dialogue: 0,0:26:45.46,0:26:46.30,Default,,0,0,0,,There you go.
 Dialogue: 0,0:26:51.62,0:26:53.70,Default,,0,0,0,,Ani Skywalker!
 Dialogue: 0,0:26:54.88,0:26:56.22,Default,,0,0,0,,Perfect!
@@ -201,7 +203,7 @@ Dialogue: 0,0:28:22.14,0:28:27.34,Default,,0,0,0,,You'll take this cushy job and
 Dialogue: 0,0:28:27.84,0:28:29.18,Default,,0,0,0,,you're more machine than man,
 Dialogue: 0,0:28:29.82,0:28:32.22,Default,,0,0,0,,and you let your dreams jump to light speed without you.
 Dialogue: 0,0:28:33.48,0:28:35.10,Default,,0,0,0,,I say forget this sith shit.
-Dialogue: 0,0:28:35.80,0:28:37.44,Default,,0,0,0,,Go to Tatooine, [???do your love?]
+Dialogue: 0,0:28:35.80,0:28:37.44,Default,,0,0,0,,Go to Tatooine, do what you love.
 Dialogue: 0,0:28:38.74,0:28:39.44,Default,,0,0,0,,You know what? You're right!
 Dialogue: 0,0:28:40.16,0:28:40.70,Default,,0,0,0,,You're right!
 Dialogue: 0,0:28:41.18,0:28:41.90,Default,,0,0,0,,I'm out of here.
