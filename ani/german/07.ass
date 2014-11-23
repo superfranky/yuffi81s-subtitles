@@ -16,8 +16,8 @@ Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 201
-Active Line: 117
+Scroll Position: 140
+Active Line: 139
 Video Position: 101797
 
 [V4+ Styles]
@@ -118,11 +118,11 @@ Dialogue: 0,1:05:34.58,1:05:37.30,Default,,0,0,0,,Das sind die normalen imperial
 Dialogue: 0,1:05:37.72,1:05:38.92,Default,,0,0,0,,Wir sehen cool aus!
 Dialogue: 0,1:05:39.52,1:05:40.60,Default,,0,0,0,,Jetzt bleib dran, Ani.
 Dialogue: 0,1:05:40.76,1:05:41.68,Default,,0,0,0,,Ich werde es versuchen.
-Dialogue: 0,1:05:43.94,1:05:45.42,Default,,0,0,0,,Wir haben es ganz gut gepackt
+Dialogue: 0,1:05:43.94,1:05:45.42,Default,,0,0,0,,Wir haben kaum angefangen
 Dialogue: 0,1:05:45.42,1:05:46.90,Default,,0,0,0,,Macht ohne mich weiter!
-Dialogue: 0,1:05:47.24,1:05:49.70,Default,,0,0,0,,Ja, das können wir einfach nicht, tut mir leid
+Dialogue: 0,1:05:47.24,1:05:49.70,Default,,0,0,0,,Ja, wir stehen noch ganz am Anfang
 Dialogue: 0,1:05:50.00,1:05:52.12,Default,,0,0,0,,Du hast viel Arbeit
-Dialogue: 0,1:05:52.54,1:05:54.68,Default,,0,0,0,,In jeder Hinsicht
+Dialogue: 0,1:05:52.54,1:05:54.68,Default,,0,0,0,,Vor dir
 Dialogue: 0,1:05:54.68,1:05:55.46,Default,,0,0,0,,Ja, das hast du
 Dialogue: 0,1:05:55.46,1:05:56.86,Default,,0,0,0,,Okay, das ist wirklich schlecht!
 Dialogue: 0,1:05:56.86,1:05:57.34,Default,,0,0,0,,Okay...
@@ -140,8 +140,8 @@ Dialogue: 0,1:06:27.84,1:06:29.82,Default,,0,0,0,,Oh - du hast die Macht
 Dialogue: 0,1:06:31.16,1:06:34.18,Default,,0,0,0,,Oh - Du hast sie, oh-o du hast sie
 Dialogue: 0,1:06:34.18,1:06:36.46,Default,,0,0,0,,Oh - du hast die Macht
 Dialogue: 0,1:06:38.34,1:06:40.20,Default,,0,0,0,,Du bist noch nicht am Ziel
-Dialogue: 0,1:06:41.68,1:06:43.92,Default,,0,0,0,,Denn du kannst wissen, er ist härter geworden
-Dialogue: 0,1:06:44.56,1:06:49.02,Default,,0,0,0,,Er ist stärker, schneller, besser, wenn du es glaubst
+Dialogue: 0,1:06:41.68,1:06:43.92,Default,,0,0,0,,Denn du kannst dich immer noch mehr anstrengen
+Dialogue: 0,1:06:44.56,1:06:49.02,Default,,0,0,0,,Du bist stärker, schneller, besser, wenn du es glaubst
 Dialogue: 0,1:06:49.26,1:06:50.30,Default,,0,0,0,,Musst du es machen
 Dialogue: 0,1:06:51.92,1:06:53.86,Default,,0,0,0,,Wenn ich in deine Augen sehe
 Dialogue: 0,1:06:55.34,1:06:57.48,Default,,0,0,0,,Kann ich das Feuer sehen
@@ -164,7 +164,7 @@ Dialogue: 0,1:07:42.22,1:07:44.22,Default,,0,0,0,,Du hast sie, du hast sie, du h
 Dialogue: 0,1:07:48.70,1:07:49.86,Default,,0,0,0,,Hier, dein Pod, Ani.
 Dialogue: 0,1:07:49.86,1:07:50.42,Default,,0,0,0,,Okay.
 Dialogue: 0,1:07:50.56,1:07:51.94,Default,,0,0,0,,Also gut Ani, Moment der Wahrheit!
-Dialogue: 0,1:07:52.48,1:07:52.92,Default,,0,0,0,,[???]
+Dialogue: 0,1:07:52.48,1:07:52.92,Default,,0,0,0,,Los!
 Dialogue: 0,1:07:54.96,1:07:56.74,Default,,0,0,0,,Es klappt!
 Dialogue: 0,1:07:57.10,1:07:59.98,Default,,0,0,0,,ES KLAPPT!!!
 Dialogue: 0,1:08:02.30,1:08:04.94,Default,,0,0,0,,Und das ist Podrennen!

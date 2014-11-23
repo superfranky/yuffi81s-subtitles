@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 116
-Active Line: 135
-Video Position: 101764
+Video Zoom Percent: 0.250000
+Scroll Position: 149
+Active Line: 140
+Video Position: 97753
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -118,11 +118,11 @@ Dialogue: 0,1:05:34.58,1:05:37.30,Default,,0,0,0,,This is standard issue imperia
 Dialogue: 0,1:05:37.72,1:05:38.92,Default,,0,0,0,,We look cool!
 Dialogue: 0,1:05:39.52,1:05:40.60,Default,,0,0,0,,Now keep up, Ani.
 Dialogue: 0,1:05:40.76,1:05:41.68,Default,,0,0,0,,I'll try.
-Dialogue: 0,1:05:43.94,1:05:45.42,Default,,0,0,0,,We've fairly good done
+Dialogue: 0,1:05:43.94,1:05:45.42,Default,,0,0,0,,We've barely begun
 Dialogue: 0,1:05:45.42,1:05:46.90,Default,,0,0,0,,Go on without me!
-Dialogue: 0,1:05:47.24,1:05:49.70,Default,,0,0,0,,Yeah, we just can't, I'm sorry
+Dialogue: 0,1:05:47.24,1:05:49.70,Default,,0,0,0,,Yeah, we're just getting started
 Dialogue: 0,1:05:50.00,1:05:52.12,Default,,0,0,0,,You've got a lot of work
-Dialogue: 0,1:05:52.54,1:05:54.68,Default,,0,0,0,,At any view
+Dialogue: 0,1:05:52.54,1:05:54.68,Default,,0,0,0,,Ahead of you
 Dialogue: 0,1:05:54.68,1:05:55.46,Default,,0,0,0,,Yes, you do
 Dialogue: 0,1:05:55.46,1:05:56.86,Default,,0,0,0,,Okay, it's really bad!
 Dialogue: 0,1:05:56.86,1:05:57.34,Default,,0,0,0,,Okay...
@@ -140,8 +140,8 @@ Dialogue: 0,1:06:27.84,1:06:29.82,Default,,0,0,0,,Oh - you got the force
 Dialogue: 0,1:06:31.16,1:06:34.18,Default,,0,0,0,,Oh - You got it, oh-o you got it
 Dialogue: 0,1:06:34.18,1:06:36.46,Default,,0,0,0,,Oh - you got the force
 Dialogue: 0,1:06:38.34,1:06:40.20,Default,,0,0,0,,You haven't gotten there yet
-Dialogue: 0,1:06:41.68,1:06:43.92,Default,,0,0,0,,Cause you can know he's gone harder [Is that correct? Doesn't seem to make sense to me...]
-Dialogue: 0,1:06:44.56,1:06:49.02,Default,,0,0,0,,He's stronger, faster, better if you believe
+Dialogue: 0,1:06:41.68,1:06:43.92,Default,,0,0,0,,Cause you can always try harder
+Dialogue: 0,1:06:44.56,1:06:49.02,Default,,0,0,0,,You're stronger, faster, better if you believe
 Dialogue: 0,1:06:49.26,1:06:50.30,Default,,0,0,0,,You've gotta do it
 Dialogue: 0,1:06:51.92,1:06:53.86,Default,,0,0,0,,When I look in your eyes
 Dialogue: 0,1:06:55.34,1:06:57.48,Default,,0,0,0,,I can see the fire
@@ -164,7 +164,7 @@ Dialogue: 0,1:07:42.22,1:07:44.22,Default,,0,0,0,,You've got it, you've got it, 
 Dialogue: 0,1:07:48.70,1:07:49.86,Default,,0,0,0,,Here, your pod, Ani.
 Dialogue: 0,1:07:49.86,1:07:50.42,Default,,0,0,0,,Alright.
 Dialogue: 0,1:07:50.56,1:07:51.94,Default,,0,0,0,,Alright Ani, moment of truth!
-Dialogue: 0,1:07:52.48,1:07:52.92,Default,,0,0,0,,[???]
+Dialogue: 0,1:07:52.48,1:07:52.92,Default,,0,0,0,,Go!
 Dialogue: 0,1:07:54.96,1:07:56.74,Default,,0,0,0,,It's working!
 Dialogue: 0,1:07:57.10,1:07:59.98,Default,,0,0,0,,ITS WORKING!!!
 Dialogue: 0,1:08:02.30,1:08:04.94,Default,,0,0,0,,Now this is podracing!
