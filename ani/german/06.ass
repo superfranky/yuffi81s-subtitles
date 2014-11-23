@@ -16,9 +16,9 @@ Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 81
-Active Line: 76
-Video Position: 87402
+Scroll Position: 199
+Active Line: 200
+Video Position: 87341
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,8 +32,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:50:32.99,0:50:33.98,Default,,0,0,0,,*Schnüff*
 Dialogue: 0,0:50:47.07,0:50:48.34,JarJar,,0,0,0,,Argh.
 Dialogue: 0,0:51:23.24,0:51:23.94,JarJar,,0,0,0,,Agh.
+Dialogue: 0,0:51:26.77,0:51:29.07,JarJar,,0,0,0,,[Klopfen an der Tür]
 Dialogue: 0,0:51:30.94,0:51:34.33,JarJar,,0,0,0,,Äh - tut mir leid, Sir.
 Dialogue: 0,0:51:35.27,0:51:36.73,JarJar,,0,0,0,,Ich-sa beschäftigt.
+Dialogue: 0,0:51:43.12,0:51:45.61,JarJar,,0,0,0,,[Erneutes Klopfen]
 Dialogue: 0,0:51:45.61,0:51:46.91,JarJar,,0,0,0,,Verdammt!
 Dialogue: 0,0:51:48.79,0:51:52.69,JarJar,,0,0,0,,Ich-sa Ihnen gesagt: Ich-sa habe kein Geld mehr!
 Dialogue: 0,0:51:52.69,0:51:53.81,Ani,,0,0,0,,J.J.!
@@ -66,7 +68,7 @@ Dialogue: 0,0:52:44.90,0:52:45.51,JarJar,,0,0,0,,Nein!
 Dialogue: 0,0:52:45.93,0:52:47.67,JarJar,,0,0,0,,Ich-sa aufhänge eine Piñata.
 Dialogue: 0,0:52:49.48,0:52:50.67,Ani,,0,0,0,,Eine Piñata, hä?
 Dialogue: 0,0:52:50.67,0:52:51.29,JarJar,,0,0,0,,A ha.
-Dialogue: 0,0:52:51.50,0:52:52.32,Ani,,0,0,0,,Von einer Schlinge.
+Dialogue: 0,0:52:51.50,0:52:52.32,Ani,,0,0,0,,Von einer Schlinge?
 Dialogue: 0,0:52:52.63,0:52:53.57,JarJar,,0,0,0,,Ja.
 Dialogue: 0,0:52:53.77,0:52:54.46,Ani,,0,0,0,,Was ist das?
 Dialogue: 0,0:52:54.46,0:52:56.46,JarJar,,0,0,0,,Oh nein! Ani, du solltest das nicht lesen.
@@ -112,7 +114,7 @@ Dialogue: 0,0:54:45.61,0:54:48.63,JarJar,,0,0,0,,Mich-sa ??? von einem Panzer f�
 Dialogue: 0,0:54:48.63,0:54:49.71,Ani,,0,0,0,,J.J. setz dich hin!
 Dialogue: 0,0:54:50.05,0:54:51.09,JarJar,,0,0,0,,Nein!
 Dialogue: 0,0:54:55.08,0:54:56.49,Ani,,0,0,0,,Ich will etwas sagen.
-Dialogue: 0,0:54:57.45,0:54:58.80,Ani,,0,0,0,,Das kommt von Herzen.
+Dialogue: 0,0:54:57.45,0:54:58.80,Ani,,0,0,0,,Das kommt von meinem Herzen.
 Dialogue: 0,0:55:01.08,0:55:02.56,Ani,,0,0,0,,Ich bin enttäuscht von dir.
 Dialogue: 0,0:55:03.91,0:55:05.84,Ani,,0,0,0,,Aber du-sa warst mal jemand.
 Dialogue: 0,0:55:06.33,0:55:08.09,Ani,,0,0,0,,Der komischst Typ, den ich je getroffen habe.
@@ -123,8 +125,8 @@ Dialogue: 0,0:55:16.95,0:55:19.48,Ani,,0,0,0,,Wie können sie dich lieben, wenn 
 Dialogue: 0,0:55:22.41,0:55:24.02,Ani,,0,0,0,,J.J., du laberst nur Scheiße!
 Dialogue: 0,0:55:28.64,0:55:29.98,JarJar,,0,0,0,,Du-sa laberst nur Scheiße.
 Dialogue: 0,0:55:31.59,0:55:33.09,JarJar,,0,0,0,,Du-sa laberst nur Scheiße!
-Dialogue: 0,0:55:33.71,0:55:36.84,JarJar,,0,0,0,,Dieser Typ ???
-Dialogue: 0,0:55:37.32,0:55:39.90,JarJar,,0,0,0,,??? Ist alles, wofür du hergekommen bist, hä?
+Dialogue: 0,0:55:33.71,0:55:36.84,JarJar,,0,0,0,,Dieser Typ ???, oki-day?
+Dialogue: 0,0:55:37.32,0:55:39.90,JarJar,,0,0,0,,Also, bist du deshalb hergekommen, hä?
 Dialogue: 0,0:55:40.02,0:55:41.10,JarJar,,0,0,0,,Bist du gekommen, um gegen mich zu kämpfen?
 Dialogue: 0,0:55:41.10,0:55:42.85,Ani,,0,0,0,,Nein, nein.
 Dialogue: 0,0:55:42.85,0:55:45.66,JarJar,,0,0,0,,Der berühmte Show down.
@@ -221,12 +223,12 @@ Dialogue: 0,1:00:00.85,1:00:02.17,JarJar,,0,0,0,,Wer sonst!
 Dialogue: 0,1:00:02.40,1:00:02.99,Ani,,0,0,0,,J.J.?
 Dialogue: 0,1:00:03.83,1:00:04.70,JarJar,,0,0,0,,Ani.
 Dialogue: 0,1:00:05.53,1:00:07.86,JarJar,,0,0,0,,Ich-sa habe groß nachgedenkt.
-Dialogue: 0,1:00:08.95,1:00:12.92,JarJar,,0,0,0,,Ich-sa gehört all diese schlimmen Sachen, die ich dir gesagt habe.
-Dialogue: 0,1:00:13.30,1:00:16.46,JarJar,,0,0,0,,Ich-sa denke: Eeh! Was habe ich-sa da gesagt?!?
+Dialogue: 0,1:00:08.95,1:00:12.92,JarJar,,0,0,0,,Ich-sa gehört all diese schlimmen Sachen, die ich dir gesagt habe, und -
+Dialogue: 0,1:00:13.30,1:00:16.46,JarJar,,0,0,0,,Ich-sa denke: Eeh! Du Güte gut! Was ich da reden?!?
 Dialogue: 0,1:00:17.50,1:00:18.55,JarJar,,0,0,0,,Ani...
 Dialogue: 0,1:00:20.13,1:00:23.01,JarJar,,0,0,0,,J.J. hat gedacht, dass er ganz allein wäre.
 Dialogue: 0,1:00:24.10,1:00:26.08,JarJar,,0,0,0,,Aber dann bist du aufgetaucht.
-Dialogue: 0,1:00:26.73,1:00:31.33,JarJar,,0,0,0,,Und darum werde ich dir helfen zu gewinnen dieses Rennen. Weil ich dich liebe, okie day?
+Dialogue: 0,1:00:26.73,1:00:31.33,JarJar,,0,0,0,,Und darum werde ich dir helfen zu gewinnen dieses Rennen. Weil ich dich liebe, oki-day?
 Dialogue: 0,1:00:33.08,1:00:34.35,Ani,,0,0,0,,Moi moi!
 Dialogue: 0,1:00:34.57,1:00:35.52,Ani,,0,0,0,,Ich liebe dich!
 Dialogue: 0,1:00:35.57,1:00:37.83,JarJar,,0,0,0,,Moi moi!

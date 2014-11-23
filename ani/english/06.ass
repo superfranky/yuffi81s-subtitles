@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 88
-Active Line: 107
-Video Position: 87367
+Video Zoom Percent: 0.500000
+Scroll Position: 197
+Active Line: 200
+Video Position: 87387
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,8 +32,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:50:32.99,0:50:33.98,Default,,0,0,0,,*Sniff*
 Dialogue: 0,0:50:47.07,0:50:48.34,JarJar,,0,0,0,,Argh.
 Dialogue: 0,0:51:23.24,0:51:23.94,JarJar,,0,0,0,,Agh.
+Dialogue: 0,0:51:26.77,0:51:28.95,JarJar,,0,0,0,,[knocking on the door]
 Dialogue: 0,0:51:30.94,0:51:34.33,JarJar,,0,0,0,,Uh - excuse me, Sir.
 Dialogue: 0,0:51:35.27,0:51:36.73,JarJar,,0,0,0,,Me-sa busy.
+Dialogue: 0,0:51:43.05,0:51:45.37,JarJar,,0,0,0,,[Knocking again]
 Dialogue: 0,0:51:45.61,0:51:46.91,JarJar,,0,0,0,,God damn it!
 Dialogue: 0,0:51:48.79,0:51:52.69,JarJar,,0,0,0,,Me-sa told you: Me-sa don't have any more money!
 Dialogue: 0,0:51:52.69,0:51:53.81,Ani,,0,0,0,,J.J.!
@@ -66,7 +68,7 @@ Dialogue: 0,0:52:44.90,0:52:45.51,JarJar,,0,0,0,,No!
 Dialogue: 0,0:52:45.93,0:52:47.67,JarJar,,0,0,0,,Me-sa hanging a Piñata.
 Dialogue: 0,0:52:49.48,0:52:50.67,Ani,,0,0,0,,A Piñata, huh?
 Dialogue: 0,0:52:50.67,0:52:51.29,JarJar,,0,0,0,,Uh huh.
-Dialogue: 0,0:52:51.50,0:52:52.32,Ani,,0,0,0,,From a noose.
+Dialogue: 0,0:52:51.50,0:52:52.32,Ani,,0,0,0,,From a noose?
 Dialogue: 0,0:52:52.63,0:52:53.57,JarJar,,0,0,0,,Yeah.
 Dialogue: 0,0:52:53.77,0:52:54.46,Ani,,0,0,0,,What's this?
 Dialogue: 0,0:52:54.46,0:52:56.46,JarJar,,0,0,0,,Oh no! Ani, you should not be reading that.
@@ -112,7 +114,7 @@ Dialogue: 0,0:54:45.61,0:54:48.63,JarJar,,0,0,0,,Me-sa ??? from a tank for you, 
 Dialogue: 0,0:54:48.63,0:54:49.71,Ani,,0,0,0,,J.J. sit down!
 Dialogue: 0,0:54:50.05,0:54:51.09,JarJar,,0,0,0,,No!
 Dialogue: 0,0:54:55.08,0:54:56.49,Ani,,0,0,0,,I wanna say something.
-Dialogue: 0,0:54:57.45,0:54:58.80,Ani,,0,0,0,,This is coming from the heart.
+Dialogue: 0,0:54:57.45,0:54:58.80,Ani,,0,0,0,,This is coming from my heart.
 Dialogue: 0,0:55:01.08,0:55:02.56,Ani,,0,0,0,,I'm disappointed in you.
 Dialogue: 0,0:55:03.91,0:55:05.84,Ani,,0,0,0,,But you-sa used to be somebody.
 Dialogue: 0,0:55:06.33,0:55:08.09,Ani,,0,0,0,,The funniest guy I ever met.
@@ -123,8 +125,8 @@ Dialogue: 0,0:55:16.95,0:55:19.48,Ani,,0,0,0,,How can they love you if you don't
 Dialogue: 0,0:55:22.41,0:55:24.02,Ani,,0,0,0,,J.J., you're full of shit!
 Dialogue: 0,0:55:28.64,0:55:29.98,JarJar,,0,0,0,,You-sa full of shit.
 Dialogue: 0,0:55:31.59,0:55:33.09,JarJar,,0,0,0,,You-sa full of shit!
-Dialogue: 0,0:55:33.71,0:55:36.84,JarJar,,0,0,0,,This guy ???
-Dialogue: 0,0:55:37.32,0:55:39.90,JarJar,,0,0,0,,??? Is all you came here, huh?
+Dialogue: 0,0:55:33.71,0:55:36.84,JarJar,,0,0,0,,This guy ???, oki-day?
+Dialogue: 0,0:55:37.32,0:55:39.90,JarJar,,0,0,0,,Now, is that why you came here, huh?
 Dialogue: 0,0:55:40.02,0:55:41.10,JarJar,,0,0,0,,Came here to fight me?
 Dialogue: 0,0:55:41.10,0:55:42.85,Ani,,0,0,0,,No, no.
 Dialogue: 0,0:55:42.85,0:55:45.66,JarJar,,0,0,0,,The famous show down.
@@ -221,12 +223,12 @@ Dialogue: 0,1:00:00.85,1:00:02.17,JarJar,,0,0,0,,That's who-sa!
 Dialogue: 0,1:00:02.40,1:00:02.99,Ani,,0,0,0,,J.J.?
 Dialogue: 0,1:00:03.83,1:00:04.70,JarJar,,0,0,0,,Ani.
 Dialogue: 0,1:00:05.53,1:00:07.86,JarJar,,0,0,0,,Me-sa been doing the big thinking.
-Dialogue: 0,1:00:08.95,1:00:12.92,JarJar,,0,0,0,,Me-sa heard all those terrible things I was saying to you.
-Dialogue: 0,1:00:13.30,1:00:16.46,JarJar,,0,0,0,,Me-sa think: Eeh! What was me-sa saying?!?
+Dialogue: 0,1:00:08.95,1:00:12.92,JarJar,,0,0,0,,Me-sa heard all those terrible things I was saying to you, and -
+Dialogue: 0,1:00:13.30,1:00:16.46,JarJar,,0,0,0,,Me-sa think: Eeh! God, what was me-sa saying?!?
 Dialogue: 0,1:00:17.50,1:00:18.55,JarJar,,0,0,0,,Ani...
 Dialogue: 0,1:00:20.13,1:00:23.01,JarJar,,0,0,0,,J.J. was thinking that he was all alone.
 Dialogue: 0,1:00:24.10,1:00:26.08,JarJar,,0,0,0,,But then you showed up.
-Dialogue: 0,1:00:26.73,1:00:31.33,JarJar,,0,0,0,,And that's why I'm gonna help you win this race. Because me-sa love you, oky-day?
+Dialogue: 0,1:00:26.73,1:00:31.33,JarJar,,0,0,0,,And that's why I'm gonna help you win this race. Because me-sa love you, oki-day?
 Dialogue: 0,1:00:33.08,1:00:34.35,Ani,,0,0,0,,Moi moi!
 Dialogue: 0,1:00:34.57,1:00:35.52,Ani,,0,0,0,,I love you!
 Dialogue: 0,1:00:35.57,1:00:37.83,JarJar,,0,0,0,,Moi moi!
