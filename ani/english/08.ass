@@ -15,10 +15,10 @@ Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 102
-Active Line: 121
-Video Position: 116128
+Video Zoom Percent: 0.625000
+Scroll Position: 185
+Active Line: 186
+Video Position: 116328
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,7 +71,7 @@ Dialogue: 0,1:12:43.08,1:12:44.72,Default,,0,0,0,,Wait - wait, other applicants?
 Dialogue: 0,1:12:44.80,1:12:48.18,Default,,0,0,0,,[sings aloud without words]
 Dialogue: 0,1:12:55.10,1:12:56.18,Default,,0,0,0,,She's so good.
 Dialogue: 0,1:12:57.34,1:13:02.26,Default,,0,0,0,,So I've been a slave dancer for like going on like, I don't know, like thirteen years now, hahaha.
-Dialogue: 0,1:13:02.62,1:13:06.56,Default,,0,0,0,,I've done Yavin one, two, three, pretty much all the Yavins,
+Dialogue: 0,1:13:02.62,1:13:06.56,Default,,0,0,0,,I've done Yavins one, two, three, pretty much all the Yavins,
 Dialogue: 0,1:13:06.56,1:13:08.00,Default,,0,0,0,,where have you slaved?
 Dialogue: 0,1:13:08.46,1:13:10.16,Default,,0,0,0,,I'm over at Geonosis right now.
 Dialogue: 0,1:13:10.70,1:13:12.00,Default,,0,0,0,,But I'm looking for a change.
@@ -164,23 +164,23 @@ Dialogue: 0,1:17:37.04,1:17:43.04,Default,,0,0,0,,I'm Obi-Wan Kenobi, I'm a prou
 Dialogue: 0,1:17:45.16,1:17:46.54,Default,,0,0,0,,and I am an alcoholic.
 Dialogue: 0,1:17:48.98,1:17:49.68,Default,,0,0,0,,Who are you?
 Dialogue: 0,1:17:50.00,1:17:51.88,Default,,0,0,0,,Oh, ahm, Moff Jeffrey Tarkin.
-Dialogue: 0,1:17:52.02,1:17:54.06,Default,,0,0,0,,Moth? Who's moth? Her moth?
+Dialogue: 0,1:17:52.02,1:17:54.06,Default,,0,0,0,,Muff? Who's muff? Her muff?
 Dialogue: 0,1:17:54.06,1:17:57.72,Default,,0,0,0,,No, no, no, no, Moff! It's a title. A Rank. Moff Tarkin.
 Dialogue: 0,1:17:57.92,1:18:00.84,Default,,0,0,0,,Oh! Well, it's very good to meet you, Jeffrey.
 Dialogue: 0,1:18:00.98,1:18:02.54,Default,,0,0,0,,I like you very much.
 Dialogue: 0,1:18:02.54,1:18:03.62,Default,,0,0,0,,I'm Obi-Wan.
 Dialogue: 0,1:18:04.18,1:18:05.08,Default,,0,0,0,,I'm an alcoholic.
 Dialogue: 0,1:18:06.46,1:18:07.46,Default,,0,0,0,,Yes, I know that.
-Dialogue: 0,1:18:07.54,1:18:12.02,Default,,0,0,0,,Oh good, well quit talking of all the Moff and let's have a drink, shall we?
+Dialogue: 0,1:18:07.54,1:18:12.02,Default,,0,0,0,,Oh good, well quit talking all the Muff and let's have a drink, shall we?
 Dialogue: 0,1:18:12.18,1:18:16.04,Default,,0,0,0,,I hope you don't mind if I sit between you.
-Dialogue: 0,1:18:16.04,1:18:16.90,Default,,0,0,0,,Please, Sir...
+Dialogue: 0,1:18:16.04,1:18:16.90,Default,,0,0,0,,Actually, Sir...
 Dialogue: 0,1:18:16.54,1:18:21.00,Default,,0,0,0,,No, no not at all. You know, to be honest I'm a little bit of a history [???],
 Dialogue: 0,1:18:20.92,1:18:22.26,Default,,0,0,0,,Oh that's fine, so am I!
 Dialogue: 0,1:18:21.44,1:18:24.04,Default,,0,0,0,,And I've always wanted to meet a clone wars survivor.
 Dialogue: 0,1:18:24.04,1:18:26.78,Default,,0,0,0,,You know, the whole thing is just so shrouded in mystery.
 Dialogue: 0,1:18:26.66,1:18:28.38,Default,,0,0,0,,It is a bit mysterious, isn't it?
 Dialogue: 0,1:18:28.26,1:18:33.46,Default,,0,0,0,,No, no, no, you guys are making it sound more complicated than it was.
-Dialogue: 0,1:18:33.84,1:18:36.22,Default,,0,0,0,,Let me set the record straight.
+Dialogue: 0,1:18:33.84,1:18:36.22,Default,,0,0,0,,Let me set the records straight.
 Dialogue: 0,1:18:40.34,1:18:46.12,Default,,0,0,0,,The clone wars began when my friend Qui-Gon and I went to the planet of Naboo.
 Dialogue: 0,1:18:46.32,1:18:52.42,Default,,0,0,0,,To settle a trade dispute that had broken out between the trade federation  and the planet.
 Dialogue: 0,1:18:52.42,1:18:57.50,Default,,0,0,0,,You see, the federation had put a blockade around the system so that
@@ -197,7 +197,7 @@ Dialogue: 0,1:19:25.28,1:19:27.26,Default,,0,0,0,,Or was Yoda my master?
 Dialogue: 0,1:19:30.24,1:19:32.32,Default,,0,0,0,,My memory is flexible.
 Dialogue: 0,1:19:32.56,1:19:35.60,Default,,0,0,0,,You see, only a Sith deals in absolutes.
 Dialogue: 0,1:19:35.72,1:19:37.88,Default,,0,0,0,,Wait a minute. That doesn't make any sense at all.
-Dialogue: 0,1:19:37.96,1:19:40.74,Default,,0,0,0,,I on the other hand deal in absolute!
+Dialogue: 0,1:19:37.96,1:19:40.74,Default,,0,0,0,,I on the other hand deal in absolutes!
 Dialogue: 0,1:19:44.84,1:19:46.06,Default,,0,0,0,,Wooo!
 Dialogue: 0,1:19:46.06,1:19:48.06,Default,,0,0,0,,We're having fun now, man!
 Dialogue: 0,1:19:49.62,1:19:50.88,Default,,0,0,0,,So there I was.
@@ -211,7 +211,7 @@ Dialogue: 0,1:20:04.48,1:20:07.28,Default,,0,0,0,,do you see how your last state
 Dialogue: 0,1:20:07.68,1:20:10.90,Default,,0,0,0,,For if only a Sith deals in absolutes
 Dialogue: 0,1:20:11.06,1:20:13.80,Default,,0,0,0,,well, then that in itself is an absolute.
 Dialogue: 0,1:20:14.36,1:20:17.90,Default,,0,0,0,,Do you see how you've - inadvertently called yourself a Sith there, old boy?
-Dialogue: 0,1:20:22.32,1:20:24.70,Default,,0,0,0,,That moth just blew my mind, mam.
+Dialogue: 0,1:20:22.32,1:20:24.70,Default,,0,0,0,,That muff just blew my mind, mam.
 Dialogue: 0,1:20:26.98,1:20:29.28,Default,,0,0,0,,Anyway, back to the clone wars.
 Dialogue: 0,1:20:29.28,1:20:31.54,Default,,0,0,0,,Why were they called that? When do the clones show up?
 Dialogue: 0,1:20:32.42,1:20:35.82,Default,,0,0,0,,Well, the separatists who we were fighting had robots.
