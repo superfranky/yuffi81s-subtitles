@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
-Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
+Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
+Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 134
-Active Line: 146
-Video Position: 131722
+Video Zoom Percent: 0.625000
+Scroll Position: 51
+Active Line: 62
+Video Position: 131758
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,11 +36,11 @@ Dialogue: 0,1:21:19.08,1:21:25.00,Default,,0,0,0,,What I never understood is: Wh
 Dialogue: 0,1:21:25.36,1:21:27.86,Default,,0,0,0,,plunge the galaxy into a war?
 Dialogue: 0,1:21:28.04,1:21:30.90,Default,,0,0,0,,We declared war in the name of peace.
 Dialogue: 0,1:21:31.90,1:21:32.52,Default,,0,0,0,,Right?
-Dialogue: 0,1:21:34.40,1:21:37.14,Default,,0,0,0,,We couldn't just let the Siths run everything.
-Dialogue: 0,1:21:37.28,1:21:43.86,Default,,0,0,0,,They're a group of religious [???] who want to impose their will on everyone else, and that's the Jedi's job!
+Dialogue: 0,1:21:34.40,1:21:37.14,Default,,0,0,0,,We couldn't just let the Sith run everything.
+Dialogue: 0,1:21:37.28,1:21:43.86,Default,,0,0,0,,They're a group of religious salads who want to impose their will on everyone else, and that's the Jedi's job!
 Dialogue: 0,1:21:45.20,1:21:45.68,Default,,0,0,0,,Hmmm...
 Dialogue: 0,1:21:46.04,1:21:50.18,Default,,0,0,0,,We are the light side, they are the dark side, they believe in love, we forbid it!
-Dialogue: 0,1:21:51.10,1:21:54.82,Default,,0,0,0,,Don't you see? Don't you see, there - there has to be a balance.
+Dialogue: 0,1:21:51.10,1:21:54.82,Default,,0,0,0,,Don't you see? Don't you see, that - there has to be a balance.
 Dialogue: 0,1:21:55.36,1:21:58.64,Default,,0,0,0,,A harmony between light and the dark side.
 Dialogue: 0,1:21:58.86,1:22:03.42,Default,,0,0,0,,And to create that harmony we wanted to wipe out the dark side!
 Dialogue: 0,1:22:04.28,1:22:11.06,Default,,0,0,0,,And then all the sudden two Siths come along, and they kill all but two Jedis? That's not balance!
@@ -88,7 +88,7 @@ Dialogue: 0,1:24:50.24,1:24:53.68,Default,,0,0,0,,And especially if he doesn't h
 Dialogue: 0,1:24:54.00,1:25:01.34,Default,,0,0,0,,So what do you say? I take care of the pit crew, and you make sure that Ani doesn't finish the race.
 Dialogue: 0,1:25:01.46,1:25:02.78,Default,,0,0,0,,[Sebulba laughs silently]
 Dialogue: 0,1:25:02.78,1:25:07.44,Default,,0,0,0,,Yes, sabotage his pod if you have to, I don't care, just kill him!
-Dialogue: 0,1:25:09.16,1:25:12.06,Default,,0,0,0,,Yes... I like you [???]
+Dialogue: 0,1:25:09.16,1:25:12.06,Default,,0,0,0,,Yes... I like you, [???Konoba?]
 Dialogue: 0,1:25:16.12,1:25:20.06,Default,,0,0,0,,I like you because you are a animal and I like animals.
 Dialogue: 0,1:25:22.10,1:25:24.54,Default,,0,0,0,,You remind me of my friend Yoda.
 Dialogue: 0,1:25:25.00,1:25:28.70,Default,,0,0,0,,Yoda is a green animal who lives in a swamp.
@@ -189,7 +189,7 @@ Dialogue: 0,1:30:56.50,1:30:59.64,Default,,0,0,0,,You're in my very soul, tormen
 Dialogue: 0,1:30:59.64,1:31:02.44,Default,,0,0,0,,Oh, I'm so sorry, I feel so guilty.
 Dialogue: 0,1:31:03.30,1:31:07.76,Default,,0,0,0,,If you are suffering as much as I am, please tell me.
 Dialogue: 0,1:31:09.20,1:31:11.04,Default,,0,0,0,,I think I am.
-Dialogue: 0,1:31:12.16,1:31:17.36,Default,,0,0,0,,Jeffrey, this is gonna sound crazy, but I think that we should get married.
+Dialogue: 0,1:31:12.16,1:31:17.36,Default,,0,0,0,,Jeffrey, this is gonna sound crazy, but I think we should get married.
 Dialogue: 0,1:31:17.88,1:31:18.98,Default,,0,0,0,,Tomorrow!
 Dialogue: 0,1:31:26.56,1:31:27.90,Default,,0,0,0,,Holy smokes!
 Dialogue: 0,1:31:29.02,1:31:29.98,Default,,0,0,0,,Thanks, Ani!

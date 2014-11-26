@@ -15,10 +15,10 @@ Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 141
-Active Line: 149
-Video Position: 131628
+Video Zoom Percent: 0.625000
+Scroll Position: 166
+Active Line: 167
+Video Position: 131338
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,10 +37,10 @@ Dialogue: 0,1:21:25.36,1:21:27.86,Default,,0,0,0,,die Galaxie in einen Krieg st�
 Dialogue: 0,1:21:28.04,1:21:30.90,Default,,0,0,0,,Wir erklärten den Krieg im Namen des Friedens.
 Dialogue: 0,1:21:31.90,1:21:32.52,Default,,0,0,0,,Okay?
 Dialogue: 0,1:21:34.40,1:21:37.14,Default,,0,0,0,,Wir konnten nicht einfach die Sith alles leiten lassen.
-Dialogue: 0,1:21:37.28,1:21:43.86,Default,,0,0,0,,Sie sind eine Gruppe religiöser [???], die allen anderen ihren Willen aufzwingen wollen, und das ist Aufgabe der Jedi!
+Dialogue: 0,1:21:37.28,1:21:43.86,Default,,0,0,0,,Sie sind eine Gruppe religiöser Asozialer, die allen anderen ihren Willen aufzwingen wollen, und das ist Aufgabe der Jedi!
 Dialogue: 0,1:21:45.20,1:21:45.68,Default,,0,0,0,,Hmmm...
 Dialogue: 0,1:21:46.04,1:21:50.18,Default,,0,0,0,,Wir sind die helle Seite, sie sind die dunkle Seite, sie glauben an Liebe, wir verbieten sie!
-Dialogue: 0,1:21:51.10,1:21:54.82,Default,,0,0,0,,Versteht ihr nicht? Versteht ihr nicht, es - es muß eine Balance geben.
+Dialogue: 0,1:21:51.10,1:21:54.82,Default,,0,0,0,,Versteht ihr nicht? Versteht ihr nicht, dass - es eine Balance geben muß.
 Dialogue: 0,1:21:55.36,1:21:58.64,Default,,0,0,0,,Einen Harmonie zwischen heller und der dunklen Seite.
 Dialogue: 0,1:21:58.86,1:22:03.42,Default,,0,0,0,,Und um diese Harmonie zu erschaffen, wollten wir die dunkle Seite auslöschen!
 Dialogue: 0,1:22:04.28,1:22:11.06,Default,,0,0,0,,Und dann kommen plötzlich zwei Sith an und sie töten alle bis auf zwei Jedi? Das ist keine Balance!
@@ -91,7 +91,7 @@ Dialogue: 0,1:24:54.00,1:25:01.34,Default,,0,0,0,,Also, was sagst du? Ich kümme
 Dialogue: 0,1:25:01.46,1:25:02.78,Default,,0,0,0,,[Sebulba lacht leise]
 Dialogue: 0,1:25:02.78,1:25:07.44,Default,,0,0,0,,Ja, sabotiere sein Pod wenn du mußt, es interessiert mich nicht, töte ihn einfach!
 Dialogue: 0,1:25:07.44,1:25:09.16,Default,,0,0,0,,Ich bedauere den Trottel.
-Dialogue: 0,1:25:09.16,1:25:12.06,Default,,0,0,0,,Ja... Ich mag dich [???]
+Dialogue: 0,1:25:09.16,1:25:12.06,Default,,0,0,0,,Ja... Ich mag dich, [???Konoba?]
 Dialogue: 0,1:25:16.12,1:25:20.06,Default,,0,0,0,,Ich mag dich weil du ein Tier bist und ich mag Tiere.
 Dialogue: 0,1:25:22.10,1:25:24.54,Default,,0,0,0,,Du erinnerst mich an meinen Freund Yoda.
 Dialogue: 0,1:25:25.00,1:25:28.70,Default,,0,0,0,,Yoda ist ein grünes Tier, das in einem Sumpf lebt.
@@ -192,7 +192,7 @@ Dialogue: 0,1:30:56.50,1:30:59.64,Default,,0,0,0,,Du peinigst mich, tief in mein
 Dialogue: 0,1:30:59.64,1:31:02.44,Default,,0,0,0,,Oh, es tut mir so leid, ich fühle mich so schuldig.
 Dialogue: 0,1:31:03.30,1:31:07.76,Default,,0,0,0,,Wenn du genauso sehr leidest wie ich, sag es mir bitte.
 Dialogue: 0,1:31:09.20,1:31:11.04,Default,,0,0,0,,Ich denke das tue ich.
-Dialogue: 0,1:31:12.16,1:31:17.36,Default,,0,0,0,,Jeffrey, das wird verrückt klingen, aber ich denke, dass wir heiraten sollten.
+Dialogue: 0,1:31:12.16,1:31:17.36,Default,,0,0,0,,Jeffrey, das wird verrückt klingen, aber ich denke, wir sollten heiraten.
 Dialogue: 0,1:31:17.88,1:31:18.98,Default,,0,0,0,,Morgen!
 Dialogue: 0,1:31:26.56,1:31:27.90,Default,,0,0,0,,Heiliger Strohsack!
 Dialogue: 0,1:31:29.02,1:31:29.98,Default,,0,0,0,,Danke, Ani!
