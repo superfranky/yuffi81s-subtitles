@@ -15,10 +15,9 @@ Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 51
-Active Line: 62
-Video Position: 131758
+Video Zoom Percent: 0.250000
+Scroll Position: 136
+Active Line: 144
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -170,7 +169,7 @@ Dialogue: 0,1:29:31.86,1:29:32.38,Default,,0,0,0,,Yeah?
 Dialogue: 0,1:29:47.10,1:29:54.68,Default,,0,0,0,,From the moment I met you - all those years ago - not a day has gone by that I haven't thought of you.
 Dialogue: 0,1:29:56.50,1:29:57.08,Default,,0,0,0,,Really?
 Dialogue: 0,1:29:59.40,1:30:00.28,Default,,0,0,0,,And -
-Dialogue: 0,1:30:03.30,1:30:05.84,Default,,0,0,0,,now that I'm with you, I'm on agony.
+Dialogue: 0,1:30:03.30,1:30:05.84,Default,,0,0,0,,now that I'm with you, I'm in agony.
 Dialogue: 0,1:30:07.90,1:30:09.90,Default,,0,0,0,,I - I had no idea.
 Dialogue: 0,1:30:11.32,1:30:15.28,Default,,0,0,0,,Ah - The thought of not being with you, I can't breath.
 Dialogue: 0,1:30:17.02,1:30:20.98,Default,,0,0,0,,I'm haunted by the kiss that you never should have given me.
