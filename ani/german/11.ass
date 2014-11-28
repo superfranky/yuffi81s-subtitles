@@ -16,9 +16,9 @@ Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 195
-Active Line: 200
-Video Position: 162322
+Scroll Position: 158
+Active Line: 159
+Video Position: 162591
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,7 +29,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,1:40:17.64,1:40:22.04,Default,,0,0,0,,Wenn du nicht antrittst, wirst du ihn enttäuschen, also - du wirst dich selbst enttäuschen.
 Dialogue: 0,1:40:22.04,1:40:23.82,Default,,0,0,0,,Ich werde uns allen die Peinlichkeit ersparen.
 Dialogue: 0,1:40:25.58,1:40:26.40,Default,,0,0,0,,Wem habe ich was vorgemacht?
-Dialogue: 0,1:40:27.46,1:40:31.42,Default,,0,0,0,,Ich kann diese CGI Cartoons nicht in einem computeranimierten Rennen schlagen,es ist ihre Domäne!
+Dialogue: 0,1:40:27.46,1:40:31.42,Default,,0,0,0,,Ich kann diese CGI Cartoons nicht in einem computeranimierten Rennen schlagen, es ist ihre Domäne!
 Dialogue: 0,1:40:34.26,1:40:35.42,Default,,0,0,0,,Ich werfe das Handtuch.
 Dialogue: 0,1:40:35.50,1:40:36.92,Default,,0,0,0,,Im Augenblick unseres Triumphes?
 Dialogue: 0,1:40:37.46,1:40:39.02,Default,,0,0,0,,Ich denke du überschätzt ihre Chancen.
@@ -76,7 +76,7 @@ Dialogue: 0,1:42:51.56,1:42:53.40,Default,,0,0,0,,Ruf mich an!
 Dialogue: 0,1:42:54.06,1:42:55.20,Default,,0,0,0,,Kommt schon, Leute!
 Dialogue: 0,1:42:55.62,1:42:56.92,Default,,0,0,0,,Hey Ani!
 Dialogue: 0,1:42:57.30,1:42:59.04,Default,,0,0,0,,Mara! Was machst du hier?
-Dialogue: 0,1:42:59.44,1:43:03.40,Default,,0,0,0,,Ich dachte du würdest dir in dikesem Moment die Seele aus dem Leib tanzen zu den Klängen der Max Rebo Band.
+Dialogue: 0,1:42:59.44,1:43:03.40,Default,,0,0,0,,Ich dachte du würdest dir in diesem Moment die Seele aus dem Leib tanzen zu den Klängen der Max Rebo Band.
 Dialogue: 0,1:43:03.66,1:43:04.72,Default,,0,0,0,,Wer?
 Dialogue: 0,1:43:04.72,1:43:07.62,Default,,0,0,0,,Der kleine blaue Elefant in Jabbas Palast? Kommt schon, Leute.
 Dialogue: 0,1:43:08.16,1:43:12.98,Default,,0,0,0,,Oh, Ani. Ich denke nicht, dass diese ganze Sklaventanz Sache für mich funktionieren wird, verstehst du?
@@ -148,7 +148,7 @@ Dialogue: 0,1:46:32.24,1:46:34.64,Default,,0,0,0,,in der Luft
 Dialogue: 0,1:46:36.54,1:46:42.34,Default,,0,0,0,,um uns her treibend, überall
 Dialogue: 0,1:46:43.10,1:46:44.94,Default,,0,0,0,,Kannst du es glauben
 Dialogue: 0,1:46:46.78,1:46:49.28,Default,,0,0,0,,Jetzt, da du hier bist
-Dialogue: 0,1:46:51.14,1:46:53.46,Default,,0,0,0,,Es ruf nach dir
+Dialogue: 0,1:46:51.14,1:46:53.46,Default,,0,0,0,,Es ruft nach dir
 Dialogue: 0,1:46:55.08,1:46:57.18,Default,,0,0,0,,Laut und deutlich
 Dialogue: 0,1:46:58.94,1:47:01.62,Default,,0,0,0,,Einer unter Millionen
 Dialogue: 0,1:47:03.02,1:47:05.42,Default,,0,0,0,,Einmal im Leben
@@ -177,7 +177,7 @@ Dialogue: 0,1:48:30.04,1:48:32.98,Default,,0,0,0,,Oh, du hast sie, oh-oh du hast
 Dialogue: 0,1:48:33.14,1:48:36.02,Default,,0,0,0,,Sieht aus als wären Ani und der Champ Kopf an Kopf.
 Dialogue: 0,1:48:36.24,1:48:38.54,Default,,0,0,0,,Oh nein, meine Energiezellen, sie sind erschöpft!
 Dialogue: 0,1:48:38.80,1:48:39.96,Default,,0,0,0,,Wir verlieren Geschwindigkeit!
-Dialogue: 0,1:48:40.48,1:48:42.78,Default,,0,0,0,,Meine ganze Energie ist weg, was ist mit meiner Energiekupplung passiert?
+Dialogue: 0,1:48:40.48,1:48:42.78,Default,,0,0,0,,Meine ganze Energie ist weg, was ist mit meinen Energiekupplungen passiert?
 Dialogue: 0,1:48:42.92,1:48:45.76,Default,,0,0,0,,Suchst du das, Ani?
 Dialogue: 0,1:48:45.76,1:48:47.24,Default,,0,0,0,,Sebulba, du Betrüger!
 Dialogue: 0,1:48:47.44,1:48:48.52,Default,,0,0,0,,Du lausiger Betrüger!

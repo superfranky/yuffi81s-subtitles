@@ -16,9 +16,9 @@ Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 142
-Active Line: 152
-Video Position: 175862
+Scroll Position: 127
+Active Line: 131
+Video Position: 175863
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,7 +40,7 @@ Dialogue: 0,1:52:51.34,1:52:53.58,Ani,,0,0,0,,Es klappt!
 Dialogue: 0,1:52:53.58,1:52:56.69,Ani,,0,0,0,,Es klappt!
 Dialogue: 0,1:52:56.69,1:52:59.30,Emperor,,0,0,0,,Gut. Jetzt los, Ani! Los!
 Dialogue: 0,1:52:59.30,1:53:03.12,Default,,0,0,0,,Und denk dran: Versuch dich zu drehen. Das ist ein guter Trick.
-Dialogue: 0,1:53:05.53,1:53:08.68,Commentator,,0,0,0,,Also, es scheint so, dass unsere [???] Rennfahrer tot sind.
+Dialogue: 0,1:53:05.53,1:53:08.68,Commentator,,0,0,0,,Also, es scheint so, dass unsere - alle anderen Rennfahrer tot sind.
 Dialogue: 0,1:53:09.06,1:53:12.19,Commentator,,0,0,0,,Was den Ausgang dieses Rennens zu einem frühzeitigen Ergebnis werden lässt.
 Dialogue: 0,1:53:12.27,1:53:16.73,Commentator,,0,0,0,,Und hier kommt er jetzt: Der unbestrittene Podrennen Champ der Galaxie, Sebulba.
 Dialogue: 0,1:53:17.04,1:53:21.29,Commentator,,0,0,0,,arbeitet sich durch die Hollandprofile, lässt sich Zeit, genießt die Aussicht.
@@ -60,6 +60,7 @@ Dialogue: 0,1:54:06.88,1:54:11.20,Tarkin,,0,0,0,,Du stehst weit über ihm.
 Dialogue: 0,1:54:12.38,1:54:17.10,Tarkin,,0,0,0,,Hau ihm auf die Nase!
 Dialogue: 0,1:54:18.58,1:54:23.76,Default,,0,0,0,,Einer unter Millionen
 Dialogue: 0,1:54:23.24,1:54:24.97,Default,,0,0,0,,Und Sebulba stürzt ab!
+Dialogue: 0,1:54:25.37,1:54:28.45,Default,,0,0,0,,Einer unter Millionen
 Dialogue: 0,1:54:24.97,1:54:26.39,Default,,0,0,0,,Aufgepasst, er stürzt ab!
 Dialogue: 0,1:54:26.39,1:54:28.51,Default,,0,0,0,,Hier kommt Ani über die Ziellinie.
 Dialogue: 0,1:54:28.51,1:54:30.51,Default,,0,0,0,,Der neue Champ des Podrennens!
@@ -118,7 +119,7 @@ Dialogue: 0,1:57:18.93,1:57:21.66,Boba Fett,,0,0,0,,Jo oh ho. Ani! Mara!
 Dialogue: 0,1:57:21.66,1:57:24.37,Mara,,0,0,0,,Hey, Bob. Danke, dass du mir dieses Vorsprechen verschafft hast.
 Dialogue: 0,1:57:24.37,1:57:25.79,Boba Fett,,0,0,0,,Ah, null problemo.
 Dialogue: 0,1:57:25.79,1:57:29.31,Boba Fett,,0,0,0,,Ich flüster Jabba was ins Ohr und du kriegst ein Vorsprechen am gleichen Tag.
-Dialogue: 0,1:57:29.31,1:57:32.77,Boba Fett,,0,0,0,,Wenn Boba etwas sagt, dann weißt du, dass es stimmt.
+Dialogue: 0,1:57:29.31,1:57:32.77,Boba Fett,,0,0,0,,Wenn Bob etwas sagt, dann weißt du, dass es stimmt.
 Dialogue: 0,1:57:41.70,1:57:42.80,Ani,,0,0,0,,Hey, Kleine.
 Dialogue: 0,1:57:44.29,1:57:45.46,Ani,,0,0,0,,Hau ihn um!
 Dialogue: 0,1:57:46.27,1:57:47.17,Mara,,0,0,0,,Danke, Ani.
@@ -149,21 +150,23 @@ Dialogue: 0,1:59:12.57,1:59:14.22,Default,,0,0,0,,Wieder an der Spitze
 Dialogue: 0,1:59:14.45,1:59:15.88,Default,,0,0,0,,Die einzige
 Dialogue: 0,1:59:15.88,1:59:17.40,Default,,0,0,0,,Wieder an der Spitze
 Dialogue: 0,1:59:17.40,1:59:18.90,Default,,0,0,0,,Ich denke, du bist zurück
-Dialogue: 0,1:59:19.55,1:59:20.55,Bib Fortuna,,0,0,0,,Wow
-Dialogue: 0,1:59:26.26,1:59:28.45,Default,,0,0,0,,Dieses Mädchen bricht die Regeln
+Dialogue: 0,1:59:19.55,1:59:20.55,Bib Fortuna,,0,0,0,,Wow!
+Dialogue: 0,1:59:20.95,1:59:22.55,Bib Fortuna,,0,0,0,,Sie tanzt ziemlich gut!
+Dialogue: 0,1:59:26.26,1:59:28.45,Default,,0,0,0,,Dieses Mädchen bricht die Regeln.
+Dialogue: 0,1:59:29.75,1:59:31.97,Default,,0,0,0,,Woooooaaaaah!
 Dialogue: 0,1:59:32.63,1:59:34.44,Default,,0,0,0,,Du bist Weltspitze
 Dialogue: 0,1:59:34.61,1:59:36.12,Default,,0,0,0,,Du hast das Sagen
 Dialogue: 0,1:59:36.12,1:59:39.48,Default,,0,0,0,,Alles existiert in deiner Handfläche
 Dialogue: 0,1:59:40.02,1:59:41.48,Default,,0,0,0,,Ja, du hast es drauf
 Dialogue: 0,1:59:42.09,1:59:45.87,Default,,0,0,0,,Du mußt es nur ablassen
-Dialogue: 0,1:59:46.41,1:59:49.88,Default,,0,0,0,,Wenn du hungrig bist, dann mußt du essen
-Dialogue: 0,1:59:49.88,1:59:53.03,Default,,0,0,0,,Öffne nur die Augen und dann kannst du sehen
-Dialogue: 0,1:59:53.26,1:59:56.43,Default,,0,0,0,,Streck nur deine Hand aus und dann kannst du fühlen
+Dialogue: 0,1:59:46.41,1:59:49.88,Default,,0,0,0,,Wenn du hungrig bist, dann mußt du es essen
+Dialogue: 0,1:59:49.88,1:59:53.03,Default,,0,0,0,,Öffne nur die Augen und dann kannst du es sehen
+Dialogue: 0,1:59:53.26,1:59:56.43,Default,,0,0,0,,Streck nur deine Hand aus und dann kannst du es fühlen
 Dialogue: 0,1:59:56.43,1:59:59.60,Default,,0,0,0,,Du musst nur daran glauben und du kannst
 Dialogue: 0,1:59:59.72,2:00:01.44,Default,,0,0,0,,Wieder an die Spitze
 Dialogue: 0,2:00:01.57,2:00:03.07,Default,,0,0,0,,Ein Champion
 Dialogue: 0,2:00:03.07,2:00:04.78,Default,,0,0,0,,Wieder an der Spitze
-Dialogue: 0,2:00:04.88,2:00:06.35,Default,,0,0,0,,Du weißt du bist
+Dialogue: 0,2:00:04.88,2:00:06.35,Default,,0,0,0,,Die einzige
 Dialogue: 0,2:00:06.35,2:00:07.88,Default,,0,0,0,,Wieder an der Spitze
 Dialogue: 0,2:00:07.88,2:00:09.90,Default,,0,0,0,,Ich denke, du bist zurück
 Dialogue: 0,2:00:09.90,2:00:11.33,Default,,0,0,0,,Wieder an der Spitze

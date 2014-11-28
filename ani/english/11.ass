@@ -15,10 +15,10 @@ Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 183
-Active Line: 200
-Video Position: 162291
+Video Zoom Percent: 0.625000
+Scroll Position: 176
+Active Line: 177
+Video Position: 159227
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -175,7 +175,7 @@ Dialogue: 0,1:48:30.04,1:48:32.98,Default,,0,0,0,,Oh, you got it, oh-oh you got 
 Dialogue: 0,1:48:33.14,1:48:36.02,Default,,0,0,0,,Looks like Ani and the champ are neck and neck.
 Dialogue: 0,1:48:36.24,1:48:38.54,Default,,0,0,0,,Oh no, my power cells, they're draining!
 Dialogue: 0,1:48:38.80,1:48:39.96,Default,,0,0,0,,We're losing speed!
-Dialogue: 0,1:48:40.48,1:48:42.78,Default,,0,0,0,,All my power's gone, what happened to my power coupling?
+Dialogue: 0,1:48:40.48,1:48:42.78,Default,,0,0,0,,All my power's gone, what happened to my power couplings?
 Dialogue: 0,1:48:45.76,1:48:47.24,Default,,0,0,0,,Sebulba, you cheat!
 Dialogue: 0,1:48:47.44,1:48:48.52,Default,,0,0,0,,You rotten cheat!
 Dialogue: 0,1:48:48.72,1:48:50.52,Default,,0,0,0,,This is the second time this has happened to me!
@@ -203,7 +203,7 @@ Dialogue: 0,1:50:20.24,1:50:21.64,Default,,0,0,0,,And I had a dream.
 Dialogue: 0,1:50:23.48,1:50:24.68,Default,,0,0,0,,A crazy dream.
 Dialogue: 0,1:50:27.02,1:50:30.06,Default,,0,0,0,,To build a gigantic boob in outer space.
 Dialogue: 0,1:50:32.38,1:50:36.74,Default,,0,0,0,,That could destroy planets with its galactic milk.
-Dialogue: 0,1:50:37.24,1:50:41.10,Default,,0,0,0,,And it was back even before I was a d - a senator even.
+Dialogue: 0,1:50:37.24,1:50:41.10,Default,,0,0,0,,And this was back even before I was a d - a senator even.
 Dialogue: 0,1:50:41.84,1:50:52.16,Default,,0,0,0,,When I was just a lowly community organizer with three hundred republic credits to my name and a bacheloress [???].
 Dialogue: 0,1:50:54.88,1:50:58.82,Default,,0,0,0,,Those space boobs seemed so far away back then.
 Dialogue: 0,1:51:01.00,1:51:02.54,Default,,0,0,0,,But I worked hard.

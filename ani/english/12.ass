@@ -15,10 +15,10 @@ Audio File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video File: ../video/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 101
-Active Line: 119
-Video Position: 174821
+Video Zoom Percent: 0.500000
+Scroll Position: 126
+Active Line: 129
+Video Position: 175863
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,7 +40,7 @@ Dialogue: 0,1:52:51.34,1:52:53.58,Ani,,0,0,0,,It's working!
 Dialogue: 0,1:52:53.58,1:52:56.69,Ani,,0,0,0,,It's working!
 Dialogue: 0,1:52:56.69,1:52:59.30,Emperor,,0,0,0,,Good. Now go, Ani! Go!
 Dialogue: 0,1:52:59.30,1:53:03.12,Default,,0,0,0,,And remember: Try spinning. That's a good trick.
-Dialogue: 0,1:53:05.53,1:53:08.68,Commentator,,0,0,0,,Well it appears that our ??? racers are dead.
+Dialogue: 0,1:53:05.53,1:53:08.68,Commentator,,0,0,0,,Well it appears that our - all the other racers are dead.
 Dialogue: 0,1:53:09.06,1:53:12.19,Commentator,,0,0,0,,Which makes the outcome of this race a foregone conclusion.
 Dialogue: 0,1:53:12.27,1:53:16.73,Commentator,,0,0,0,,And here he comes now: The undisputed podracing champ of the galaxy, Sebulba.
 Dialogue: 0,1:53:17.04,1:53:21.29,Commentator,,0,0,0,,Making his way through the hot flats, taking his time, enjoying the scenery.
@@ -61,6 +61,7 @@ Dialogue: 0,1:54:12.38,1:54:17.10,Tarkin,,0,0,0,,Hit the nose!
 Dialogue: 0,1:54:18.58,1:54:23.76,Default,,0,0,0,,One in a million
 Dialogue: 0,1:54:23.24,1:54:24.97,Default,,0,0,0,,And Sebulba is going down!
 Dialogue: 0,1:54:24.97,1:54:26.39,Default,,0,0,0,,Watch out, he's going down!
+Dialogue: 0,1:54:25.17,1:54:28.50,Default,,0,0,0,,One in a million
 Dialogue: 0,1:54:26.39,1:54:28.51,Default,,0,0,0,,Here comes Ani across the finish line.
 Dialogue: 0,1:54:28.51,1:54:30.51,Default,,0,0,0,,The new podracing champ!
 Dialogue: 0,1:54:30.51,1:54:32.51,Default,,0,0,0,,Ani!
@@ -110,7 +111,7 @@ Dialogue: 0,1:56:43.56,1:56:45.35,Obi-Wan,,0,0,0,,And I will become...
 Dialogue: 0,1:56:45.69,1:56:46.79,Obi-Wan,,0,0,0,,More powerful...
 Dialogue: 0,1:56:48.17,1:56:50.22,Obi-Wan,,0,0,0,,Than you could possibly imagine.
 Dialogue: 0,1:57:06.81,1:57:08.28,Ani,,0,0,0,,Alright, Mara. Listen up.
-Dialogue: 0,1:57:08.47,1:57:12.04,Ani,,0,0,0,,Jabba, he can be a little intimidating. So if you start to get nervous, just picture him naked.
+Dialogue: 0,1:57:08.47,1:57:12.04,Ani,,0,0,0,,Jabba, he can be a little intimidating. So if you're starting to get nervous, just picture him naked.
 Dialogue: 0,1:57:13.17,1:57:14.93,Ani,,0,0,0,,That's a joke, kid. He's always naked.
 Dialogue: 0,1:57:15.98,1:57:16.92,Ani,,0,0,0,,You'll see.
 Dialogue: 0,1:57:17.16,1:57:18.64,Ani,,0,0,0,,Gotta relax. It'll be great.
@@ -149,21 +150,23 @@ Dialogue: 0,1:59:12.57,1:59:14.22,Default,,0,0,0,,Back on top
 Dialogue: 0,1:59:14.45,1:59:15.88,Default,,0,0,0,,The only one
 Dialogue: 0,1:59:15.88,1:59:17.40,Default,,0,0,0,,Back on top
 Dialogue: 0,1:59:17.40,1:59:18.90,Default,,0,0,0,,I think you're back again
-Dialogue: 0,1:59:19.55,1:59:20.55,Bib Fortuna,,0,0,0,,Wow
+Dialogue: 0,1:59:19.55,1:59:20.55,Bib Fortuna,,0,0,0,,Wow!
+Dialogue: 0,1:59:21.02,1:59:22.55,Bib Fortuna,,0,0,0,,She's dancing pretty good!
 Dialogue: 0,1:59:26.26,1:59:28.45,Default,,0,0,0,,This girl is breaking all the rules
+Dialogue: 0,1:59:29.85,1:59:31.97,Default,,0,0,0,,Wooooaaaaah!
 Dialogue: 0,1:59:32.63,1:59:34.44,Default,,0,0,0,,You're on top of the world
 Dialogue: 0,1:59:34.61,1:59:36.12,Default,,0,0,0,,You're in command
 Dialogue: 0,1:59:36.12,1:59:39.48,Default,,0,0,0,,Everything exists in the palm of your hand
 Dialogue: 0,1:59:40.02,1:59:41.48,Default,,0,0,0,,Yeah you got it
 Dialogue: 0,1:59:42.09,1:59:45.87,Default,,0,0,0,,You just gotta let it down
-Dialogue: 0,1:59:46.41,1:59:49.88,Default,,0,0,0,,If you've got a hunger then you've got to eat
-Dialogue: 0,1:59:49.88,1:59:53.03,Default,,0,0,0,,Just open your eyes and then you can see
-Dialogue: 0,1:59:53.26,1:59:56.43,Default,,0,0,0,,Just reach out your hand and then you can feel
+Dialogue: 0,1:59:46.41,1:59:49.88,Default,,0,0,0,,If you've got a hunger then you've got to eat it
+Dialogue: 0,1:59:49.88,1:59:53.03,Default,,0,0,0,,Just open your eyes and then you can see it
+Dialogue: 0,1:59:53.26,1:59:56.43,Default,,0,0,0,,Just reach out your hand and then you can feel it
 Dialogue: 0,1:59:56.43,1:59:59.60,Default,,0,0,0,,You just got to believe it and you can get
 Dialogue: 0,1:59:59.72,2:00:01.44,Default,,0,0,0,,Back on top
 Dialogue: 0,2:00:01.57,2:00:03.07,Default,,0,0,0,,A champion
 Dialogue: 0,2:00:03.07,2:00:04.78,Default,,0,0,0,,Back on top
-Dialogue: 0,2:00:04.88,2:00:06.35,Default,,0,0,0,,You know you are
+Dialogue: 0,2:00:04.88,2:00:06.35,Default,,0,0,0,,The only one
 Dialogue: 0,2:00:06.35,2:00:07.88,Default,,0,0,0,,Back on top
 Dialogue: 0,2:00:07.88,2:00:09.90,Default,,0,0,0,,I think you're back again
 Dialogue: 0,2:00:09.90,2:00:11.33,Default,,0,0,0,,Back on top
