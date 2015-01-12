@@ -10,15 +10,17 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Export Filters: Clean Tags
+Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
 Audio File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video File: ../../../Downloads/ANI - A Parody-Ke1B1iAeY2c.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 185
-Active Line: 186
-Video Position: 116328
+Scroll Position: 117
+Active Line: 138
+Video Position: 106733
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,13 +39,13 @@ Dialogue: 0,1:11:07.54,1:11:08.58,Default,,0,0,0,,So you're saying that -
 Dialogue: 0,1:11:09.44,1:11:11.56,Default,,0,0,0,,You're saying that these lines actually work?
 Dialogue: 0,1:11:11.78,1:11:13.62,Default,,0,0,0,,Oh, trust me, Tarkin. The dames love them.
 Dialogue: 0,1:11:13.86,1:11:16.18,Default,,0,0,0,,Also, when you're saying these lines it helps if you cry.
-Dialogue: 0,1:11:17.26,1:11:22.44,Default,,0,0,0,,Is your voice get any whinier, like you could say something like :'Now that I'm with you I'm in agony'.
+Dialogue: 0,1:11:17.26,1:11:22.44,Default,,0,0,0,,Is your voice get any whinier, like you could say something like: 'Now that I'm with you I'm in agony'.
 Dialogue: 0,1:11:23.54,1:11:25.52,Default,,0,0,0,,well, lay it on thick, make her feel guilty.
 Dialogue: 0,1:11:25.62,1:11:28.14,Default,,0,0,0,,And if all else fails slaughter a village of sand people.
 Dialogue: 0,1:11:29.92,1:11:31.16,Default,,0,0,0,,Quickest way to a woman's heart.
 Dialogue: 0,1:11:31.24,1:11:34.54,Default,,0,0,0,,Well, I guess I've been doing it wrong all these years.
 Dialogue: 0,1:11:34.78,1:11:36.38,Default,,0,0,0,,Hey, why don't you take her out for a drink?
-Dialogue: 0,1:11:36.72,1:11:38.78,Default,,0,0,0,,I know a brittle old hole in the wall called the Cantina.
+Dialogue: 0,1:11:36.72,1:11:38.78,Default,,0,0,0,,I know a great little hole in the wall called the Cantina.
 Dialogue: 0,1:11:38.78,1:11:41.36,Default,,0,0,0,,Just a warning: They don't serve droids.
 Dialogue: 0,1:11:42.22,1:11:43.36,Default,,0,0,0,,Alright, fellows.
 Dialogue: 0,1:11:43.70,1:11:44.88,Default,,0,0,0,,I'll give it a shot, eh?
@@ -92,8 +94,8 @@ Dialogue: 0,1:13:47.72,1:13:50.30,Default,,0,0,0,,You guys? All of you? One, two
 Dialogue: 0,1:13:51.14,1:13:51.98,Default,,0,0,0,,See you then.
 Dialogue: 0,1:13:52.34,1:13:54.38,Default,,0,0,0,,Anyway, honey, your nipple's hanging out.
 Dialogue: 0,1:13:59.94,1:14:04.80,Default,,0,0,0,,So, anyway, it's like sometimes I see those girls who've only been slaving for like a couple of years
-Dialogue: 0,1:14:05.10,1:14:09.30,Default,,0,0,0,,and it's like, I just wanna be like a [???] girl, [???] or whatever it is.
-Dialogue: 0,1:14:09.32,1:14:11.94,Default,,0,0,0,,We call her [???] dollar the Hutt, you know?
+Dialogue: 0,1:14:05.10,1:14:09.30,Default,,0,0,0,,and it's like, I just wanna be like: hey girl, why don’t you take that “twerking” or whatever it is
+Dialogue: 0,1:14:09.32,1:14:11.94,Default,,0,0,0,,you call it over to Gardulla the Hutt, you know?
 Dialogue: 0,1:14:12.20,1:14:14.02,Default,,0,0,0,,Honey, this is never gonna happen.
 Dialogue: 0,1:14:16.26,1:14:17.24,Default,,0,0,0,,Okay!
 Dialogue: 0,1:14:18.84,1:14:19.48,Default,,0,0,0,,Okay.
@@ -163,7 +165,7 @@ Dialogue: 0,1:17:31.06,1:17:32.60,Default,,0,0,0,,Let me start again.
 Dialogue: 0,1:17:37.04,1:17:43.04,Default,,0,0,0,,I'm Obi-Wan Kenobi, I'm a proud graduate of alcoholics anonymous,
 Dialogue: 0,1:17:45.16,1:17:46.54,Default,,0,0,0,,and I am an alcoholic.
 Dialogue: 0,1:17:48.98,1:17:49.68,Default,,0,0,0,,Who are you?
-Dialogue: 0,1:17:50.00,1:17:51.88,Default,,0,0,0,,Oh, ahm, Moff Jeffrey Tarkin.
+Dialogue: 0,1:17:50.00,1:17:51.88,Default,,0,0,0,,Oh, uhm, Moff Jeffrey Tarkin.
 Dialogue: 0,1:17:52.02,1:17:54.06,Default,,0,0,0,,Muff? Who's muff? Her muff?
 Dialogue: 0,1:17:54.06,1:17:57.72,Default,,0,0,0,,No, no, no, no, Moff! It's a title. A Rank. Moff Tarkin.
 Dialogue: 0,1:17:57.92,1:18:00.84,Default,,0,0,0,,Oh! Well, it's very good to meet you, Jeffrey.
