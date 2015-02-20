@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
-Video File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
+Audio File: ../video/The Trail to Oregon!-BxKCX-UvPrI.mp4
+Video File: ../video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 186
-Active Line: 207
-Video Position: 29420
+Video Zoom Percent: 0.875000
+Scroll Position: 196
+Active Line: 202
+Video Position: 29657
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,7 +38,7 @@ Dialogue: 0,0:10:37.37,0:10:39.67,Default,,0,0,0,,Fahr zu schnell und du wirst a
 Dialogue: 0,0:10:39.85,0:10:40.85,Default,,0,0,0,,Dann wirst du sie töten müssen.
 Dialogue: 0,0:10:41.12,0:10:43.00,Default,,0,0,0,,Ich will niemals ein Tier töten, Papa.
 Dialogue: 0,0:10:43.00,0:10:43.92,Default,,0,0,0,,Du wirst es nicht müssen, Sohn.
-Dialogue: 0,0:10:43.97,0:10:48.30,Default,,0,0,0,,Wußtet ihr, das der erste Halt auf der Reise, Fort Kearny, von der US Army gebaut wurde, um die zu schützen, die uterwegs sind nach Oregon?
+Dialogue: 0,0:10:43.97,0:10:48.30,Default,,0,0,0,,Wußtet ihr, das der erste Halt auf der Reise, Fort Kearny, von der US Army gebaut wurde, um die zu schützen, die unterwegs sind nach Oregon?
 Dialogue: 0,0:10:48.30,0:10:49.12,Default,,0,0,0,,Ich habe das nicht gewußt.
 Dialogue: 0,0:10:49.17,0:10:51.47,Default,,0,0,0,,Ah! Danke für die Anweisung und die Fakten.
 Dialogue: 0,0:10:51.52,0:10:55.05,Default,,0,0,0,,Seht ihr, Kinder, der Zug nach Oregon ist nicht nur lustig. Er ist auch lustig.
@@ -76,8 +76,8 @@ Dialogue: 0,0:12:19.60,0:12:20.37,Default,,0,0,0,,Oh Junge!
 Dialogue: 0,0:12:20.65,0:12:21.70,Default,,0,0,0,,Yep...!
 Dialogue: 0,0:12:22.32,0:12:28.62,Default,,0,0,0,,Wir sind alle Freunde, hier braut sich kein Krieg zusammen, keiner missbraucht seinen Rechte um zu besitzen einen
 Dialogue: 0,0:12:28.70,0:12:34.87,Default,,0,0,0,,Ochsen wie mich, Sie werden ein volles Joch brauchen\NIhre Liebe und Fürsorge ist kein Spaß\NDas ist ihr Job, von eurer Liebe
-Dialogue: 0,0:12:34.97,0:12:36.62,Default,,0,0,0,,Sind sie anhängig
-Dialogue: 0,0:12:36.72,0:12:39.92,Default,,0,0,0,,Ich behaupte von mir ein sehr guter Ochsenbesitzer zu sein, Ich liebe - nun ja -
+Dialogue: 0,0:12:34.97,0:12:36.62,Default,,0,0,0,,Sind sie abhängig
+Dialogue: 0,0:12:36.72,0:12:39.92,Default,,0,0,0,,Ich bilde mir ein, ein sehr guter Ochsenbesitzer zu sein, Ich liebe - nun ja -
 Dialogue: 0,0:12:40.62,0:12:41.45,Default,,0,0,0,,Es ist völlig normal.
 Dialogue: 0,0:12:42.05,0:12:43.17,Default,,0,0,0,,Muh!
 Dialogue: 0,0:12:43.32,0:12:47.57,Default,,0,0,0,,Hier sind nur ein paar Regeln, um danach zu leben:
@@ -92,7 +92,7 @@ Dialogue: 0,0:13:18.12,0:13:20.92,Default,,0,0,0,,Die Welt ist dein Saloon
 Dialogue: 0,0:13:21.27,0:13:29.37,Default,,0,0,0,,Äh, Mama, ich will ja kein Spielverderber sein, aber kommt dir jemals der Gedanke, dass, nun ja, diese Reise vielleicht nicht so lustig und lehrreich wird, wie Papa sagt?
 Dialogue: 0,0:13:29.45,0:13:32.25,Default,,0,0,0,,Ich weiß nicht, vielleicht wird es furchtbar gefährlich.
 Dialogue: 0,0:13:32.25,0:13:36.22,Default,,0,0,0,,Oh Fressmaschine, so darfst du nicht denken. Also, wir müssen den Kopf hochhalten!
-Dialogue: 0,0:13:37.02,0:13:39.00,Default,,0,0,0,,Aberwas, wenn diese Reise einen von uns tötet?
+Dialogue: 0,0:13:37.02,0:13:39.00,Default,,0,0,0,,Aber was, wenn diese Reise einen von uns tötet?
 Dialogue: 0,0:13:39.22,0:13:42.55,Default,,0,0,0,,Zum Beispiel dich, oder Papa, oder Opa?
 Dialogue: 0,0:13:42.62,0:13:47.00,Default,,0,0,0,,Ach, na ja, wenn Opa stirbt, ist das einfach Gottes Wille, entschuldige, Opa!
 Dialogue: 0,0:13:47.27,0:13:49.72,Default,,0,0,0,,Oh, ist schon okay, Wenn du gehen mußt, dann mußt du gehen.
@@ -176,14 +176,14 @@ Dialogue: 0,0:17:19.42,0:17:20.50,Default,,0,0,0,,Würd' ich schreien.
 Dialogue: 0,0:17:20.50,0:17:23.32,Default,,0,0,0,,[McDoon lacht]
 Dialogue: 0,0:17:23.82,0:17:24.80,Default,,0,0,0,,Yep!
 Dialogue: 0,0:17:25.17,0:17:27.25,Default,,0,0,0,,Äh, ich meine: Niemand weiß wirklich, wer er ist.
-Dialogue: 0,0:17:27.42,0:17:28.42,Default,,0,0,0,,ber er ist da draußen.
+Dialogue: 0,0:17:27.42,0:17:28.42,Default,,0,0,0,,Aber er ist da draußen.
 Dialogue: 0,0:17:28.92,0:17:30.42,Default,,0,0,0,,Und stiehlt Küsse.
-Dialogue: 0,0:17:30.67,0:17:32.17,Default,,0,0,0,,Und allen mölichen anderen Scheiß.
+Dialogue: 0,0:17:30.67,0:17:32.17,Default,,0,0,0,,Und allen möglichen anderen Scheiß.
 Dialogue: 0,0:17:33.60,0:17:37.95,Default,,0,0,0,,Sein einziger Begleiter ist der berüchtigte Cletus Jones. Ja.
 Dialogue: 0,0:17:37.90,0:17:39.47,Default,,0,0,0,,Das ist mein Name.
 Dialogue: 0,0:17:39.75,0:17:40.67,Default,,0,0,0,,Sccchhhh!
 Dialogue: 0,0:17:40.67,0:17:42.72,Default,,0,0,0,,McDoon, bring mich nicht zum Schweigen!
-Dialogue: 0,0:17:42.82,0:17:50.90,Default,,0,0,0,,Nicht nachdem ich alle deine Vorräte besorgt habe: Äther, Feuerwaffen, [???], all diese... Ich habe alles, was du... was? Oh
+Dialogue: 0,0:17:42.82,0:17:50.90,Default,,0,0,0,,Nicht nachdem ich alle deine Vorräte besorgt habe: Äther, Feuerwaffen, Masken, all diese... Ich habe alles, was du... was? Oh
 Dialogue: 0,0:17:47.42,0:17:50.90,Default,,0,0,0,,Halt, halt, halt deine Klappe, Cletus! Halt - halt dieKlappe!
 Dialogue: 0,0:17:51.02,0:17:51.47,Default,,0,0,0,,[räuspert sich]
 Dialogue: 0,0:17:51.55,0:17:53.47,Default,,0,0,0,,Äh - Gentlemen, ähm -
@@ -217,7 +217,7 @@ Dialogue: 0,0:19:21.57,0:19:24.47,Default,,0,0,0,,Meine Kindfrau, okay? Ich darf
 Dialogue: 0,0:19:25.65,0:19:26.32,Default,,0,0,0,,[Mutter räuspert sich]
 Dialogue: 0,0:19:26.50,0:19:27.10,Default,,0,0,0,,Sir,
 Dialogue: 0,0:19:27.10,0:19:27.40,Default,,0,0,0,,Ja.
-Dialogue: 0,0:19:28.30,0:19:31.87,Default,,0,0,0,,Lassen Sie mich das vollkommen klar ausdrücken - Mouthface, halte dir die Ohren zu!
+Dialogue: 0,0:19:28.30,0:19:31.87,Default,,0,0,0,,Lassen Sie mich das vollkommen klar ausdrücken - Fressmaschine, halte dir die Ohren zu!
 Dialogue: 0,0:19:32.07,0:19:32.75,Default,,0,0,0,,Was???
 Dialogue: 0,0:19:32.75,0:19:34.77,Default,,0,0,0,,Uuuh, verdammt!
 Dialogue: 0,0:19:35.05,0:19:37.57,Default,,0,0,0,,Also, sehen Sie dieses Mädchen da?
@@ -225,9 +225,9 @@ Dialogue: 0,0:19:37.57,0:19:37.92,Default,,0,0,0,,Oh, ja.
 Dialogue: 0,0:19:38.35,0:19:43.55,Default,,0,0,0,,Ich habe sie erschaffen. Aus meinem Blut und meinem Fleisch, meinem Schweiß und meinen Tränen.
 Dialogue: 0,0:19:43.82,0:19:46.95,Default,,0,0,0,,Und ich liebe sie über alles.
 Dialogue: 0,0:19:47.47,0:19:58.05,Default,,0,0,0,,Aber ich werde sie im Schlaf ersticken, bevor ich zusehe, wie wie sich selbst zugrunderichtet mit so - etwas wie Ihnen, deshalb machen Sie sich lieber vom Acker, denn Sie werden mehr Glück damit haben ihren Schwanz in einen Kaktus zu stecken.
-Dialogue: 0,0:20:04.17,0:20:06.72,Default,,0,0,0,,Okay, Mouthface, Mama ist fertig, jetzt komm.
+Dialogue: 0,0:20:04.17,0:20:06.72,Default,,0,0,0,,Okay, Fressmaschine, Mama ist fertig, jetzt komm.
 Dialogue: 0,0:20:07.17,0:20:09.15,Default,,0,0,0,,Haha, also -
-Dialogue: 0,0:20:09.67,0:20:11.37,Default,,0,0,0,,Ich hab irgendwie versucht freundlichzu sein.
+Dialogue: 0,0:20:09.67,0:20:11.37,Default,,0,0,0,,Ich hab irgendwie versucht freundlich zu sein.
 Dialogue: 0,0:20:12.52,0:20:14.37,Default,,0,0,0,,Aber jetzt herrscht Krieg zwischen uns!
 Dialogue: 0,0:20:14.80,0:20:18.77,Default,,0,0,0,,Ich schwöre: So oder so, ich werde diese Tochter von Ihnen haben!
 Dialogue: 0,0:20:19.27,0:20:24.05,Default,,0,0,0,,Sie schlafen besser mit einem offenen Auge, denn Sie haben sich gerade - den Banditen König zum Feind gemacht!
