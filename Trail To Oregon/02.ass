@@ -15,10 +15,10 @@ Audio File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 182
-Active Line: 188
-Video Position: 29703
+Video Zoom Percent: 0.375000
+Scroll Position: 175
+Active Line: 199
+Video Position: 29072
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,77 +26,77 @@ Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:10:21.50,0:10:23.45,Default,,0,0,0,,Hi! I've got [???].
-Dialogue: 0,0:10:23.55,0:10:25.45,Default,,0,0,0,,You will too, and I see [???] frequently.
+Dialogue: 0,0:10:21.50,0:10:23.45,Default,,0,0,0,,Hi! I've got dysentery.
+Dialogue: 0,0:10:23.55,0:10:25.45,Default,,0,0,0,,You will too, and I see stop to rest frequently.
 Dialogue: 0,0:10:25.45,0:10:27.02,Default,,0,0,0,,My wife and kids all died.
 Dialogue: 0,0:10:27.12,0:10:30.90,Default,,0,0,0,,But if I'll pull through, I'll travel at a s-s-steady pace from now on.
-Dialogue: 0,0:10:31.02,0:10:32.45,Default,,0,0,0,,What's [???], dad?
+Dialogue: 0,0:10:31.02,0:10:32.45,Default,,0,0,0,,What's dysentery, dad?
 Dialogue: 0,0:10:32.25,0:10:33.55,Default,,0,0,0,,Nothing, what we have to worry about, son.
 Dialogue: 0,0:10:33.55,0:10:35.55,Default,,0,0,0,,Woah, watch yourself, partner!
 Dialogue: 0,0:10:35.62,0:10:37.35,Default,,0,0,0,,Hey, don't push rocks too hard.
-Dialogue: 0,0:10:37.37,0:10:39.67,Default,,0,0,0,,Drive too fast and you'll end up [???] animals.
+Dialogue: 0,0:10:37.37,0:10:39.67,Default,,0,0,0,,Drive too fast and you'll end up with lame footed animals.
 Dialogue: 0,0:10:39.85,0:10:40.85,Default,,0,0,0,,Then you'll have to kill them.
 Dialogue: 0,0:10:41.12,0:10:43.00,Default,,0,0,0,,I don't ever want to kill an animal, dad.
 Dialogue: 0,0:10:43.00,0:10:43.92,Default,,0,0,0,,You won't have to, son.
-Dialogue: 0,0:10:43.97,0:10:48.30,Default,,0,0,0,,Did you know that the first stop on the trail [???] was build by the US army to protect those bound for Oregon?
+Dialogue: 0,0:10:43.97,0:10:48.30,Default,,0,0,0,,Did you know that the first stop on the trail Fort Kearny was build by the US army to protect those bound for Oregon?
 Dialogue: 0,0:10:48.30,0:10:49.12,Default,,0,0,0,,I didn't know that.
 Dialogue: 0,0:10:49.17,0:10:51.47,Default,,0,0,0,,Ah! Thanks for the advice and facts.
 Dialogue: 0,0:10:51.52,0:10:55.05,Default,,0,0,0,,See kids, not only is the trail to Oregon fun. It's also fun.
 Dialogue: 0,0:10:55.15,0:10:56.60,Default,,0,0,0,,And educational.
-Dialogue: 0,0:10:57.32,0:11:03.30,Default,,0,0,0,,There's lots to learn. Which kid is your favorite? Not all of them make it, of course and course
+Dialogue: 0,0:10:57.32,0:11:03.30,Default,,0,0,0,,There's lots to learn. Which kid is your favorite? Not all of them make it, of course sinkholes
 Dialogue: 0,0:11:03.30,0:11:03.70,Default,,0,0,0,,What?
-Dialogue: 0,0:11:03.55,0:11:09.75,Default,,0,0,0,,And I'm a [???] every marriage is tested. Thank god they invented divorce trending
+Dialogue: 0,0:11:03.55,0:11:09.75,Default,,0,0,0,,A nine-month dirge, every marriage is tested. Thank god they invented divorce trending
 Dialogue: 0,0:11:09.75,0:11:13.42,Default,,0,0,0,,In Independence\NHere's a piece of free advice for you
 Dialogue: 0,0:11:13.62,0:11:16.95,Default,,0,0,0,,Before you go, the general store\NHas all you need and plenty more
 Dialogue: 0,0:11:18.02,0:11:19.60,Default,,0,0,0,,For you i-n-d-e-pendence
 Dialogue: 0,0:11:19.60,0:11:21.77,Default,,0,0,0,,I guess we shall go to a general store, huh?
 Dialogue: 0,0:11:23.82,0:11:24.62,Default,,0,0,0,,Ding-ding!
 Dialogue: 0,0:11:24.97,0:11:27.37,Default,,0,0,0,,Hey, how is it going? Welcome to the general store. So -
-Dialogue: 0,0:11:27.45,0:11:33.25,Default,,0,0,0,,You're headed down the trail to Oregon, huh? I can fix you up with what you need. Food, Cloths, we even got a sale on [???] whatever the hell those are.
+Dialogue: 0,0:11:27.45,0:11:33.25,Default,,0,0,0,,You're headed down the trail to Oregon, huh? I can fix you up with what you need. Food, Cloths, we even got a sale on wagon tongues whatever the hell those are.
 Dialogue: 0,0:11:33.25,0:11:35.62,Default,,0,0,0,,Actually, sir, we're doing this trip on a budget.
 Dialogue: 0,0:11:35.62,0:11:36.47,Default,,0,0,0,,We're poor.
 Dialogue: 0,0:11:36.47,0:11:37.50,Default,,0,0,0,,Our farm burned down.
 Dialogue: 0,0:11:37.55,0:11:39.62,Default,,0,0,0,,God did it to us, damn him to hell!
-Dialogue: 0,0:11:41.77,0:11:46.12,Default,,0,0,0,,We're farmers, you see, which means we don't need things like food. We can live of the land.
+Dialogue: 0,0:11:41.77,0:11:46.12,Default,,0,0,0,,We're farmers, you see, which means we don't need things like food. We can live off the land.
 Dialogue: 0,0:11:46.30,0:11:48.42,Default,,0,0,0,,All we're looking for is the bare essentials.
 Dialogue: 0,0:11:48.72,0:11:50.42,Default,,0,0,0,,Boxes and boxes of bullets.
 Dialogue: 0,0:11:52.00,0:11:53.27,Default,,0,0,0,,And, you know, maybe a wagon.
-Dialogue: 0,0:11:54.07,0:11:58.37,Default,,0,0,0,,No food? Okay, well, suit yourself, if you want to end up like the [???] party.
-Dialogue: 0,0:11:58.37,0:11:59.60,Default,,0,0,0,,The [???] party?
+Dialogue: 0,0:11:54.07,0:11:58.37,Default,,0,0,0,,No food? Okay, well, suit yourself, if you want to end up like the Donner party.
+Dialogue: 0,0:11:58.37,0:11:59.60,Default,,0,0,0,,The Donner party?
 Dialogue: 0,0:11:59.90,0:12:00.80,Default,,0,0,0,,You hear that, gang?
 Dialogue: 0,0:12:00.80,0:12:02.35,Default,,0,0,0,,They knew how to have a good time.
 Dialogue: 0,0:12:02.67,0:12:03.87,Default,,0,0,0,,We're gonna be just like them.
 Dialogue: 0,0:12:03.97,0:12:04.37,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:12:05.55,0:12:11.35,Default,,0,0,0,,You know, there are other general store owners, that might try to [???] a nooby like you with some fast talking and turn a quick bug, but I like you.
+Dialogue: 0,0:12:05.55,0:12:11.35,Default,,0,0,0,,You know, there are other general store owners, that might try to shiest a nooby like you with some fast talking and turn a quick buck, but I like you.
 Dialogue: 0,0:12:11.55,0:12:12.52,Default,,0,0,0,,So let me tell you what I'm gonna do:
 Dialogue: 0,0:12:12.70,0:12:15.25,Default,,0,0,0,,I'm gonna give you one wagon for the price of two, not a Penny less.
-Dialogue: 0,0:12:15.25,0:12:18.00,Default,,0,0,0,,And for an extra 50 bugs, I'm gonna throw in an ox - for free!
+Dialogue: 0,0:12:15.25,0:12:18.00,Default,,0,0,0,,And for an extra 50 bucks, I'm gonna throw in an ox - for free!
 Dialogue: 0,0:12:18.00,0:12:19.22,Default,,0,0,0,,A free ox?
 Dialogue: 0,0:12:19.60,0:12:20.37,Default,,0,0,0,,Oh boy!
 Dialogue: 0,0:12:20.65,0:12:21.70,Default,,0,0,0,,Yep...!
-Dialogue: 0,0:12:22.32,0:12:28.62,Default,,0,0,0,,We're all friends, there's no war or brewing, no one's abusing their rights to [???]
-Dialogue: 0,0:12:28.70,0:12:34.87,Default,,0,0,0,,Ox like me, you'll need a full yoke\NTheir love and tear is no joke.\NIt's their job on your [???]
+Dialogue: 0,0:12:22.32,0:12:28.62,Default,,0,0,0,,We're all friends, there's no war a-brewing, no one's abusing their rights to own an
+Dialogue: 0,0:12:28.70,0:12:34.87,Default,,0,0,0,,Ox like me, you'll need a full yoke\NTheir love and care is no joke.\NIt's their job on your love
 Dialogue: 0,0:12:34.97,0:12:36.62,Default,,0,0,0,,They're depending
 Dialogue: 0,0:12:36.72,0:12:39.92,Default,,0,0,0,,I pry myself on being a very good ox owner, I love - well -
 Dialogue: 0,0:12:40.62,0:12:41.45,Default,,0,0,0,,It's perfectly normal.
 Dialogue: 0,0:12:42.05,0:12:43.17,Default,,0,0,0,,Moo!
-Dialogue: 0,0:12:43.32,0:12:47.57,Default,,0,0,0,,Here are just a few rules to flip by:
+Dialogue: 0,0:12:43.32,0:12:47.57,Default,,0,0,0,,Here are just a few rules to live by:
 Dialogue: 0,0:12:47.97,0:12:49.80,Default,,0,0,0,,For your indep - ahah
-Dialogue: 0,0:12:50.05,0:13:03.32,Default,,0,0,0,,Don't [???] to your indian guide\N[???] Dr Pepper genocide\Nyou might [???] and you might [???]pain\Nbut that's okay cause you covered it late\Nby your mom and dad and little kids too\Ncause the ox shared the same bed, woo\Nuse your kids as [???]\Nthey won't help when you're bit by a bear
-Dialogue: 0,0:13:03.55,0:13:05.27,Default,,0,0,0,,For a steak
-Dialogue: 0,0:13:05.05,0:13:08.20,Default,,0,0,0,,Mother nature's really great
+Dialogue: 0,0:12:50.05,0:13:03.32,Default,,0,0,0,,Don't say sorry to your Indian guide\NThey're not prepared for genocide\NYou might die of cholera and you might die of pain\NBut that's okay cause you prob'bly get laid\NBy your mom and dad and little kids too\Ncause you all have to shared the same bed room\NUse your kids as tourniquets\NThey won't help when you're bit by a bear
+Dialogue: 0,0:13:03.55,0:13:05.27,Default,,0,0,0,,Or a snake
+Dialogue: 0,0:13:05.05,0:13:08.20,Default,,0,0,0,,Mother Nature's really great
 Dialogue: 0,0:13:08.52,0:13:12.02,Default,,0,0,0,,When you're out there on the Oregon trail
 Dialogue: 0,0:13:12.10,0:13:15.17,Default,,0,0,0,,Feels like you are going to fail
 Dialogue: 0,0:13:15.17,0:13:17.67,Default,,0,0,0,,But don't give up too soon
 Dialogue: 0,0:13:18.12,0:13:20.92,Default,,0,0,0,,The world is your saloon
 Dialogue: 0,0:13:21.27,0:13:29.37,Default,,0,0,0,,Uhm, mom, I don't mean to be a buzz kill, but do you ever get the idea that, well, maybe this trip isn't gonna be as fun or educational, as dad says?
 Dialogue: 0,0:13:29.45,0:13:32.25,Default,,0,0,0,,I don't know, maybe it'll be horribly dangerous.
-Dialogue: 0,0:13:32.25,0:13:36.22,Default,,0,0,0,,Oh Malface, you can't think like that. Now, we gotta keep our chins up!
+Dialogue: 0,0:13:32.25,0:13:36.22,Default,,0,0,0,,Oh Mouthface, you can't think like that. Now, we gotta keep our chins up!
 Dialogue: 0,0:13:37.02,0:13:39.00,Default,,0,0,0,,But what if this trip kills one of us?
 Dialogue: 0,0:13:39.22,0:13:42.55,Default,,0,0,0,,Like you, or dad, or grandpa?
 Dialogue: 0,0:13:42.62,0:13:47.00,Default,,0,0,0,,Oh well, if grandpa dies, that's just god's will, sorry grandpa!
 Dialogue: 0,0:13:47.27,0:13:49.72,Default,,0,0,0,,Oh, that's okay, when you gotta go, you gotta go.
-Dialogue: 0,0:13:50.17,0:13:51.75,Default,,0,0,0,,You're talking about to shit, alright?
+Dialogue: 0,0:13:50.17,0:13:51.75,Default,,0,0,0,,You're talking about the shitter, alright?
 Dialogue: 0,0:13:53.50,0:13:54.80,Default,,0,0,0,,Trust me, kids:
 Dialogue: 0,0:13:55.57,0:13:58.60,Default,,0,0,0,,There's a place for us
 Dialogue: 0,0:13:59.02,0:14:01.22,Default,,0,0,0,,In a house out west
@@ -106,19 +106,19 @@ Dialogue: 0,0:14:07.95,0:14:11.32,Default,,0,0,0,,That's the promise of the vall
 Dialogue: 0,0:14:11.32,0:14:14.20,Default,,0,0,0,,Leave all this behind
 Dialogue: 0,0:14:14.47,0:14:17.57,Default,,0,0,0,,Lord have mercy on my soul
 Dialogue: 0,0:14:17.72,0:14:21.67,Default,,0,0,0,,As I try to lead the blind
-Dialogue: 0,0:14:21.75,0:14:24.80,Default,,0,0,0,,Chin up, kids! Your family's united
+Dialogue: 0,0:14:21.75,0:14:24.80,Default,,0,0,0,,Chin up, kids, your family's united
 Dialogue: 0,0:14:24.80,0:14:26.22,Default,,0,0,0,,I guess I'm excited
 Dialogue: 0,0:14:26.22,0:14:28.22,Default,,0,0,0,,Ooh, I'm so excited I pooped myself.
-Dialogue: 0,0:14:28.22,0:14:35.00,Default,,0,0,0,,Let's go where the [???]\NLet's go exploring our independence
+Dialogue: 0,0:14:28.22,0:14:35.00,Default,,0,0,0,,Let's go where the gold rush is soaring\NLet's go exploring our independence
 Dialogue: 0,0:14:34.62,0:14:37.60,Default,,0,0,0,,Be prepared to take your life\NWith an arrow or a hunting knife
-Dialogue: 0,0:14:37.75,0:14:40.80,Default,,0,0,0,,Stop and see for [???]\NThere's nothing to see where you have to be
-Dialogue: 0,0:14:40.90,0:14:43.92,Default,,0,0,0,,Do you wanna [???] cause you look confused\N[???]
-Dialogue: 0,0:14:44.02,0:14:47.25,Default,,0,0,0,,Stay away from old man [???]\NWhen he's drunk he'll take your liver
+Dialogue: 0,0:14:37.75,0:14:40.80,Default,,0,0,0,,Stop and see Fort Laramie\NThere's nothing to see while you have to pee
+Dialogue: 0,0:14:40.90,0:14:43.92,Default,,0,0,0,,Do you understand, cause you look confused\NTake a look at scenic mountain views
+Dialogue: 0,0:14:44.02,0:14:47.25,Default,,0,0,0,,Stay away from old man Bridger\NWhen he's drunk he'll take your liver
 Dialogue: 0,0:14:47.25,0:14:49.95,Default,,0,0,0,,Life is not a petting zoo\NOr you'll get ripped in two
 Dialogue: 0,0:14:51.82,0:14:53.62,Default,,0,0,0,,By a bear
-Dialogue: 0,0:14:53.62,0:14:55.17,Default,,0,0,0,,For a steak
-Dialogue: 0,0:14:55.17,0:14:58.25,Default,,0,0,0,,Mother nature's really great
-Dialogue: 0,0:14:59.10,0:15:01.85,Default,,0,0,0,,Stay in the line if you like some fun
+Dialogue: 0,0:14:53.62,0:14:55.17,Default,,0,0,0,,Or a snake
+Dialogue: 0,0:14:55.17,0:14:58.25,Default,,0,0,0,,Mother Nature's really great
+Dialogue: 0,0:14:59.10,0:15:01.85,Default,,0,0,0,,Staying alive can be lots of fun
 Dialogue: 0,0:15:02.17,0:15:05.07,Default,,0,0,0,,Be sure you have a loaded gun
 Dialogue: 0,0:15:05.40,0:15:08.27,Default,,0,0,0,,Something will go wrong
 Dialogue: 0,0:15:08.37,0:15:11.07,Default,,0,0,0,,The list is far too long
@@ -136,11 +136,11 @@ Dialogue: 0,0:15:25.05,0:15:25.57,Default,,0,0,0,,N
 Dialogue: 0,0:15:25.70,0:15:26.25,Default,,0,0,0,,D
 Dialogue: 0,0:15:26.50,0:15:27.65,Default,,0,0,0,,ENCE!
 Dialogue: 0,0:15:28.12,0:15:31.55,Default,,0,0,0,,[???] or anarchy\NAll the same, cause you get the diarrhea
-Dialogue: 0,0:15:31.55,0:15:34.72,Default,,0,0,0,,[???]\NLeave them up to uncle Sam
-Dialogue: 0,0:15:34.72,0:15:38.02,Default,,0,0,0,,Go stressed - [???] - it might just be your loss
+Dialogue: 0,0:15:31.55,0:15:34.72,Default,,0,0,0,,Runaway thieves are on the lam\NLeave them up to uncle Sam
+Dialogue: 0,0:15:34.72,0:15:38.02,Default,,0,0,0,,Don't stress-\NTake a breath-\NIt might just be your last!
 Dialogue: 0,0:15:45.22,0:15:46.40,Default,,0,0,0,,It's so hot, huh?
-Dialogue: 0,0:15:52.65,0:15:55.25,Default,,0,0,0,,Friends don't let friends fort [Is this the correct typing?] the river!
-Dialogue: 0,0:16:00.62,0:16:01.85,Default,,0,0,0,,Take a fairy!
+Dialogue: 0,0:15:52.65,0:15:55.25,Default,,0,0,0,,Friends don't let friends fort the river!
+Dialogue: 0,0:16:00.62,0:16:01.85,Default,,0,0,0,,Take a ferry!
 Dialogue: 0,0:16:03.32,0:16:08.05,Default,,0,0,0,,For your I-N-D-E-pendence\NTime to hit the road
 Dialogue: 0,0:16:15.85,0:16:17.27,Default,,0,0,0,,My, my, my!
 Dialogue: 0,0:16:18.07,0:16:19.67,Default,,0,0,0,,What a sweet little number!
@@ -151,7 +151,7 @@ Dialogue: 0,0:16:26.77,0:16:27.42,Default,,0,0,0,,[clears her throat]
 Dialogue: 0,0:16:27.72,0:16:29.72,Default,,0,0,0,,Howdy, stranger.
 Dialogue: 0,0:16:29.92,0:16:31.22,Default,,0,0,0,,Ain't you forward!
 Dialogue: 0,0:16:31.30,0:16:32.62,Default,,0,0,0,,Well, hello ma'am, uh -
-Dialogue: 0,0:16:32.80,0:16:35.77,Default,,0,0,0,,fogive me, I - I just noticed you from across the square.
+Dialogue: 0,0:16:32.80,0:16:35.77,Default,,0,0,0,,forgive me, I - I just noticed you from across the square.
 Dialogue: 0,0:16:35.90,0:16:40.15,Default,,0,0,0,,And I just had to let you know, that you are mighty pretty, if I do say so myself.
 Dialogue: 0,0:16:40.27,0:16:42.65,Default,,0,0,0,,And I do - say so myself.
 Dialogue: 0,0:16:44.17,0:16:44.90,Default,,0,0,0,,And, uh -
@@ -160,7 +160,7 @@ Dialogue: 0,0:16:46.02,0:16:47.75,Default,,0,0,0,,Who do I have to - uh -
 Dialogue: 0,0:16:47.90,0:16:49.25,Default,,0,0,0,,thank for the compliment?
 Dialogue: 0,0:16:49.52,0:16:51.72,Default,,0,0,0,,Oh well, uh - Name's McDoon.
 Dialogue: 0,0:16:52.17,0:16:53.40,Default,,0,0,0,,And I make the ladies -
-Dialogue: 0,0:16:53.62,0:16:54.67,Default,,0,0,0,,like swoon.
+Dialogue: 0,0:16:53.62,0:16:54.67,Default,,0,0,0,,McSwoon.
 Dialogue: 0,0:16:56.35,0:16:59.40,Default,,0,0,0,,Oh! You are a poet!
 Dialogue: 0,0:17:00.37,0:17:01.57,Default,,0,0,0,,And I'm charmed.
 Dialogue: 0,0:17:01.57,0:17:04.05,Default,,0,0,0,,Ooh! So, your headed down the trail, huh?
@@ -183,7 +183,7 @@ Dialogue: 0,0:17:33.60,0:17:37.95,Default,,0,0,0,,His only companion is the infa
 Dialogue: 0,0:17:37.90,0:17:39.47,Default,,0,0,0,,That's my name.
 Dialogue: 0,0:17:39.75,0:17:40.67,Default,,0,0,0,,Shhhh!
 Dialogue: 0,0:17:40.67,0:17:42.72,Default,,0,0,0,,McDoon, don't  you shush me!
-Dialogue: 0,0:17:42.82,0:17:50.90,Default,,0,0,0,,Not after I got you all your supplies: [???], fire arms, [???], all the... I got all you... what? Oh
+Dialogue: 0,0:17:42.82,0:17:50.90,Default,,0,0,0,,Not after I got you all your supplies: ether, fire arms, [???], all the... I got all you... what? Oh
 Dialogue: 0,0:17:47.42,0:17:50.90,Default,,0,0,0,,Shut, shut, shut your mouth, Cletus! Shut - shut your mouth!
 Dialogue: 0,0:17:51.02,0:17:51.47,Default,,0,0,0,,[Clears her throat]
 Dialogue: 0,0:17:51.55,0:17:53.47,Default,,0,0,0,,Uh - Gentlemen, uhm -
@@ -195,7 +195,7 @@ Dialogue: 0,0:18:07.37,0:18:08.12,Default,,0,0,0,,Mama!
 Dialogue: 0,0:18:08.12,0:18:11.17,Default,,0,0,0,,Woah, hello ma'am, you ain't got nothing to worry about.
 Dialogue: 0,0:18:11.37,0:18:14.60,Default,,0,0,0,,I was just making sexual advances on your daughter, is all.
 Dialogue: 0,0:18:15.70,0:18:17.80,Default,,0,0,0,,That was perfectly consensual too.
-Dialogue: 0,0:18:17.82,0:18:21.05,Default,,0,0,0,,She gives me butterflies down to my penis area, you know what I mean?
+Dialogue: 0,0:18:17.82,0:18:21.05,Default,,0,0,0,,She gives me butterflies down on my penis area, you know what I mean?
 Dialogue: 0,0:18:22.37,0:18:25.95,Default,,0,0,0,,And my name's Cletus Jones, I've killed three people.
 Dialogue: 0,0:18:26.75,0:18:29.22,Default,,0,0,0,,SHUT UP, Cletus!!!
 Dialogue: 0,0:18:28.25,0:18:28.40,Default,,0,0,0,,I -
@@ -205,8 +205,8 @@ Dialogue: 0,0:18:36.45,0:18:39.67,Default,,0,0,0,,Look, look, my intentions are 
 Dialogue: 0,0:18:39.67,0:18:41.92,Default,,0,0,0,,Yeah, he just wants a dick in.
 Dialogue: 0,0:18:41.97,0:18:43.92,Default,,0,0,0,,CLETUS!!!
 Dialogue: 0,0:18:44.57,0:18:48.20,Default,,0,0,0,,I know that, you know that, they don't know that, HELP A GUY OUT!
-Dialogue: 0,0:18:52.20,0:18:55.17,Default,,0,0,0,,Now, now, I'm - I'm just a simple [???]man, alright?
-Dialogue: 0,0:18:55.30,0:18:57.82,Default,,0,0,0,,I made my living fur trapping and trading.
+Dialogue: 0,0:18:52.20,0:18:55.17,Default,,0,0,0,,Now, now, I'm - I'm just a simple [???] man, alright?
+Dialogue: 0,0:18:55.30,0:18:57.82,Default,,0,0,0,,I make my living fur trapping and trading.
 Dialogue: 0,0:18:58.00,0:19:03.82,Default,,0,0,0,,You all seem like pretty nice folks, but - no offense - dumb as shit, when it comes to the trail.
 Dialogue: 0,0:19:04.87,0:19:09.02,Default,,0,0,0,,Now, I might be willing to - help you on your way.
 Dialogue: 0,0:19:09.95,0:19:11.85,Default,,0,0,0,,For a nominal fee, of course.
@@ -217,7 +217,7 @@ Dialogue: 0,0:19:21.57,0:19:24.47,Default,,0,0,0,,My child bride, okay? Please a
 Dialogue: 0,0:19:25.65,0:19:26.32,Default,,0,0,0,,[Mother clears her throat]
 Dialogue: 0,0:19:26.50,0:19:27.10,Default,,0,0,0,,Sir,
 Dialogue: 0,0:19:27.10,0:19:27.40,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:19:28.30,0:19:31.87,Default,,0,0,0,,let me be perfectly clear - Malface, cover your ears!
+Dialogue: 0,0:19:28.30,0:19:31.87,Default,,0,0,0,,let me be perfectly clear - Mouthface, cover your ears!
 Dialogue: 0,0:19:32.07,0:19:32.75,Default,,0,0,0,,What???
 Dialogue: 0,0:19:32.75,0:19:34.77,Default,,0,0,0,,Uuuh, damn it!
 Dialogue: 0,0:19:35.05,0:19:37.57,Default,,0,0,0,,Now, you see that girl right there?
@@ -225,9 +225,9 @@ Dialogue: 0,0:19:37.57,0:19:37.92,Default,,0,0,0,,Oh, yeah.
 Dialogue: 0,0:19:38.35,0:19:43.55,Default,,0,0,0,,I made her. Out of my blood and my flesh, my sweat and my tears.
 Dialogue: 0,0:19:43.82,0:19:46.95,Default,,0,0,0,,And I love her more than the waking world.
 Dialogue: 0,0:19:47.47,0:19:58.05,Default,,0,0,0,,But I will smother her in her sleep, before I see her ruin herself with some - thing like you, so you better just run along now, because you'd have better luck sticking your pecker in a cactus!
-Dialogue: 0,0:20:04.17,0:20:06.72,Default,,0,0,0,,Alright, Malface, mom is done, come on now.
+Dialogue: 0,0:20:04.17,0:20:06.72,Default,,0,0,0,,Alright, Mouthface, mom is done, come on now.
 Dialogue: 0,0:20:07.17,0:20:09.15,Default,,0,0,0,,Haha, well -
-Dialogue: 0,0:20:09.67,0:20:11.37,Default,,0,0,0,,I tried to be friendly like.
+Dialogue: 0,0:20:09.67,0:20:11.37,Default,,0,0,0,,I tried to be friendly, like.
 Dialogue: 0,0:20:12.52,0:20:14.37,Default,,0,0,0,,But now it's war between us!
 Dialogue: 0,0:20:14.80,0:20:18.77,Default,,0,0,0,,I swear: One way or another, I'm gonna have that daughter of yours!
 Dialogue: 0,0:20:19.27,0:20:24.05,Default,,0,0,0,,You better keep one eye open, cause you just made an enemy of - the Bandit King!
