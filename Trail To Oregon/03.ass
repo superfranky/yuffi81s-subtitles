@@ -15,8 +15,7 @@ Video File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 176
-Active Line: 140
+Active Line: 12
 Video Position: 43892
 
 [V4+ Styles]
@@ -37,7 +36,7 @@ Dialogue: 0,0:21:04.07,0:21:04.92,Default,,0,0,0,,Thank you, mom.
 Dialogue: 0,0:21:04.92,0:21:05.37,Default,,0,0,0,,You -
 Dialogue: 0,0:21:07.85,0:21:09.17,Default,,0,0,0,,What is in your mouth?
 Dialogue: 0,0:21:09.87,0:21:10.55,Default,,0,0,0,,Nothing...
-Dialogue: 0,0:21:10.55,0:21:12.55,Default,,0,0,0,,You lying faint, spit that out.
+Dialogue: 0,0:21:10.55,0:21:12.55,Default,,0,0,0,,You're lying faint, spit that out.
 Dialogue: 0,0:21:13.07,0:21:13.62,Default,,0,0,0,,Come on.
 Dialogue: 0,0:21:15.62,0:21:16.90,Default,,0,0,0,,Is that a dead bird?
 Dialogue: 0,0:21:18.97,0:21:20.17,Default,,0,0,0,,Hey, where did you get this?
@@ -149,7 +148,7 @@ Dialogue: 0,0:26:20.55,0:26:24.25,Default,,0,0,0,,I got my freedom and my slice 
 Dialogue: 0,0:26:24.67,0:26:26.97,Default,,0,0,0,,My beautiful family
 Dialogue: 0,0:26:26.97,0:26:28.17,Default,,0,0,0,,Uhuhu!
 Dialogue: 0,0:26:30.27,0:26:33.12,Default,,0,0,0,,Come on kids it's time that we play a game
-Dialogue: 0,0:26:34.42,0:26:37.10,Default,,0,0,0,,I spot some fun out here on the Great Plains 
+Dialogue: 0,0:26:34.42,0:26:37.10,Default,,0,0,0,,I spot some fun out here on the Great Plains
 Dialogue: 0,0:26:37.10,0:26:38.22,Default,,0,0,0,,Oh-oh!
 Dialogue: 0,0:26:38.80,0:26:43.00,Default,,0,0,0,,Stop for a second take it all in\N"Are we there yet?" Is the wrong question
 Dialogue: 0,0:26:43.22,0:26:46.22,Default,,0,0,0,,You thought road trips were lame\NBut they all ain't the same
