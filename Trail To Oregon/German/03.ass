@@ -15,9 +15,9 @@ Video File: ../video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 180
-Active Line: 197
-Video Position: 43881
+Scroll Position: 191
+Active Line: 195
+Video Position: 43740
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,7 +31,7 @@ Dialogue: 0,0:20:43.27,0:20:47.02,Default,,0,0,0,,Mr. McDoon war die ganze Zeit 
 Dialogue: 0,0:20:47.20,0:20:49.87,Default,,0,0,0,,Was ist los mit dir, Mädchen?
 Dialogue: 0,0:20:50.07,0:20:53.37,Default,,0,0,0,,Hast du einfach diesen wilden Mann zu diesen Annäherungsversuchen ermuntert?
 Dialogue: 0,0:20:53.57,0:20:56.60,Default,,0,0,0,,Ja, das habe ich, bis du dazwischengekommen bist und uns untrbrochen hast!
-Dialogue: 0,0:20:57.42,0:20:59.47,Default,,0,0,0,,Wrum kannst du nicht mehr wie dein Bruder sein?
+Dialogue: 0,0:20:57.42,0:20:59.47,Default,,0,0,0,,Warum kannst du nicht mehr wie dein Bruder sein?
 Dialogue: 0,0:20:59.77,0:21:03.87,Default,,0,0,0,,Okay, neugierig, klein und schwach für sein Alter, aber wenigstens hat er etwas Verstand in seinem Kopf.
 Dialogue: 0,0:21:04.07,0:21:04.92,Default,,0,0,0,,Danke, Mama.
 Dialogue: 0,0:21:04.92,0:21:05.37,Default,,0,0,0,,Bit -
@@ -43,7 +43,7 @@ Dialogue: 0,0:21:15.62,0:21:16.90,Default,,0,0,0,,Ist das ein toter Vogel?
 Dialogue: 0,0:21:18.97,0:21:20.17,Default,,0,0,0,,Hey, wo hast du den her?
 Dialogue: 0,0:21:21.00,0:21:22.82,Default,,0,0,0,,Oh, äh - ich weiß es nicht.
 Dialogue: 0,0:21:23.47,0:21:26.15,Default,,0,0,0,,Hast du deinen Mund aufgemacht und ihn aus der Luft gefangen?
-Dialogue: 0,0:21:26.82,0:21:30.25,Default,,0,0,0,,Äh, na jall,ich sah ihn auf dem Boden und dann - ähm -
+Dialogue: 0,0:21:26.82,0:21:30.25,Default,,0,0,0,,Äh, na ja, ich sah ihn auf dem Boden und dann - ähm -
 Dialogue: 0,0:21:30.45,0:21:31.77,Default,,0,0,0,,Ich - ich weiß nicht.
 Dialogue: 0,0:21:31.42,0:21:32.57,Default,,0,0,0,,Okay. Okay.
 Dialogue: 0,0:21:34.25,0:21:39.40,Default,,0,0,0,,Hört mal, wenn diese Reise euch nicht tötet, werdet ihr euch gegenseitig umbringen mit euren dummen Ideen.
@@ -100,8 +100,8 @@ Dialogue: 0,0:23:54.57,0:23:55.65,Default,,0,0,0,,Igitt! Papa!
 Dialogue: 0,0:23:55.27,0:23:56.42,Default,,0,0,0,,Bitte tötet mich!
 Dialogue: 0,0:23:58.72,0:24:01.82,Default,,0,0,0,,Du hast uns einen blinden Ochsen geholt?
 Dialogue: 0,0:24:01.82,0:24:03.32,Default,,0,0,0,,Stell ihn dir wie einen Blindenhund vor, Liebling.
-Dialogue: 0,0:24:03.65,0:24:07.55,Default,,0,0,0,,Hast du nie die Redensart gehört Der Lahme führt den Blinden? Das ist es, worum es bei dieser Reise geht: Sich an alte Redensarten erinnern.
-Dialogue: 0,0:24:08.52,0:24:10.67,Default,,0,0,0,,Oh, ih, er sit schleimig!
+Dialogue: 0,0:24:03.65,0:24:07.55,Default,,0,0,0,,Hast du nie die Redensart gehört: Der Lahme führt den Blinden? Das ist es, worum es bei dieser Reise geht: Sich an alte Redensarten erinnern.
+Dialogue: 0,0:24:08.52,0:24:10.67,Default,,0,0,0,,Oh, ih, er ist schleimig!
 Dialogue: 0,0:24:10.45,0:24:12.80,Default,,0,0,0,,Soll diese Haut sich so abschälen?
 Dialogue: 0,0:24:12.67,0:24:15.02,Default,,0,0,0,,Aaaah, er ist ein vollkommen gesunder Ochse.
 Dialogue: 0,0:24:15.12,0:24:20.62,Default,,0,0,0,,Der einzige Nachteil ist, wir müssen sein Futter vorkauen und in das Loch spucken, wo mal sein Maul war.
@@ -109,7 +109,7 @@ Dialogue: 0,0:24:20.05,0:24:21.57,Default,,0,0,0,,Oh, großer Gott!
 Dialogue: 0,0:24:21.57,0:24:22.57,Default,,0,0,0,,Lasst mich ausreden.
 Dialogue: 0,0:24:22.82,0:24:27.02,Default,,0,0,0,,Die gut Seite - ist: Alles was er frisst ist Gras. Was nichts kostet.
 Dialogue: 0,0:24:27.22,0:24:29.50,Default,,0,0,0,,Ich würde Grass kauen. Ich bin am Verhungern.
-Dialogue: 0,0:24:28.92,0:24:32.27,Default,,0,0,0,,Das ist die richtige Einstellung! Wir werden uns alle abwechseln.  Es wird immer Irgendwer Grasdienst haben.
+Dialogue: 0,0:24:28.92,0:24:32.27,Default,,0,0,0,,Das ist die richtige Einstellung! Wir werden uns alle abwechseln.  Es wird immer irgendwer Grasdienst haben.
 Dialogue: 0,0:24:32.60,0:24:34.27,Default,,0,0,0,,Also geht es bei dieser Reise nur ums Graskauen.
 Dialogue: 0,0:24:35.10,0:24:39.67,Default,,0,0,0,,Es ist so, wie alle in der Stadt sagen: Wenn du erstmal zur Reise nach Oregon aufgebrochen bist, geht es von hier aus nur noch bergab.
 Dialogue: 0,0:24:40.90,0:24:43.87,Default,,0,0,0,,Ich hoffe sie meinen das wörtlich, denn diese achteckigen Räder rollen sich nicht von selbst.
@@ -135,7 +135,7 @@ Dialogue: 0,0:25:36.20,0:25:38.02,Default,,0,0,0,,Okay, das waren drei Geräusch
 Dialogue: 0,0:25:38.02,0:25:39.40,Default,,0,0,0,,Ich denke drei Sachen sind kaputt gegangen.
 Dialogue: 0,0:25:39.40,0:25:41.40,Default,,0,0,0,,Aaaah, das soll so klingen.
 Dialogue: 0,0:25:42.40,0:25:46.97,Default,,0,0,0,,Wir reisen\Neine holperige Straße entlang
-Dialogue: 0,0:25:46.97,0:25:51.47,Default,,0,0,0,,Entspannen us einfach\NLassen die Meilen sich ausdehnen
+Dialogue: 0,0:25:46.97,0:25:51.47,Default,,0,0,0,,Entspannen uns einfach\NLassen die Meilen sich ausdehnen
 Dialogue: 0,0:25:51.60,0:25:56.20,Default,,0,0,0,,Nichts bringt eine Familie z'ammen\Nwie etwas Staub im Auge
 Dialogue: 0,0:25:56.50,0:26:00.05,Default,,0,0,0,,Und wir werden rechtzeitig aukommen
 Dialogue: 0,0:26:00.77,0:26:03.17,Default,,0,0,0,,Ich und meine Familie
@@ -152,11 +152,11 @@ Dialogue: 0,0:26:30.27,0:26:33.12,Default,,0,0,0,,Los geht's, Kinder, es ist Zei
 Dialogue: 0,0:26:34.42,0:26:37.10,Default,,0,0,0,,Ich sehe Spaß da draußen auf den Great Plains
 Dialogue: 0,0:26:37.10,0:26:38.22,Default,,0,0,0,,Oh-oh!
 Dialogue: 0,0:26:38.80,0:26:43.00,Default,,0,0,0,,Haltet für einen Augenblick, nehm es alles in euch auf\N"Sind wir schon da?" ist die falsche Frage
-Dialogue: 0,0:26:43.22,0:26:46.22,Default,,0,0,0,,Ihr dachtet Reisen über Land wären lahm\NAbersie sind alle nicht das selbe
+Dialogue: 0,0:26:43.22,0:26:46.22,Default,,0,0,0,,Ihr dachtet Reisen über Land wären lahm\NAber sie sind alle nicht das selbe
 Dialogue: 0,0:26:47.02,0:26:51.60,Default,,0,0,0,,Es ist eine Plackerei\NImmer einen Tag nach dem anderen
 Dialogue: 0,0:26:51.60,0:26:54.40,Default,,0,0,0,,Und wir werden unseren Weg zurück nach Hause finden
 Dialogue: 0,0:26:55.52,0:27:00.25,Default,,0,0,0,,Befreit euren Geist\NSchmeißt eure Sorgen beiseite
-Dialogue: 0,0:27:00.25,0:27:03.07,Default,,0,0,0,,Und wir werden locker die Straße runter
+Dialogue: 0,0:27:00.25,0:27:03.07,Default,,0,0,0,,Und wir werden locker die Straße runter ziehen
 Dialogue: 0,0:27:03.07,0:27:04.20,Default,,0,0,0,,Ja, Sir!
 Dialogue: 0,0:27:05.30,0:27:07.87,Default,,0,0,0,,Haltet an und betrachtet den Chimney Rock ruhig ganz
 Dialogue: 0,0:27:09.35,0:27:12.62,Default,,0,0,0,,ja, der sieht echt aus wie ein riesen Schwanz
@@ -173,7 +173,7 @@ Dialogue: 0,0:27:44.60,0:27:48.82,Default,,0,0,0,,Ich versuche\NDiese Reise zu g
 Dialogue: 0,0:27:49.07,0:27:53.55,Default,,0,0,0,,Ich bin Babysitter\NAber nicht für meine Kinder
 Dialogue: 0,0:27:53.67,0:27:58.22,Default,,0,0,0,,Manchmal frage ich mich was zum Teufel\NIn seinem Kopf vorgeht
 Dialogue: 0,0:27:58.42,0:28:03.05,Default,,0,0,0,,würde er es bemerken, wenn irgendwer\Nvon uns dabei draufgeht?
-Dialogue: 0,0:28:03.05,0:28:08.12,Default,,0,0,0,,Wem mach ich was vor? Gott weioß\NEr würde sich selbst stattdessen töten
+Dialogue: 0,0:28:03.05,0:28:08.12,Default,,0,0,0,,Wem mach ich was vor? Gott weiß\NEr würde sich selbst stattdessen töten
 Dialogue: 0,0:28:08.40,0:28:12.00,Default,,0,0,0,,Kann nicht sagen, ich würde im Bett einen Unterschied erkennen
 Dialogue: 0,0:28:12.20,0:28:14.70,Default,,0,0,0,,Meine schöne Familie
 Dialogue: 0,0:28:13.60,0:28:16.02,Default,,0,0,0,,Papa, ich will das als Haustier behalten
@@ -208,7 +208,7 @@ Dialogue: 0,0:29:43.27,0:29:45.27,Default,,0,0,0,,Wovon redest du? Es ist aufreg
 Dialogue: 0,0:29:45.67,0:29:46.70,Default,,0,0,0,,Wir kommen voran!
 Dialogue: 0,0:29:46.80,0:29:48.15,Default,,0,0,0,,[Geräusch von etwas, das kaputt geht]
 Dialogue: 0,0:29:48.15,0:29:48.65,Default,,0,0,0,,Oh...
-Dialogue: 0,0:29:48.77,0:29:50.65,Default,,0,0,0,,Verdammt. Icb denke die Achse ist wieder gebrochen.
+Dialogue: 0,0:29:48.77,0:29:50.65,Default,,0,0,0,,Verdammt. Ich denke die Achse ist wieder gebrochen.
 Dialogue: 0,0:29:51.00,0:29:51.95,Default,,0,0,0,,Alle runter.
 Dialogue: 0,0:29:52.82,0:29:56.67,Default,,0,0,0,,Also das ist das zehnte mal, dass dieser Wagen uns kaputt gegangen ist.
 Dialogue: 0,0:29:56.67,0:29:58.45,Default,,0,0,0,,Na ja, bin dabei ihn zu reparieren, Liebling.
@@ -221,5 +221,5 @@ Dialogue: 0,0:30:09.05,0:30:11.17,Default,,0,0,0,,Nein, ich denke niemand hat di
 Dialogue: 0,0:30:11.50,0:30:15.20,Default,,0,0,0,,Ich denke eine betrunkene Person wurde high und hat ihn an einem Nachmittag zusammengeschustert.
 Dialogue: 0,0:30:17.42,0:30:21.95,Default,,0,0,0,,Wenn diese achteckigen Räder nicht wären, würden wir überall herumrollen, unfähig dazu anzuhalten.
 Dialogue: 0,0:30:22.52,0:30:24.32,Default,,0,0,0,,Weißt du, es gibt sowas wie zu schnell unterwegs zu sein.
-Dialogue: 0,0:30:24.32,0:30:30.17,Default,,0,0,0,,Und es gibt so etwas, wie zu langsam unterwegs zu sein. Weißt du, wie lange wir schon unterwegs sind auf dieser Strecke, Jack Bauer?Drei Monate!
+Dialogue: 0,0:30:24.32,0:30:30.17,Default,,0,0,0,,Und es gibt so etwas, wie zu langsam unterwegs zu sein. Weißt du, wie lange wir schon unterwegs sind auf dieser Strecke, Jack Bauer? Drei Monate!
 Dialogue: 0,0:30:30.17,0:30:32.17,Default,,0,0,0,,
