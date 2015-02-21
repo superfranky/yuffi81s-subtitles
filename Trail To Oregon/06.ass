@@ -10,14 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: D:/yuffi81/Trail To Oregon/video/The Trail to Oregon!-BxKCX-UvPrI.mp4
-Video File: D:/yuffi81/Trail To Oregon/video/The Trail to Oregon!-BxKCX-UvPrI.mp4
+Audio File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
+Video File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 177
-Active Line: 194
-Video Position: 89573
+Scroll Position: 185
+Active Line: 190
+Video Position: 89382
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,20 +26,20 @@ Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:52:15.65,0:52:16.85,Default,,0,0,0,,Hey, how is it going over here, sweety?
-Dialogue: 0,0:52:17.05,0:52:21.15,Default,,0,0,0,,Oh! He just fell right asleep, [???]
+Dialogue: 0,0:52:17.05,0:52:21.15,Default,,0,0,0,,Oh! He just fell right asleep, tuckered himself on out
 Dialogue: 0,0:52:21.45,0:52:25.05,Default,,0,0,0,,This little boy of ours, he is just too goddamn small.
 Dialogue: 0,0:52:25.55,0:52:27.55,Default,,0,0,0,,You know, it's your fault if the trail kills him.
 Dialogue: 0,0:52:28.00,0:52:30.45,Default,,0,0,0,,You made weak children without really a brain in their heads.
 Dialogue: 0,0:52:30.82,0:52:33.01,Default,,0,0,0,,Uuuh, I think that's just the trail talking, honey.
 Dialogue: 0,0:52:33.75,0:52:35.01,Default,,0,0,0,,You've had a long hard day.
-Dialogue: 0,0:52:35.60,0:52:38.82,Default,,0,0,0,,You need a [???], relax -
+Dialogue: 0,0:52:35.60,0:52:38.82,Default,,0,0,0,,You need to kick back, relax -
 Dialogue: 0,0:52:39.22,0:52:40.15,Default,,0,0,0,,take the load off
 Dialogue: 0,0:52:43.57,0:52:44.37,Default,,0,0,0,,Uh-oh!
 Dialogue: 0,0:52:45.60,0:52:46.37,Default,,0,0,0,,Look at that.
 Dialogue: 0,0:52:47.44,0:52:50.75,Default,,0,0,0,,Looks like one of the buttons on my butt flap is a little loose.
 Dialogue: 0,0:52:52.00,0:52:53.88,Default,,0,0,0,,It could fall open at any time.
 Dialogue: 0,0:52:55.40,0:52:58.31,Default,,0,0,0,,What are you doing? Are you trying to get me to sew your pants?
-Dialogue: 0,0:52:59.04,0:53:00.93,Default,,0,0,0,,Get that [???] here.
+Dialogue: 0,0:52:59.04,0:53:00.93,Default,,0,0,0,,Get that ham hock out of here.
 Dialogue: 0,0:53:00.93,0:53:05.88,Default,,0,0,0,,No, I'm here -  I'm not trying to - get you to sew my pants - it's - you know, it's just...
 Dialogue: 0,0:53:06.37,0:53:08.24,Default,,0,0,0,,been a while, since we've been alone...
 Dialogue: 0,0:53:08.53,0:53:11.66,Default,,0,0,0,,and, uh - looks like everyone else is off to sleep...
@@ -57,14 +57,14 @@ Dialogue: 0,0:53:44.11,0:53:44.86,Default,,0,0,0,,That is all.
 Dialogue: 0,0:53:47.22,0:53:50.08,Default,,0,0,0,,I just wanna sleep next to my wife!
 Dialogue: 0,0:53:49.28,0:53:50.26,Default,,0,0,0,,Shhhh!
 Dialogue: 0,0:53:50.84,0:53:52.75,Default,,0,0,0,,If you were quiet! You wanna wake up these kids?
-Dialogue: 0,0:53:52.93,0:53:54.77,Default,,0,0,0,,How about you'd screaming about [???]?
+Dialogue: 0,0:53:52.93,0:53:54.77,Default,,0,0,0,,How about you'd screaming about fornicating.
 Dialogue: 0,0:53:55.91,0:53:57.31,Default,,0,0,0,,J-just go to bed!
 Dialogue: 0,0:54:03.15,0:54:03.71,Default,,0,0,0,,Good night.
 Dialogue: 0,0:54:03.71,0:54:05.00,Default,,0,0,0,,Shhhh!
 Dialogue: 0,0:54:06.11,0:54:06.57,Default,,0,0,0,,I love you.
 Dialogue: 0,0:54:06.57,0:54:08.02,Default,,0,0,0,,Sh - sh - argh
 Dialogue: 0,0:54:20.80,0:54:21.64,Default,,0,0,0,,[snoring]
-Dialogue: 0,0:54:40.66,0:54:43.57,Default,,0,0,0,,Oh, I can not believe you're not even gonna try woo me!
+Dialogue: 0,0:54:40.66,0:54:43.57,Default,,0,0,0,,Oh, I can not believe you're not even gonna try and woo me!
 Dialogue: 0,0:54:44.17,0:54:45.42,Default,,0,0,0,,That's alright, honey, you were right.
 Dialogue: 0,0:54:46.35,0:54:50.28,Default,,0,0,0,,Maybe we could have made love, but it is way too late for that now, thanks a lot!
 Dialogue: 0,0:54:50.73,0:54:52.95,Default,,0,0,0,,You killed the whole romantic mood we had!
@@ -84,7 +84,7 @@ Dialogue: 0,0:55:35.64,0:55:37.77,Default,,0,0,0,,Gonna get it on,\NGonna get...
 Dialogue: 0,0:55:36.68,0:55:37.80,Default,,0,0,0,,Okay, just calm down.
 Dialogue: 0,0:55:39.64,0:55:40.91,Default,,0,0,0,,Hihihihuhu
 Dialogue: 0,0:55:40.53,0:55:42.17,Default,,0,0,0,,Well, I guess, yeah, it's all right.
-Dialogue: 0,0:55:43.37,0:55:50.46,Default,,0,0,0,,You know what? [Sighs] Alright, well, I have missed the way, but you, uh -
+Dialogue: 0,0:55:43.37,0:55:50.46,Default,,0,0,0,,You know what? [Sighs] Alright, well, I have missed the way, that you, uh -
 Dialogue: 0,0:55:50.97,0:55:54.15,Default,,0,0,0,,Aaaaaah!!!!\N[and so on]
 Dialogue: 0,0:55:54.15,0:55:56.46,Default,,0,0,0,,Oh! Oh!
 Dialogue: 0,0:55:57.20,0:55:59.44,Default,,0,0,0,,A snake! Honey, you've been bit by a snake!
@@ -117,7 +117,7 @@ Dialogue: 0,0:57:03.15,0:57:05.80,Default,,0,0,0,,Woa! He's turning purple!
 Dialogue: 0,0:57:05.80,0:57:07.57,Default,,0,0,0,,What did he put in his mouth?
 Dialogue: 0,0:57:07.57,0:57:08.48,Default,,0,0,0,,Honey!
 Dialogue: 0,0:57:08.73,0:57:09.53,Default,,0,0,0,,Honey!
-Dialogue: 0,0:57:09.64,0:57:11.33,Default,,0,0,0,,I can hear, what dogs can hear.
+Dialogue: 0,0:57:09.64,0:57:11.33,Default,,0,0,0,,I can hear what dogs can hear.
 Dialogue: 0,0:57:11.75,0:57:13.55,Default,,0,0,0,,Yep! Pretty sure.
 Dialogue: 0,0:57:14.86,0:57:18.57,Default,,0,0,0,,Oh, my god, and I have wings! Ohoho! Oh, honey, I can fly!
 Dialogue: 0,0:57:19.26,0:57:20.97,Default,,0,0,0,,Jack Bauer can fly!
@@ -125,7 +125,7 @@ Dialogue: 0,0:57:22.44,0:57:26.40,Default,,0,0,0,,Faaaaaatheeeeer!
 Dialogue: 0,0:57:26.57,0:57:27.42,Default,,0,0,0,,Uh, yeah?
 Dialogue: 0,0:57:28.11,0:57:32.35,Default,,0,0,0,,One of your family will die!
 Dialogue: 0,0:57:32.51,0:57:34.22,Default,,0,0,0,,Pah! Which one?
-Dialogue: 0,0:57:34.46,0:57:37.08,Default,,0,0,0,,If it's my wife, she might be faking, she does that sometimes.
+Dialogue: 0,0:57:34.46,0:57:37.08,Default,,0,0,0,,If it's my wife, she might be faking. She does that sometimes.
 Dialogue: 0,0:57:38.11,0:57:40.48,Default,,0,0,0,,It has been chosen!
 Dialogue: 0,0:57:41.24,0:57:42.13,Default,,0,0,0,,By who?
 Dialogue: 0,0:57:42.57,0:57:44.13,Default,,0,0,0,,The watchers?
@@ -149,9 +149,9 @@ Dialogue: 0,0:58:27.37,0:58:32.68,Default,,0,0,0,,I've looked in the eyes of cer
 Dialogue: 0,0:58:32.68,0:58:34.37,Default,,0,0,0,,We're always watching you
 Dialogue: 0,0:58:33.91,0:58:38.64,Default,,0,0,0,,There's an underworld, right underneath
 Dialogue: 0,0:58:38.64,0:58:41.06,Default,,0,0,0,,Boo! We're right behind you
-Dialogue: 0,0:58:41.06,0:58:45.51,Default,,0,0,0,,The world's a shitty, shitty place you see
+Dialogue: 0,0:58:41.06,0:58:45.51,Default,,0,0,0,,The world's a shitty, shitty place, you see
 Dialogue: 0,0:58:45.60,0:58:47.73,Default,,0,0,0,,Shitty shitty
-Dialogue: 0,0:58:47.86,0:58:52.55,Default,,0,0,0,,And now we'll all die appropriately
+Dialogue: 0,0:58:47.86,0:58:52.55,Default,,0,0,0,,And now we will die appropriately
 Dialogue: 0,0:58:50.86,0:58:54.22,Default,,0,0,0,,Oh your butthole
 Dialogue: 0,0:58:52.80,0:58:55.00,Default,,0,0,0,,It's a dysentery world
 Dialogue: 0,0:58:54.46,0:58:57.64,Default,,0,0,0,,You'll die of dysentery, dysentery virus
@@ -185,7 +185,7 @@ Dialogue: 0,1:00:11.84,1:00:15.60,Default,,0,0,0,,You'll die of dysentery, dysen
 Dialogue: 0,1:00:16.04,1:00:17.37,Default,,0,0,0,,Eat shit
 Dialogue: 0,1:00:24.71,1:00:25.93,Default,,0,0,0,,You fool!
 Dialogue: 0,1:00:26.57,1:00:28.33,Default,,0,0,0,,You damn fool!
-Dialogue: 0,1:00:29.11,1:00:33.22,Default,,0,0,0,,You dragged us down this god forsaken trail and you [???] and died on us!
+Dialogue: 0,1:00:29.11,1:00:33.22,Default,,0,0,0,,You dragged us down this godforsaken trail and you up and died on us!
 Dialogue: 0,1:00:35.08,1:00:36.68,Default,,0,0,0,,I'm not crying for you.
 Dialogue: 0,1:00:37.40,1:00:41.00,Default,,0,0,0,,I'm crying cause my hands hurt from digging this grave all night.
 Dialogue: 0,1:00:42.26,1:00:43.11,Default,,0,0,0,,Now, children -
@@ -211,11 +211,11 @@ Dialogue: 0,1:01:52.37,1:01:53.64,Default,,0,0,0,,[Sounds like a mummy from Jack
 Dialogue: 0,1:01:53.64,1:01:54.84,Default,,0,0,0,,He's still alive!
 Dialogue: 0,1:01:56.46,1:01:57.04,Default,,0,0,0,,Kids!
 Dialogue: 0,1:01:57.24,1:01:57.73,Default,,0,0,0,,What?
-Dialogue: 0,1:01:57.77,1:02:02.20,Default,,0,0,0,,[???]
+Dialogue: 0,1:01:57.77,1:02:02.20,Default,,0,0,0,,Come here kid [mumbling]
 Dialogue: 0,1:02:03.17,1:02:04.35,Default,,0,0,0,,Aah!
-Dialogue: 0,1:02:04.35,1:02:06.08,Default,,0,0,0,,[???]
+Dialogue: 0,1:02:04.35,1:02:06.08,Default,,0,0,0,,[mumbling continues]
 Dialogue: 0,1:02:05.86,1:02:06.86,Default,,0,0,0,,Okay!
-Dialogue: 0,1:02:07.00,1:02:08.00,Default,,0,0,0,,They watch us!
+Dialogue: 0,1:02:07.00,1:02:08.00,Default,,0,0,0,,The watchers!
 Dialogue: 0,1:02:10.00,1:02:11.51,Default,,0,0,0,,They're gonna kill one of us!
 Dialogue: 0,1:02:12.53,1:02:14.91,Default,,0,0,0,,They're gonna kill AAAALL of us!
 Dialogue: 0,1:02:15.28,1:02:15.91,Default,,0,0,0,,[Gasping]
