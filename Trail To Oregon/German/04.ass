@@ -14,10 +14,10 @@ Audio File: ../video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video File: ../video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 196
-Active Line: 213
-Video Position: 60580
+Video Zoom Percent: 1.000000
+Scroll Position: 69
+Active Line: 75
+Video Position: 60858
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +32,7 @@ Dialogue: 0,0:30:38.02,0:30:39.50,Default,,0,0,0,,Aber was willst du von mir, Li
 Dialogue: 0,0:30:39.87,0:30:41.50,Default,,0,0,0,,Ich kann nicht darüber bestimmen, wann der Wagen kaputt geht.
 Dialogue: 0,0:30:41.85,0:30:44.10,Default,,0,0,0,,Das sind nur klitzekleine Taten von Gott.
 Dialogue: 0,0:30:44.40,0:30:48.02,Default,,0,0,0,,Oh! Mein guter Freund Gott ist mal wieder schuld, ja?
-Dialogue: 0,0:30:48.87,0:30:58.77,Default,,0,0,0,,Nun, wenn Gott es weiter so versaut, werde ich Gott ermorden , und ich werde ihn in klitzekleine Stücke hacken, und ich werde ihn an meine hungernden Kinder verfüttern!
+Dialogue: 0,0:30:48.87,0:30:58.77,Default,,0,0,0,,Nun, wenn Gott es weiter so versaut, werde ich Gott ermorden, und ich werde ihn in klitzekleine Stücke hacken, und ich werde ihn an meine hungernden Kinder verfüttern!
 Dialogue: 0,0:31:00.00,0:31:02.07,Default,,0,0,0,,Denn wir hungern, nebenbei bemerkt!
 Dialogue: 0,0:31:02.07,0:31:04.45,Default,,0,0,0,,Nein. Mama! Papa!
 Dialogue: 0,0:31:04.45,0:31:05.00,Default,,0,0,0,,Was?
@@ -42,7 +42,7 @@ Dialogue: 0,0:31:06.15,0:31:07.75,Default,,0,0,0,,Zurück, du geiler Ochse!
 Dialogue: 0,0:31:07.80,0:31:13.80,Default,,0,0,0,,Oh, er ist nur hungrig wie wir alle, geh einfach, hol etwas Gras, kaue es durch und spuck es in sein - Loch.
 Dialogue: 0,0:31:14.55,0:31:16.72,Default,,0,0,0,,Oh, du dummer geiler Ochse.
 Dialogue: 0,0:31:16.90,0:31:18.47,Default,,0,0,0,,Wir haben kein Gras mehr.
-Dialogue: 0,0:31:18.65,0:31:22.95,Default,,0,0,0,,Also, das ist nicht möglich, wir haben Fort Laramie mit 50 [???] von diesem Zeug verlassen!
+Dialogue: 0,0:31:18.65,0:31:22.95,Default,,0,0,0,,Also, das ist nicht möglich, wir haben Fort Laramie mit 50 [???] Einmachgläsern von diesem Zeug verlassen!
 Dialogue: 0,0:31:22.95,0:31:28.27,Default,,0,0,0,,Ich denke nicht, dass wir diesem Ochsen irgendwas von diesem Gras zu fressen geben sollten, weil es mich wirklich krank gemacht hat, als ich es gegessen habe.
 Dialogue: 0,0:31:29.40,0:31:30.27,Default,,0,0,0,,Ups.
 Dialogue: 0,0:31:31.90,0:31:33.72,Default,,0,0,0,,Du hast all unsere Grasreserven gegessen?
@@ -61,13 +61,13 @@ Dialogue: 0,0:32:06.87,0:32:12.17,Default,,0,0,0,,Ich erlebe viele Dinge zum ers
 Dialogue: 0,0:32:12.87,0:32:14.42,Default,,0,0,0,,Und sie in meinem Mund stecken.
 Dialogue: 0,0:32:16.32,0:32:18.17,Default,,0,0,0,,Grundgütiger, was hast du sonst noch gegessen?
 Dialogue: 0,0:32:19.17,0:32:21.90,Default,,0,0,0,,Ich habe buchstäblich alles gegessen, dem ich begegnet bin.
-Dialogue: 0,0:32:23.07,0:32:31.40,Default,,0,0,0,,Wenn ich mit einem neuen Ding umgehe, werde ich es mir eine kleine Weile ansehen, ich werde die Hand danach ausstrecken, es anstubsen, sehen, ob es sich bewegt - 
+Dialogue: 0,0:32:23.07,0:32:31.40,Default,,0,0,0,,Wenn ich mit einem neuen Ding umgehe, werde ich es mir eine kleine Weile ansehen, ich werde die Hand danach ausstrecken, es anstubsen, sehen, ob es sich bewegt -
 Dialogue: 0,0:32:32.05,0:32:35.22,Default,,0,0,0,,ich nehme es hoch, Wackele damit hin und her, -
 Dialogue: 0,0:32:36.05,0:32:38.20,Default,,0,0,0,,Und dann nimmt dieses Ding den Weg in meinen Mund.
 Dialogue: 0,0:32:39.55,0:32:43.42,Default,,0,0,0,,Und wenn es nicht versucht aus meinem Mund herauszukommen, dann geht es auf ex.
 Dialogue: 0,0:32:44.85,0:32:46.75,Default,,0,0,0,,Wenn du mich fragst, ist das eine ziemlich gute Art, Dinge zu tun.
 Dialogue: 0,0:32:46.92,0:32:50.40,Default,,0,0,0,,Neulich habe ich mir einen Skorpion in den Mund gesteckt, der Kerl ist sofort rausgesprungen.
-Dialogue: 0,0:32:50.82,0:32:55.75,Default,,0,0,0,,Ich meijne - er kannte die Regeln, er spielte mit - ich respektiere ihn dafür.
+Dialogue: 0,0:32:50.82,0:32:55.75,Default,,0,0,0,,Ich meine - er kannte die Regeln, er spielte mit - ich respektiere ihn dafür.
 Dialogue: 0,0:32:57.10,0:32:58.67,Default,,0,0,0,,Vielleicht hätte dieses Gras dasselbe tun sollen.
 Dialogue: 0,0:32:59.82,0:33:05.37,Default,,0,0,0,,Oh guter Gott, nicht nur, dass dieses Gras für den Ochsen gedacht war, aber wir mußten es auch essen, während wir die Wüste durchquerten.
 Dialogue: 0,0:33:05.57,0:33:07.10,Default,,0,0,0,,Und was machen wir jetzt?
@@ -97,7 +97,7 @@ Dialogue: 0,0:34:15.92,0:34:16.77,Default,,0,0,0,,Fressmaschine!
 Dialogue: 0,0:34:16.62,0:34:17.60,Default,,0,0,0,,Drecksloch!
 Dialogue: 0,0:34:17.60,0:34:20.27,Default,,0,0,0,,[Kämpfen miteinander um die Waffe]
 Dialogue: 0,0:34:18.50,0:34:20.30,Default,,0,0,0,,Nein, nein, nein!
-Dialogue: 0,0:34:20.62,0:34:23.60,Default,,0,0,0,,Wer  am meisten töten möchte, sollte zuerst dran sein.
+Dialogue: 0,0:34:20.62,0:34:23.60,Default,,0,0,0,,Wer am meisten töten möchte, sollte zuerst dran sein.
 Dialogue: 0,0:34:24.15,0:34:26.50,Default,,0,0,0,,Ich möchte, Opa. Ich habe einen Blutrausch.
 Dialogue: 0,0:34:26.87,0:34:30.45,Default,,0,0,0,,Na dann, auf geht's. Du hast sie gehört, Drecksloch.
 Dialogue: 0,0:34:31.05,0:34:32.52,Default,,0,0,0,,Reich die Waffe [???] deiner Schwester.
