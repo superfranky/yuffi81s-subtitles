@@ -10,14 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: D:/yuffi81/Trail To Oregon/video/The Trail to Oregon!-BxKCX-UvPrI.mp4
-Video File: D:/yuffi81/Trail To Oregon/video/The Trail to Oregon!-BxKCX-UvPrI.mp4
+Audio File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
+Video File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 159
-Active Line: 176
-Video Position: 118400
+Scroll Position: 144
+Active Line: 149
+Video Position: 118469
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,7 +27,7 @@ Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,1:12:21.10,1:12:31.72,Default,,0,0,0,,[whistles 'Jingle bells']
 Dialogue: 0,1:12:31.90,1:12:33.02,Default,,0,0,0,,Whoa!
-Dialogue: 0,1:12:33.67,1:12:35.70,Default,,0,0,0,,Look at that snowstorm out there, Darla. 
+Dialogue: 0,1:12:33.67,1:12:35.70,Default,,0,0,0,,Look at that snowstorm out there, Darla.
 Dialogue: 0,1:12:36.17,1:12:38.00,Default,,0,0,0,,Guess winter came early this year.
 Dialogue: 0,1:12:38.20,1:12:40.60,Default,,0,0,0,,It's gonna be the coldest one in a long time, that's what they saying.
 Dialogue: 0,1:12:43.27,1:12:46.20,Default,,0,0,0,,Darla, you've been cleaning that same glass for two weeks now.
@@ -40,7 +40,7 @@ Dialogue: 0,1:13:01.75,1:13:05.45,Default,,0,0,0,,Whoa! Whoa, close that door no
 Dialogue: 0,1:13:07.57,1:13:09.62,Default,,0,0,0,,Well,  gang - here we are.
 Dialogue: 0,1:13:10.27,1:13:11.12,Default,,0,0,0,,Fort Bridger.
 Dialogue: 0,1:13:11.85,1:13:12.90,Default,,0,0,0,,Isn't it great, kids?
-Dialogue: 0,1:13:13.65,1:13:14.42,Default,,0,0,0,,I man: kid.
+Dialogue: 0,1:13:13.65,1:13:14.42,Default,,0,0,0,,I mean: kid.
 Dialogue: 0,1:13:17.45,1:13:19.25,Default,,0,0,0,,I told you winter was coming.
 Dialogue: 0,1:13:19.65,1:13:20.82,Default,,0,0,0,,I told you!
 Dialogue: 0,1:13:21.15,1:13:24.17,Default,,0,0,0,,But we just had to move at a steady pace, didn't we?
@@ -58,7 +58,7 @@ Dialogue: 0,1:13:52.82,1:13:54.10,Default,,0,0,0,,I'm so thirsty!
 Dialogue: 0,1:13:54.07,1:13:55.02,Default,,0,0,0,,We're dying.
 Dialogue: 0,1:13:55.02,1:13:56.75,Default,,0,0,0,,Oh, dying, huh? Yeah.
 Dialogue: 0,1:13:57.05,1:13:58.30,Default,,0,0,0,,Aren't we all? Ha!
-Dialogue: 0,1:13:59.00,1:14:01.42,Default,,0,0,0,,Dysentery is going around these [???].
+Dialogue: 0,1:13:59.00,1:14:01.42,Default,,0,0,0,,Dysentery is going around these parts.
 Dialogue: 0,1:14:05.17,1:14:06.10,Default,,0,0,0,,Better watch out.
 Dialogue: 0,1:14:07.72,1:14:09.40,Default,,0,0,0,,It could kill anyone in your family.
 Dialogue: 0,1:14:15.65,1:14:16.65,Default,,0,0,0,,Well, what can I get you?
@@ -76,8 +76,8 @@ Dialogue: 0,1:14:43.27,1:14:44.37,Default,,0,0,0,,Won't he get drunk?
 Dialogue: 0,1:14:44.55,1:14:46.15,Default,,0,0,0,,From a Mike's Hard Lemonade? No, sir!
 Dialogue: 0,1:14:48.02,1:14:48.97,Default,,0,0,0,,No, no, no.
 Dialogue: 0,1:14:50.37,1:14:51.92,Default,,0,0,0,,No, no, no, no.
-Dialogue: 0,1:14:51.92,1:14:57.35,Default,,0,0,0,,There's only enough alcohol in one of that [???] to make it taste worse than regular lemonade, but uh -
-Dialogue: 0,1:14:57.95,1:15:03.70,Default,,0,0,0,,look, I'm not trying to make fun, I - I'm just trying to get rid of this six pack I was given at a promotional event two years ago. 
+Dialogue: 0,1:14:51.92,1:14:57.35,Default,,0,0,0,,There's only enough alcohol in one of that there these to make it taste worse than regular lemonade, but uh -
+Dialogue: 0,1:14:57.95,1:15:03.70,Default,,0,0,0,,look, I'm not trying to make fun, I - I'm just trying to get rid of this six pack I was given at a promotional event two years ago.
 Dialogue: 0,1:15:04.75,1:15:05.95,Default,,0,0,0,,[???], bottoms up!
 Dialogue: 0,1:15:06.07,1:15:06.65,Default,,0,0,0,,Yeah.
 Dialogue: 0,1:15:06.87,1:15:09.45,Default,,0,0,0,,Bartender, get this away from me, I do not want it.
@@ -159,14 +159,14 @@ Dialogue: 0,1:19:31.40,1:19:33.12,Default,,0,0,0,,I do not love you more than mo
 Dialogue: 0,1:19:33.30,1:19:35.57,Default,,0,0,0,,But I certainly feared you less.
 Dialogue: 0,1:19:40.85,1:19:41.75,Default,,0,0,0,,Good bye, Crap-hole.
 Dialogue: 0,1:19:43.10,1:19:43.75,Default,,0,0,0,,Oh, and dad?
-Dialogue: 0,1:19:45.02,1:19:50.62,Default,,0,0,0,,Mom may have thrown you off the [???] wagon, but - sometimes when you throw things off the wagon, they bounce back on.
+Dialogue: 0,1:19:45.02,1:19:50.62,Default,,0,0,0,,Mom may have thrown you off the proverbial wagon, but - sometimes when you throw things off the wagon, they bounce back on.
 Dialogue: 0,1:19:52.10,1:19:53.52,Default,,0,0,0,,Maybe that'll happen to you, dad.
 Dialogue: 0,1:19:54.80,1:19:56.12,Default,,0,0,0,,Maybe that'll happen to you.
 Dialogue: 0,1:20:05.20,1:20:07.47,Default,,0,0,0,,What do you want? Coming to kick me while I'm down?
 Dialogue: 0,1:20:08.40,1:20:10.47,Default,,0,0,0,,No. My legs hurt.
 Dialogue: 0,1:20:13.80,1:20:15.57,Default,,0,0,0,,Listen, Jack Bauer.
 Dialogue: 0,1:20:16.55,1:20:18.72,Default,,0,0,0,,We've never really gotten along.
-Dialogue: 0,1:20:19.75,1:20:22.80,Default,,0,0,0,,I've been cruel to you, I called you names.
+Dialogue: 0,1:20:19.75,1:20:22.80,Default,,0,0,0,,I've been cruel to you, I've called you names.
 Dialogue: 0,1:20:23.25,1:20:27.45,Default,,0,0,0,,But - the reason I'm so hard on you is, well -
 Dialogue: 0,1:20:28.12,1:20:30.05,Default,,0,0,0,,you remind me of myself.
 Dialogue: 0,1:20:30.62,1:20:34.35,Default,,0,0,0,,A dumb, useless idiot, the whole family could do without.
