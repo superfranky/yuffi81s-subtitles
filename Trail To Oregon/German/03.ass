@@ -15,8 +15,8 @@ Video File: ../video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 59
-Active Line: 71
+Scroll Position: 60
+Active Line: 103
 Video Position: 43740
 
 [V4+ Styles]
@@ -126,8 +126,8 @@ Dialogue: 0,0:25:06.57,0:25:08.25,Default,,0,0,0,,Ich denke ich habe gehört: Sp
 Dialogue: 0,0:25:08.60,0:25:10.75,Default,,0,0,0,,Okay, steigt alle vorsichtig auf den Wagen.
 Dialogue: 0,0:25:10.82,0:25:12.35,Default,,0,0,0,,Jetzt laßt uns losziehen auf dieser offenen Strecke.
 Dialogue: 0,0:25:12.87,0:25:15.70,Default,,0,0,0,,Paß auf, Oregon, denn hier kommen: Hier bitte Nachnamen einfügen.
-Dialogue: 0,0:25:15.85,0:25:16.47,Default,,0,0,0,,[Publikum: Schwanzratten]
-Dialogue: 0,0:25:16.47,0:25:17.65,Default,,0,0,0,,Die Schwanzratten.
+Dialogue: 0,0:25:15.85,0:25:16.47,Default,,0,0,0,,[Publikum: Dikrats (Starkid rükwarts)]
+Dialogue: 0,0:25:16.47,0:25:17.65,Default,,0,0,0,,Die Dikrats.
 Dialogue: 0,0:25:23.07,0:25:24.72,Default,,0,0,0,,Yaah!!
 Dialogue: 0,0:25:27.67,0:25:28.60,Default,,0,0,0,,Was war das?
 Dialogue: 0,0:25:28.75,0:25:30.05,Default,,0,0,0,,Ich denke, irgendwas ist kaputt gegangen.
