@@ -10,14 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: D:/yuffi81/Trail To Oregon/video/The Trail to Oregon!-BxKCX-UvPrI.mp4
-Video File: D:/yuffi81/Trail To Oregon/video/The Trail to Oregon!-BxKCX-UvPrI.mp4
+Audio File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
+Video File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 109
-Active Line: 133
-Video Position: 133215
+Scroll Position: 124
+Active Line: 141
+Video Position: 130110
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -149,7 +149,7 @@ Dialogue: 0,1:29:17.82,1:29:18.93,Default,,0,0,0,,Dirty!
 Dialogue: 0,1:29:19.51,1:29:20.62,Default,,0,0,0,,More positive.
 Dialogue: 0,1:29:21.24,1:29:22.00,Default,,0,0,0,,Amazing!
 Dialogue: 0,1:29:21.82,1:29:22.93,Default,,0,0,0,,Dogs are amazing!
-Dialogue: 0,1:29:24.44,1:29:29.02,Default,,0,0,0,,And I will do anything - without zero regard for my own safety - to get this family to Oregon.
+Dialogue: 0,1:29:24.44,1:29:29.02,Default,,0,0,0,,And I will do anything - with zero regard for my own safety - to get this family to Oregon.
 Dialogue: 0,1:29:29.15,1:29:30.84,Default,,0,0,0,,I'm not asking for you to forgive me.
 Dialogue: 0,1:29:31.46,1:29:33.73,Default,,0,0,0,,I'm just asking for a chance to help get our daughter back.
 Dialogue: 0,1:29:34.62,1:29:38.57,Default,,0,0,0,,It is a good wagon. It doesn't have a floor window, does it?
@@ -159,14 +159,14 @@ Dialogue: 0,1:29:43.02,1:29:44.53,Default,,0,0,0,,Alright, scoot over!
 Dialogue: 0,1:29:44.53,1:29:44.93,Default,,0,0,0,,Yeah?
 Dialogue: 0,1:29:44.93,1:29:45.73,Default,,0,0,0,,Yes!
 Dialogue: 0,1:29:45.86,1:29:47.73,Default,,0,0,0,,Alright, Dikrats:
-Dialogue: 0,1:29:48.00,1:29:53.28,Default,,0,0,0,,We're gonna catch up to McDoon and get our daughter back! We're gonna have to go down this trail like no one's ever gone before!
+Dialogue: 0,1:29:48.00,1:29:53.28,Default,,0,0,0,,If we're gonna catch up to McDoon and get our daughter back, we're gonna have to go down this trail like no one's ever gone before!
 Dialogue: 0,1:29:53.37,1:29:58.40,Default,,0,0,0,,We are setting our rations to bare bones, and our pace to grueling! We are not stopping for nothing!
 Dialogue: 0,1:29:58.48,1:30:01.37,Default,,0,0,0,,We are gonna blaze this trail all the way to Oregon!
 Dialogue: 0,1:30:01.60,1:30:05.46,Default,,0,0,0,,We are gonna do - A speed run!
 Dialogue: 0,1:30:05.82,1:30:07.28,Default,,0,0,0,,Yeah!
 Dialogue: 0,1:30:07.28,1:30:15.15,Default,,0,0,0,,She went off like a bolt of lightning\NMad as hell and the pace was frightening\NEvery stop on the trail was left for dead
 Dialogue: 0,1:30:15.20,1:30:22.93,Default,,0,0,0,,The legend around her spread\NLike a weed in a flower bed\NHer mission was clear straight ahead
-Dialogue: 0,1:30:22.93,1:30:26.71,Default,,0,0,0,,She tempted fate to the limit\NPushing all of us hard through the night
+Dialogue: 0,1:30:22.93,1:30:26.71,Default,,0,0,0,,She tempted fate to its limit\NPushing all of us hard through the night
 Dialogue: 0,1:30:26.97,1:30:31.77,Default,,0,0,0,,If the weather so much as shifted\NShe scared it off with a knife
 Dialogue: 0,1:30:31.77,1:30:36.31,Default,,0,0,0,,She went on a run, speed run\NTo save the future
 Dialogue: 0,1:30:32.40,1:30:34.62,Default,,0,0,0,,Run, speed run
