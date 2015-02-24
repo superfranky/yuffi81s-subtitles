@@ -15,9 +15,8 @@ Video File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 185
-Active Line: 190
-Video Position: 89382
+Active Line: 1
+Video Position: 75264
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,7 +25,7 @@ Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:52:15.65,0:52:16.85,Default,,0,0,0,,Hey, how is it going over here, sweety?
-Dialogue: 0,0:52:17.05,0:52:21.15,Default,,0,0,0,,Oh! He just fell right asleep, tuckered himself on out
+Dialogue: 0,0:52:17.05,0:52:21.15,Default,,0,0,0,,Oh! He just fell right asleep, tuckered himself on out.
 Dialogue: 0,0:52:21.45,0:52:25.05,Default,,0,0,0,,This little boy of ours, he is just too goddamn small.
 Dialogue: 0,0:52:25.55,0:52:27.55,Default,,0,0,0,,You know, it's your fault if the trail kills him.
 Dialogue: 0,0:52:28.00,0:52:30.45,Default,,0,0,0,,You made weak children without really a brain in their heads.
