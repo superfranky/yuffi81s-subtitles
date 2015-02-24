@@ -15,8 +15,9 @@ Video File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 75264
+Scroll Position: 185
+Active Line: 191
+Video Position: 89378
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -210,9 +211,9 @@ Dialogue: 0,1:01:52.37,1:01:53.64,Default,,0,0,0,,[Sounds like a mummy from Jack
 Dialogue: 0,1:01:53.64,1:01:54.84,Default,,0,0,0,,He's still alive!
 Dialogue: 0,1:01:56.46,1:01:57.04,Default,,0,0,0,,Kids!
 Dialogue: 0,1:01:57.24,1:01:57.73,Default,,0,0,0,,What?
-Dialogue: 0,1:01:57.77,1:02:02.20,Default,,0,0,0,,Come here kid [mumbling]
-Dialogue: 0,1:02:03.17,1:02:04.35,Default,,0,0,0,,Aah!
-Dialogue: 0,1:02:04.35,1:02:06.08,Default,,0,0,0,,[mumbling continues]
+Dialogue: 0,1:01:57.77,1:02:03.72,Default,,0,0,0,,Come here kid. Not my child! Don't you ever die!
+Dialogue: 0,1:02:03.77,1:02:04.35,Default,,0,0,0,,What?
+Dialogue: 0,1:02:04.35,1:02:06.08,Default,,0,0,0,,Don't you ever die!
 Dialogue: 0,1:02:05.86,1:02:06.86,Default,,0,0,0,,Okay!
 Dialogue: 0,1:02:07.00,1:02:08.00,Default,,0,0,0,,The watchers!
 Dialogue: 0,1:02:10.00,1:02:11.51,Default,,0,0,0,,They're gonna kill one of us!

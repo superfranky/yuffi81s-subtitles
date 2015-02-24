@@ -15,9 +15,9 @@ Video File: ../video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 177
-Active Line: 194
-Video Position: 89573
+Scroll Position: 184
+Active Line: 186
+Video Position: 89377
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +37,7 @@ Dialogue: 0,0:52:39.22,0:52:40.15,Default,,0,0,0,,die Last ablegen.
 Dialogue: 0,0:52:43.57,0:52:44.37,Default,,0,0,0,,Oh-oh!
 Dialogue: 0,0:52:45.60,0:52:46.37,Default,,0,0,0,,Sieh dir das an.
 Dialogue: 0,0:52:47.44,0:52:50.75,Default,,0,0,0,,Sieht so aus, als wäre einer von den Knöpfen an meiner Heckklappe etwas lose.
-Dialogue: 0,0:52:52.00,0:52:53.88,Default,,0,0,0,,Er Sie könnte jederzeit aufklappen.
+Dialogue: 0,0:52:52.00,0:52:53.88,Default,,0,0,0,,Sie könnte jederzeit aufklappen.
 Dialogue: 0,0:52:55.40,0:52:58.31,Default,,0,0,0,,Was machst du? Versuchst du mich dazu zu bringen deine Hose zu nähen?
 Dialogue: 0,0:52:59.04,0:53:00.93,Default,,0,0,0,,Schaff diese Schinken Haxe hier weg.
 Dialogue: 0,0:53:00.93,0:53:05.88,Default,,0,0,0,,Nein, ich bin hier - ich versuche nicht - dich dazu zu bringen meine Hose zu nähen - es ist - weißt du es ist nur...
@@ -64,7 +64,7 @@ Dialogue: 0,0:54:03.71,0:54:05.00,Default,,0,0,0,,Scccccchhhh!
 Dialogue: 0,0:54:06.11,0:54:06.57,Default,,0,0,0,,Ich liebe dich.
 Dialogue: 0,0:54:06.57,0:54:08.02,Default,,0,0,0,,Sch - sch - ach!
 Dialogue: 0,0:54:20.80,0:54:21.64,Default,,0,0,0,,[schnarcht]
-Dialogue: 0,0:54:40.66,0:54:43.57,Default,,0,0,0,,Oh, icjh kann nicht glauben, dass du es nicht mal versuchst und um mich wirbst!
+Dialogue: 0,0:54:40.66,0:54:43.57,Default,,0,0,0,,Oh, ich kann nicht glauben, dass du es nicht mal versuchst und um mich wirbst!
 Dialogue: 0,0:54:44.17,0:54:45.42,Default,,0,0,0,,Ist schon gut, Liebling, du hattest Recht.
 Dialogue: 0,0:54:46.35,0:54:50.28,Default,,0,0,0,,Vielleicht hätten wir Liebe machen können, aber jetzt ist es dafür viel zu spät, vielen Dank!
 Dialogue: 0,0:54:50.73,0:54:52.95,Default,,0,0,0,,Du hast die ganze romantische Stimmung verdorben, die wir hatten!
@@ -174,7 +174,7 @@ Dialogue: 0,0:59:36.57,0:59:39.51,Default,,0,0,0,,Ihr werdet sterben am Ruhr, Ru
 Dialogue: 0,0:59:38.44,0:59:41.15,Default,,0,0,0,,All ihr Jungen und Mädchen, yeah
 Dialogue: 0,0:59:40.20,0:59:44.02,Default,,0,0,0,,Ihr werdet sterben am Ruhr, Ruhrvirus, Miststück
 Dialogue: 0,0:59:42.91,0:59:47.91,Default,,0,0,0,,Oh, es ist eine Welt der Ruhr
-Dialogue: 0,0:59:48.04,0:59:51.44,Default,,0,0,0,,Für All euch Jungen und Mädchen
+Dialogue: 0,0:59:48.04,0:59:51.44,Default,,0,0,0,,Für all euch Jungen und Mädchen
 Dialogue: 0,0:59:51.57,0:59:56.33,Default,,0,0,0,,Oregon ist für die Verdammten
 Dialogue: 0,0:59:54.31,0:59:58.84,Default,,0,0,0,,Ihr werdet sterben am Ruhr, Ruhrvirus, Miststück
 Dialogue: 0,0:59:57.02,1:00:02.24,Default,,0,0,0,,Miststück, wie ist es dazu gekommen?
@@ -211,9 +211,9 @@ Dialogue: 0,1:01:52.37,1:01:53.64,Default,,0,0,0,,[Geräusche wie eine Mumie von
 Dialogue: 0,1:01:53.64,1:01:54.84,Default,,0,0,0,,Er ist noch am Leben!
 Dialogue: 0,1:01:56.46,1:01:57.04,Default,,0,0,0,,Kinder!
 Dialogue: 0,1:01:57.24,1:01:57.73,Default,,0,0,0,,Was?
-Dialogue: 0,1:01:57.77,1:02:02.20,Default,,0,0,0,,Komm her, Kind [Brabbelt]
-Dialogue: 0,1:02:03.17,1:02:04.35,Default,,0,0,0,,Aah!
-Dialogue: 0,1:02:04.35,1:02:06.08,Default,,0,0,0,,[Brabbeln geht weiter]
+Dialogue: 0,1:01:57.77,1:02:03.74,Default,,0,0,0,,Komm her, Kind. Nicht mein Kind! Wehe du stirbst jemals!
+Dialogue: 0,1:02:03.80,1:02:04.29,Default,,0,0,0,,Was?
+Dialogue: 0,1:02:04.35,1:02:06.08,Default,,0,0,0,,Wehe du stirbst jemals!
 Dialogue: 0,1:02:05.86,1:02:06.86,Default,,0,0,0,,Okay!
 Dialogue: 0,1:02:07.00,1:02:08.00,Default,,0,0,0,,Die Zuschauer!
 Dialogue: 0,1:02:10.00,1:02:11.51,Default,,0,0,0,,Sie werden uns töten!
