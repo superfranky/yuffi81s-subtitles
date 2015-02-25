@@ -14,10 +14,10 @@ Audio File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 60
-Active Line: 103
-Video Position: 43892
+Video Zoom Percent: 0.500000
+Scroll Position: 144
+Active Line: 156
+Video Position: 40912
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +32,7 @@ Dialogue: 0,0:20:47.20,0:20:49.87,Default,,0,0,0,,What is the matter with you, g
 Dialogue: 0,0:20:50.07,0:20:53.37,Default,,0,0,0,,Were you just encouraging that wild man's advances?
 Dialogue: 0,0:20:53.57,0:20:56.60,Default,,0,0,0,,Yes, I was, until you came along and interrupted!
 Dialogue: 0,0:20:57.42,0:20:59.47,Default,,0,0,0,,Why can't you be more like your brother?
-Dialogue: 0,0:20:59.77,0:21:03.87,Default,,0,0,0,,Alright, nosy, small and weak for his age, but at least he's got some sense in his brain.
+Dialogue: 0,0:20:59.77,0:21:03.87,Default,,0,0,0,,Lord knows, he's small and weak for his age, but at least he's got some sense in his brain.
 Dialogue: 0,0:21:04.07,0:21:04.92,Default,,0,0,0,,Thank you, mom.
 Dialogue: 0,0:21:04.92,0:21:05.37,Default,,0,0,0,,You -
 Dialogue: 0,0:21:07.85,0:21:09.17,Default,,0,0,0,,What is in your mouth?
@@ -61,7 +61,7 @@ Dialogue: 0,0:22:09.22,0:22:10.25,Default,,0,0,0,,Farmers?
 Dialogue: 0,0:22:10.52,0:22:12.00,Default,,0,0,0,,I rest my case!
 Dialogue: 0,0:22:13.27,0:22:14.80,Default,,0,0,0,,Farmers are the devil!
 Dialogue: 0,0:22:14.97,0:22:19.72,Default,,0,0,0,,And what did do you and gave that idiot all the money and left him alone in the general store?
-Dialogue: 0,0:22:19.72,0:22:22.45,Default,,0,0,0,,You did know he's easily taken in by sales men.
+Dialogue: 0,0:22:19.72,0:22:22.45,Default,,0,0,0,,You know he's easily taken in by sales men.
 Dialogue: 0,0:22:22.45,0:22:30.80,Default,,0,0,0,,Now listen, dad, Jack Bauer has promised me, that he won't do anything else to endanger this family and - in spite of everything - I believe him.
 Dialogue: 0,0:22:30.97,0:22:32.42,Default,,0,0,0,,Toot toot, gang!
 Dialogue: 0,0:22:33.92,0:22:36.42,Default,,0,0,0,,The family fun train is pulling into the station.
@@ -99,7 +99,7 @@ Dialogue: 0,0:23:50.87,0:23:54.72,Default,,0,0,0,,We do have a young daughter to
 Dialogue: 0,0:23:54.57,0:23:55.65,Default,,0,0,0,,Ugh! Dad!
 Dialogue: 0,0:23:55.27,0:23:56.42,Default,,0,0,0,,Please kill me!
 Dialogue: 0,0:23:58.72,0:24:01.82,Default,,0,0,0,,You got us a blind ox?
-Dialogue: 0,0:24:01.82,0:24:03.32,Default,,0,0,0,,Think of him like a seeing eye dog, honey.
+Dialogue: 0,0:24:01.82,0:24:03.32,Default,,0,0,0,,Think of him like a seeing-eye dog, honey.
 Dialogue: 0,0:24:03.65,0:24:07.55,Default,,0,0,0,,You never heard the saying the blind leading the blind? That's what this trip is all about: Remembering old sayings.
 Dialogue: 0,0:24:08.52,0:24:10.67,Default,,0,0,0,,Oh, ugh, he's slimy!
 Dialogue: 0,0:24:10.45,0:24:12.80,Default,,0,0,0,,Is this skin supposed to peel off like this?
@@ -125,8 +125,8 @@ Dialogue: 0,0:25:01.87,0:25:04.57,Default,,0,0,0,,[Talking across each other]\NO
 Dialogue: 0,0:25:06.57,0:25:08.25,Default,,0,0,0,,I thought I heard: Having fun.
 Dialogue: 0,0:25:08.60,0:25:10.75,Default,,0,0,0,,Alright, everybody carefully hop on the wagon.
 Dialogue: 0,0:25:10.82,0:25:12.35,Default,,0,0,0,,Now let's hit that open road.
-Dialogue: 0,0:25:12.87,0:25:15.70,Default,,0,0,0,,Look out, Oregon, cause here come: now looking for a last name.
-Dialogue: 0,0:25:15.85,0:25:16.47,Default,,0,0,0,,[audience: Dikrats - which is Starkid backwards] 
+Dialogue: 0,0:25:12.87,0:25:15.70,Default,,0,0,0,,Look out, Oregon, cause here come the: looking for a last name.
+Dialogue: 0,0:25:15.85,0:25:16.47,Default,,0,0,0,,[audience: Dikrats - which is Starkid backwards]
 Dialogue: 0,0:25:16.47,0:25:17.65,Default,,0,0,0,,The Dikrats.
 Dialogue: 0,0:25:23.07,0:25:24.72,Default,,0,0,0,,Yaah!!
 Dialogue: 0,0:25:27.67,0:25:28.60,Default,,0,0,0,,What was that?
@@ -158,30 +158,29 @@ Dialogue: 0,0:26:51.60,0:26:54.40,Default,,0,0,0,,And we'll find our way back ho
 Dialogue: 0,0:26:55.52,0:27:00.25,Default,,0,0,0,,Free your mind\NPush your worries down the line
 Dialogue: 0,0:27:00.25,0:27:03.07,Default,,0,0,0,,And we'll ease on down the road
 Dialogue: 0,0:27:03.07,0:27:04.20,Default,,0,0,0,,Yes, sir!
-Dialogue: 0,0:27:05.30,0:27:07.87,Default,,0,0,0,,Stop and look around to the Chimney Rock
-Dialogue: 0,0:27:09.35,0:27:12.62,Default,,0,0,0,,Yeah, that totally looks like a giant cock
+Dialogue: 0,0:27:05.30,0:27:07.87,Default,,0,0,0,,Stop and look around do the Chimney Rock
+Dialogue: 0,0:27:09.35,0:27:12.62,Default,,0,0,0,,Dad that totally looks like a giant co-
 Dialogue: 0,0:27:11.57,0:27:13.55,Default,,0,0,0,,Cock-a-doo-del-do!
 Dialogue: 0,0:27:13.72,0:27:17.82,Default,,0,0,0,,I wish there's something that could catch this moment\NSomething that fits right into your pocket
-Dialogue: 0,0:27:17.97,0:27:20.80,Default,,0,0,0,,We got time to kick the idea around
+Dialogue: 0,0:27:17.97,0:27:20.80,Default,,0,0,0,,But we got time to kick the idea around
 Dialogue: 0,0:27:20.80,0:27:22.00,Default,,0,0,0,,Oh boy!
 Dialogue: 0,0:27:22.00,0:27:24.00,Default,,0,0,0,,It's the grind
 Dialogue: 0,0:27:24.00,0:27:26.67,Default,,0,0,0,,Every bump by design
 Dialogue: 0,0:27:26.67,0:27:29.45,Default,,0,0,0,,To grow some hair on your chest
 Dialogue: 0,0:27:30.45,0:27:35.15,Default,,0,0,0,,Fall in line\NLet your dad read the signs
-Dialogue: 0,0:27:35.32,0:27:40.20,Default,,0,0,0,,Who's your daddy to get company of the Wild Wild West
-Dialogue: 0,0:27:35.32,0:27:40.20,Default,,0,0,0,,Who's your daddy to get company of the Wild Wild West?
+Dialogue: 0,0:27:35.32,0:27:40.20,Default,,0,0,0,,Who's your daddy\Nto get company\Nof the Wild Wild West?
 Dialogue: 0,0:27:44.60,0:27:48.82,Default,,0,0,0,,I'm trying\NTo enjoy the trip
 Dialogue: 0,0:27:49.07,0:27:53.55,Default,,0,0,0,,I'm babysitting\NBut not my kids
 Dialogue: 0,0:27:53.67,0:27:58.22,Default,,0,0,0,,Sometimes I wonder what the hell\NGoes on in his head
-Dialogue: 0,0:27:58.42,0:28:03.05,Default,,0,0,0,,Would he notice, if anyone\NOf us round up dead?
-Dialogue: 0,0:28:03.05,0:28:08.12,Default,,0,0,0,,Who'm I kidding? Lord knows\NHe'd kill himself instead
+Dialogue: 0,0:27:58.42,0:28:03.05,Default,,0,0,0,,Would he notice, if anyone\NOf us wound up dead?
+Dialogue: 0,0:28:03.05,0:28:08.12,Default,,0,0,0,,Whom I kidding? Lord knows\NHe'd kill himself instead
 Dialogue: 0,0:28:08.40,0:28:12.00,Default,,0,0,0,,Can't say I'd tell a difference in bed
 Dialogue: 0,0:28:12.20,0:28:14.70,Default,,0,0,0,,My beautiful family
 Dialogue: 0,0:28:13.60,0:28:16.02,Default,,0,0,0,,Dad, I wanna keep this as a pet
 Dialogue: 0,0:28:15.65,0:28:16.57,Default,,0,0,0,,Throw it back
-Dialogue: 0,0:28:16.27,0:28:17.90,Default,,0,0,0,,Do that, and you will regret it!
-Dialogue: 0,0:28:17.90,0:28:20.65,Default,,0,0,0,,Need a few souvenirs to proove we've passed the test
-Dialogue: 0,0:28:21.95,0:28:26.10,Default,,0,0,0,,If you're motion sick then get off the pot\NAnd give the sole of your feet a shot
+Dialogue: 0,0:28:16.27,0:28:17.90,Default,,0,0,0,,Do that, and you will regret it
+Dialogue: 0,0:28:17.90,0:28:20.65,Default,,0,0,0,,We need a few souvenirs to prove we've passed the test
+Dialogue: 0,0:28:21.95,0:28:26.10,Default,,0,0,0,,If you're motion sick then get off the pot\NAnd give the soles of your feet a shot
 Dialogue: 0,0:28:26.37,0:28:29.25,Default,,0,0,0,,Nothing quite cures your heels like a song and dance
 Dialogue: 0,0:28:29.32,0:28:31.47,Default,,0,0,0,,It's the grind
 Dialogue: 0,0:28:32.97,0:28:34.10,Default,,0,0,0,,Family dance break.
