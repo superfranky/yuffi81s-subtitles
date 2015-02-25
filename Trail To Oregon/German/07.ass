@@ -10,14 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
-Video File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
+Audio File: ../video/The Trail to Oregon!-BxKCX-UvPrI.mp4
+Video File: ../video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 64
-Active Line: 65
-Video Position: 104120
+Scroll Position: 111
+Active Line: 116
+Video Position: 104008
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Dialogue: 0,1:02:45.48,1:02:46.12,Default,,0,0,0,,Gut.
 Dialogue: 0,1:02:46.90,1:02:50.46,Default,,0,0,0,,Jetzt - müssen wir aber weiter, wir haben keine Zeit.
 Dialogue: 0,1:02:54.20,1:02:56.72,Default,,0,0,0,,Papa - bist du sicher, dass alles mit dir in Ordnung ist?
 Dialogue: 0,1:02:56.90,1:02:57.92,Default,,0,0,0,,Sicher bin ich das, Liebling.
-Dialogue: 0,1:02:58.52,1:03:00.70,Default,,0,0,0,,Habe nur Ausschau gehalten nach etwas mehr [???].
+Dialogue: 0,1:02:58.52,1:03:00.70,Default,,0,0,0,,Habe nur Ausschau gehalten nach etwas mehr Schlangenzeug.
 Dialogue: 0,1:03:01.20,1:03:01.94,Default,,0,0,0,,Was?
 Dialogue: 0,1:03:02.34,1:03:04.82,Default,,0,0,0,,Bist du jetzt süchtig nach Schlangengift, Papa?
 Dialogue: 0,1:03:05.10,1:03:06.50,Default,,0,0,0,,Natürlich bin ich das, Liebling!
@@ -60,7 +60,7 @@ Dialogue: 0,1:03:47.52,1:03:48.98,Default,,0,0,0,,Au! Mama!
 Dialogue: 0,1:03:49.92,1:03:51.52,Default,,0,0,0,,Au! Mama!
 Dialogue: 0,1:03:51.58,1:03:52.46,Default,,0,0,0,,Opa!
 Dialogue: 0,1:03:51.94,1:03:52.94,Default,,0,0,0,,Drei!
-Dialogue: 0,1:03:53.02,1:03:54.42,Default,,0,0,0,,BöserJack Bauer!
+Dialogue: 0,1:03:53.02,1:03:54.42,Default,,0,0,0,,Böser Jack Bauer!
 Dialogue: 0,1:03:54.50,1:03:56.60,Default,,0,0,0,,Vier! Wow! Sie hat sie alle erwischt!
 Dialogue: 0,1:03:56.90,1:03:59.62,Default,,0,0,0,,Das sind ziemlich gute Erziehungsmethoden!
 Dialogue: 0,1:04:01.06,1:04:02.60,Default,,0,0,0,,Na, sieh mal einer an.
@@ -140,7 +140,7 @@ Dialogue: 0,1:07:55.98,1:08:01.68,Default,,0,0,0,,Oregon -
 Dialogue: 0,1:08:01.68,1:08:09.90,Default,,0,0,0,,Wir sind weg
 Dialogue: 0,1:08:06.54,1:08:09.72,Default,,0,0,0,,Wenn du Schlamm auf deinen Schwanz Kriiiiiiiegst
 Dialogue: 0,1:08:19.42,1:08:23.04,Default,,0,0,0,,Okay, Kindfrau, du bleibst einfach hier hinten auf dem Wagen.
-Dialogue: 0,1:08:23.04,1:08:29.14,Default,,0,0,0,,Ich werde vorne sein und fahren und in der kurzen kurzen Spanne von einigen Monaten wird der Zug nach Oregon eifach hinter uns liegen.
+Dialogue: 0,1:08:23.04,1:08:29.14,Default,,0,0,0,,Ich werde vorne sein und fahren und in der kurzen kurzen Spanne von einigen Monaten wird der Zug nach Oregon einfach hinter uns liegen.
 Dialogue: 0,1:08:30.04,1:08:30.62,Default,,0,0,0,,Nein!
 Dialogue: 0,1:08:30.52,1:08:31.96,Default,,0,0,0,,Okay, wir werden dahin kommen, wir werden dahin kommen.
 Dialogue: 0,1:08:36.74,1:08:42.12,Default,,0,0,0,,Hinten reingeworfen wie ein Jutesack\NUnd Gott, tut mir der Arsch weh
