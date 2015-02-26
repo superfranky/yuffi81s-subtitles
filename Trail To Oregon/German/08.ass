@@ -10,14 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
-Video File: video/The Trail to Oregon!-BxKCX-UvPrI.mp4
+Audio File: ../video/The Trail to Oregon!-BxKCX-UvPrI.mp4
+Video File: ../video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 159
-Active Line: 176
-Video Position: 118400
+Video Zoom Percent: 0.875000
+Scroll Position: 156
+Active Line: 166
+Video Position: 118458
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -135,7 +135,7 @@ Dialogue: 0,1:17:43.57,1:17:44.95,Default,,0,0,0,,Du kannst einen Hund nicht ein
 Dialogue: 0,1:17:46.15,1:17:50.17,Default,,0,0,0,,Wenn du einen Hund kriegst - leistest du diesem Hund einen Schwur ihn zu lieben.
 Dialogue: 0,1:17:51.97,1:17:53.90,Default,,0,0,0,,Und nur diesen Hund für immer und ewig.
 Dialogue: 0,1:17:57.07,1:18:03.87,Default,,0,0,0,,Ich werde nehmen - was mir von meiner Familie geblieben ist - und wir werden unseren eigenen Weg nach Oregon finden. Und du -
-Dialogue: 0,1:18:05.27,1:18:07.70,Default,,0,0,0,,du genießt eifach den Rest deines Urlaubs.
+Dialogue: 0,1:18:05.27,1:18:07.70,Default,,0,0,0,,du genießt einfach den Rest deines Urlaubs.
 Dialogue: 0,1:18:10.87,1:18:12.25,Default,,0,0,0,,Komm mit, Drecksloch.
 Dialogue: 0,1:18:17.75,1:18:19.95,Default,,0,0,0,,Und das ist nichts Persönliches, Jack Bauer.
 Dialogue: 0,1:18:21.95,1:18:23.32,Default,,0,0,0,,Das ist Überleben.
@@ -167,7 +167,7 @@ Dialogue: 0,1:20:08.40,1:20:10.47,Default,,0,0,0,,Nein. Meine Beine tun weh.
 Dialogue: 0,1:20:13.80,1:20:15.57,Default,,0,0,0,,Hör zu, Jack Bauer.
 Dialogue: 0,1:20:16.55,1:20:18.72,Default,,0,0,0,,Wir sind nie richtig gut miteinander ausgekommen.
 Dialogue: 0,1:20:19.75,1:20:22.80,Default,,0,0,0,,Ich bin grausam zu dir gewesen, ich habe dich beschimpft.
-Dialogue: 0,1:20:23.25,1:20:27.45,Default,,0,0,0,,Aber - der Grund, warum ich so hart zu dikr bin ist, nun -
+Dialogue: 0,1:20:23.25,1:20:27.45,Default,,0,0,0,,Aber - der Grund, warum ich so hart zu dir bin ist, nun -
 Dialogue: 0,1:20:28.12,1:20:30.05,Default,,0,0,0,,du erinnerst mich an mich selbst
 Dialogue: 0,1:20:30.62,1:20:34.35,Default,,0,0,0,,Ein blöder, nutzloser Idiot, auf den die ganze Familie gut verzichten könnte.
 Dialogue: 0,1:20:36.00,1:20:36.97,Default,,0,0,0,,Worauf willst du hinaus, Papa?
@@ -191,7 +191,7 @@ Dialogue: 0,1:21:36.87,1:21:38.05,Default,,0,0,0,,Brüder sogar!
 Dialogue: 0,1:21:38.30,1:21:40.25,Default,,0,0,0,,Eleanor war in uns beide verliebt.
 Dialogue: 0,1:21:40.52,1:21:43.35,Default,,0,0,0,,Und um unsere berühmte Fehde zu beenden, habe ich sie mit ihm gehen lassen.
 Dialogue: 0,1:21:43.97,1:21:47.30,Default,,0,0,0,,Er nahm meine Frau UND meine Million Dollar.
-Dialogue: 0,1:21:47.82,1:21:49.75,Default,,0,0,0,,Er  war mehr Mann, als ich jemals sein werde.
+Dialogue: 0,1:21:47.82,1:21:49.75,Default,,0,0,0,,Er war mehr Mann, als ich jemals sein werde.
 Dialogue: 0,1:21:50.65,1:21:52.35,Default,,0,0,0,,Und er war ein Hummer!
 Dialogue: 0,1:21:54.35,1:21:57.77,Default,,0,0,0,,Opa, du weißt - einfach fast nie, was vor sich geht, oder?
 Dialogue: 0,1:21:58.27,1:22:02.42,Default,,0,0,0,,Sieh mal, äh - was ich dir zu sagen versuche ist: Du kannst deine Frau nicht einfach gehen lassen!
