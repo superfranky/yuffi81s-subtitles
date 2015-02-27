@@ -14,10 +14,10 @@ Audio File: ../video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video File: ../video/The Trail to Oregon!-BxKCX-UvPrI.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 101
-Active Line: 102
-Video Position: 127620
+Video Zoom Percent: 1.125000
+Scroll Position: 138
+Active Line: 142
+Video Position: 133330
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -121,7 +121,7 @@ Dialogue: 0,1:28:00.88,1:28:01.60,Default,,0,0,0,,Lauf!
 Dialogue: 0,1:28:01.60,1:28:02.75,Default,,0,0,0,,Warte, gut, okay.
 Dialogue: 0,1:28:03.11,1:28:03.77,Default,,0,0,0,,Lauf!
 Dialogue: 0,1:28:03.77,1:28:05.37,Default,,0,0,0,,Okay. Ich gehe.
-Dialogue: 0,1:28:05.46,1:28:06.97,Default,,0,0,0,,Oh, ichn weiß, du kannst dich schneller bewegen als so!
+Dialogue: 0,1:28:05.46,1:28:06.97,Default,,0,0,0,,Oh, ich weiß, du kannst dich schneller bewegen als so!
 Dialogue: 0,1:28:06.97,1:28:10.17,Default,,0,0,0,,Okay, ich versuche es. Ich bin stolz auf dich, Sohn.
 Dialogue: 0,1:28:11.77,1:28:12.97,Default,,0,0,0,,Aber erschieß mich nicht.
 Dialogue: 0,1:28:25.86,1:28:30.22,Default,,0,0,0,,Wenn meine Welt auf dem Spiel steht
@@ -167,7 +167,7 @@ Dialogue: 0,1:30:05.82,1:30:07.28,Default,,0,0,0,,Ja!
 Dialogue: 0,1:30:07.28,1:30:15.15,Default,,0,0,0,,Sie ging ab wie ein Blitz\NVerrückt wie die Hölle und die Geschwindigkeit war erschreckend\NJeder Halt auf der Strecke wurde unbeachtet zurückgelassen
 Dialogue: 0,1:30:15.20,1:30:22.93,Default,,0,0,0,,Die Legende über sie verbreitete sich\NWie Unkraut im Blumenbeet\NIhre Mission war klar direkt voraus
 Dialogue: 0,1:30:22.93,1:30:26.71,Default,,0,0,0,,Sie wagte das Schicksal bis an seine Grenze\NTrieb uns alle hart durch die Nacht
-Dialogue: 0,1:30:26.97,1:30:31.77,Default,,0,0,0,,Wenn das Wetter sich auch nur leicht änderte\NSchreckte sie  es mit einem Messer ab
+Dialogue: 0,1:30:26.97,1:30:31.77,Default,,0,0,0,,Wenn das Wetter sich auch nur leicht änderte\NSchreckte sie es mit einem Messer ab
 Dialogue: 0,1:30:31.77,1:30:36.31,Default,,0,0,0,,Sie machte einen Run, Speedrun\NUm die Zukunft zu retten
 Dialogue: 0,1:30:32.40,1:30:34.62,Default,,0,0,0,,Run, Speedrun
 Dialogue: 0,1:30:36.75,1:30:41.55,Default,,0,0,0,,Die Frau, die ich liebe, hatte Feuer in ihren Augen
